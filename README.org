@@ -565,12 +565,12 @@ encontrando.
     escapa el presente.
 
 + [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]] ::
-  El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
-  cumplimiento de nuestros deseos y cumplirlos plenamente. 
+  + El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
+    cumplimiento de nuestros deseos y cumplirlos plenamente. 
 
 + [[https://es.wikipedia.org/wiki/H._L._Mencken][H.L. Mencken]] ::
-  + Hay una solución fácil para todo problema humano: clara, plausible y
-    equivocada.
+  + Para cada problema complejo y difícil, siempre hay una respuesta simple,
+  fácil y equivocada.  
 
 + [[https://en.wikipedia.org/wiki/Haim_Ginott][Haim Ginott]] ::
   + Los niños son como cemento fresco, cualquier cosa que caiga sobre ellos
@@ -618,129 +618,97 @@ encontrando.
   + Nuestra vida siempre se malgasta en los detalles ... simplifiquemos,
     simplifiquemos.
 
-+ Henry Ford ::
-  La mayoría de las personas gastan más tiempo y energías en hablar de los
-  problemas que en afrontarlos. 
++ [[https://es.wikipedia.org/wiki/Henry_Ford][Henry Ford]] ::
+  + La mayoría de las personas gastan más tiempo y energías en hablar de los
+    problemas que en afrontarlos. 
+  + Pensar es el trabajo más difícil que existe. Quizá sea ésta la razón por la
+    que haya tan pocas personas que lo practiquen.
 
-+ Henry Ford ::
-  Pensar es el trabajo más difícil que existe. Quizá sea ésta la razón por la
-  que haya tan pocas personas que lo practiquen.
-
-+ Henry Louis Mencken ::
-  Para cada problema complejo y difícil, siempre hay una respuesta simple,
-  fácil y equivocada.  
-
-+ Henry Miller ::
-  Hay que darle un sentido a la vida, por el hecho mismo de que carece de
-  sentido.  
-
-+ Henry Miller ::
-  Llama experiencias a tus dificultades y recuerda que cada una de ellas te
-  ayuda a madurar.  
++ [[https://es.wikipedia.org/wiki/Henry_Miller][Henry Miller]] ::
+  + Hay que darle un sentido a la vida, por el hecho mismo de que carece de
+    sentido.  
+  + Llama experiencias a tus dificultades y recuerda que cada una de ellas te
+    ayuda a madurar.  
 
 + [[https://es.wikipedia.org/wiki/Herbert_Alexander_Simon][Herbert A. Simon]] ::
   + En el mundo de los computadores, el momento de la verdad es el de ejecutar
     el programa; los demás es profecía.
 
-+ Herbert Von Karajan ::
-  El arte de dirigir consiste en saber cuando hay que abandonar la batuta para
-  no molestar a la orquesta.  
++ [[https://es.wikipedia.org/wiki/Herbert_von_Karajan][Herbert von Karajan]] ::
+  + El arte de dirigir consiste en saber cuando hay que abandonar la batuta para
+    no molestar a la orquesta.  
+  + Esta también es la razón por la que admiro tanto a los artesanos, personas
+    que hacen su trabajo con un gran conocimiento y habilidad. Conocí a un
+    carpintero fabuloso especializado en madera vieja que trabajaba en mi casa
+    de Saint Moritz. El modo en que tocaba y acariciaba cada pieza denotaba que
+    era un hombre extraordinario. Amaba profundamente lo que hacía. Amar lo que
+    uno hace es requisito necesario para ser artista.
 
-+ Herbert von Karajan: ::
-  Esta también es la razón por la que admiro tanto a los artesanos, personas
-  que hacen su trabajo con un gran conocimiento y habilidad. Conocí a un
-  carpintero fabuloso especializado en madera vieja que trabajaba en mi casa de
-  Saint Moritz. El modo en que tocaba y acariciaba cada pieza denotaba que era
-  un hombre extraordinario. Amaba profundamente lo que hacía. Amar lo que uno
-  hace es requisito necesario para ser artista.
++ [[https://es.wikipedia.org/wiki/Hermann_Hesse][Hermann Hesse]] ::
+  + Hacer versos malos depara mucha más felicidad que leer los más bellos.
 
-+ Hermann Hesse ::
-  Hacer versos malos depara mucha más felicidad que leer los más bellos.
++ [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Heródoto]] ::
+  + Es más fácil embaucar a muchos juntos que a uno solo.
 
-+ Herodoto ::
-  Es más fácil embaucar a muchos juntos que a uno solo.
++ [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso]] ::
+  + Todo cambia, nada es.
 
-+ Heráclito de Éfeso ::
-  Todo cambia, nada es.
++ [[https://es.wikipedia.org/wiki/Hes%C3%ADodo][Hesíodo]] ::
+  + Si añades un poco a lo poco y lo haces así con frecuencia, pronto llegará a
+    ser mucho. 
 
-+ Hesíodo ::
-  Si añades un poco a lo poco y lo haces así con frecuencia, pronto llegará a
-  ser mucho. 
-
-+ Hipatia de Alejandría ::
-  Defiende tu derecho a pensar, incluso pensar de manera errónea es mejor que
-  no pensar. 
++ [[https://es.wikipedia.org/wiki/Hipatia][Hipatia]] ::
+  + Defiende tu derecho a pensar, incluso pensar de manera errónea es mejor que
+    no pensar. 
   
-+ Hipócrates de Cos ::
-  Hay, de hecho, dos cosas, ciencia y opinión; la primera engendra
-  conocimiento, la segunda ignorancia.  
++ [[https://es.wikipedia.org/wiki/Hip%C3%B3crates][Hipócrates]] ::
+  + Hay, de hecho, dos cosas, ciencia y opinión; la primera engendra
+    conocimiento, la segunda ignorancia.  
 
-+ Honoré de Balzac ::
-  Aunque nada cambie, si yo cambio, todo cambia.
++ [[https://es.wikipedia.org/wiki/Honor%C3%A9_de_Balzac][Honoré de Balzac]] ::
+  + Aunque nada cambie, si yo cambio, todo cambia.
 
-+ Horacio ::
-  A la gente triste le disgusta la feliz, tanto como la feliz aborrece la
-  triste; los que son rápidos de pensamiento se ponen nerviosos con los
-  calmados, así como los desocupados no pueden soportar a los que siempre están
-  ocupados. 
++ [[https://es.wikipedia.org/wiki/Horacio][Horacio]] ::
+  + A la gente triste le disgusta la feliz, tanto como la feliz aborrece la
+    triste; los que son rápidos de pensamiento se ponen nerviosos con los
+    calmados, así como los desocupados no pueden soportar a los que siempre
+    están ocupados.
+  + Apodérate del día; no confíes en el mañana.
+  + Borra muchas veces, si quieres escribir cosas que sean dignas de ser
+    leídas.
 
-+ Horacio ::
-  Apodérate del día; no confíes en el mañana.
++ [[https://es.wikipedia.org/wiki/Isaac_Asimov][Isaac Asimov]] ::
+  + Las normas establecidas con razón y con justicia, pueden dejar de ser
+    útiles al cambiar las circunstancias, pero al permitir que continuen
+    vigentes por la fuerza de la inercia, entonces, no sólo es justo, sino
+    también útil, quebrantar aquellas que nos anuncian el hecho de que son
+    inútiles, o incluso realmente perjudiciales.
 
-+ Horacio ::
-  Borra muchas veces, si quieres escribir cosas que sean dignas de ser leídas.
++ [[https://es.wikipedia.org/wiki/Isaac_Newton][Isaac Newton]] ::
+  + Los hombres construimos demasiados muros y no suficientes puentes.
+  + La verdad siempre se halla en la simplicidad y no en la multiplicidad y
+    confusión de las cosas. 
 
-+ Isaac Asimov ::
-  Las normas establecidas con razón y con justicia, pueden dejar de ser útiles
-  al cambiar las circunstancias, pero al permitir que continuen vigentes por la
-  fuerza de la inercia, entonces, no sólo es justo, sino también útil,
-  quebrantar aquellas que nos anuncian el hecho de que son inútiles, o incluso
-  realmente perjudiciales. 
++ [[https://es.wikipedia.org/wiki/Jacinto_Benavente][Jacinto Benavente]] ::
+  + La vida es como un viaje por la mar: hay días de calma y días de borrasca;
+    lo importante es ser un buen capitán de nuestro barco.
 
-+ Isaac Newton ::
-  Los hombres construimos demasiados muros y no suficientes puentes.
++ [[https://es.wikipedia.org/wiki/Jaime_Balmes][Jaime Balmes]] ::
+  + La lectura es como el alimento; el provecho no está en proporción de lo que
+    se come, sino de los que se digiere.
 
-+ Isaac Newton ::
-  Truth is ever to be found in the simplicity, and not in the multiplicity and
-  confusion of things.
++ [[https://es.wikipedia.org/wiki/Jean_Cocteau][Jean Cocteau]] ::
+  + No se debe confundir la verdad con la opinión de la mayoría.
+  + Un egoísta es aquel que se empeña en hablarte de sí mismo cuando tú te
+    estas muriendo de ganas de hablarle de tí.
 
-+ Jacinto Benavente ::
-  La vida es como un viaje por la mar: hay días de calma y días de borrasca; lo
-  importante es ser un buen capitán de nuestro barco. 
++ [[https://es.wikipedia.org/wiki/Jean-Paul_Sartre][Jean-Paul Sartre]] ::
+  + Aquello que cada uno de nosotros es, en cada momento de su vida, es la suma
+    de sus elecciones previas.
+  + Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.  
 
-+ Jack Nicklaus ::
-  La concentración es un excelente antídoto para la ansiedad.
-
-+ Jaime Balmes ::
-  La lectura es como el alimento; el provecho no está en proporción de lo que
-  se come, sino de los que se digiere. 
-
-+ James Mullen ::
-  La libertad, al fin y al cabo, no es sino la capacidad de vivir con las
-  consecuencias de las propias decisiones.
-
-+ Jane Austen, La abadía de Northanger (1817) ::
-  Catherine se avergonzó sin razón de su ignorancia, pues no hay nada como ésta
-  para que las personas se atraigan mutuamente. El estar bien informado nos
-  impide alimentar la vanidad de los demás, lo cual el buen sentido aconseja
-  evitar. 
-
-+ Jean Cocteau ::
-  No se debe confundir la verdad con la opinión de la mayoría.
-
-+ Jean Cocteau ::
-  Un egoísta es aquel que se empeña en hablarte de sí mismo cuando tú te estas
-  muriendo de ganas de hablarle de tí. 
-
-+ Jean Paul Sartre ::
-  Aquello que cada uno de nosotros es, en cada momento de su vida, es la suma
-  de sus elecciones previas.         
-
-+ Jean Paul Sartre ::
-  Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.  
-
-+ Jean Piaget ::
-  Inteligencia es lo que usas cuando no sabes qué hacer.
++ [[https://es.wikipedia.org/wiki/Jean_Piaget][Jean Piaget]] ::
+  + Inteligencia es lo que usas cuando no sabes qué hacer.
 
 + Jean de la Fontaine ::
   A menudo encontramos nuestro destino por los caminos que tomamos para
