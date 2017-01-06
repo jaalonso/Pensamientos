@@ -287,6 +287,10 @@ encontrando.
   + La educación consiste en enseñar a los hombres, no lo que deben pensar,
     sino a pensar.
 
++ [[https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]] ::
+  + No es el conocimiento, sino el acto de aprendizaje, y no la posesión, sino
+    el acto de llegar allí, que concede el mayor disfrute.
+
 + [[https://es.wikipedia.org/wiki/Carl_Gustav_Jung][Carl Gustav Jung]] ::
   + Todo lo que nos irrita de los demás, nos puede ayudar a entendernos mejor a
     nosotros mismos.
@@ -367,418 +371,252 @@ encontrando.
   + Callando es como se prende a oír; oyendo es como se aprende a hablar; y
     luego, hablando se aprende a callar. 
 
-+ Eclesiastés 11, 20 ::
-  Mantente en tu quehacer y conságrate a él, en tu tarea envejece.
++ [[https://es.wikipedia.org/wiki/Libro_del_Eclesiast%C3%A9s][Eclesiastés]] ::
+  + Mantente en tu quehacer y conságrate a él, en tu tarea envejece.
+  + En todo lo que hagas, sé moderado.
+  + En todas tus acciones ten presente tu fin.
+  + Dios hizo sencillo al hombre, pero él se complicó con muchas razones.
+  + Nada nuevo hay bajo el sol. Una cosa de la que dicen "Mira esto, esto es
+    nuevo", aún ésa fue ya en los siglos anteriores a nosotros.
 
-+ Eclesiastés 30, 21 ::
-  En todo lo que hagas, sé moderado.
++ [[https://es.wikipedia.org/wiki/Edgar_Allan_Poe][Edgar Allan Poe]] ::
+  + Hay muchas personas que no saben perder a solas el tiempo y son el azote de
+    las que tienen ocupaciones.
 
-+ Eclesiastés 7, 36 ::
-  En todas tus acciones ten presente tu fin.
++ [[https://es.wikipedia.org/wiki/Edmund_Burke][Edmund Burke]] ::
+  + Hay un momento límite en el que la paciencia deja de ser una virtud.
 
-+ Eclesiastés 7,29 ::
-  Dios hizo sencillo al hombre, pero él se complicó con muchas razones.
++ [[https://es.wikipedia.org/wiki/Eduardo_Galeano][Eduardo Galeano]] ::
+  + Al fin y al cabo, somos lo que hacemos para cambiar lo que somos.
+  + Estamos en plena cultura del envase. El contrato de matrimonio importa más
+    que el amor, el funeral más que el muerto, la ropa más que el cuerpo y la
+    misa más que Dios. 
+  + Sólo los tontos creen que el silencio es un vacío. No está vacío nunca. Y a
+    veces la mejor manera de comunicarse es callando. 
 
-+ Eclesiastés, 1:9-10 ::
-  Nada nuevo hay bajo el sol. Una cosa de la que dicen "Mira esto, esto es
-  nuevo", aún ésa fue ya en los siglos anteriores a nosotros.
++ [[https://es.wikipedia.org/wiki/Elbert_Hubbard][Elbert Hubbard]] ::
+  + Nadie necesita más unas vacaciones que el que acaba de tenerlas. 
 
-+ Eco, U. "El nombre de la rosa" (p. 549) ::
-  Cuando se dispone de poco tiempo lo peor es perder la calma. Debemos actuar
-  como si tuviésemos la eternidad por delante.
++ [[https://es.wikipedia.org/wiki/Emil_Cioran][Emil Cioran]] ::
+  + Es menos por reacción de defensa que por pudor, por el deseo de esconder su
+    irrealidad, que todos los humanos llevan una máscara. Arrancársela es
+    perderlos y perderse.
 
-+ Edgar Allan Poe ::
-  Hay muchas personas que no saben perder a solas el tiempo y son el azote de
-  las que tienen ocupaciones.
++ [[https://es.wikipedia.org/wiki/Enrico_Bombieri][Enrico Bombieri]] ::
+  + Cuando las cosas se vuelven demasiado complicadas, a veces tiene sentido
+    parar y preguntarse: ¿he planteado la pregunta correcta?
 
-+ Edmund Burke ::
-  Hay un momento límite en el que la paciencia deja de ser una virtud.
++ [[https://es.wikipedia.org/wiki/Epicteto][Epicteto]] ::
+  + Complace a todos y no complacerás a nadie.
+  + Dos cosas hay que quitarles a los hombres: la vanidad y la desconfianza.
+  + El error del anciano es que pretende enjuiciar el hoy con el criterio del
+    ayer. 
+  + Lo que perturba a los hombres no son las cosas, sino su manera de
+    enjuiciarlas. 
+  + Si no quieres ver tus deseos frustados, no desees jamás sino aquéllo que
+    sólo de tí depende.
+  + También en la moderación hay un término medio, y quien no da con él es
+    víctima de un error parecido al de quien se excede por desenfreno.
+  + Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
 
-+ Eduardo Galeano ::
-  Al fin y al cabo, somos lo que hacemos para cambiar lo que somos.
++ [[https://es.wikipedia.org/wiki/Epicuro][Epicuro]] ::
+  + Nada es suficiente para quien lo suficiente es poco.
 
-+ Eduardo Galeano ::
-  Estamos en plena cultura del envase. El contrato de matrimonio importa más
-  que el amor, el funeral más que el muerto, la ropa más que el cuerpo y la
-  misa más que Dios. 
++ [[https://es.wikipedia.org/wiki/Erasmo_de_R%C3%B3terdam][Erasmo de Róterdam]] ::
+  + El que conoce el arte de vivir consigo mismo ignora el aburrimiento.
+  + La esencia de la felicidad consiste en que aceptes ser el que eres.
 
-+ Eduardo Galeano ::
-  Somos lo que hacemos para cambiar lo que somos. 
++ [[https://es.wikipedia.org/wiki/Ernest_Hemingway][Ernest Hemingway]] ::
+  + Se necesitan dos años para aprender a hablar y sesenta para aprender a
+    callar.
 
-+ Eduardo Galeano ::
-  Sólo los tontos creen que el silencio es un vacío. No está vacío nunca. Y a
-  veces la mejor manera de comunicarse es callando. 
++ [[https://es.wikipedia.org/wiki/Ernesto_Sabato][Ernesto Sábato]] ::
+  + Como dice Whitehead, la naturaleza es una triste cosa, sin colores ni
+    sonidos ni fragancias: todos esos atributos son puramente humanos. Radical
+    e inevitablemente (pero ¿por qué evitarlo?) nuestra visión del mundo es
+    subjetiva, y cada uno de nosotros está creando colores y músicas, groseros
+    o delicados, complejos o simples, según nuestra sensibilidad, nuestra
+    imaginación y nuestro talento.
 
-+ Elbert Hubbard ::
-  Nadie necesita más unas vacaciones que el que acaba de tenerlas. 
++ [[https://es.wikipedia.org/wiki/Ernst_Fischer][Ernst Fischer]] ::
+  + Es más fácil creer que pensar con espíritu crítico.
 
-+ Elbert Hubbard ::
-  Nadie necesita más unas vacaciones que el que acaba de tenerlas.
-
-+ Emerson ::
-  Nunca se ha logrado nada sin entusiasmo.
-
-+ Emil Michel Cioran, La caída en el tiempo ::
-  Es menos por reacción de defensa que por pudor, por el deseo de esconder su
-  irrealidad, que todos los humanos llevan una máscara. Arrancársela es
-  perderlos y perderse.  
-
-+ Enrico Bombieri ::
-  Cuando las cosas se vuelven demasiado complicadas, a veces tiene sentido
-  parar y preguntarse: ¿he planteado la pregunta correcta?
-
-+ Epicteto ::
-  Complace a todos y no complacerás a nadie.
-
-+ Epicteto ::
-  El error del anciano es que pretende enjuiciar el hoy con el criterio del
-  ayer. 
-
-+ Epicteto ::
-  Lo que perturba a los hombres no son las cosas, sino su manera de
-  enjuiciarlas. 
-
-+ Epicteto ::
-  Si no quieres ver tus deseos frustados, no desees jamás sino aquéllo que sólo
-  de tí depende.
-
-+ Epicteto ::
-  Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
-
-+ Epicteto ::
-  Dos cosas hay que quitarles a los hombres: la vanidad y la desconfianza.
-
-+ Epicuro ::
-  También en la moderación hay un término medio, y quien no da con él es víctima
-  de un error parecido al de quien se excede por desenfreno.
-
-+ Epicuro. ::
-  Nada es suficiente para quien lo suficiente es poco.
-
-+ Erasmo de Rotterdam ::
-  El que conoce el arte de vivir consigo mismo ignora el aburrimiento.
-
-+ Erasmo de Rotterdam ::
-  La esencia de la felicidad consiste en que aceptes ser el que eres.
-
-+ Ernest Hemingway ::
-  Se necesitan dos años para aprender a hablar y sesenta para aprender a
-  callar.
-
-+ Ernesto Sábato ::
-  Como dice Whitehead, la naturaleza es una triste cosa, sin colores ni sonidos
-  ni fragancias: todos esos atributos son puramente humanos. Radical e
-  inevitablemente (pero ¿por qué evitarlo?) nuestra visión del mundo es
-  subjetiva, y cada uno de nosotros está creando colores y músicas, groseros o
-  delicados, complejos o simples, según nuestra sensibilidad, nuestra
-  imaginación y nuestro talento.
-
-+ Ernst Fischer ::
-  Es más fácil creer que pensar con espíritu crítico.
-
-+ Esquilo de Eleusis ::
-  Las palabras son una medicina para el alma que sufre.
++ [[https://es.wikipedia.org/wiki/Esquilo][Esquilo de Eleusis]] ::
+  + Las palabras son una medicina para el alma que sufre.
   
-+ Eugene O'Neill ::
-  Esperar sentido común en la gente es una prueba de no tener sentido común. 
++ [[https://es.wikipedia.org/wiki/Eugene_O'Neill][Eugene O'Neill]] ::
+  + Esperar sentido común en la gente es una prueba de no tener sentido común. 
 
-+ Euler ::
-  Mejor que de nuestro juicio, debemos fiarnos del cálculo algebraico.
++ [[https://en.wikipedia.org/wiki/Evan_Esar][Evan Esar]] ::
+  + Las vacaciones son como el amor: las anticipamos con placer, las
+    experimentamos con incomodidad y las recordamos con nostalgia.  
 
-+ Evan Esar ::
-  Las vacaciones son como el amor: las anticipamos con placer, las
-  experimentamos con incomodidad y las recordamos con nostalgia.  
++ [[https://es.wikipedia.org/wiki/Facundo_Cabral][Facundo Cabral]] ::
+  + De mi madre aprendí que nunca es tarde, que siempre se puede empezar de
+    nuevo; ahora mismo le puedes decir basta a los hábitos que te destruyen, a
+    las cosas que te encadenan, a la tarjeta de crédito, a los noticieros que
+    te envenenan desde la mañana, a los que quieren dirigir tu vida por el
+    camino perdido.
 
-+ Facundo Cabral ::
-  De mi madre aprendí que nunca es tarde, que siempre se puede empezar de
-  nuevo; ahora mismo le puedes decir basta a los hábitos que te destruyen, a
-  las cosas que te encadenan, a la tarjeta de crédito, a los noticieros que te
-  envenenan desde la mañana, a los que quieren dirigir tu vida por el camino
-  perdido.  
++ [[https://es.wikipedia.org/wiki/Friedrich_Ludwig_Jahn][Federico Luis Jahn]] ::
+  + El secreto para vivir en paz con todos consiste en el arte de comprender a
+    cada uno según su individualidad. 
 
-+ Federico II ::
-  Conocimientos puede tenerlos cualquiera, pero el arte de pensar es el regalo
-  más escaso de la naturaleza. 
++ [[https://es.wikipedia.org/wiki/Francis_Bacon][Francis Bacon]] ::
+  + La amistad duplica las alegrías y divide las angustias por la mitad.
+  + La lectura hace al hombre completo; la conversación lo hace ágil, el
+    escribir lo hace preciso.
+  + Un hombre está dispuesto a creer aquello que le gustaría que fuera cierto.
+  + Vieja madera para arder, viejo vino para beber, viejos amigos en quien
+    confiar, y viejos autores para leer.  
 
-+ Federico Luis Jahn ::
-  El secreto para vivir en paz con todos consiste en el arte de comprender a
-  cada uno según su individualidad. 
++ [[https://es.wikipedia.org/wiki/F._Scott_Fitzgerald][Francis Scott Fitzgerald]] ::
+  + Es preferible fiarse del hombre que se equivoca a menudo, que de quien no
+    duda nunca.
 
-+ Fr. L. Jahn ::
-  El secreto para vivir en paz consiste en al arte de comprender a cada uno
-  según su individualidad. 
++ [[https://es.wikipedia.org/wiki/Francisco_de_Quevedo][Francisco de Quevedo]] ::
+  + El que quiere de esta vida todas las cosas a su gusto, tendrá muchos
+    disgustos. 
+  + Lo mucho se vuelve poco con desear otro poco más.
+  + Las palabras son como las monedas, que una vale por muchas como muchas no
+    valen por una.
+  + Nadie ofrece tanto como el que no va a cumplir.
+  + ¿No ha de haber un espíritu valiente? ¿Siempre se ha de sentir lo que se
+    dice? ¿Nunca se ha de decir lo que se siente? 
 
-+ Francis Bacon ::
-  La lectura hace al hombre completo; la conversación lo hace ágil, el
-  escribir lo hace preciso.
++ [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_F%C3%A9nelon][François Fénelon]] ::
+  + Si queréis formar juicio acerca de un hombre, observad quienes son sus
+    amigos. 
 
-+ Francis Bacon ::
-  Un hombre está dispuesto a creer aquello que le gustaría que fuera cierto.
++ [[https://es.wikipedia.org/wiki/Fran%C3%A7oise_Sagan][Françoise Sagan]] ::
+  + Sólo cerrando las puertas detrás de uno se abren ventanas hacia el porvenir. 
 
-+ Francis Bacon ::
-  Vieja madera para arder, viejo vino para beber, viejos amigos en quien
-  confiar, y viejos autores para leer.  
++ [[https://es.wikipedia.org/wiki/Franz_Schubert][Franz Schubert]] ::
+  + Cuando uno se inspira en algo bueno, la música nace con fluidez, las
+    melodías brotan; realmente esto es una gran satisfacción.
 
-+ Francis Bacon ::
-  La amistad duplica las alegrías y divide las angustias por la mitad.
++ [[https://es.wikipedia.org/wiki/Frederick_Brooks][Frederick Brooks]] ::
+  + Las buenas decisiones se adquieren con la experiencia, y la experiencia se
+    adquiere con las malas decisiones.
 
-+ Francis Fitzgerald ::
-  Es preferible fiarse del hombre que se equivoca a menudo, que de quien no
-  duda nunca. 
++ [[https://es.wikipedia.org/wiki/Friedrich_Engels][Friedrich Engels]] ::
+  + Lo que no se sabe expresar es que no se sabe.
 
-+ Francisco de Quevedo ::
-  El que quiere de esta vida todas las cosas a su gusto, tendrá muchos
-  disgustos. 
++ [[https://es.wikipedia.org/wiki/Friedrich_Nietzsche][Friedrich Nietzsche]] ::
+  + Desde que me cansé de buscar he aprendido a hallar.
+  + Digan lo que digan, los espíritus grandes son escépticos. Zaratustra es un
+    escéptico. La fuerza, la libertad nacida en la fuerza y plenitud del
+    espíritu, se prueba por el escepticismo. Los hombres de convicción no
+    cuentan para las cuestiones fundamentales de valor. Las convicciones son
+    cárceles.
+  + El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo
+    intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es
+    demasiado alto por el privilegio de ser uno mismo.
 
-+ Francisco de Quevedo ::
-  Lo mucho se vuelve poco con desear otro poco más.
++ [[https://es.wikipedia.org/wiki/Friedrich_Schlegel][Friedrich Schlegel]] ::
+  + Cuanto más se sabe, más se desea aprender. Con la sabiduría crece
+    paralelamente la sensación de no saber o, mejor dicho, de saber que no se
+    sabe.
 
-+ Francisco de Quevedo ::
-  Las palabras son como las monedas, que una vale por muchas como muchas no
-  valen por una. 
++ [[https://es.wikipedia.org/wiki/G._K._Chesterton][G.K. Chesterton]] ::
+  + La única educación posible es esta: estar lo bastante seguro de una cosa
+    para atreverse a decírsela a un niño.
+  + Las cosas que vemos todos los días son las cosas que nunca vemos.
 
-+ Francisco de Quevedo ::
-  ¿No ha de haber un espíritu valiente? ¿Siempre se ha de sentir lo que se
-  dice? ¿Nunca se ha de decir lo que se siente? 
++ [[https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez][Gabriel García Márquez]] ::
+  + El secreto de una buena vejez no es otra cosa que un pacto honrado con la
+    soledad.
+  + Lo más importante que aprendí a hacer después de los cuarenta años fue a
+    decir no cuando es no. 
 
-+ Francisco de Quevedo ::
-  Nadie ofrece tanto como el que no va a cumplir.
++ [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei]] ::
+  + Las matemáticas son el alfabeto con el cual Dios ha escrito el Universo.
+  + No podemos enseñar nada a nadie. Tan sólo podemos ayudar a que descubran
+    por sí mismos.
+  + Todas las verdades son fáciles de entender, una vez descubiertas. El caso
+    es descubrirlas.
 
-+ Frank Clark ::
-  Todo el mundo trata de realizar algo grande, sin darse cuenta de que la vida
-  se compone de cosas pequeñas.  
++ [[https://es.wikipedia.org/wiki/George_Bernard_Shaw][George Bernard Shaw]] ::
+  + Aprendemos de la experiencia que los hombres nunca aprenden nada de la
+    experiencia.  
 
-+ Franz Schubert ::
-  Cuando uno se inspira en algo bueno, la música nace con fluidez, las melodías
-  brotan; realmente esto es una gran satisfacción. 
++ [[https://es.wikipedia.org/wiki/George_Eliot][George Eliot]] ::
+  + Bendito sea el hombre que no teniendo nada que decir, se abstiene de
+    demostrárnoslo con sus palabras. 
 
-+ Françoise Sagan ::
-  Sólo cerrando las puertas detrás de uno se abren ventanas hacia el porvenir. 
++ [[https://es.wikipedia.org/wiki/George_Orwell][George Orwell]] ::
+  + Ver lo que tenemos delante de nuestras narices requiere una lucha
+    constante.
 
-+ Fred Brooks ::
-  Las buenas decisiones se adquieren con la experiencia, y la experiencia se
-  adquiere con las malas decisiones.
++ [[https://es.wikipedia.org/wiki/Georges_Clemenceau][Georges Clemenceau]] ::
+  + Los tontos no gustan de admirar las cosas sino cuando llevan una etiqueta.
 
-+ Friedrich Engels ::
-  Lo que no se sabe expresar es que no se sabe.
++ [[https://es.wikipedia.org/wiki/Groucho_Marx][Groucho Marx]] ::
+  + La política es el arte de buscar problemas, encontrarlos, hacer un
+    diagnóstico falso y aplicar después los remedios equivocados.  
 
-+ Friedrich Nietzsche ::
-  Digan lo que digan, los espíritus grandes son escépticos. Zaratustra es un
-  escéptico. La fuerza, la libertad nacida en la fuerza y plenitud del
-  espíritu, se prueba por el escepticismo. Los hombres de convicción no cuentan
-  para las cuestiones fundamentales de valor. Las convicciones son cárceles. 
++ [[https://es.wikipedia.org/wiki/Gustav_Meyrink][Gustav Meyrink]] ::
+  + La vida toda no es nada más que preguntas materializadas, las cuales llevan
+    en sí el germen de la respuesta y respuestas que van preñadas de
+    preguntas. Quien vea en ella cualquier otra cosa es un loco.
 
-+ Friedrich Nietzsche ::
-  El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo
-  intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es
-  demasiado alto por el privilegio de ser uno mismo. 
-
-+ Friedrich Nietzsche ::
-  Desde que me cansé de buscar he aprendido a hallar.
-
-+ Friedrich Schlegel ::
-  Cuanto más se sabe, más se desea aprender. Con la sabiduría crece
-  paralelamente la sensación de no saber o, mejor dicho, de saber que no se
-  sabe.
-
-+ Fénelon ::
-  Si queréis formar juicio acerca de un hombre, observad quienes son sus
-  amigos. 
-
-+ G.K. Chesterton ::
-  La única educación posible es esta: estar lo bastante seguro de una cosa para
-  atreverse a decírsela a un niño.  
-
-+ G.K. Chesterton ::
-  Las cosas que vemos todos los días son las cosas que nunca vemos.
-
-+ Gabriel García Márquez ::
-  El secreto de una buena vejez no es otra cosa que un pacto honrado con la
-  soledad.
-
-+ Gabriel García Márquez ::
-  Lo más importante que aprendí a hacer después de los cuarenta años fue a
-  decir no cuando es no. 
-
-+ Galileo Galilei ::
-  Las matemáticas son el alfabeto con el cual Dios ha escrito el Universo.
-
-+ Galileo Galilei ::
-  No podemos enseñar nada a nadie. Tan sólo podemos ayudar a que descubran por
-  sí mismos. 
-
-+ Galileo Galilei ::
-  Todas las verdades son fáciles de entender, una vez descubiertas. El caso es
-  descubrirlas. 
-
-+ Gandhi ::
-  Nuestra recompensa se encuentra en el esfuerzo y no en el resultado. Un
-  esfuerzo total es una victoria completa.
-
-+ Gandhi ::
-  Casi todo lo que realice será insignificante, pero es muy importante que lo
-  haga. 
-
-+ Gandhi ::
-  En cuanto alguien comprende que obedecer leyes injustas es contrario a su
-  dignidad de hombre, ninguna tiranía puede dominarle.  
-
-+ Gauss ::
-  No es el conocimiento, sino el acto de aprendizaje, y no la posesión, sino el
-  acto de llegar allí, que concede el mayor disfrute. 
-
-+ George Bernard Shaw: ::
-  Aprendemos de la experiencia que los hombres nunca aprenden nada de la
-  experiencia.  
-
-+ George Eliot ::
-  Bendito sea el hombre que no teniendo nada que decir, se abstiene de
-  demostrárnoslo con sus palabras. 
-
-+ George Orwell ::
-  Ver lo que tenemos delante de nuestras narices requiere una lucha constante.
-
-+ George Russell ::
-  Nos convertimos en lo que habitualmente contemplamos.
-
-+ Georges Benjamin Clemenceau ::
-  Los tontos no gustan de admirar las cosas sino cuando llevan una etiqueta.
-
-+ Goethe ::
-  Con el conocimiento se acrecientan las dudas. 
-
-+ Goethe ::
-  Hablar es una necesidad, escuchar es un arte.
-
-+ Goethe ::
-  Quien produce con alegría y se alegra de lo producido es feliz.
-
-+ Goethe ::
-  Se tiende a poner palabras allí donde faltan las ideas.
-
-+ Goethe ::
-  Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra
-  parte, si tacho de malo a lo que es bueno, acabaré causando un gran
-  perjuicio. Quien quiera obrar adecuadamente, no deberá criticar nunca nada ni
-  preocuparse de lo que esté mal, sino limitarse a hacer bien las cosas. De lo
-  que se trata no es de destrozar, sino de construir algo que le procure un
-  gozo intachable a la humanidad. 
-
-+ Goethe ::
-  Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
-  mejor las cosas. 
-
-+ Goethe ::
-  Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
-  difícil.  
-
-+ Goethe ::
-  El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
-  viejo, místico.
-                        
-+ Goethe ::
-  Lo importante no es donde se está, sino la dirección en que se camina.
-
-+ Goethe ::
-  Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie las
-  hubiera hecho antes. 
-
-+ Goethe "Poesía y verdad" p. 143 ::
-  No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
-  regresará al camino que en su día la naturaleza predeterminó para él.
-
-+ Groucho Marx ::
-  La política es el arte de buscar problemas, encontrarlos, hacer un
-  diagnóstico falso y aplicar después los remedios equivocados.  
-
-+ Gustav Meyrink ::
-  La vida toda no es nada más que preguntas materializadas, las cuales llevan
-  en sí el germen de la respuesta y respuestas que van preñadas de
-  preguntas. Quien vea en ella cualquier otra cosa es un loco. 
-
-+ Gustave Flaubert ::
-  El futuro nos tortura y el pasado nos encadena. He aquí por qué se nos escapa
-  el presente.
-  
-+ Gustave Flaubert ::
-  El futuro nos tortura y el pasado nos encadena. He aquí por qué se nos escapa
-  el presente. 
++ [[https://es.wikipedia.org/wiki/Gustave_Flaubert][Gustave Flaubert]] ::
+  + El futuro nos tortura y el pasado nos encadena. He aquí por qué se nos
+    escapa el presente.
 
 + [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]] ::
   El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
   cumplimiento de nuestros deseos y cumplirlos plenamente. 
 
-+ H. L. Mencken ::
-  There is always an easy solution to every human problem: neat, plausible, and
-  wrong. 
++ [[https://es.wikipedia.org/wiki/H._L._Mencken][H.L. Mencken]] ::
+  + Hay una solución fácil para todo problema humano: clara, plausible y
+    equivocada.
 
-+ H.A. Simon ::
-  En el mundo de los computadores, el momento de la verdad es el de ejecutar el
-  programa; los demás es profecía.
++ [[https://en.wikipedia.org/wiki/Haim_Ginott][Haim Ginott]] ::
+  + Los niños son como cemento fresco, cualquier cosa que caiga sobre ellos
+    deja una huella.
 
-+ Haim Ginott ::
-  Los niños son como cemento fresco, cualquier cosa que caiga sobre ellos deja
-  una huella.  
++ [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson]] ::
+  + El ojo ve sólo lo que la mente está preparada para comprender.
 
-+ Henri Bergson ::
-  El ojo ve sólo lo que la mente está preparada para comprender.
++ [[https://es.wikipedia.org/wiki/Henri_Poincar%C3%A9][Henri Poincaré]] ::
+  + Duda de los datos hasta que los datos no dejen lugar a dudas.
+  + Dudar de todo o creerlo todo son dos opciones igualmente cómodas, pues
+    tanto una como otra nos eximen de reflexionar.
+  + La ciencia son hechos; de la misma manera que las casas están hechas de
+    piedras, la ciencia está hecha de hechos; pero un montón de piedras no es
+    una casa y una colección de hechos no es necesariamente ciencia.
+  + Una palabra bien elegida puede economizar no sólo cien palabras, sino cien
+    pensamientos.
 
-+ Henri Poincaré ::
-  Duda de los datos hasta que los datos no dejen lugar a dudas.
++ [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]] ::
+  + Dime lo que crees ser y te diré lo que no eres.
+  + El hombre que pretende verlo todo con claridad antes de decidir nunca
+    decide.
+  + Hacer con soltura lo que es difícil a los demás, he ahí la señal del
+    talento; hacer lo que es imposible al talento, he ahí el signo del genio.
+  + La vida es un aprendizaje de renunciamiento progresivo, de continua
+    limitación de nuestras pretensiones, de nuestras esperanzas, de nuestra
+    fuerza, de nuestra libertad.
+  + No creo que ningún placer que podamos obtener de nuestras emociones llegue
+    a igualar esos momentos de paz silenciosa que son atisbos de los gozos del
+    paraíso ... Se siente una armonía interior libre de la más mínima agitación
+    o tensión. En esos momentos el estado del alma es solemne, semejante quizá
+    a su condición más allá de la tumba. Se trata de felicidad, según entienden
+    los orientales, la felicidad del eremita que se halla libre de deseo y
+    conflicto, y que sencillamente adora en plenitud de dicha.
+  + Vivimos mientras nos renovamos.
+  + ¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde muchos
+    puntos de vista.
 
-+ Henri Poincaré ::
-  La ciencia son hechos; de la misma manera que las casas están hechas de
-  piedras, la ciencia está hecha de hechos; pero un montón de piedras no es una 
-  casa y una colección de hechos no es necesariamente ciencia.
++ [[https://es.wikipedia.org/wiki/Henrik_Ibsen][Henrik Ibsen]] ::
+  + La belleza es el acuerdo entre el contenido y la forma.
 
-+ Henri Poincaré ::
-  Una palabra bien elegida puede economizar no sólo cien palabras, sino cien
-  pensamientos. 
-
-+ Henri Poincaré ::
-  Dudar de todo o creerlo todo son dos opciones igualmente cómodas, pues tanto
-  una como otra nos eximen de reflexionar. 
-
-+ Henri-Frédéric Amiel ::
-  Dime lo que crees ser y te diré lo que no eres.
-
-+ Henri-Frédéric Amiel ::
-  El hombre que pretende verlo todo con claridad antes de decidir nunca decide.
-
-+ Henri-Frédéric Amiel ::
-  Hacer con soltura lo que es difícil a los demás, he ahí la señal del talento;
-  hacer lo que es imposible al talento, he ahí el signo del genio. 
-
-+ Henri-Frédéric Amiel ::
-  La vida es un aprendizaje de renunciamiento progresivo, de continua
-  limitación de nuestras pretensiones, de nuestras esperanzas, de nuestra
-  fuerza, de nuestra libertad. 
-
-+ Henri-Frédéric Amiel ::
-  Vivimos mientras nos renovamos.
-
-+ Henri-Frédéric Amiel ::
-  ¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde muchos
-  puntos de vista. 
-
-+ Henri-Frédéric Amiel: ::
-  No creo que ningún placer que podamos obtener de nuestras emociones llegue a
-  igualar esos momentos de paz silenciosa que son atisbos de los gozos del
-  paraíso ... Se siente una armonía interior libre de la más mínima agitación o
-  tensión. En esos momentos el estado del alma es solemne, semejante quizá a su
-  condición más allá de la tumba. Se trata de felicidad, según entienden los
-  orientales, la felicidad del eremita que se halla libre de deseo y conflicto,
-  y que sencillamente adora en plenitud de dicha. 
-
-+ Henrik Ibsen ::
-  La belleza es el acuerdo entre el contenido y la forma.
-
-+ Henry David Thoreau ::
-  No hay nadie tan equivocado como aquel que pasa la mayor parte de su vida
-  ganándose la vida. 
-
-+ Henry David Thoreau ::
-  Our life is frittered away by detail. Simplify, simplify.
++ [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]] ::
+  + No hay nadie tan equivocado como aquel que pasa la mayor parte de su vida
+    ganándose la vida. 
+  + Nuestra vida siempre se malgasta en los detalles ... simplifiquemos,
+    simplifiquemos.
 
 + Henry Ford ::
   La mayoría de las personas gastan más tiempo y energías en hablar de los
@@ -799,6 +637,10 @@ encontrando.
 + Henry Miller ::
   Llama experiencias a tus dificultades y recuerda que cada una de ellas te
   ayuda a madurar.  
+
++ [[https://es.wikipedia.org/wiki/Herbert_Alexander_Simon][Herbert A. Simon]] ::
+  + En el mundo de los computadores, el momento de la verdad es el de ejecutar
+    el programa; los demás es profecía.
 
 + Herbert Von Karajan ::
   El arte de dirigir consiste en saber cuando hay que abandonar la batuta para
@@ -914,6 +756,29 @@ encontrando.
 
 + Johann Wolfgang Goethe ::
   Nadie es más esclavo que el que se tiene por libre sin serlo. 
+
++ [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]] ::
+  + Con el conocimiento se acrecientan las dudas. 
+  + Hablar es una necesidad, escuchar es un arte.
+  + Quien produce con alegría y se alegra de lo producido es feliz.
+  + Se tiende a poner palabras allí donde faltan las ideas.
+  + Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra
+    parte, si tacho de malo a lo que es bueno, acabaré causando un gran
+    perjuicio. Quien quiera obrar adecuadamente, no deberá criticar nunca nada
+    ni preocuparse de lo que esté mal, sino limitarse a hacer bien las
+    cosas. De lo que se trata no es de destrozar, sino de construir algo que le
+    procure un gozo intachable a la humanidad.
+  + Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
+    mejor las cosas. 
+  + Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
+    difícil.  
+  + El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
+    viejo, místico.
+  + Lo importante no es donde se está, sino la dirección en que se camina.
+  + Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
+    las hubiera hecho antes.
+  + No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
+    regresará al camino que en su día la naturaleza predeterminó para él.
 
 + John Dryden ::
   Feliz quien puede llamar suyo el día en que vive y para sus adentros piensa:
@@ -1081,6 +946,9 @@ encontrando.
   un abrir y cerrar de ojos, y la falta de armonía y la proporción es más fácil
   de ver. 
 
++ [[https://es.wikipedia.org/wiki/Leonhard_Euler][Leonhard Euler]] ::
+  + Mejor que de nuestro juicio, debemos fiarnos del cálculo algebraico.
+
 + Letamendi ::
   Si un loco se obstinara durante mucho tiempo en lanzar piedras a la Luna, no
   alcanzaría, naturalmente, el blanco apetecido, pero acabaría por ser un
@@ -1179,11 +1047,15 @@ encontrando.
 + Mafalda ::
   ¿Pensaron alguna vez que si no fuera por todos, nadie sería nada?
 
-+ Mahatma Gandhi ::
-  El hombre es producto de sus pensamientos: se convierte en lo que piensa.
-
-+ Mahatma Gandhi ::
-  Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.
++ [[https://es.wikipedia.org/wiki/Mahatma_Gandhi][Mahatma Gandhi]] ::
+  + Casi todo lo que realice será insignificante, pero es muy importante que lo
+    haga. 
+  + En cuanto alguien comprende que obedecer leyes injustas es contrario a su
+    dignidad de hombre, ninguna tiranía puede dominarle.
+  + Nuestra recompensa se encuentra en el esfuerzo y no en el resultado. Un
+    esfuerzo total es una victoria completa.
+  + El hombre es producto de sus pensamientos: se convierte en lo que piensa.
+  + Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.
 
 + Marcel Proust ::
   El instinto dicta el deber y la inteligencia da pretextos para eludirlo.
@@ -1544,13 +1416,10 @@ encontrando.
   + No hay nada repartido de modo más equitativo en el mundo que la razón: todo
     el mundo está convencido de tener suficiente.
 
-+ R.W. Emerson ::
-  El hombre grande es aquel que en medio de las muchedumbres mantiene, con
-  perfecta dulzura, la independencia de la soledad. 
-
-+ R.W. Emerson ::
-  El hombre grande es aquel que en medio de las muchedumbres mantiene, con
-  perfecta dulzura, la independencia de la soledad. 
++ [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson]] ::
+  + El hombre grande es aquel que en medio de las muchedumbres mantiene, con
+    perfecta dulzura, la independencia de la soledad. 
+  + Nunca se ha logrado nada sin entusiasmo.
 
 + Rabindranath Tagore ::
   El canal se complace pensando que los ríos no existen sino para traerle agua.
@@ -1861,8 +1730,10 @@ encontrando.
   Para mí, el mayor placer de la escritura no es el tema que se trate, sino la
   música que hacen las palabras. 
 
-+ Umberto Eco ::
-  El mundo está lleno de libros preciosos que nadie lee.
++ [[https://es.wikipedia.org/wiki/Umberto_Eco][Umberto Eco]] ::
+  + Cuando se dispone de poco tiempo lo peor es perder la calma. Debemos actuar
+    como si tuviésemos la eternidad por delante.
+  + El mundo está lleno de libros preciosos que nadie lee.
 
 + Victor Hugo ::
   Lo que bien se piensa, bien se expresa. 
