@@ -284,10 +284,10 @@ encontrando.
   + Pon manos a la obra con lentitud, pero, una vez comenzada, sé constante.
 
 + [[https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca][Pedro Calderón de la Barca]] ::
-  + Tanto gusto había \\ 
-    en quejarse, un filósofo decía, \\\\ 
-    que, a trueco de quejarse, \\\\
-    habían las desdichas de buscarse.
+  + : Tanto gusto había 
+    : en quejarse, un filósofo decía,  
+    : que, a trueco de quejarse, 
+    : habían las desdichas de buscarse.
 
 + Calvin Coolidge ::
   La educación consiste en enseñar a los hombres, no lo que deben pensar, sino
