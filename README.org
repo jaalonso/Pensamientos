@@ -1,6 +1,11 @@
 Este repositorio contiene una recopilación de pensamientos con los que me voy
 encontrando. 
 
++ [[https://es.wikipedia.org/wiki/Alan_Watts][Alan Watts]] ::
+  + Muy feliz era el ciempiés, hasta que un sapo una vez, le preguntó "¿Qué
+    orden al andar siguen tus remos?" lo cual forzó su mente a tal extremo que
+    a una zanja, distraído, fue a caer mientras pensaba cómo hacer para correr.
+
 + [[https://es.wikipedia.org/wiki/Arthur_Conan_Doyle][Arthur Conan Doyle]] ::
   + Ha sido durante mucho tiempo mi axioma que las pequeñas cosas son
     infinitamente lo más importante.  
@@ -127,7 +132,28 @@ encontrando.
   + La felicidad es darse cuenta que nada es demasiado importante.
 
 + [[https://es.wikipedia.org/wiki/Antonio_Machado][Antonio Machado]] ::
+  + Caminante, no hay camino:
+    se hace camino al andar.
+  + Despacito y buena letra:
+    el hacer las cosas bien
+    importa más que el hacerlas.
+  + Juzgarnos o corregirnos supone aplicar la medida ajena al paño propio.
+  + La página escrita nunca recuerda todo lo que se ha intentado, sino lo poco
+    que se ha conseguido.
+  + Nunca traces tu frontera
+    ni cuides de tu perfil;
+    todo eso es cosa de fuera.
+  + Por mucho que un hombre valga, nunca tendrá valor más alto que el de ser
+    hombre.
   + Si es bueno vivir, todavía es mejor soñar, y lo mejor de todo, despertar.
+  + Todo necio
+    confunde valor y precio.
+  + ¡Qué difícil es,
+    cuando todo baja,
+    no bajar también!.
+  + ¿Tu verdad? No, la Verdad,
+    y ven conmigo a buscarla.
+    La tuya guárdatela.
 
 + [[https://es.wikipedia.org/wiki/Ant%C3%B3n_Ch%C3%A9jov][Antón Chéjov]] ::
   + Los hombre inteligentes quieren aprender. Los demás, enseñar.
@@ -138,6 +164,7 @@ encontrando.
     preguntas.
   + En todo la medida.
   + Hay quienes cruzan el bosque y sólo ven leña para el fuego. 
+  + La palabra y la piedra suelta no tienen vuelta.
   + La vida crece en las orillas, no en las aguas turbulentas.
   + La vida es un espejo; si le sonries, te sonreirá; si le pones mala cara, te
     la pondrá.
@@ -185,6 +212,8 @@ encontrando.
   + La soledad concede al hombre dotado de grandes cualidades intelectuales una
     doble ventaja: primero, le proporciona la posibilidad de estar consigo
     mismo; y, segundo, la de no estar con los demás.
+  + Los alquimistas en su búsqueda de oro descubrieron muchas otras cosas de
+    mayor valor.
   + Los hombres han inventado la vida de sociedad porque les es más fácil
     soportar a los demás que soportarse a sí mismos.
   + Querer es esencialmente sufrir, y como vivir es querer, toda vida es por
@@ -203,6 +232,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Baruch_Spinoza][Baruch Spinoza]] ::
   + La actividad más importante que un ser humano puede lograr es aprender para
     entender, porque entender es ser libre. 
+  + Si somos marionetas, nuestra mejor opción para dejar de serlo es tratar de
+    averiguar la lógica del titiritero.
   + Todos los prejuicios que intento indicar aquí dependen de uno solo, a
     saber: el hecho de que los hombres supongan, comúnmente, que todas las
     cosas de la naturaleza actúan, al igual que ellos mismos, por razón de un
@@ -236,24 +267,24 @@ encontrando.
   + Una vida feliz tiene que ser, en gran medida, una vida tranquila, pues solo
     en un ambiente tranquilo puede vivir la auténtica alegría. 
   + Decálogo:
-    1.  No estés absolutamente seguro de nada.
-    2.  No creas conveniente actuar ocultando pruebas, pues las pruebas terminan
-        por salir a la luz. 
-    3.  Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.
-    4.  Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos,
-        trata de superarla por medio de la razón y no de la autoridad, pues una
-        victoria que dependa de la autoridad es irreal e ilusoria. 
-    5.  No respetes la autoridad de los demás, pues siempre se encuentran
-        autoridades enfrentadas. 
-    6.  No utilices la fuerza para suprimir las ideas que crees perniciosas, pues
-        si lo haces, ellas te suprimirán a ti. 
-    7.  No temas ser extravagante en tus ideas, pues todas la ideas ahora
-        aceptadas fueron en su día extravagantes. 
-    8.  Disfruta más con la discrepancia inteligente que con la conformidad
-        pasiva, pues si valoras la inteligencia como debieras, aquélla significa
-        un acuerdo más profundo que ésta. 
-    9.  Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues
-        más incómoda es cuando tratas de ocultarla.
+    1. No estés absolutamente seguro de nada.
+    2. No creas conveniente actuar ocultando pruebas, pues las pruebas terminan
+       por salir a la luz. 
+    3. Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.
+    4. Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos,
+       trata de superarla por medio de la razón y no de la autoridad, pues una
+       victoria que dependa de la autoridad es irreal e ilusoria. 
+    5. No respetes la autoridad de los demás, pues siempre se encuentran
+       autoridades enfrentadas. 
+    6. No utilices la fuerza para suprimir las ideas que crees perniciosas, pues
+       si lo haces, ellas te suprimirán a ti. 
+    7. No temas ser extravagante en tus ideas, pues todas la ideas ahora
+       aceptadas fueron en su día extravagantes. 
+    8. Disfruta más con la discrepancia inteligente que con la conformidad
+       pasiva, pues si valoras la inteligencia como debieras, aquélla significa
+       un acuerdo más profundo que ésta. 
+    9. Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues
+       más incómoda es cuando tratas de ocultarla.
     10. No sientas envidia de la felicidad de los que viven en el paraíso de los
         necios, pues sólo un necio pensará que eso es la felicidad. 
 
@@ -327,6 +358,7 @@ encontrando.
     atormentarse sin provecho. 
   + ¿Qué cosa más grande que tener a alguien con quien te atrevas a hablar como
     contigo mismo?
+  + Si quieres aprender, enseña. 
 
 + [[https://es.wikipedia.org/wiki/Confucio][Confucio]] ::
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso. 
@@ -360,12 +392,6 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Desmond_Tutu][Desmond Tutu]] ::
   + Si eres neutral en situaciones de injusticia, has elegido el lado del
     opresor. 
-
-+ Dicho Zen ::
-  + Descubro las enseñanzas de los sabios en las puntas de las hierbas.
-  + La primavera llega,
-    la hierba crece por sí sola.
-  + No confundáis la luna con el dedo que la señala.
 
 + [[https://es.wikipedia.org/wiki/Di%C3%B3genes_de_Sinope][Diógenes de Sínope]] ::
   + Callando es como se prende a oír; oyendo es como se aprende a hablar; y
@@ -467,6 +493,8 @@ encontrando.
   + La lectura hace al hombre completo; la conversación lo hace ágil, el
     escribir lo hace preciso.
   + Un hombre está dispuesto a creer aquello que le gustaría que fuera cierto.
+  + Quien no quiere pensar es un fanático; quien no puede pensar, es un idiota;
+    quien no osa pensar es un cobarde.
   + Vieja madera para arder, viejo vino para beber, viejos amigos en quien
     confiar, y viejos autores para leer.  
 
@@ -483,6 +511,10 @@ encontrando.
   + Nadie ofrece tanto como el que no va a cumplir.
   + ¿No ha de haber un espíritu valiente? ¿Siempre se ha de sentir lo que se
     dice? ¿Nunca se ha de decir lo que se siente? 
+
++ [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld][François de La Rochefoucauld]] ::
+  + Ponemos más interés en hacer creer a los demás que somos felices que en
+    tratar de serlo.
 
 + [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_F%C3%A9nelon][François Fénelon]] ::
   + Si queréis formar juicio acerca de un hombre, observad quienes son sus
@@ -503,6 +535,7 @@ encontrando.
   + Lo que no se sabe expresar es que no se sabe.
 
 + [[https://es.wikipedia.org/wiki/Friedrich_Nietzsche][Friedrich Nietzsche]] ::
+  + Aquel que tiene un por qué para vivir se puede enfrentar a todos los cómos.
   + Desde que me cansé de buscar he aprendido a hallar.
   + Digan lo que digan, los espíritus grandes son escépticos. Zaratustra es un
     escéptico. La fuerza, la libertad nacida en la fuerza y plenitud del
@@ -512,6 +545,12 @@ encontrando.
   + El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo
     intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es
     demasiado alto por el privilegio de ser uno mismo.
+  + Es más cómodo obedecer a la conciencia que a la razón; la conciencia halla
+    en sí misma una excusa y un aliento. Por eso hay aún tantas personas
+    concienzudas y tan pocas personas razonables.
+  + La ventaja de tener mala memoria es que se goza muchas veces con las mismas
+    cosas.
+  + Lo que mucho ocupa termina por preocupar.
 
 + [[https://es.wikipedia.org/wiki/Friedrich_Schlegel][Friedrich Schlegel]] ::
   + Cuanto más se sabe, más se desea aprender. Con la sabiduría crece
@@ -551,6 +590,13 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Georges_Clemenceau][Georges Clemenceau]] ::
   + Los tontos no gustan de admirar las cosas sino cuando llevan una etiqueta.
 
++ [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Gibran Jalil Gibran]] ::
+  + El olvido es una forma de libertad. 
+  + En el corazón de todos los inviernos vive una primavera palpitante, y
+    detrás de cada noche, viene una aurora sonriente.
+  + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar entre las
+    nubes.
+
 + [[https://es.wikipedia.org/wiki/Groucho_Marx][Groucho Marx]] ::
   + La política es el arte de buscar problemas, encontrarlos, hacer un
     diagnóstico falso y aplicar después los remedios equivocados.  
@@ -586,6 +632,9 @@ encontrando.
   + La ciencia son hechos; de la misma manera que las casas están hechas de
     piedras, la ciencia está hecha de hechos; pero un montón de piedras no es
     una casa y una colección de hechos no es necesariamente ciencia.
+  + Los descubrimientos matemáticos, pequeños o grandes, nunca se generan
+    espontáneamente. Presuponen siempre una sólida base de conocimientos
+    preliminares bien madurados por el trabajo consciente y subconsciente.
   + Una palabra bien elegida puede economizar no sólo cien palabras, sino cien
     pensamientos.
 
@@ -677,6 +726,13 @@ encontrando.
   + Borra muchas veces, si quieres escribir cosas que sean dignas de ser
     leídas.
 
++ [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant]] ::
+  + La ciencia es la organización del conocimiento, pero la sabiduría es la
+    organización de la vida 
+  + Nunca discutas con un idiota. La gente podría no notar la diferencia.
+  + Ser es hacer.
+  + Vemos las cosas, no como son, sino como somos nosotros.
+
 + [[https://es.wikipedia.org/wiki/Isaac_Asimov][Isaac Asimov]] ::
   + Las normas establecidas con razón y con justicia, pueden dejar de ser
     útiles al cambiar las circunstancias, pero al permitir que continuen
@@ -685,9 +741,10 @@ encontrando.
     inútiles, o incluso realmente perjudiciales.
 
 + [[https://es.wikipedia.org/wiki/Isaac_Newton][Isaac Newton]] ::
-  + Los hombres construimos demasiados muros y no suficientes puentes.
   + La verdad siempre se halla en la simplicidad y no en la multiplicidad y
     confusión de las cosas. 
+  + Lo que sabemos es una gota de agua; lo que ignoramos es el océano.
+  + Los hombres construimos demasiados muros y no suficientes puentes.
 
 + [[https://es.wikipedia.org/wiki/Jacinto_Benavente][Jacinto Benavente]] ::
   + La vida es como un viaje por la mar: hay días de calma y días de borrasca;
@@ -710,17 +767,17 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Jean_Piaget][Jean Piaget]] ::
   + Inteligencia es lo que usas cuando no sabes qué hacer.
 
-+ Jean de la Fontaine ::
-  A menudo encontramos nuestro destino por los caminos que tomamos para
-  evitarlo. 
++ [[https://es.wikipedia.org/wiki/Jean_de_La_Fontaine][Jean de La Fontaine]] ::
+  + A menudo encontramos nuestro destino por los caminos que tomamos para
+    evitarlo. 
 
-+ Jean-Jacques Rousseau ::
-  Todas las pasiones son buenas cuando uno es dueño de ellas, y todas son malas
-  cuando nos esclavizan.  
++ [[https://es.wikipedia.org/wiki/Jean-Jacques_Rousseau][Jean-Jacques Rousseau]] ::
+  + Todas las pasiones son buenas cuando uno es dueño de ellas, y todas son
+    malas cuando nos esclavizan.
 
-+ Johann Sebastian Bach ::
-  Es fácil tocar un instrumento musical: todo lo que tienes que hacer es tocar
-  la tecla correcta en el momento adecuado y el instrumento suena. 
++ [[https://es.wikipedia.org/wiki/Johann_Sebastian_Bach][Johann Sebastian Bach]] ::
+  + Es fácil tocar un instrumento musical: todo lo que tienes que hacer es
+    tocar la tecla correcta en el momento adecuado y el instrumento suena.
 
 + [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]] ::
   + Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
@@ -746,272 +803,171 @@ encontrando.
   + Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
     mejor las cosas. 
 
-+ John Dryden ::
-  Feliz quien puede llamar suyo el día en que vive y para sus adentros piensa:
-  mañana Dios dirá, porque ya viví hoy. 
++ [[https://es.wikipedia.org/wiki/John_Holt_(pedagogo)][John Holt]] ::
+  + Aprendemos a hacer algo haciéndolo. No existe otra manera.
 
-+ John Holt ::
-  Aprendemos a hacer algo haciéndolo. No existe otra manera.
++ [[https://es.wikipedia.org/wiki/John_Lennon][John Lennon]] ::
+  + Es tan ciego porque sólo ve lo que quiere ver.
+  + La vida es lo que te pasa mientras estás ocupado haciendo otros planes.
 
-+ John Lennon ::
-  Es tan ciego porque sólo ve lo que quiere ver.
++ [[https://es.wikipedia.org/wiki/John_Locke][John Locke]] ::
+  + Los hombres olvidan siempre que la felicidad humana es una disposición de
+    la mente y no una condición de las circunstancias.
 
-+ John Locke ::
-  Los hombres olvidan siempre que la felicidad humana es una disposición de la
-  mente y no una condición de las circunstancias. 
++ [[https://es.wikipedia.org/wiki/John_Maynard_Keynes][John Maynard Keynes]] ::
+  + Cuando las circunstancias cambian, yo cambio de opinión. 
+  + La dificultad no reside en las nuevas ideas, sino en escapar de las viejas.
 
-+ John Maynard Keynes ::
-  Cuando las circunstancias cambian, yo cambio de opinión. 
++ [[https://es.wikipedia.org/wiki/John_Milton][John Milton]] ::
+  + La soledad es a veces la mejor compañía, y un corto retiro trae un dulce
+    retorno. 
 
-+ John Milton ::
-  La soledad es a veces la mejor compañía, y un corto retiro trae un dulce
-  retorno. 
++ [[https://es.wikipedia.org/wiki/John_Stuart_Mill][John Stuart Mill]] ::
+  + La tendencia general del mundo es convertir a la mediocridad en el poder
+    dominante sobre la humanidad.
 
-+ John Stuart Mill (1859) ::
-  La tendencia general del mundo es convertir a la mediocridad en el poder
-  dominante sobre la humanidad.
++ [[https://es.wikipedia.org/wiki/Jonathan_Swift][Jonathan Swift]] ::
+  + ¡Ojalá vivas todos los días de tu vida!
+  + Un hombre nunca debe avergonzarse por reconocer que se equivocó, que es
+    tanto como decir que hoy es más sabio de lo que fue ayer. 
 
-+ Jonathan Swift ::
-  ¡Ojalá vivas todos los días de tu vida!
++ [[https://es.wikipedia.org/wiki/Jorge_Luis_Borges][Jorge Luis Borges]] ::
+  + La duda es uno de los nombres de la inteligencia.
+  + Los españoles siempre están pensando en la envídia. Para decir que algo es
+    bueno dicen: "Es envidiable".
+  + Nuestro vivir es una serie de adaptaciones, vale decir, una educación del
+    olvido.
+  + Que otros se jacten de las páginas que han escrito; a mi me enorgullecen
+    las que he leído.
 
-+ Jonathan Swift ::
-  Un hombre nunca debe avergonzarse por reconocer que se equivocó, que es tanto
-  como decir que hoy es más sabio de lo que fue ayer. 
++ [[https://es.wikipedia.org/wiki/Jos%C3%A9_de_Letamendi][José de Letamendi]] ::
+  + Si un loco se obstinara durante mucho tiempo en lanzar piedras a la Luna,
+    no alcanzaría, naturalmente, el blanco apetecido, pero acabaría por ser un
+    hondero excepcional.
 
-+ Jorge Luis Borges ::
-  La duda es uno de los nombres de la inteligencia.
++ [[https://es.wikipedia.org/wiki/Joseph_Joubert][Joseph Joubert]] ::
+  + Enseñar es aprender dos veces. 
+  + Las palabras son como el vidrio; oscurecen todo aquello que no ayudan a ver
+    mejor.
 
-+ Jorge Luis Borges ::
-  Los españoles siempre están pensando en la envídia. Para decir que algo es
-  bueno dicen: "Es envidiable". 
++ [[https://es.wikipedia.org/wiki/Jos%C3%A9_Narosky][José Narosky]] ::
+  + Quien cambia felicidad por dinero no podrá cambiar dinero por felicidad.
 
-+ Jorge Luis Borges ::
-  Nuestro vivir es una serie de adaptaciones, vale decir, una educación del
-  olvido.
++ [[https://es.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset][José Ortega y Gasset]] ::
+  + La técnica es el esfuerzo para ahorrar esfuerzo.
+  + Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar
+    cuando se mira lejos.
 
-+ Jorge Luis Borges ::
-  Que otros se jacten de las páginas que han escrito; a mi me enorgullecen las
-  que he leído.  
++ [[https://es.wikipedia.org/wiki/Jos%C3%A9_Saramago][José Saramago]] ::
+  + La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria
+    tiene algo negativo, jamás es definitiva. 
+  + Lo malo no es tener opinión; lo malo es tenerla sin saber de qué se habla.
+  + Lo peor es que se está armando un sistema en el que las pequeñas cosas son
+    las que ocupan los espacios, la información y la preocupación de la
+    gente. Los grandes temas aparecen entonces diluidos, por detrás, y no los
+    vemos.
+  + Los cerebros están llenos de palabras que viven en paz y en armonía con sus
+    contrarias y enemigas. Por eso la gente hace lo contrario de lo que piensa
+    creyendo pensar lo que hace.
 
-+ Joseph Joubert ::
-  Enseñar es aprender dos veces. 
++ [[https://es.wikipedia.org/wiki/Juan_XXIII][Juan XXIII]] ::
+  + Sólo por hoy trataré de vivir exclusivamente el día, sin querer resolver el
+    problema de mi vida todo de una vez.  
 
-+ Joseph Joubert (1754-1824) ::
-  Las palabras son como el vidrio; oscurecen todo aquello que no ayudan a ver
-  mejor.  
-
-+ José Narosky ::
-  Quien cambia felicidad por dinero no podrá cambiar dinero por felicidad.
-
-+ José Ortega y Gasset ::
-  La técnica es el esfuerzo para ahorrar esfuerzo.
-
-+ José Saramago ::
-  La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria
-  tiene algo negativo, jamás es definitiva. 
-
-+ José Saramago ::
-  Lo malo no es tener opinión; lo malo es tenerla sin saber de qué se habla.
-
-+ José Saramago ::
-  Los cerebros están llenos de palabras que viven en paz y en armonía con sus
-  contrarias y enemigas. Por eso la gente hace lo contrario de lo que piensa
-  creyendo pensar lo que hace.  
-        
-+ Juan XXIII ::
-  Sólo por hoy trataré de vivir exclusivamente el día, sin querer resolver el
-  problema de mi vida todo de una vez.  
-
-+ Jules Henri Poincaré ::
-  Los descubrimientos matemáticos, pequeños o grandes, nunca se generan
-  espontáneamente. Presuponen siempre una sólida base de conocimientos
-  preliminares bien madurados por el trabajo consciente y subconsciente.
-
-+ Jules Renard ::
-  Las personas que quieren seguir reglas me divierten, puesto que en la vida
-  únicamente existe la excepción. 
++ [[https://es.wikipedia.org/wiki/Jules_Renard][Jules Renard]] ::
+  + Las personas que quieren seguir reglas me divierten, puesto que en la vida
+    únicamente existe la excepción. 
   
-+ Julio Verne ::
-  La ciencia, muchacho, está hecha de errores; pero de errores que conviene
-  cometer, porque conducen poco a poco a la verdad. 
++ [[https://es.wikipedia.org/wiki/Julio_Verne][Julio Verne]] ::
+  + La ciencia, muchacho, está hecha de errores; pero de errores que conviene
+    cometer, porque conducen poco a poco a la verdad. 
 
-+ Kant ::
-  Nunca discutas con un idiota. La gente podría no notar la diferencia.
++ [[https://es.wikipedia.org/wiki/Karl_Popper][Karl Popper]] ::
+  + Es imposible hablar de tal manera que no se pueda ser mal interpretado.
+  + La ignorancia no consiste en la ausencia de conocimientos sino en rehusar
+    adquirirlos. 
+  + Nuestro conocimiento es necesariamente finito, mientras que nuestra
+    ignorancia es necesariamente infinita. 
 
-+ Kant ::
-  Ser es hacer.
++ [[https://es.wikipedia.org/wiki/Kurt_Tucholsky][Kurt Tucholsky]] ::
+  + La ventaja de ser inteligente es que así resulta más fácil pasar por
+    tonto. Lo contrario es mucho más difícil. 
 
-+ Kant ::
-  Vemos las cosas, no como son, sino como somos nosotros.
++ [[https://es.wikipedia.org/wiki/Lao-Tse][Lao-Tse]] ::
+  + El sabio brega todo el día sin dejar el trabajo duro. No obstante, haciendo
+    esto, permanece en el estado de tranquilidad perfecta.
+  + No valores las cosas difíciles de obtener, verás que nadie se entregará a la
+    codicia. 
+  + Proyecta lo difícil partiendo de donde aún es fácil.
+  + Saber que no se sabe, eso es humildad. Pensar que uno sabe lo que no sabe,
+    eso es enfermedad. 
+  + Sin salir más allá de tu puerta, puedes conocer los asuntos del mundo.
+    Sin espiar a través de las ventanas, puedes ver el Camino del Cielo.
+    Cuanto más lejos vas, menos conoces.
+    Así pues, el Sabio conoce sin viajar, ve sin mirar, y logra sin Actuar.
+  + Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
 
-+ Kant ::
-  La ciencia es la organización del conocimiento, pero la sabiduría es la
-  organización de la vida 
-
-+ Karl Popper ::
-  Es imposible hablar de tal manera que no se pueda ser mal interpretado.
-
-+ Karl Popper ::
-  La ignorancia no consiste en la ausencia de conocimientos sino en rehusar
-  adquirirlos. 
-
-+ Keynes ::
-  La dificultad no reside en las nuevas ideas, sino en escapar de las viejas.
-
-+ Khalil Gibran ::
-  El olvido es una forma de libertad. 
-
-+ Khalil Gibran ::
-  En el corazón de todos los inviernos vive una primavera palpitante, y detrás
-  de cada noche, viene una aurora sonriente. 
-
-+ Khalil Gibran ::
-  Por muy larga que sea la tormenta, el sol siempre vuelve a brillar entre las
-  nubes.
-
-+ Kosko, B. "Pensamiento borroso" p. 52 ::
-  En el siglo pasado, John Stuart Mill dijo que las ideas nuevas atravesaban
-  tres fases de rechazo. En la primera, son falsas. En la segunda, van contra
-  la religión. En la tercera, no son sino noticias viejas, triviales, mero
-  sentido común, y a todos se nos habría ocurrido si hubiésemos tenido el
-  tiempo, el dinero y el interés para ello.
-
-+ Kurt Tucholsky ::
-  La ventaja de ser inteligente es que así resulta más fácil pasar por
-  tonto. Lo contrario es mucho más difícil. 
-
-+ Lao Tse ::
-  Proyecta lo difícil partiendo de donde aún es fácil.
-
-+ Lao Tse ::
-  Saber que no se sabe, eso es humildad. Pensar que uno sabe lo que no sabe,
-  eso es enfermedad. 
-
-+ Lao Tse ::
-  El sabio brega todo el día sin dejar el trabajo duro. No obstante, haciendo
-  esto, permanece en el estado de tranquilidad perfecta.
-
-+ Lao Tse ::
-  No valores las cosas difíciles de obtener, verás que nadie se entregará a la
-  codicia. 
-
-+ Leonardo da Vinci ::
-  Así como el hierro se oxida por falta de uso, también la inactividad destruye
-  el intelecto.  
-
-+ Leonardo da Vinci ::
-  Quien piensa poco, se equivoca mucho.
-
-+ Leonardo da Vinci ::
-  Quien de verdad sabe de qué habla, no encuentra razones para levantar la voz.
-
-+ Leonardo da Vinci. ::
-  De vez en cuando desaparece, tómate un pequeño descanso, para que cuando
-  vuelvas a tu trabajo tu juicio sea más acertado. Toma cierta distancia,
-  porque así el trabajo parece más pequeño, la mayor parte se puede asimilar en
-  un abrir y cerrar de ojos, y la falta de armonía y la proporción es más fácil
-  de ver. 
++ [[https://es.wikipedia.org/wiki/Leonardo_da_Vinci][Leonardo da Vinci]] ::
+  + Así como el hierro se oxida por falta de uso, también la inactividad
+    destruye el intelecto.
+  + De vez en cuando desaparece, tómate un pequeño descanso, para que cuando
+    vuelvas a tu trabajo tu juicio sea más acertado. Toma cierta distancia,
+    porque así el trabajo parece más pequeño, la mayor parte se puede asimilar
+    en un abrir y cerrar de ojos, y la falta de armonía y la proporción es más
+    fácil de ver.
+  + Quien de verdad sabe de qué habla, no encuentra razones para levantar la
+    voz. 
+  + Quien piensa poco, se equivoca mucho.
 
 + [[https://es.wikipedia.org/wiki/Leonhard_Euler][Leonhard Euler]] ::
   + Mejor que de nuestro juicio, debemos fiarnos del cálculo algebraico.
 
-+ Letamendi ::
-  Si un loco se obstinara durante mucho tiempo en lanzar piedras a la Luna, no
-  alcanzaría, naturalmente, el blanco apetecido, pero acabaría por ser un
-  hondero excepcional.
++ [[https://es.wikipedia.org/wiki/Lewis_Carroll][Lewis Carroll]] ::
+  + Alicia se daba por lo general muy buenos consejos a sí misma, aunque rara
+    vez los seguía.
+  + "Alicia a través del espejo" (Alianza, 1983) p. 116 
+    - La cuestión, insistió Alicia, es si se puede hacer que las palabras
+      signifiquen tantas cosas diferentes.
+    - La cuestión, zanjó Zanco Panco, es saber quién es el que manda,..., eso
+      es todo.
 
-+ Lewis Carroll ::
-  Alicia se daba por lo general muy buenos consejos a sí misma, aunque rara vez
-  los seguía. 
++ [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói]] ::
+  + Hay quien pasa por el bosque y sólo ve leña para la hoguera.
+  + Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con exceso
+    lo que no tengo.
+  + La felicidad no está en hacer lo que se quiere, sino en querer lo que se
+    hace. 
+  + Un hombre es como una fracción cuyo numerador corresponde a lo que él es,
+    en tanto que el denominador es lo que cree ser. Cuanto más grande es el
+    denominador, más pequeña es la fracción.
 
-+ Lewis Carroll "Alicia a través del espejo" (Alianza, 1983) p. 116 ::
-  - La cuestión, insistió Alicia, es si se puede hacer que las palabras
-    signifiquen tantas cosas diferentes.
-  - La cuestión, zanjó Zanco Panco, es saber quién es el que manda,..., eso
-    es todo.
++ [[https://es.wikipedia.org/wiki/Li_Bai][Li Bai]] ::
+  + El mundo está lleno de pequeñas alegrías. El arte consiste en saber
+    distinguirlas. 
 
-+ León Tolstoi ::
-  Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con exceso
-  lo que no tengo.   
++ [[https://es.wikipedia.org/wiki/Lin_Yutang][Lin Yutang]] ::
+  + A veces es más importante descubrir lo que uno no puede hacer, que lo que
+    sí puede.
+  + El hombre superior ama su alma; el hombre inferior ama su propiedad.
+  + La sabiduría de la vida consiste en eliminar lo que no sea esencial. 
+  + Un placer como el de una conversación perfecta es necesariamente raro,
+    porque los sabios rara vez hablan y los que hablan rara vez son sabios.
 
-+ León Tólstoi ::
-  Hay quien pasa por el bosque y sólo ve leña para la hoguera.
++ [[https://es.wikipedia.org/wiki/Linus_Pauling][Linus Pauling]] ::
+  + La mejor forma de tener una buena idea es ... tener un montón de ideas.
 
-+ Li Tai-Po ::
-  El mundo está lleno de pequeñas alegrías. El arte consiste en saber
-  distinguirlas. 
++ [[https://es.wikipedia.org/wiki/Lope_de_Vega][Lope de Vega]] ::
+  + A mis soledades voy, de mis soledades vengo, porque para andar conmigo me
+    bastan los pensamientos.
 
-+ Lin Yutang ::
-  A veces es más importante descubrir lo que uno no puede hacer, que lo que sí puede.
++ [[https://fr.wikipedia.org/wiki/Louis_Dumur][Louis Dumur]] ::
+  + La política es el arte de servirse de los hombres haciéndoles creer que se
+    les sirve a ellos. 
 
-+ Lin Yutang ::
-  El hombre superior ama su alma; el hombre inferior ama su propiedad.
-
-+ Lin Yutang ::
-  La sabiduría de la vida consiste en eliminar lo que no sea esencial. 
-
-+ Lin Yutang ::
-  Un placer como el de una conversación perfecta es necesariamente raro, porque
-  los sabios rara vez saben hablar y los que hablan rara vez que son sabios. 
-
-+ Linus Carl Pauling ::
-  La mejor forma de tener una buena idea es ... tener un montón de ideas.
-
-+ Lope de Vega ::
-  A mis soledades voy, de mis soledades vengo, porque para andar conmigo me
-  bastan los pensamientos. 
-
-+ Louis Dumur ::
-  La política es el arte de servirse de los hombres haciéndoles creer que se
-  les sirve a ellos. 
-
-+ Louis Pasteur ::
-  Desgraciados los hombres que tienen todas las ideas claras.
-
-+ Louis Pasteur ::
-  Sorprendernos por algo es el primer paso de la mente hacia el descubrimiento.
-
-+ Machado, A. ::
-  Caminante, no hay camino:
-  se hace camino al andar.
-
-+ Machado, A. ::
-  Juzgarnos o corregirnos supone aplicar la medida ajena al paño propio.
-
-+ Machado, A. ::
-  La página escrita nunca recuerda todo lo que se ha intentado, sino lo poco
-  que se ha conseguido.
-
-+ Machado, A. ::
-  ¡Qué difícil es,
-  cuando todo baja,
-  no bajar también!.
-
-+ Machado, A. "Juan de Mairena" ::
-  Por mucho que un hombre valga, nunca tendrá valor más alto que el de ser
-  hombre. 
-
-+ Machado, A. "Nuevas canciones" LXVIII ::
-  Todo necio
-  confunde valor y precio.
-
-+ Machado, A. "Nuevas canciones" LXXXV ::
-  ¿Tu verdad? No, la Verdad,
-  y ven conmigo a buscarla.
-  La tuya guárdatela.
-
-+ Machado, A. "Nuevas canciones" XIV ::
-  Nunca traces tu frontera
-  ni cuides de tu perfil;
-  todo eso es cosa de fuera.
-
-+ Machado, A. "Nuevas canciones" XXIV ::
-  Despacito y buena letra:
-  el hacer las cosas bien
-  importa más que el hacerlas.
-
-+ Mafalda ::
-  ¿Pensaron alguna vez que si no fuera por todos, nadie sería nada?
++ [[https://es.wikipedia.org/wiki/Louis_Pasteur][Louis Pasteur]] ::
+  + Desgraciados los hombres que tienen todas las ideas claras.
+  + Sorprendernos por algo es el primer paso de la mente hacia el
+    descubrimiento.
 
 + [[https://es.wikipedia.org/wiki/Mahatma_Gandhi][Mahatma Gandhi]] ::
   + Casi todo lo que realice será insignificante, pero es muy importante que lo
@@ -1023,136 +979,91 @@ encontrando.
   + El hombre es producto de sus pensamientos: se convierte en lo que piensa.
   + Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.
 
-+ Marcel Proust ::
-  El instinto dicta el deber y la inteligencia da pretextos para eludirlo.
++ [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]] ::
+  + La solución a los problemas que ves en tu vida es vivir en tal forma que
+    desaparezca lo problemático. 
+  + No busquéis el significado, buscad el uso.
 
-+ Marcel Proust ::
-  El verdadero viaje de descubrimiento no consiste en buscar nuevos caminos
-  sino en tener nuevos ojos.
++ [[https://es.wikipedia.org/wiki/Marcel_Proust][Marcel Proust]] ::
+  + El instinto dicta el deber y la inteligencia da pretextos para eludirlo.
+  + El verdadero viaje de descubrimiento no consiste en buscar nuevos caminos
+    sino en tener nuevos ojos.
 
-+ Marco Aurelio ::
-  Al despuntar la aurora, hazte estas consideraciones previas: me encontraré
-  con un indiscreto, un ingrato, un insolente, un mentiroso, un envidioso, un
-  insociable. Todo eso les acontece por ignorancia de los bienes y de los
-  males. Pero yo, que he observado que la naturaleza del bien es lo bello, y
-  que la del mal es lo vergonzoso, y que la naturaleza del pecador mismo es
-  pariente de la mía, porque participa, no de la misma sangre o de la misma
-  semilla, sino de la inteligencia y de una porción de la divinidad, no puedo
-  recibir daño de ninguno de ellos, pues ninguno me cubrirá de vergüenza; ni
-  puedo enfadarme con mi pariente ni odiarle. Pues hemos nacido para colaborar,
-  al igual que los pies, las manos, los párpados, las hileras de dientes,
-  superiores e inferiores. Obrar, pues, como adversarios los unos de los otros
-  es contrario a la naturaleza. Y es actuar como adversario el hecho de
-  manifestar indignación y repulsa.
++ [[https://es.wikipedia.org/wiki/Marco_Aurelio][Marco Aurelio]] ::
+  + El talento, si no nacemos con él, se vuelve algo imposible de obtener.
+  + La sabiduría es el arte de aceptar aquello que no puede ser cambiado, de
+    cambiar aquello que puede ser cambiado y, sobre todo, de conocer la
+    diferencia. 
+  + Si logras separar, de lo que al parecer te aflige, la opinión que te haces de
+    ello evitarás muchos sufrimientos.
 
-+ Marco Aurelio ::
-  El talento, si no nacemos con él, se vuelve algo imposible de obtener.
++ [[https://es.wikipedia.org/wiki/Marie_Curie][Marie Curie]] ::
+  + Dejamos de temer aquello que hemos aprendido a entender.
 
-+ Marco Aurelio ::
-  La sabiduría es el arte de aceptar aquello que no puede ser cambiado, de
-  cambiar aquello que puede ser cambiado y, sobre todo, de conocer la
-  diferencia. 
++ [[https://es.wikipedia.org/wiki/Mario_Benedetti][Mario Benedetti]] ::
+  + No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo
+    muerda, aunque el sol se esconda, y se calle el viento, aún hay fuego en tu
+    alma, aún hay vida en tus sueños. Porque la vida es tuya y tuyo también el
+    deseo, porque cada día es un comienzo nuevo, porque esta es la hora y el
+    mejor momento.
 
-+ Marco Aurelio "Los estoicos" p. 212 ::
-  Si logras separar, de lo que al parecer te aflige, la opinión que te haces de
-  ello evitarás muchos sufrimientos.
++ [[https://es.wikipedia.org/wiki/Mario_Bunge][Mario Bunge]] ::
+  + Es importante enseñar a estudiar por cuenta propia, a buscar por cuenta
+    propia, a asombrarse. 
+  + Para poder aprender algo nuevo y útil debemos usar filtros; es decir,
+    debemos ignorar la mayor parte de la información que recibimos. O sea, hay
+    que ignorar mucho para llegar a saber algo. Paradójico pero cierto.
 
-+ Marco Tulio Cicerón ::
-  Si quieres aprender, enseña. 
++ [[https://es.wikipedia.org/wiki/Mario_Vargas_Llosa][Mario Vargas Llosa]] ::
+  + Sólo un idiota puede ser totalmente feliz.
 
-+ Marie Curie ::
-  Dejamos de temer aquello que hemos aprendido a entender.
++ [[https://es.wikipedia.org/wiki/Martin_Luther_King][Martin Luther King]] ::
+  + Nada en el mundo es más peligroso que la ignorancia sincera y la estupidez
+    concienzuda.  
+  + Nuestras vidas empiezan a terminar el día que guardamos silencio sobre las
+    cosas que importan. 
 
-+ Mario Benedetti ::
-  No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo
-  muerda, aunque el sol se esconda, y se calle el viento, aún hay fuego en tu
-  alma, aún hay vida en tus sueños. Porque la vida es tuya y tuyo también el
-  deseo, porque cada día es un comienzo nuevo, porque esta es la hora y el
-  mejor momento.
++ [[https://es.wikipedia.org/wiki/Maurice_Maeterlinck][Maurice Maeterlinck]] ::
+  + El silencio es el sol que madura los frutos del alma.
 
-+ Mario Bunge ::
-  Es importante enseñar a estudiar por cuenta propia, a buscar por cuenta
-  propia, a asombrarse. 
++ [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne]] ::
+  + A quienes me preguntan la razón de mis viajes les contesto que sé bien de
+    qué huyo pero ignoro lo que busco.
+  + El signo más cierto de la sabiduría es la serenidad constante.
+  + La prueba más clara de la sabiduría es una alegría continua.  
+  + Nuestra opinión pone precio a las cosas.
 
-+ Mario Bunge ::
-  Para poder aprender algo nuevo y útil debemos usar filtros; es decir, debemos
-  ignorar la mayor parte de la información que recibimos. O sea, hay que
-  ignorar mucho para llegar a saber algo. Paradójico pero cierto. 
++ [[https://es.wikipedia.org/wiki/Michel_Onfray][Michel Onfray]] ::
+  + No desprecio a los creyentes, no me parecen ni ridículos ni dignos de
+    lástima, pero me parece desolador que prefieran las ficciones
+    tranquilizadoras de los niños a las crueles certidumbres de los
+    adultos. Prefieren la fe que calma a la razón que intranquiliza, aun al
+    precio de un perpetuo infantilismo mental.
 
-+ Mario Vargas Llosa ::
-  Sólo un idiota puede ser totalmente feliz.
++ [[https://es.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez][Miguel Hernández]] ::
+  + Yo sólo soy yo cuando estoy solo.
 
-+ Martin Luther King ::
-  Nada en el mundo es más peligroso que la ignorancia sincera y la estupidez
-  concienzuda.  
++ [[https://es.wikipedia.org/wiki/Miguel_de_Cervantes][Miguel de Cervantes]] ::
+  + Confía en el tiempo, que suele dar dulces salidas a muchas amargas
+    dificultades.
 
-+ Martin Luther King Jr. ::
-  Nuestras vidas empiezan a terminar el día que guardamos silencio sobre las
-  cosas que importan. 
++ [[https://es.wikipedia.org/wiki/Moli%C3%A8re][Molière]] ::
+  + Las cosas no valen sino lo que se las hace valer.
 
-+ Maurice Maeterlinck ::
-  El silencio es el sol que madura los frutos del alma.
++ [[https://es.wikipedia.org/wiki/Montesquieu][Montesquieu]] ::
+  + El que teme padecer padece ya lo que teme. 
+  + Nunca he tenido una tristeza que una hora de lectura no haya conseguido
+    disipar.
 
-+ Michel Eyquem de Montaigne ::
-  A quienes me preguntan la razón de mis viajes les contesto que sé bien de qué
-  huyo pero ignoro lo que busco. 
++ [[https://es.wikipedia.org/wiki/Napole%C3%B3n_Bonaparte][Napoleón Bonaparte]] ::
+  + Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
+    encontrado. 
+  + Nunca emprenderíamos nada si quisiéramos asegurar por anticipado el éxito
+    de nuestra empresa.
+  + Nunca interrumpas a tu enemigo mientras está cometiendo un error.
 
-+ Michel Eyquem de Montaigne ::
-  La prueba más clara de la sabiduría es una alegría continua.  
-
-+ Michel Onfray ::
-  No desprecio a los creyentes, no me parecen ni ridículos ni dignos de
-  lástima, pero me parece desolador que prefieran las ficciones
-  tranquilizadoras de los niños a las crueles certidumbres de los
-  adultos. Prefieren la fe que calma a la razón que intranquiliza, aun al
-  precio de un perpetuo infantilismo mental.
-
-+ Miguel Hernández ::
-  Yo sólo soy yo cuando estoy solo.
-
-+ Miguel de Cervantes Saavedra ::
-  Confía en el tiempo, que suele dar dulces salidas a muchas amargas
-  dificultades. 
-
-+ Miley Cyrus ::
-  El problema de no ser fuerte es que la gente hace de ti lo que quieren que
-  seas.
-
-+ Molière ::
-  Las cosas no valen sino lo que se las hace valer.
-
-+ Montaigne ::
-  El signo más cierto de la sabiduría es la serenidad constante.
-
-+ Montaigne "Ensayos (I)" p. 103 ::
-  Nuestra opinión pone precio a las cosas.
-
-+ Montesquieu ::
-  El que teme padecer padece ya lo que teme. 
-
-+ Montesquieu ::
-  Nunca he tenido una tristeza que una hora de lectura no haya conseguido disipar.
-
-+ Napoleón ::
-  Nunca emprenderíamos nada si quisiéramos asegurar por anticipado el éxito de
-  nuestra empresa. 
-
-+ Napoleón Bonaparte ::
-  Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
-  encontrado. 
-
-+ Napoleón Bonaparte ::
-  Nunca interrumpas a tu enemigo mientras está cometiendo un error.
-
-+ Napoleón I ::
-  Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
-  encontrado.  
-
-+ Nelson Mandela ::
-  La educación es el arma más poderosa que puedes usar para cambiar el mundo. 
-
-+ Newton ::
-  Lo que sabemos es una gota de agua; lo que ignoramos es el océano.
++ [[https://es.wikipedia.org/wiki/Nelson_Mandela][Nelson Mandela]] ::
+  + La educación es el arma más poderosa que puedes usar para cambiar el mundo. 
 
 + [[https://es.wikipedia.org/wiki/Nicolas_Chamfort][Nicolas Chamfort]] ::
   + En los grandes asuntos, los hombres se muestran como les conviene, en los
@@ -1162,84 +1073,36 @@ encontrando.
     ‘no’. Saber pronunciar esa palabra y saber vivir solo son los dos únicos
     medios de conservar la libertad y el carácter.
 
-+ Nicolás Maquiavelo ::
-  La experiencia siempre ha demostrado que jamás suceden bien las cosas cuando
-  dependen de muchos. 
++ [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo][Nicolás Maquiavelo]] ::
+  + La experiencia siempre ha demostrado que jamás suceden bien las cosas
+    cuando dependen de muchos.
 
-+ Niels Bohr ::
-  Un experto es una persona que ha cometido todos los errores que se pueden
-  cometer en un determinado campo. 
++ [[https://es.wikipedia.org/wiki/Niels_Bohr][Niels Bohr]] ::
+  + Un experto es una persona que ha cometido todos los errores que se pueden
+    cometer en un determinado campo. 
 
-+ Nietsche ::
-  La ventaja de tener mala memoria es que se goza muchas veces con las mismas
-  cosas. 
++ [[https://es.wikipedia.org/wiki/Oscar_Wilde][Oscar Wilde]] ::
+  + El trabajo es el refugio de los que no tienen nada que hacer.
+  + No soy tan joven como para saberlo todo.
+  + Nunca des explicaciones. Tus amigos no las necesitan. Tus enemigos no las
+    creen.
+  + Para la mayoría de nosotros la verdadera vida es la vida que no llevamos.
+  + Ser natural es la más difícil de las poses. 
 
-+ Nietsche: ::
-  Es más cómodo obedecer a la conciencia que a la razón; la conciencia halla en
-  sí misma una excusa y un aliento. Por eso hay aún tantas personas
-  concienzudas y tan pocas personas razonables. 
++ [[https://es.wikipedia.org/wiki/Ovidio][Ovidio]] ::
+  + En los campos ajenos, la cosecha siempre es más abundante.
+  + La gota horada la roca, no por su fuerza sino por su constancia.
 
-+ Nietzsche ::
-  Lo que mucho ocupa termina por preocupar.
++ [[https://es.wikipedia.org/wiki/Pablo_Neruda][Pablo Neruda]] ::
+  + La felicidad es interior, no exterior; por lo tanto, no depende de lo que
+    tenemos sino de lo que somos.  
 
-+ Nietzsche: ::
-  Aquel que tiene un por qué para vivir se puede enfrentar a todos los cómos. 
++ [[https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry][Paul Valéry]] ::
+  + El problema de nuestros tiempos es que el futuro ya no es lo que era. 
 
-+ Nikita Jruschov ::
-  Los políticos siempre hacen lo mismo: prometen construir un puente aunque no
-  haya río.  
-
-+ Noel Clarasó ::
-  Es muy difícil saber todo lo que hace falta, y mucho más difícil ignorar todo
-  lo que hace falta ignorar. 
-
-+ Ortega y Gasset ::
-  Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar
-  cuando se mira lejos.
-
-+ Oscar Wilde ::
-  El trabajo es el refugio de los que no tienen nada que hacer.
-
-+ Oscar Wilde ::
-  No soy tan joven como para saberlo todo.
-
-+ Oscar Wilde ::
-  No soy tan joven como para saberlo todo.
-
-+ Oscar Wilde ::
-  Nunca des explicaciones. Tus amigos no las necesitan. Tus enemigos no las
-  creen. 
-
-+ Oscar Wilde ::
-  Para la mayoría de nosotros la verdadera vida es la vida que no llevamos.
-
-+ Oscar Wilde ::
-  Ser natural es la más difícil de las poses. 
-
-+ Ovidio ::
-  En los campos ajenos, la cosecha siempre es más abundante.
-
-+ Ovidio ::
-  La gota horada la roca, no por su fuerza sino por su constancia.
-
-+ Pablo Neruda ::
-  La felicidad es interior, no exterior; por lo tanto, no depende de lo que
-  tenemos sino de lo que somos.  
-
-+ Paul Ambroise Valéry ::
-  El problema de nuestros tiempos es que el futuro ya no es lo que era. 
-
-+ Paul Tillich ::
-  Un error pedagógico fatal es lanzar respuestas, como piedras, a las cabezas
-  de aquellos que todavía no han formulado las preguntas.
-
-+ Paulo Coehlo ::
-  Cierra algunas puertas. No por orgullo ni soberbia, sino porque ya no llevan
-  a ninguna parte. 
-
-+ Paulo Coelho ::
-  El primer síntoma de que estamos matando nuestros sueños es la falta de
-  tiempo. 
++ [[https://es.wikipedia.org/wiki/Paul_Tillich][Paul Tillich]] ::
+  + Un error pedagógico fatal es lanzar respuestas, como piedras, a las cabezas
+    de aquellos que todavía no han formulado las preguntas.
 
 + [[https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca][Pedro Calderón de la Barca]] ::
   + Tanto gusto había 
@@ -1247,135 +1110,80 @@ encontrando.
     que, a trueco de quejarse, 
     habían las desdichas de buscarse.
 
-+ Piotr Kropotkin: ::
-  Pocos placeres hay en la vida humana que igualen al producido por la
-  aparición repentina de una generalización que ilumina el entendimiento,
-  después de un largo período de paciente investigación. 
++ [[https://es.wikipedia.org/wiki/Piotr_Kropotkin][Piotr Kropotkin]] ::
+  + Pocos placeres hay en la vida humana que igualen al producido por la
+    aparición repentina de una generalización que ilumina el entendimiento,
+    después de un largo período de paciente investigación. 
 
-+ Pitágoras ::
-  Con orden y tiempo se encuentra el secreto de hacerlo todo, y de hacerlo
-  bien.
++ [[https://es.wikipedia.org/wiki/Pit%C3%A1goras][Pitágoras]] ::
+  + Con orden y tiempo se encuentra el secreto de hacerlo todo, y de hacerlo
+    bien.
+  + Elige lo mejor; la costumbre lo hará suave y fácil.
+  + La sabiduría comienza escuchando ... escucha y serás sabio.
 
-+ Pitágoras ::
-  La sabiduría comienza escuchando ... escucha y serás sabio.
++ [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón]] ::
+  + La belleza es el esplendor de la verdad.
+  + La justicia no es otra cosa que la conveniencia del más fuerte.
+  + La pobreza no viene por la disminución de las riquezas, sino por la
+    multiplicación de los deseos.
+  + Lo que se busca se encuentra, lo que se descuida se pierde.
+  + Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
+    encontrado.
+  + Nada sucede por casualidad, en el fondo las cosas tienen su plan secreto,
+    aunque nosotros no lo entendamos. 
+  + Los sabios hablan porque tienen algo que decir, los tontos hablan porque
+    tienen que decir algo. 
 
-+ Pitágoras: ::
-  Elige lo mejor; la costumbre lo hará suave y fácil.
-
-+ Platón ::
-  La belleza es el esplendor de la verdad.
-
-+ Platón ::
-  La justicia no es otra cosa que la conveniencia del más fuerte.
-
-+ Platón ::
-  La pobreza no viene por la disminución de las riquezas, sino por la
-  multiplicación de los deseos.
-
-+ Platón ::
-  Lo que se busca se encuentra, lo que se descuida se pierde.
-
-+ Platón ::
-  Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
-  encontrado.
-
-+ Platón ::
-  Nada sucede por casualidad, en el fondo las cosas tienen su plan secreto,
-  aunque nosotros no lo entendamos. 
-
-+ Platón ::
-  Los sabios hablan porque tienen algo que decir, los tontos hablan porque
-  tienen que decir algo. 
-
-+ Plutarco ::
-  En modo alguno hemos de enfadarnos con las cosas; nada les importa nuestras
-  iras. 
-
-+ Polo de Medina (1603-1676), poeta español ::
-  Educar es cultivar a un tiempo el conocimiento de lo verdadero, la voluntad
-  de lo bueno y la sensibilidad de lo bello. 
-
-+ Proverbio ::
-  La palabra y la piedra suelta no tienen vuelta.
-
-+ Proverbio Zen ::
-  Acepta lo que no puedas cambiar y
-  cambia lo que no puedas aceptar.  
-
-+ Proverbio Zen ::
-  Deberías sentarte a meditar veinte minutos al día, a menos que estés
-  demasiado ocupado. Entonces debes mediata una hora.
++ [[https://es.wikipedia.org/wiki/Plutarco][Plutarco]] ::
+  + En modo alguno hemos de enfadarnos con las cosas; nada les importa nuestras
+    iras. 
 
 + Proverbio chino ::
-  Aquel que pregunta es un tonto por cinco minutos, pero el que no pregunta
-  permanece tonto por siempre.
-
-+ Proverbio chino ::
-  Cuando mi corazón está en paz, el mundo está en paz.   
-
-+ Proverbio chino ::
-  Cuando soplan vientos de cambio, algunos construyen muros. Otros, molinos.
-
-+ Proverbio chino ::
-  El trabajo del pensamiento se parece a la perforación de un pozo: el agua es
-  turbia al principio, mas luego se clarifica. 
-
-+ Proverbio chino ::
-  Quien quiere hacer algo encuentra un medio; quien no quiere hacer nada
-  encuentra una excusa. 
-
-+ Proverbio chino ::
-  Si el problema tiene solución, ¿por qué te preocupas?. Y si no la tiene, ¿por
-  qué te sigues preocupando? 
+  + Aquel que pregunta es un tonto por cinco minutos, pero el que no pregunta
+    permanece tonto por siempre.
+  + Cuando mi corazón está en paz, el mundo está en paz.   
+  + Cuando soplan vientos de cambio, algunos construyen muros. Otros, molinos.
+  + El trabajo del pensamiento se parece a la perforación de un pozo: el agua
+    es turbia al principio, mas luego se clarifica.
+  + Quien quiere hacer algo encuentra un medio; quien no quiere hacer nada
+    encuentra una excusa.
+  + Si el problema tiene solución, ¿por qué te preocupas?. Y si no la tiene,
+    ¿por qué te sigues preocupando?
 
 + Proverbio hindú ::
-  Cuando hables, procura que tus palabras sean mejores que el silencio.
+  + Cuando hables, procura que tus palabras sean mejores que el silencio.
 
 + Proverbio holandés ::
-  No puede impedirse el viento. Pero pueden construirse molinos.
-
-+ Proverbio holandés ::
-  No puede impedirse el viento. Pero pueden construirse molinos.
+  + No puede impedirse el viento. Pero pueden construirse molinos.
 
 + Proverbio japonés ::
-  Las palabras no pronunciadas son las flores del silencio.
+  + Las palabras no pronunciadas son las flores del silencio.
 
 + Proverbio árabe ::
-  No digas todo lo que sabes,
-  no hagas todo lo que puedes,
-  no creas todo lo que oyes,
-  no gastes todo lo que tienes;
-  porque
-  el que dice todo lo que sabe,
-  el que hace todo lo que puede,
-  el que cree todo lo que oye,
-  el que gasta todo lo que tiene;
-  muchas veces
-  dice lo que no conviene,
-  hace lo que no debe,
-  juzga lo que no ve,
-  gasta lo que no tiene.
+  + No hables si lo que vas a decir no es más hermoso que el silencio.
 
-+ Proverbio árabe ::
-  No hables si lo que vas a decir no es más hermoso que el silencio.
-
-+ Príncipe de Ligne ::
-  A los hombres se les puede dividir en dos categorías: los que hablan para
-  decir algo y los que dicen algo por hablar. 
-
-+ Pío Baroja ::
-  La verdad es que en España hay siete clases de españoles... sí, como los
-  siete pecados capitales. A saber:        
-  1. los que no saben;
-  2. los que no quieren saber;
-  3. los que odian el saber;
-  4. los que sufren por no saber;
-  5. los que aparentan que saben;
-  6. los que triunfan sin saber, y
-  7. los que viven gracias a que los demás no saben.
-  Estos últimos se llaman a sí mismos "políticos" y a veces hasta
-  "intelectuales". 
-
++ Proverbio Zen ::
+  + Acepta lo que no puedas cambiar y
+    cambia lo que no puedas aceptar.  
+  + Come cuando tengas hambre, duerme cuando estés cansado.
+  + Con cada paso que das alcanzas tu meta.
+  + Cualquier estúpido puede complicar las cosas, el truco está en
+    simplificarlas.
+  + Deberías sentarte a meditar veinte minutos al día, a menos que estés
+    demasiado ocupado. Entonces debes meditar una hora.
+  + Descubro las enseñanzas de los sabios en las puntas de las hierbas.
+  + El trabajo de un maestro zen no consiste en impartir información, sino
+    hacerte ver qué no sabes.
+  + Eres lo que piensas.
+  + La primavera llega,
+    la hierba crece por sí sola.
+  + Mientras distingas, arriba de abajo, izquierda de derecha, antes de
+    después, serás esclavo del convencionalismo.
+  + No confundáis la luna con el dedo que la señala.
+  + Ser feliz es muy sencillo. Lo que es difícil es ser sencillo.
+  + ¿Cuál es el problema? Yo soy el problema. Deshazte del "yo" y de repente no
+    hay problema.
+ 
 + [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]] ::
   + Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no
     desespero en aprender. 
@@ -1385,476 +1193,276 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson]] ::
   + El hombre grande es aquel que en medio de las muchedumbres mantiene, con
     perfecta dulzura, la independencia de la soledad. 
+  + Grabad esto en vuestro corazón; cada día comienza en nosotros un año nuevo,
+    una nueva vida.
+  + Más podemos conocer de una persona por lo que ella dice de los demás que
+    por lo que los demás dicen de ella.
   + Nunca se ha logrado nada sin entusiasmo.
 
-+ Rabindranath Tagore ::
-  El canal se complace pensando que los ríos no existen sino para traerle agua.
++ [[https://es.wikipedia.org/wiki/Rabindranath_Tagore][Rabindranath Tagore]] ::
+  + El canal se complace pensando que los ríos no existen sino para traerle
+    agua.
+  + Hacer preguntas es prueba de que se piensa.
 
-+ Rabindranath Tagore ::
-  Hacer preguntas es prueba de que se piensa.
++ [[https://es.wikipedia.org/wiki/Ramon_Llull][Ramón Llull]] ::
+  + Hombre paciente no es vencido.
 
-+ Ralph W. Emerson ::
-  Más podemos conocer de una persona por lo que ella dice de los demás que por
-  lo que los demás dicen de ella.
++ [[https://es.wikipedia.org/wiki/Rembrandt][Rembrandt]] ::
+  + Practica lo que sabes y esto te ayudará a ver lo que todavía no sabes.
 
-+ Ralph W. Emerson ::
-  Grabad esto en vuestro corazón; cada día comienza en nosotros un año nuevo,
-  una nueva vida. 
++ [[https://es.wikipedia.org/wiki/Remy_de_Gourmont][Remy de Gourmont]] ::
+  + La lógica es buena para razonar, pero mala para vivir.
 
-+ Ramón Llull ::
-  Hombre paciente no es vencido.
++ [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]] ::
+  + Daría todo lo que sé por la mitad de lo que ignoro.
+  + No hay nada repartido de modo más equitativo en el mundo que la razón: todo
+    el mundo está convencido de tener suficiente.
 
-+ Raymund Popper ::
-  Nuestro conocimiento es necesariamente finito, mientras que nuestra
-  ignorancia es necesariamente infinita. 
++ [[https://es.wikipedia.org/wiki/Richard_Bach][Richard Bach]] ::
+  + Si tu felicidad depende de lo que hagan los demás, supongo que estarás en
+    aprietos. 
 
-+ Rembrandt ::
-  Practica lo que sabes y esto te ayudará a ver lo que todavía no sabes.
++ [[https://es.wikipedia.org/wiki/Richard_Whately][Richard Whately]] ::
+  + Enseñar a quien no tiene curiosidad por aprender es sembrar un campo sin
+    ararlo.  
 
-+ Remy de Gourmont ::
-  La lógica es buena para razonar, pero mala para vivir.
++ [[https://es.wikipedia.org/wiki/Rita_Levi-Montalcini][Rita Levi-Montalcini]] ::
+  + El cuerpo hace lo que quiere. Yo no soy mi cuerpo: soy mi mente.
 
-+ René Descartes ::
-  Daría todo lo que sé por la mitad de lo que ignoro.
++ [[https://es.wikipedia.org/wiki/Robert_B._Laughlin][Robert B. Laughlin]] ::
+  + Todos tenemos la tendencia a no ver el mundo como es en realidad sino como
+    queremos que sea; es parte de nuestra naturaleza, pero no debemos perder de
+    vista que se trata de un defecto en el diseño de la mente humana y que hay
+    que luchar contra él.
 
-+ René Descartes ::
-  No hay nada repartido de modo más equitativo en el mundo que la razón: todo
-  el mundo está convencido de tener suficiente.
++ [[https://es.wikipedia.org/wiki/Robert_Bolt][Robert Bolt]] ::
+  + Una creencia no es simplemente una idea que la mente posee, es una idea que
+    posee a la mente. 
 
-+ Richard Bach ::
-  Si tu felicidad depende de lo que hagan los demás, supongo que estarás en
-  aprietos. 
++ [[https://es.wikipedia.org/wiki/Robert_Burns][Robert Burns]] ::
+  + Si nos fuera dado el poder de vernos como nos ven los demás, de cuantos
+    disparates y necedades nos veríamos libres. 
 
-+ Richard Whately ::
-  Enseñar a quien no tiene curiosidad por aprender es sembrar un campo sin
-  ararlo.  
++ [[https://es.wikipedia.org/wiki/Robert_G._Ingersoll][Robert G. Ingersoll]] ::
+  + En la vida no hay premios ni castigos, sino consecuencias.
 
-+ Rita Levi-Montalcini ::
-  El cuerpo hace lo que quiere. Yo no soy mi cuerpo: soy mi mente.
++ [[https://es.wikipedia.org/wiki/Robert_Louis_Stevenson][Robert Louis Stevenson]] ::
+  + No juzgues el día por la cosecha que has recogido, sino por las semillas
+    que has plantado.
 
-+ Robert B. Laughlin ::
-  Todos tenemos la tendencia a no ver el mundo como es en realidad sino como
-  queremos que sea; es parte de nuestra naturaleza, pero no debemos perder de
-  vista que se trata de un defecto en el diseño de la mente humana y que hay
-  que luchar contra él. 
++ [[https://en.wikipedia.org/wiki/Robert_Orben][Robert Orben]] ::
+  + Errar es humano. Y echarle la culpa al ordenador es más humano todavía.
+  + Las vacaciones consisten en no tener nada que hacer y disponer de todo el
+    día para hacerlo.
 
-+ Robert Bolt ::
-  Una creencia no es simplemente una idea que la mente posee, es una idea que
-  posee a la mente. 
++ [[https://es.wikipedia.org/wiki/Salom%C3%B3n][Salomón]] ::
+  + El corazón alegre hace tanto bien como el mejor medicamento.
+  + La mejor medicina es un ánimo gozoso. 
 
-+ Robert Burns ::
-  Si nos fuera dado el poder de vernos como nos ven los demás, de cuantos
-  disparates y necedades nos veríamos libres. 
++ [[https://es.wikipedia.org/wiki/Salvador_Jacinto_Polo_de_Medina][Salvador Jacinto Polo de Medina]] ::
+  Educar es cultivar a un tiempo el conocimiento de lo verdadero, la voluntad
+  de lo bueno y la sensibilidad de lo bello. 
 
-+ Robert Green Ingersoll ::
-  En la vida no hay premios ni castigos, sino consecuencias.
++ [[https://es.wikipedia.org/wiki/Samuel_Butler_(novelista)][Samuel Butler]] ::
+  + La vida es el arte de sacar conclusiones suficientes a partir de datos
+    insuficientes. 
 
-+ Robert Louis Stevenson ::
-  No juzgues el día por la cosecha que has recogido, sino por las semillas que
-  has plantado. 
++ [[https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona][San Agustín]] ::
+  + Quien roba con un barco es un pirata, quien roba con una flota es
+    almirante.
 
-+ Robert Louis Stevenson. ::
-  No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas.
-
-+ Robert Orben ::
-  Errar es humano. Y echarle la culpa al ordenador es más humano todavía.
-
-+ Robert Orben ::
-  Las vacaciones consisten en no tener nada que hacer y disponer de todo el día
-  para hacerlo. 
-
-+ Rochefoucauld ::
-  Ponemos más interés en hacer creer a los demás que somos felices que en tratar
-  de serlo. 
-
-+ Salomón ::
-  El corazón alegre hace tanto bien como el mejor medicamento.
-
-+ Salomón ::
-  La mejor medicina es un ánimo gozoso. 
-
-+ Samuel Butler ::
-  La vida es el arte de sacar conclusiones suficientes a partir de datos
-  insuficientes. 
-
-+ San Agustín ::
-  Quien roba con un barco es un pirata, quien roba con una flota es almirante.
-
-+ Santiago Ramón y Cajal ::
++ [[https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Santiago Ramón y Cajal]] ::
   Lo peor no es cometer un error, sino tratar de justificarlo, en vez de
   aprovecharlo como aviso providencial de nuestra ligereza o ignorancia. 
 
-+ Saramago ::
-  Lo peor es que se está armando un sistema en el que las pequeñas cosas son
-  las que ocupan los espacios, la información y la preocupación de la
-  gente. Los grandes temas aparecen entonces diluidos, por detrás, y no los
-  vemos. 
++ [[https://es.wikipedia.org/wiki/Sigmund_Freud][Sigmund Freud]] ::
+  + Existen dos maneras de ser feliz en esta vida, una es hacerse el idiota y
+    la otra serlo.
+  + La prueba más clara de que existe vida inteligente en otros planetas es que
+    todavía no nos han visitado.
 
-+ Schopenhauer ::
-  The alchemists in their search for gold discovered many other things of
-  greater value. 
++ [[https://es.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson][Siméon Denis Poisson]] ::
+  + La vida merece la pena sólo por dos cosas: por descubrir las matemáticas y
+    por enseñarlas. 
 
-+ Schuber ::
-  Cuando uno se inspira en algo bueno, la música nace con fluidez, las melodías
-  brotan; realmente esto es una gran satisfacción. 
++ [[https://es.wikipedia.org/wiki/Raymond_Smullyan][Raymond Smullyan]] ::
+  + Sople como sople el viento,
+    vaya como vaya el mundo,
+    ¡a mí me va bien!.
+  + El Sabio no duerme porque deba,
+    ni siquiera porque quiera,
+    sino porque tiene sueño.
 
-+ Schulz ::
-  Si se me diera la oportunidad de hacer un regalo a la siguiente generación,
-  sería la capacidad de reírse cada cual de sí mismo. 
++ [[https://es.wikipedia.org/wiki/Sor_Juana_In%C3%A9s_de_la_Cruz][Sor Juana Inés de la Cruz]] ::
+  + Para todo se halla prueba y razón en qué fundarlo; y no hay razón para
+    nada, de haber razón para tanto.
 
-+ Sigmund Freud ::
-  Existen dos maneras de ser feliz en esta vida, una es hacerse el idiota y la
-  otra serlo. 
++ [[https://es.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard][Søren Kierkegaard]] ::
+  + La tarea se debe plantear difícil, pues sólo la dificultad inspira a los
+    nobles de corazón. 
+  + La vida sólo puede ser comprendida hacia atrás, pero únicamente puede ser
+    vivida hacia adelante. 
 
-+ Sigmund Freud ::
-  La prueba más clara de que existe vida inteligente en otros planetas es que
-  todavía no nos han visitado.
++ [[https://es.wikipedia.org/wiki/Stephen_Hawking][Stephen Hawking]] ::
+  + La inteligencia es la habilidad de adaptarse a los cambios.
 
-+ Siméon Denis Poisson ::
-  La vida merece la pena sólo por dos cosas: por descubrir las matemáticas y
-  por enseñarlas. 
++ [[https://es.wikipedia.org/wiki/Susanna_Tamaro][Susanna Tamaro]]‬ ::
+  + Sin constancia, sin dedicación no se logra nada en ningún campo. No se
+    puede estudiar una lengua ni plantar un huerto ni cultivar una amistad ni
+    construir una casa. La perseverancia y la atención no son dones innatos
+    sino un camino que se aprende a recorrer.
 
-+ Sir Francis Bacon ::
-  Quien no quiere pensar es un fanático; quien no puede pensar, es un idiota;
-  quien no osa pensar es un cobarde.
++ [[https://es.wikipedia.org/wiki/S%C3%A9neca][Séneca]] ::
+  + Brevísima y agitadísima es la vida de aquellos que olvidan el pasado,
+    descuidan el presente y temen el futuro.
+  + Como el suelo, por rico que sea, no puede dar fruto si no se cultiva,
+    la mente sin cultivo tampoco puede producir.    
+  + El lenguaje de la verdad debe ser, sin duda alguna, simple y sin
+    artificios.
+  + El mayor impedimento al vivir es la espera, que, por estar pendiente al día
+    de mañana, pierde el de hoy.
+  + ¡Estudia! No para saber una cosa más, sino para saberla mejor.
+  + Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen
+    de ti.
+  + La vida es como una leyenda, no importa que sea larga, sino que esté bien
+    narrada.
+  + Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por
+    medio de ejemplos.
+  + Lee siempre autores reconocidos y, si en alguna ocasión te agradare
+    recurrir a otros, vuelve luego a los primeros.
+  + Muchas veces lo que no se halla cuando se busca, sale al encuentro cuando
+    no se busca.
+  + Muy pocos aciertan antes de errar.
+  + Nada impide tanto la curación como el cambio frecuente de remedios.
+  + No es pobre el que tiene poco, sino el que ambiciona más.
+  + No está en ningún lugar quien está en todas partes.
 
-+ Sir Walter Scott ::
-  Descansar demasiado es oxidarse. 
++ [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]] ::
+  + El grado sumo del saber es contemplar el porqué.
+  + El verdadero viaje no es el que nos lleva lejos, sino el que conduce a
+    nuestro interior. 
+  + La ciencia humana consiste más en destruir errores que en descubrir
+    verdades. 
+  + Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
 
-+ Smullyan "Silencioso Tao" ::
-  Sople como sople el viento,
-  vaya como vaya el mundo,
-  ¡a mí me va bien!.
++ [[https://es.wikipedia.org/wiki/Tales_de_Mileto][Tales de Mileto]] ::
+  + De todo lo que es posible aprender, elige y aprende lo mejor; y de todo lo
+    que hayas aprendido, elige lo mejor y enséñalo a los demás.
+  + La cosa más difícil es conocernos a nosotros mismos; la más fácil es hablar
+    mal de los demás.
 
-+ Smullyan "Silencioso Tao" (p. 14) ::
-  El Sabio no duerme porque deba,
-  ni siquiera porque quiera,
-  sino porque tiene sueño.
++ [[https://es.wikipedia.org/wiki/Terencio][Terencio]] ::
+  + Hombre soy y nada humano me es ajeno (/Homo sum; humani nihil a me alterum
+    puto/).
 
-+ Sor Juana de la Cruz ::
-  Para todo se halla prueba y razón en qué fundarlo; y no hay razón para nada,
-  de haber razón para tanto. 
++ [[https://es.wikipedia.org/wiki/Terry_Pratchett][Terry Pratchett]] ::
+  + El tiempo es una droga. En cantidades excesivas, mata.
 
-+ Soren Kierkegaard ::
-  La vida sólo puede ser comprendida hacia atrás, pero únicamente puede ser
-  vivida hacia adelante. 
++ [[https://es.wikipedia.org/wiki/Thomas_Carlyle][Thomas Carlyle]] ::
+  + No hables, en manera alguna, hasta que tengas algo que decir.
 
-+ Soren Kierkegaard ::
-  Life can only be understood backwards, but it must be lived forwards.
++ [[https://es.wikipedia.org/wiki/Thomas_Jefferson][Thomas Jefferson]] ::
+  + Yo creo bastante en la suerte. Y he constatado que, cuanto más duro
+    trabajo, más suerte tengo.
 
-+ Spinoza ::
-  Si somos marionetas, nuestra mejor opción para dejar de serlo es tratar de
-  averiguar la lógica del titiritero. 
++ [[https://es.wikipedia.org/wiki/Thomas_Kuhn][Thomas Kuhn]] ::
+  + Lo que ve un hombre depende tanto de lo que mira como de lo que su
+    experiencia visual y conceptual previa lo ha preparado a ver. 
 
-+ Stephen Hawking ::
-  La inteligencia es la habilidad de adaptarse a los cambios.
++ [[https://es.wikipedia.org/wiki/Thomas_Merton][Thomas Merton]] ::
+  + La felicidad no es una cuestión de intensidad, sino de equilibrio, ritmo y
+    armonía. 
 
-+ Steve Jobs ::
-  Learning to program teaches you how to think. Computer science is a liberal
-  art. 
++ [[https://es.wikipedia.org/wiki/Thomas_Shadwell][Thomas Shadwell]] ::
+  + Ningún hombre es feliz sino por comparación.
 
-+ Susanna Tamaro‬ ::
-  Sin constancia, sin dedicación no se logra nada en ningún campo. No se puede
-  estudiar una lengua ni plantar un huerto ni cultivar una amistad ni construir
-  una casa. La perseverancia y la atención no son dones innatos sino un camino
-  que se aprende a recorrer. 
++ [[https://es.wikipedia.org/wiki/Thornton_Wilder][Thornton Wilder]] ::
+  + Es difícil dejar de convertirse en la persona que los demás creen que uno
+    es.
 
-+ Séneca ::
-  Brevísima y agitadísima es la vida de aquellos que olvidan el pasado,
-  descuidan el presente y temen el futuro.
++ [[https://es.wikipedia.org/wiki/Tom_Clancy][Tom Clancy]] ::
+  + La vida es aprendizaje, cuando dejes de aprender, mueres.
 
-+ Séneca ::
-  Como el suelo, por rico que sea, no puede dar fruto si no se cultiva,
-  la mente sin cultivo tampoco puede producir.    
++ [[https://es.wikipedia.org/wiki/Tom%C3%A1s_de_Kempis][Tomás de Kempis]] ::
+  + He buscado el sosiego en todas partes, y sólo lo he encontrado sentado en
+    un rincón apartado, con un libro en las manos.
 
-+ Séneca ::
-  El lenguaje de la verdad debe ser, sin duda alguna, simple y sin artificios. 
-
-+ Séneca ::
-  El lenguaje de la verdad debe ser, sin duda alguna, simple y sin artificios. 
-
-+ Séneca ::
-  Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen
-  de ti.    
-
-+ Séneca ::
-  Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por
-  medio de ejemplos.  
-
-+ Séneca ::
-  Muchas veces lo que no se halla cuando se busca, sale al encuentro cuando no
-  se busca. 
-
-+ Séneca ::
-  Muy pocos aciertan antes de errar.
-
-+ Séneca ::
-  ¡Estudia! No para saber una cosa más, sino para saberla mejor.
-
-+ Séneca ::
-  La vida es como una leyenda, no importa que sea larga, sino que esté bien
-  narrada. 
-
-+ Séneca ::
-  El mayor impedimento al vivir es la espera, que, por estar pendiente al día
-  de mañana, pierde el de hoy.
-
-+ Séneca "Epístolas morales a Lucilio" ::
-  Lee siempre autores reconocidos y, si en alguna ocasión te agradare recurrir
-  a otros, vuelve luego a los primeros.
-
-+ Séneca "Epístolas morales a Lucilio" ::
-  Nada impide tanto la curación como el cambio frecuente de remedios.
-
-+ Séneca "Epístolas morales a Lucilio" ::
-  No es pobre el que tiene poco, sino el que ambiciona más.
-
-+ Séneca "Epístolas morales a Lucilio" ::
-  No está en ningún lugar quien está en todas partes.
-
-+ Sócrates ::
-  El grado sumo del saber es contemplar el porqué.
-
-+ Sócrates ::
-  El verdadero viaje no es el que nos lleva lejos, sino el que conduce a
-  nuestro interior. 
-
-+ Sócrates ::
-  La ciencia humana consiste más en destruir errores que en descubrir
-  verdades. 
-
-+ Sócrates ::
-  Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
-
-+ Søren Kierkegaard ::
-  La tarea se debe plantear difícil, pues sólo la dificultad inspira a los
-  nobles de corazón. 
-
-+ Tales de Mileto ::
-  De todo lo que es posible aprender, elige y aprende lo mejor; y de todo lo
-  que hayas aprendido, elige lo mejor y enséñalo a los demás.
-
-+ Tales de Mileto ::
-  La cosa más difícil es conocernos a nosotros mismos; la más fácil es hablar
-  mal de los demás.  
-
-+ Tao ::
-  Sin salir más allá de tu puerta, puedes conocer los asuntos del mundo.
-  Sin espiar a través de las ventanas, puedes ver el Camino del Cielo.
-  Cuanto más lejos vas, menos conoces.
-  Así pues, el Sabio conoce sin viajar, ve sin mirar, y logra sin Actuar.
-
-+ Tao ::
-  Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
-
-+ Terencio (s. II antes de nuestra era) ::
-  Hombre soy y no considero ajena ninguna cosa humana (Homo sum; humani nihil a
-  me alterum puto).
-
-+ Terry Pratchett ::
-  El tiempo es una droga. En cantidades excesivas, mata.
-
-+ Thomas Carlyle ::
-  No hables, en manera alguna, hasta que tengas algo que decir.
-
-+ Thomas Jefferson ::
-  Yo creo bastante en la suerte. Y he constatado que, cuanto más duro trabajo,
-  más suerte tengo. 
-
-+ Thomas Kuhn ::
-  Lo que ve un hombre depende tanto de lo que mira como de lo que su
-  experiencia visual y conceptual previa lo ha preparado a ver. 
-
-+ Thomas Merton ::
-  Happiness is not a matter of intensity but of balance, order, rhythm and
-  harmony. 
-
-+ Thomas Shadwell ::
-  Ningún hombre es feliz sino por comparación.
-
-+ Thornton Wilder ::
-  Es difícil dejar de convertirse en la persona que los demás creen que uno
-  es. 
-
-+ Tolstoi ::
-  La felicidad no está en hacer lo que se quiere, sino en querer lo que se
-  hace. 
-
-+ Tolstoi ::
-  Un hombre es como una fracción cuyo numerador corresponde a lo que él es, en
-  tanto que el denominador es lo que cree ser. Cuanto más grande es el
-  denominador, más pequeña es la fracción. 
-
-+ Tom Clancy ::
-  La vida es aprendizaje, cuando dejes de aprender, mueres.
-
-+ Tomás de Kempis ::
-  He buscado el sosiego en todas partes, y sólo lo he encontrado sentado en un
-  rincón apartado, con un libro en las manos. 
-
-+ Truman Capote ::
-  Para mí, el mayor placer de la escritura no es el tema que se trate, sino la
-  música que hacen las palabras. 
++ [[https://es.wikipedia.org/wiki/Truman_Capote][Truman Capote]] ::
+  + Para mí, el mayor placer de la escritura no es el tema que se trate, sino
+    la música que hacen las palabras.
 
 + [[https://es.wikipedia.org/wiki/Umberto_Eco][Umberto Eco]] ::
   + Cuando se dispone de poco tiempo lo peor es perder la calma. Debemos actuar
     como si tuviésemos la eternidad por delante.
   + El mundo está lleno de libros preciosos que nadie lee.
 
-+ Victor Hugo ::
-  Lo que bien se piensa, bien se expresa. 
++ [[https://es.wikipedia.org/wiki/Victor_Hugo][Victor Hugo]] ::
+  + El éxito es una cosa bastante repugnante. Su falsa semejanza con el mérito
+    engaña a los hombres. 
+  + Lo que bien se piensa, bien se expresa. 
 
-+ Vincent Van Gogh ::
-  Si nos perfeccionamos en una sola cosa y la comprendemos bien, adquirimos por
-  añadidura la comprensión y el conocimiento de muchas otras cosas. 
++ [[https://es.wikipedia.org/wiki/Vincent_van_Gogh][Vincent van Gogh]] ::
+  + Si nos perfeccionamos en una sola cosa y la comprendemos bien, adquirimos
+    por añadidura la comprensión y el conocimiento de muchas otras cosas.
 
-+ Virgilio ::
-  Pueden los que creen que pueden.
++ [[https://es.wikipedia.org/wiki/Virgilio][Virgilio]] ::
+  + Pueden los que creen que pueden.
 
-+ Voltaire ::
-  Cuando uno no vive como piensa, acaba pensando como vive. 
++ [[https://es.wikipedia.org/wiki/Voltaire][Voltaire]] ::
+  + Cuando uno no vive como piensa, acaba pensando como vive. 
+  + El secreto de aburrir a la gente consiste en decirlo todo.
+  + He decidido hacer lo que me gusta porque es bueno para la salud.
+  + La estupidez es una enfermedad extraordinaria, no es el enfermo el que
+    sufre por ella, sino los demás.
+  + Pensad por cuenta propia y dejad que los demás disfruten del derecho a
+    hacer lo mismo.
+  + Una colección de pensamientos debe ser una farmacia donde se encuentra
+    remedio a todos los males.
+  + Quienes creen que el dinero lo hace todo, terminan haciendo todo por
+    dinero.
 
-+ Voltaire ::
-  El secreto de aburrir a la gente consiste en decirlo todo.
++ [[https://es.wikipedia.org/wiki/Walter_Scott][Walter Scott]] ::
+  + Descansar demasiado es oxidarse. 
 
-+ Voltaire ::
-  He decidido hacer lo que me gusta porque es bueno para la salud.
++ [[https://es.wikipedia.org/wiki/William_Arthur_Ward][William A. Ward]] ::
+  + El pesimista se queja del viento;
+    el optimista espera que este cambie;
+    el realista ajusta las velas.
 
-+ Voltaire ::
-  La estupidez es una enfermedad extraordinaria, no es el enfermo el que sufre
-  por ella, sino los demás. 
++ [[https://es.wikipedia.org/wiki/William_Blake][William Blake]] ::
+  + El loco que persiste en su locura se tornará sabio.
+  + El ver un mundo en un grano de arena
+    y un cielo en una flor silvestre,
+    sostener el infinito en la palma de la mano
+    y la eternidad en una hora.
 
-+ Voltaire ::
-  La idiotez es una enfermedad extraordinaria, no es el enfermo el que sufre
-  por ella, sino los demás.  
++ [[https://es.wikipedia.org/wiki/William_Faulkner][William Faulkner]] ::
+  + La sabiduría suprema es tener sueños bastante grandes para no perderlos de
+    vista mientras se persiguen.
 
-+ Voltaire ::
-  Pensad por cuenta propia y dejad que los demás disfruten del derecho a hacer
-  lo mismo. 
++ [[https://es.wikipedia.org/wiki/William_James][William James]] ::
+  + Cuando debemos hacer una elección y no la haces, esto ya es una elección.
+  + El arte de ser sabio es el arte de saber qué pasar por alto.
+  + El pájaro no canta porque sea feliz, sino que es feliz porque canta.
+  + Muchas personas creen que piensan, pero están reordenando sus prejuicios. 
 
-+ Voltaire ::
-  Una colección de pensamientos debe ser una farmacia donde se encuentra
-  remedio a todos los males.
++ [[https://es.wikipedia.org/wiki/William_Shakespeare][William Shakespeare]] ::
+  + En nuestros locos intentos, renunciamos a lo que somos por lo que esperamos
+    ser.
+  + La brevedad es el alma del ingenio.
+  + Los viejos desconfían de la juventud porque han sido jóvenes.
 
-+ Voltaire ::
-  Una colección de pensamientos debe ser una farmacia donde se encuentra
-  remedio a todos los males. 
++ [[https://es.wikipedia.org/wiki/Winston_Churchill][Winston Churchill]] ::
+  + El éxito es aprender a ir de fracaso en fracaso sin desesperarse.  
+  + El político debe ser capaz de predecir lo que va a pasar mañana, el mes
+    próximo y el año que viene; y de explicar después por qué fue que no
+    ocurrió lo que el predijo.
+  + Las actitudes son más importantes que las aptitudes.
 
-+ Voltaire: ::
-  Quienes creen que el dinero lo hace todo, terminan haciendo todo por dinero. 
++ [[https://es.wikipedia.org/wiki/Woody_Allen][Woody Allen]] ::
+  + La vocación del político de carrera es hacer de cada solución un problema. 
+  + Las cosas no se dicen, se hacen, porque al hacerlas se dicen solas. 
 
-+ Víctor Hugo ::
-  El éxito es una cosa bastante repugnante. Su falsa semejanza con el mérito
-  engaña a los hombres. 
-
-+ Warren Buffet ::
-  Las personas más felices no tienen las mejores cosas, simplemente aprecian
-  más las que tienen. 
-
-+ Watt, A. W "El camino del Zen" p.47 ::
-  Muy feliz era el ciempiés,
-  hasta que un sapo una vez,
-  le preguntó "¿Qué orden al andar siguen tus remos?"
-  lo cual forzó su mente a tal extremo
-  que a una zanja, distraído, fue a caer
-  mientras pensaba cómo hacer para correr.
-
-+ William A. Ward ::
-  El pesimista se queja del viento;
-  el optimista espera que este cambie;
-  el realista ajusta las velas.
-
-+ William Blake ::
-  El loco que persiste en su locura se tornará sabio.
-
-+ William Blake ::
-  El ver un mundo en un grano de arena
-  y un cielo en una flor silvestre,
-  sostener el infinito en la palma de la mano
-  y la eternidad en una hora
-
-+ William Faulkner ::
-  La sabiduría suprema es tener sueños bastante grandes para no perderlos de
-  vista mientras se persiguen. 
-
-+ William James ::
-  Cuando debemos hacer una elección y no la haces, esto ya es una elección.
-
-+ William James ::
-  Muchas personas creen que piensan, pero están reordenando sus prejuicios. 
-
-+ William James ::
-  El arte de ser sabio es el arte de saber qué pasar por alto.
-
-+ William Shakespeare ::
-  En nuestros locos intentos, renunciamos a lo que somos por lo que esperamos
-  ser. 
-
-+ William Shakespeare ::
-  La brevedad es el alma del ingenio.
-
-+ William Shakespeare ::
-  Los viejos desconfían de la juventud porque han sido jóvenes.
-
-+ Willian James ::
-  El pájaro no canta porque sea feliz, sino que es feliz porque canta.
-
-+ Winston Churchill ::
-  El político debe ser capaz de predecir lo que va a pasar mañana, el mes
-  próximo y el año que viene; y de explicar después por qué fue que no ocurrió
-  lo que el predijo. 
-
-+ Winston Churchill ::
-  El éxito es aprender a ir de fracaso en fracaso sin desesperarse.  
-
-+ Winston Churchill ::
-  Las actitudes son más importantes que las aptitudes.
-
-+ Wittgenstein ::
-  No busquéis el significado, buscad el uso.
-
-+ Wittgenstein ::
-  La solución a los problemas que ves en tu vida es vivir en tal forma que
-  desaparezca lo problemático. 
-
-+ Woody Allen ::
-  La vocación del político de carrera es hacer de cada solución un problema. 
-
-+ Woody Allen ::
-  Las cosas no se dicen, se hacen, porque al hacerlas se dicen solas. 
-
-+ Zayn Malik ::
-  Aprende del ayer, vive hoy y ten esperanza para el mañana.
-
-+ Zen ::
-  Come cuando tengas hambre, duerme cuando estés cansado.
-
-+ Zen ::
-  Con cada paso que das alcanzas tu meta.
-
-+ Zen ::
-  Cualquier estúpido puede complicar las cosas, el truco está en
-  simplificarlas. 
-
-+ Zen ::
-  El trabajo de un maestro zen no consiste en impartir información, sino
-  hacerte ver qué no sabes.
-
-+ Zen ::
-  Eres lo que piensas.
-
-+ Zen ::
-  Mientras distingas, arriba de abajo, izquierda de derecha, antes de después,
-  serás esclavo del convencionalismo.
-
-+ Zen ::
-  Ser feliz es muy sencillo. Lo  que es difícil es ser sencillo.
-
-+ Zen ::
-  ¿Cuál es el problema? Yo soy el problema. Deshazte del "yo" y de repente no
-  hay problema.
- 
-+ Zenón de Citio ::
-  Recordad que la naturaleza nos ha dado dos oídos y una sola boca, para
-  enseñarnos que más vale escuchar que hablar. 
-
++ [[https://es.wikipedia.org/wiki/Zen%C3%B3n_de_Citio][Zenón de Citio]] ::
+  + Recordad que la naturaleza nos ha dado dos oídos y una sola boca, para
+    enseñarnos que más vale escuchar que hablar. 
