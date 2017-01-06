@@ -754,12 +754,19 @@ encontrando.
   Es fácil tocar un instrumento musical: todo lo que tienes que hacer es tocar
   la tecla correcta en el momento adecuado y el instrumento suena. 
 
-+ Johann Wolfgang Goethe ::
-  Nadie es más esclavo que el que se tiene por libre sin serlo. 
-
 + [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]] ::
+  + Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
+    difícil.  
   + Con el conocimiento se acrecientan las dudas. 
+  + El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
+    viejo, místico.
   + Hablar es una necesidad, escuchar es un arte.
+  + Lo importante no es donde se está, sino la dirección en que se camina.
+  + Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
+    las hubiera hecho antes.
+  + Nadie es más esclavo que el que se tiene por libre sin serlo. 
+  + No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
+    regresará al camino que en su día la naturaleza predeterminó para él.
   + Quien produce con alegría y se alegra de lo producido es feliz.
   + Se tiende a poner palabras allí donde faltan las ideas.
   + Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra
@@ -770,15 +777,6 @@ encontrando.
     procure un gozo intachable a la humanidad.
   + Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
     mejor las cosas. 
-  + Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
-    difícil.  
-  + El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
-    viejo, místico.
-  + Lo importante no es donde se está, sino la dirección en que se camina.
-  + Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
-    las hubiera hecho antes.
-  + No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
-    regresará al camino que en su día la naturaleza predeterminó para él.
 
 + John Dryden ::
   Feliz quien puede llamar suyo el día en que vive y para sus adentros piensa:
