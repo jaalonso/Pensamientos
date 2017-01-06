@@ -382,24 +382,24 @@ encontrando.
   en un ambiente tranquilo puede vivir la auténtica alegría. 
 
 + Bertrand Russell "Decálogo" ::
-    1. No estés absolutamente seguro de nada.
-    2. No creas conveniente actuar ocultando pruebas, pues las pruebas terminan
+   1.  No estés absolutamente seguro de nada.
+   2.  No creas conveniente actuar ocultando pruebas, pues las pruebas terminan
        por salir a la luz. 
-    3. Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.
-    4. Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos,
+   3.  Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.
+   4.  Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos,
        trata de superarla por medio de la razón y no de la autoridad, pues una
        victoria que dependa de la autoridad es irreal e ilusoria. 
-    5. No respetes la autoridad de los demás, pues siempre se encuentran
+   5.  No respetes la autoridad de los demás, pues siempre se encuentran
        autoridades enfrentadas. 
-    6. No utilices la fuerza para suprimir las ideas que crees perniciosas, pues
+   6.  No utilices la fuerza para suprimir las ideas que crees perniciosas, pues
        si lo haces, ellas te suprimirán a ti. 
-    7. No temas ser extravagante en tus ideas, pues todas la ideas ahora
+   7.  No temas ser extravagante en tus ideas, pues todas la ideas ahora
        aceptadas fueron en su día extravagantes. 
-    8. Disfruta más con la discrepancia inteligente que con la conformidad
+   8.  Disfruta más con la discrepancia inteligente que con la conformidad
        pasiva, pues si valoras la inteligencia como debieras, aquélla significa
        un acuerdo más profundo que ésta. 
-    9. Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues
-       más incómoda es cuando tratas de ocultarla. 
+   9.  Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues
+       más incómoda es cuando tratas de ocultarla.
    10. No sientas envidia de la felicidad de los que viven en el paraíso de los
        necios, pues sólo un necio pensará que eso es la felicidad. 
 
