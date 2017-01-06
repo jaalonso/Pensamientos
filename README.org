@@ -1,7 +1,7 @@
 Este repositorio contiene una recopilación de pensamientos con los que me voy
 encontrando. 
 
-+ A. Conan Doyle ::
++ [[https://es.wikipedia.org/wiki/Arthur_Conan_Doyle][Arthur Conan Doyle]] ::
   Ha sido durante mucho tiempo mi axioma que las pequeñas cosas son
   infinitamente lo más importante.  
 
