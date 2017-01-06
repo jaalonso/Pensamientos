@@ -2,19 +2,15 @@ Este repositorio contiene una recopilación de pensamientos con los que me voy
 encontrando. 
 
 + [[https://es.wikipedia.org/wiki/Arthur_Conan_Doyle][Arthur Conan Doyle]] ::
-  Ha sido durante mucho tiempo mi axioma que las pequeñas cosas son
-  infinitamente lo más importante.  
+  + Ha sido durante mucho tiempo mi axioma que las pequeñas cosas son
+    infinitamente lo más importante.  
 
-+ Abraham Lincoln ::
-  Es más fácil reprimir el primer capricho que satisfacer a todos los que le
-  siguen.
-
-+ Abraham Lincoln ::
-  Se puede engañar a parte del pueblo parte del tiempo, pero no se puede
-  engañar a todo el pueblo todo el tiempo.  
-
-+ Abraham Lincoln ::
-  Todos los hombres nacen iguales, pero es la última vez que lo son.
++ [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]] ::
+  + Es más fácil reprimir el primer capricho que satisfacer a todos los que le
+    siguen.
+  + Se puede engañar a parte del pueblo parte del tiempo, pero no se puede
+    engañar a todo el pueblo todo el tiempo.  
+  + Todos los hombres nacen iguales, pero es la última vez que lo son.
 
 + Abraham Maslow ::
   Si tu única herramienta es un martillo, tiendes a tratar cada problema como
