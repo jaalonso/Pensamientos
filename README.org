@@ -1,15 +1,6 @@
 Este repositorio contiene una recopilación de pensamientos con los que me voy
 encontrando. 
 
-+ [[https://es.wikipedia.org/wiki/Alan_Watts][Alan Watts]] ::
-  + Muy feliz era el ciempiés, hasta que un sapo una vez, le preguntó "¿Qué
-    orden al andar siguen tus remos?" lo cual forzó su mente a tal extremo que
-    a una zanja, distraído, fue a caer mientras pensaba cómo hacer para correr.
-
-+ [[https://es.wikipedia.org/wiki/Arthur_Conan_Doyle][Arthur Conan Doyle]] ::
-  + Ha sido durante mucho tiempo mi axioma que las pequeñas cosas son
-    infinitamente lo más importante.  
-
 + [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]] ::
   + Es más fácil reprimir el primer capricho que satisfacer a todos los que le
     siguen.
@@ -32,6 +23,9 @@ encontrando.
     provocar la desaparición de las desagradables. Actuar de este modo es
     moverse al ritmo de la vida, estar en perfecta armonía con su música
     cambiante, a esto se llama iluminación.
+  + Muy feliz era el ciempiés, hasta que un sapo una vez, le preguntó "¿Qué
+    orden al andar siguen tus remos?" lo cual forzó su mente a tal extremo que
+    a una zanja, distraído, fue a caer mientras pensaba cómo hacer para correr.
 
 + [[https://es.wikipedia.org/wiki/Albert_Camus][Albert Camus]] ::
   + Inocente es quien no necesita explicarse.
@@ -200,6 +194,10 @@ encontrando.
     no seas nada.
   + Somos lo que hacemos día a día. De modo que la excelencia no es un acto,
     sino un hábito. 
+
++ [[https://es.wikipedia.org/wiki/Arthur_Conan_Doyle][Arthur Conan Doyle]] ::
+  + Ha sido durante mucho tiempo mi axioma que las pequeñas cosas son
+    infinitamente lo más importante.  
 
 + [[https://en.wikipedia.org/wiki/Arthur_Helps][Arthur Helps]] ::
   + La lectura es a veces una estratagema para eludir pensar.
