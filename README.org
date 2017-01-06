@@ -12,452 +12,284 @@ encontrando.
     engañar a todo el pueblo todo el tiempo.  
   + Todos los hombres nacen iguales, pero es la última vez que lo son.
 
-+ Abraham Maslow ::
-  Si tu única herramienta es un martillo, tiendes a tratar cada problema como
-  si fuera un clavo.  
++ [[https://es.wikipedia.org/wiki/Abraham_Maslow][Abraham Maslow]] ::
+  + Si tu única herramienta es un martillo, tiendes a tratar cada problema como 
+    si fuera un clavo.
 
-+ Adolfo Bioy Casares ::
-  La vida es difícil. Para estar en paz con uno mismo hay que decir la
-  verdad. Para estar en paz con el prójimo hay que mentir.
++ [[https://es.wikipedia.org/wiki/Adolfo_Bioy_Casares][Adolfo Bioy Casares]] ::
+  + La vida es difícil. Para estar en paz con uno mismo hay que decir la
+    verdad. Para estar en paz con el prójimo hay que mentir.
 
-+ Alan Watts ::
-  El desapego significa no sentir ningún remordimiento por el pasado ni miedo
-  por el futuro; dejar que la vida siga su curso sin intentar interferir en su
-  movimiento y cambio, sin intentar prolongar las cosas placenteras ni provocar
-  la desaparición de las desagradables. Actuar de este modo es moverse al ritmo
-  de la vida, estar en perfecta armonía con su música cambiante, a esto se
-  llama iluminación.  
++ [[https://es.wikipedia.org/wiki/Alan_Watts][Alan Watts]] ::
+  + El desapego significa no sentir ningún remordimiento por el pasado ni miedo
+    por el futuro; dejar que la vida siga su curso sin intentar interferir en
+    su movimiento y cambio, sin intentar prolongar las cosas placenteras ni
+    provocar la desaparición de las desagradables. Actuar de este modo es
+    moverse al ritmo de la vida, estar en perfecta armonía con su música
+    cambiante, a esto se llama iluminación.
 
-+ Albert Camus ::
-  Inocente es quien no necesita explicarse.
++ [[https://es.wikipedia.org/wiki/Albert_Camus][Albert Camus]] ::
+  + Inocente es quien no necesita explicarse.
+  + Todas las desgracias de los hombres provienen de no hablar claro.
 
-+ Albert Camus ::
-  Todas las desgracias de los hombres provienen de no hablar claro.
++ [[https://es.wikipedia.org/wiki/Albert_Einstein][Albert Einstein]] ::
+  + Cada día sabemos más y entendemos menos. 
+  + El mundo no está en peligro por las malas personas sino por aquellas que
+    permiten la maldad. 
+  + El planteamiento de un problema es más importante que su solución.
+  + El sentido común es el conjunto de prejuicios acumulados a través de los
+    siglos.
+  + La diferencia entre la genialidad y la estupidez es que la genialidad tiene
+    sus límites.  
+  + La vida es muy peligrosa. No por las personas que hacen el mal, sino por las
+    que se sientan a ver lo que pasa. 
+  + Los intelectuales resuelven los problemas; los genios, los evitan.
+  + No entiendes realmente algo a menos que seas capaz de explicárselo a tu
+    abuela. 
+  + No guardes nunca en la cabeza aquello que te quepa en un bolsillo.
+  + No permitas que tu felicidad dependa de alguien porque no siempre esa
+    persona será como crees. 
+  + No tengo ningún talento especial pero si soy profundamente curioso.
+  + Si buscas resultados distintos, no hagas siempre lo mismo. 
+  + Tengo una pregunta que a veces me tortura, ¿estoy loco yo o los locos son
+    los demás? 
+  + Todo lo que es realmente grande e inspirador es creado por el individuo que
+    puede trabajar en libertad. 
+  + Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las
+    mismas cosas.  
+  + Hay dos cosas infinitas: el Universo y la estupidez humana. Y del Universo
+    no estoy seguro. 
+  + Si quieres una vida feliz, átala a un objetivo y no a personas o cosas.
 
-+ Albert Einstein ::
-  Cada día sabemos más y entendemos menos. 
++ [[https://en.wikipedia.org/wiki/Albert_Guinon][Albert Guinon]] ::
+  + El verdadero secreto de la felicidad consiste en exigir mucho de sí mismo y
+    muy poco de los otros.  
 
-+ Albert Einstein ::
-  El mundo no está en peligro por las malas personas sino por aquellas que
-  permiten la maldad. 
++ [[https://es.wikipedia.org/wiki/Albert_Schweitzer][Albert Schweitzer]] ::
+  + Los ideales se parecen a las estrellas en el sentido de que nunca los
+    alcanzamos, pero como los navegantes, con ellos dirigimos el rumbo de
+    nuestras vidas. 
 
-+ Albert Einstein ::
-  El planteamiento de un problema es más importante que su solución.
++ [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]] ::
+  + La cultura no deriva de la lectura de libros, sino de la lectura exhaustiva
+    e intensiva de buenos libros.
+  + La experiencia no es lo que te sucede, sino lo que haces con lo que te
+    sucede.
 
-+ Albert Einstein ::
-  El sentido común es el conjunto de prejuicios acumulados a través de los
-  siglos.
++ [[https://es.wikipedia.org/wiki/Alejandro_Dumas][Alejandro Dumas]] ::
+  + Para todos los males, hay dos remedios: el tiempo y el silencio.
 
-+ Albert Einstein ::
-  La diferencia entre la genialidad y la estupidez es que la genialidad tiene
-  sus límites.  
++ [[https://es.wikipedia.org/wiki/Alexander_Pope][Alexander Pope]] ::
+  + Puesto que es razonable dudar de la mayoría de las cosas, debiéramos dudar
+    más que de nada de esa razón nuestra que quisiera demostrar todas las
+    cosas.
 
-+ Albert Einstein ::
-  La vida es muy peligrosa. No por las personas que hacen el mal, sino por las
-  que se sientan a ver lo que pasa. 
++ [[https://es.wikipedia.org/wiki/Alfonso_X_de_Castilla][Alfonso X el Sabio]] ::
+  + Quemad viejos leños, leed viejos libros, bebed viejos vinos, tened viejos
+    amigos.
 
-+ Albert Einstein ::
-  Los intelectuales resuelven los problemas; los genios, los evitan.
++ [[https://es.wikipedia.org/wiki/Alfred_North_Whitehead][Alfred North Whitehead]] ::
+  + No hay verdades absolutas; todas las verdades son medias verdades. El mal
+    surge de quererlas tratar como verdades absolutas.
+  + Pensamos en generalidades, pero vivimos en detalles.
 
-+ Albert Einstein ::
-  No entiendes realmente algo a menos que seas capaz de explicárselo a tu
-  abuela. 
++ [[https://es.wikipedia.org/wiki/Andr%C3%A9_Malraux][André Malraux]] ::
+  + En la política es a veces como en la gramática: un error en el que todos
+    incurren finalmente es reconocido como regla.
 
-+ Albert Einstein ::
-  No guardes nunca en la cabeza aquello que te quepa en un bolsillo.
++ [[https://es.wikipedia.org/wiki/Andr%C3%A9_Maurois][André Maurois]] ::
+  + La lectura de un buen libro es un diálogo incesante en que el libro habla y
+    el alma contesta.
 
-+ Albert Einstein ::
-  No guardes nunca en la cabeza aquello que te quepa en un bolsillo.
++ [[https://es.wikipedia.org/wiki/Anthony_de_Mello][Anthony de Mello]] ::
+  + Jamás se ha emborrachado nadie a base de comprender intelectualmente la
+    palabra vino. 
+  + Medita, contempla los muros; observa tus ideas, tus hábitos, tus apegos y
+    tus miedos, sin emitir juicio ni condena de ningún tipo. Limítate a
+    mirarlos y se derrumbarán.
 
-+ Albert Einstein ::
-  No permitas que tu felicidad dependa de alguien porque no siempre esa persona
-  será como crees. 
++ [[https://es.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry][Antoine de Saint-Exupéry]] ::
+  + El sentido de las cosas no está en las cosas mismas, sino en nuestra
+    actitud hacia ellas.
+  + La huida no ha llevado a nadie a ningún sitio.
+  + El fracaso fortifica a los fuertes.
+  + La perfección se consigue, no cuando no haya más a añadir, sino cuando no
+    hay nada más por quitar. 
+  + Si quieres construir un barco, no empieces por buscar madera, cortar tablas
+    o distribuir el trabajo. Inspira primero en los hombres y mujeres el anhelo
+    por el ancho y libre mar. 
 
-+ Albert Einstein ::
-  No tengo ningún talento especial pero si soy profundamente curioso.
++ [[https://es.wikipedia.org/wiki/Antoni_Gaud%C3%AD][Antoni Gaudí]] ::
+  + Para hacer las cosas bien es necesario: primero, el amor, segundo, la
+    técnica.
 
-+ Albert Einstein ::
-  Si buscas resultados distintos, no hagas siempre lo mismo. 
++ [[https://es.wikipedia.org/wiki/Antonio_Gala][Antonio Gala]] ::
+  + La felicidad es darse cuenta que nada es demasiado importante.
 
-+ Albert Einstein ::
-  Tengo una pregunta que a veces me tortura, ¿estoy loco yo o los locos son los
-  demás? 
++ [[https://es.wikipedia.org/wiki/Antonio_Machado][Antonio Machado]] ::
+  + Si es bueno vivir, todavía es mejor soñar, y lo mejor de todo, despertar.
 
-+ Albert Einstein ::
-  Todo lo que es realmente grande e inspirador es creado por el individuo que
-  puede trabajar en libertad. 
-
-+ Albert Einstein ::
-  Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las
-  mismas cosas.  
-
-+ Albert Einstein ::
-  Hay dos cosas infinitas: el Universo y la estupidez humana. Y del Universo no
-  estoy seguro. 
-
-+ Albert Einstein: ::
-  Si quieres una vida feliz, átala a un objetivo y no a personas o cosas.
-
-+ Albert Guinon ::
-  El verdadero secreto de la felicidad consiste en exigir mucho de sí mismo y
-  muy poco de los otros.  
-
-+ Albert Schweitzer ::
-  Los ideales se parecen a las estrellas en el sentido de que nunca los
-  alcanzamos, pero como los navegantes, con ellos dirigimos el rumbo de
-  nuestras vidas. 
-
-+ Aldous Huxley ::
-  La cultura no deriva de la lectura de libros, sino de la lectura exhaustiva e
-  intensiva de buenos libros. 
-
-+ Aldous Huxley ::
-  La experiencia no es lo que te sucede, sino lo que haces con lo que te
-  sucede.
-
-+ Alejandro Dumas ::
-  Para todos los males, hay dos remedios: el tiempo y el silencio.
-
-+ Alexander Pope ::
-  Puesto que es razonable dudar de la mayoría de las cosas, debiéramos dudar
-  más que de nada de esa razón nuestra que quisiera demostrar todas las cosas. 
-
-+ Alfonso X El Sabio ::
-  Quemad viejos leños, leed viejos libros, bebed viejos vinos, tened viejos
-  amigos. 
-
-+ Alfred North Whitehead ::
-  No hay verdades absolutas; todas las verdades son medias verdades. El mal
-  surge de quererlas tratar como verdades absolutas. 
-
-+ Alfred North Whitehead ::
-  Pensamos en generalidades, pero vivimos en detalles.
-
-+ Amiel ::
-  El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
-  cumplimiento de nuestros deseos y cumplirlos plenamente. 
-
-+ Andrew A. Rooney ::
-  Lo mejor de las vacaciones es planearlas. 
-
-+ Andrew Matthews ::
-  La vida cambia cuando nosotros cambiamos.
-
-+ André Malraux ::
-  En la política es a veces como en la gramática: un error en el que todos
-  incurren finalmente es reconocido como regla.
-
-+ André Maurois ::
-  La lectura de un buen libro es un diálogo incesante en que el libro habla y
-  el alma contesta.
-
-+ Anthony de Mello ::
-  Jamás se ha emborrachado nadie a base de comprender intelectualmente la palabra vino.
-
-+ Anthony de Mello ::
-  Medita, contempla los muros; observa tus ideas, tus hábitos, tus apegos y tus
-  miedos, sin emitir juicio ni condena de ningún tipo. Limítate a mirarlos y se
-  derrumbarán.  
-
-+ Antoine de Saint-Exupéry ::
-  El sentido de las cosas no está en las cosas mismas, sino en nuestra actitud
-  hacia ellas. 
-
-+ Antoine de Saint-Exupéry ::
-  La huida no ha llevado a nadie a ningún sitio.
-
-+ Antoine de Saint-Exupéry ::
-  El fracaso fortifica a los fuertes.
-
-+ Antoine de Saint-Exupéry ::
-  La perfección se consigue, no cuando no haya más a añadir, sino cuando no hay
-  nada más por quitar. 
-
-+ Antoine de Saint-Exupéry ::
-  Si quieres construir un barco, no empieces por buscar madera, cortar tablas o
-  distribuir el trabajo. Inspira primero en los hombres y mujeres el anhelo por
-  el ancho y libre mar. 
-
-+ Antoni Gaudí ::
-  Para hacer las cosas bien es necesario: primero, el amor, segundo, la
-  técnica.
-
-+ Antonio Gala ::
-  La felicidad es darse cuenta que nada es demasiado importante.
-
-+ Antonio Gala ::
-  La felicidad es darse cuenta que nada es demasiado importante.  
-
-+ Antonio Machado ::
-  Si es bueno vivir, todavía es mejor soñar, y lo mejor de todo, despertar.
-
-+ Antón Chéjov ::
-  Los hombre inteligentes quieren aprender. Los demás, enseñar.
-
-+ Antón Chéjov ::
-  You are right to demand that an artist engage his work consciously, but you
-  confuse two different things: solving the problem and correctly posing the
-  question.
++ [[https://es.wikipedia.org/wiki/Ant%C3%B3n_Ch%C3%A9jov][Antón Chéjov]] ::
+  + Los hombre inteligentes quieren aprender. Los demás, enseñar.
 
 + Anónimo ::
-  Conócete a tí mismo.
+  + Conócete a tí mismo.
+  + Cuando crees que sabes todas las respuestas, la vida te cambia todas las
+    preguntas.
+  + En todo la medida.
+  + Hay quienes cruzan el bosque y sólo ven leña para el fuego. 
+  + La vida crece en las orillas, no en las aguas turbulentas.
+  + La vida es un espejo; si le sonries, te sonreirá; si le pones mala cara, te
+    la pondrá.
+  + Las mentes brillantes manejan ideas; las corrientes hablan de actualidades;
+    las mediocres hablan de los demás.
+  + Las personas inteligentes son capaces de simplificar lo complejo; los
+    tontos, en cambio, suelen complicar lo sencillo.
+  + Los errores son como una colección por fascículos: cada uno te enseña una
+    lección, pero el precio es cada vez más alto. 
+  + Poco basta cada día, si cada día se logra ese poco.
 
-+ Anónimo ::
-  Cuando crees que sabes todas las respuestas, la vida te cambia todas las
-  preguntas.
++ [[https://es.wikipedia.org/wiki/Arist%C3%B3teles][Aristóteles]] ::
+  + Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la
+    persona adecuada, en el grado exacto, en el momento oportuno, con el
+    propósito justo y del modo correcto, eso, ciertamente, no resulta tan
+    sencillo.
+  + El género humano tiene, para saber conducirse, el arte y el razonamiento. 
+  + El hombre de mentalidad superior debe preocuparse más de la verdad que de
+    lo que piensa la gente.
+  + El ignorante afirma, el sabio duda y reflexiona. 
+  + El que no busca la felicidad es el que la encuentra.
+  + El sabio no dice todo lo que piensa, pero siempre piensa todo lo que
+    dice. 
+  + En primer lugar, tener un ideal definido, claro y práctico; una meta, un
+    objetivo. En segundo lugar, acopiar los medios necesarios para alcanzar los
+    fines: sabiduría, dinero, materiales y métodos. En tercer lugar, ajustar
+    todos los medios a ese exclusivo fin.
+  + No basta decir solamente la verdad, mas conviene mostrar la causa de la
+    falsedad. 
+  + Es ignorancia no saber distinguir entre lo que necesita demostración y lo
+    que no la necesita.
+  + Sólo hay una manera de evitar la crítica: no hagas nada, no digas nada, y
+    no seas nada.
+  + Somos lo que hacemos día a día. De modo que la excelencia no es un acto,
+    sino un hábito. 
 
-+ Anónimo ::
-  En todo la medida.
++ [[https://en.wikipedia.org/wiki/Arthur_Helps][Arthur Helps]] ::
+  + La lectura es a veces una estratagema para eludir pensar.
 
-+ Anónimo ::
-  Hay quienes cruzan el bosque y sólo ven leña para el fuego. 
++ [[https://es.wikipedia.org/wiki/Arthur_Koestler][Arthur Koestler]] ::
+  + En cualquier lenguaje es difícil hacer una sentencia que diga exactamente lo
+    que deseas.
 
-+ Anónimo ::
-  La vida crece en las orillas, no en las aguas turbulentas.
++ [[https://es.wikipedia.org/wiki/Arthur_Schopenhauer][Arthur Schopenhauer]] ::
+  + La soledad concede al hombre dotado de grandes cualidades intelectuales una
+    doble ventaja: primero, le proporciona la posibilidad de estar consigo
+    mismo; y, segundo, la de no estar con los demás.
+  + Los hombres han inventado la vida de sociedad porque les es más fácil
+    soportar a los demás que soportarse a sí mismos.
+  + Querer es esencialmente sufrir, y como vivir es querer, toda vida es por
+    esencia dolor. 
 
-+ Anónimo ::
-  La vida es un espejo; si le sonries, te sonreirá; si le pones mala cara, te
-  la pondrá.
++ [[https://es.wikipedia.org/wiki/Arturo_Graf][Arturo Graf]] ::
+  + El hombre comienza, en realidad, a ser viejo cuando deja de ser educable. 
+  + Si quieres oír cantar a tu alma, haz el silencio a tu alrededor.
 
-+ Anónimo ::
-  Las mentes brillantes manejan ideas; las corrientes hablan de actualidades;
-  las mediocres hablan de los demás.
++ [[https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n][Baltasar Gracián]] ::
+  + El primer paso de la ignorancia es presumir de saber.
+  + Lo bueno, si breve, dos veces bueno; lo malo, si poco, no tan malo.
+  + No te pongas en el lado malo de un argumento simplemente porque tu oponente
+    se ha puesto en el lado correcto.
 
-+ Anónimo ::
-  Las personas inteligentes son capaces de simplificar lo complejo; los
-  tontos, en cambio, suelen complicar lo sencillo.
++ [[https://es.wikipedia.org/wiki/Baruch_Spinoza][Baruch Spinoza]] ::
+  + La actividad más importante que un ser humano puede lograr es aprender para
+    entender, porque entender es ser libre. 
+  + Todos los prejuicios que intento indicar aquí dependen de uno solo, a
+    saber: el hecho de que los hombres supongan, comúnmente, que todas las
+    cosas de la naturaleza actúan, al igual que ellos mismos, por razón de un
+    fin.
 
-+ Anónimo ::
-  Los errores son como una colección por fascículos: cada uno te enseña una
-  lección, pero el precio es cada vez más alto. 
++ [[https://es.wikipedia.org/wiki/Benjamin_Disraeli][Benjamin Disraeli]] ::
+  + Darse cuenta de que se es ignorante es un gran paso hacia el saber.
+  + El hombre no es hijo de las circunstancias. Las circunstancias son hijas de
+    los hombres.
+  + La juventud es un disparate; la madurez, una lucha; la vejez, un
+    remordimiento. 
 
-+ Anónimo ::
-  Poco basta cada día, si cada día se logra ese poco.
++ [[https://es.wikipedia.org/wiki/Benjamin_Franklin][Benjamin Franklin]] ::
+  + Los hombres son criaturas muy raras: la mitad censura lo que practica, la
+    otra mitad practica lo que censura, el resto siempre dice y hace lo que
+    debe. 
+  + Si deseas persuadir, apela al interés y no a la razón.
 
-+ Aristóteles ::
-  Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la
-  persona adecuada, en el grado exacto, en el momento oportuno, con el
-  propósito justo y del modo correcto, eso, ciertamente, no resulta tan
-  sencillo. 
++ [[https://es.wikipedia.org/wiki/Bertrand_Russell][Bertrand Russel]] ::
+  + El tiempo que disfrutes desperdiciándolo no es tiempo desperdiciado. 
+  + El método de establecer como postulado lo que queramos tiene muchas
+    ventajas. Las mismas que tiene el robo sobre el trabajo honrado.
+  + Gran parte de las dificultades por las que atraviesa el mundo se deben a
+    que los ignorantes están completamente seguros y los instruidos llenos de
+    dudas.
+  + La mayoría de los grandes males que los hombres han infligido a los hombres
+    han llegado a través de gente que se sentía completamente segura de algo
+    que, en realidad era falso.
+  + Los hombres nacen ignorantes, no estúpidos. Es la educación lo que puede
+    hacerles estúpidos. 
+  + Una vida feliz tiene que ser, en gran medida, una vida tranquila, pues solo
+    en un ambiente tranquilo puede vivir la auténtica alegría. 
+  + Decálogo:
+    1.  No estés absolutamente seguro de nada.
+    2.  No creas conveniente actuar ocultando pruebas, pues las pruebas terminan
+        por salir a la luz. 
+    3.  Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.
+    4.  Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos,
+        trata de superarla por medio de la razón y no de la autoridad, pues una
+        victoria que dependa de la autoridad es irreal e ilusoria. 
+    5.  No respetes la autoridad de los demás, pues siempre se encuentran
+        autoridades enfrentadas. 
+    6.  No utilices la fuerza para suprimir las ideas que crees perniciosas, pues
+        si lo haces, ellas te suprimirán a ti. 
+    7.  No temas ser extravagante en tus ideas, pues todas la ideas ahora
+        aceptadas fueron en su día extravagantes. 
+    8.  Disfruta más con la discrepancia inteligente que con la conformidad
+        pasiva, pues si valoras la inteligencia como debieras, aquélla significa
+        un acuerdo más profundo que ésta. 
+    9.  Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues
+        más incómoda es cuando tratas de ocultarla.
+    10. No sientas envidia de la felicidad de los que viven en el paraíso de los
+        necios, pues sólo un necio pensará que eso es la felicidad. 
 
-+ Aristóteles ::
-  El género humano tiene, para saber conducirse, el arte y el razonamiento. 
++ [[https://es.wikipedia.org/wiki/Blaise_Pascal][Blaise Pascal]] ::
+  + El hombre está dispuesto siempre a negar todo aquello que no comprende. 
+  + Es mucho mejor conocer algo acerca de todo, que acerca de una sola cosa. Lo
+    universal es siempre mejor. 
+  + La verdadera función de la razón es mostrar al hombre que algunas cosas
+    están más allá de la razón
+  + No se muestra la grandeza por estar en un extremo, sino tocando los dos a
+    la vez y llenando el espacio intermedio. 
+  + Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
+  + He descubierto que toda la maldad humana proviene de la incapacidad del ser
+    humano de sentarse en calma en una habitación.
 
-+ Aristóteles ::
-  El hombre de mentalidad superior debe preocuparse más de la verdad que de lo
-  que piensa la gente. 
++ [[https://es.wikipedia.org/wiki/Buda_Gautama][Buda Gautama]] ::
+  + Duda de todo. Encuentra tu propia luz.
+  + Si tiene solución, ¿por qué lloras? Si no tiene solución, ¿por qué lloras?
+  + Todo lo que somos es el resultado de lo que hemos pensado.
+  + Buda reducía su visión del mundo a cuatro puntos: 
+    1. la vida es sufrimiento; 
+    2. el sufrimiento nace del deseo; 
+    3. elimina el deseo y habrás eliminado el sufrimiento, y 
+    4. vive una vida decente y medita para que ello te ayude a eliminar el
+       deseo. 
 
-+ Aristóteles ::
-  El ignorante afirma, el sabio duda y reflexiona. 
++ [[https://es.wikipedia.org/wiki/B%C3%ADas][Bías de Priene]] ::
+  + Pon manos a la obra con lentitud, pero, una vez comenzada, sé constante.
 
-+ Aristóteles ::
-  El que no busca la felicidad es el que la encuentra.
-
-+ Aristóteles ::
-  El sabio no dice todo lo que piensa, pero siempre piensa todo lo que
-  dice. 
-
-+ Aristóteles ::
-  En primer lugar, tener un ideal definido, claro y práctico; una meta, un
-  objetivo. En segundo lugar, acopiar los medios necesarios para alcanzar los
-  fines: sabiduría, dinero, materiales y métodos. En tercer lugar, ajustar
-  todos los medios a ese exclusivo fin. 
-
-+ Aristóteles ::
-  Es ignorancia no saber distinguir entre lo que necesita demostración y lo que
-  no la necesita.  
-
-+ Aristóteles ::
-  Somos lo que hacemos día a día. De modo que la excelencia no es un acto, sino
-  un hábito. 
-
-+ Aristóteles ::
-  Sólo hay una manera de evitar la crítica: no hagas nada, no digas nada, y no seas nada.
-
-+ Aristóteles ::
-  No basta decir solamente la verdad, mas conviene mostrar la causa de la
-  falsedad. 
-
-+ Arthur Helps ::
-  La lectura es a veces una estratagema para eludir pensar.
-
-+ Arthur Koestler ::
-  En cualquier lenguaje es difícil hacer una sentencia que diga exactamente lo
-  que deseas.
-
-+ Arthur Schopenhauer ::
-  La soledad concede al hombre dotado de grandes cualidades intelectuales una
-  doble ventaja: primero, le proporciona la posibilidad de estar consigo mismo;
-  y, segundo, la de no estar con los demás. 
-
-+ Arthur Schopenhauer ::
-  Los hombres han inventado la vida de sociedad porque les es más fácil
-  soportar a los demás que soportarse a sí mismos. 
-
-+ Arthur Schopenhauer ::
-  Querer es esencialmente sufrir, y como vivir es querer, toda vida es por
-  esencia dolor. 
-
-+ Arturo Graf ::
-  El hombre comienza, en realidad, a ser viejo cuando deja de ser educable. 
-
-+ Arturo Graf ::
-  Si quieres oír cantar a tu alma, haz el silencio a tu alrededor.
-
-+ Baltasar Gracián ::
-  El primer paso de la ignorancia es presumir de saber.
-
-+ Baltasar Gracián ::
-  No te pongas en el lado malo de un argumento simplemente porque tu oponente
-  se ha puesto en el lado correcto. 
-
-+ Baltasar Gracián ::
-  Lo bueno, si breve, dos veces bueno; lo malo, si poco, no tan malo.
-
-+ Baruch Spinoza ::
-  La actividad más importante que un ser humano puede lograr es aprender para
-  entender, porque entender es ser libre. 
-
-+ Baruch Spinoza ::
-  Todos los prejuicios que intento indicar aquí dependen de uno solo, a saber:
-  el hecho de que los hombres supongan, comúnmente, que todas las cosas de la
-  naturaleza actúan, al igual que ellos mismos, por razón de un fin. 
-
-+ Benjamin Disraeli ::
-  Darse cuenta de que se es ignorante es un gran paso hacia el saber.
-
-+ Benjamin Disraeli ::
-  El hombre no es hijo de las circunstancias. Las circunstancias son hijas de
-  los hombres. 
-
-+ Benjamin Disraeli ::
-  La juventud es un disparate; la madurez, una lucha; la vejez, un
-  remordimiento. 
-
-+ Benjamin Franklin ::
-  Los hombres son criaturas muy raras: la mitad censura lo que practica, la
-  otra mitad practica lo que censura, el resto siempre dice y hace lo que
-  debe. 
-
-+ Benjamin Franklin ::
-  Si deseas persuadir, apela al interés y no a la razón.
-
-+ Bernard M. Baruch ::
-  Millones de personas vieron una manzana caer, pero Newton fue el único que
-  preguntó porqué. 
-
-+ Bernard M. Baruch ::
-  Vota a aquel que prometa menos. Será el que menos te decepcione. 
-
-+ Bertrand Russel: ::
-  El tiempo que disfrutes desperdiciándolo no es tiempo desperdiciado. 
-
-+ Bertrand Russell ::
-  El método de establecer como postulado lo que queramos tiene muchas
-  ventajas. Las mismas que tiene el robo sobre el trabajo honrado.
-
-+ Bertrand Russell ::
-  Gran parte de las dificultades por las que atraviesa el mundo se deben a que
-  los ignorantes están completamente seguros y los instruidos llenos de dudas.
-
-+ Bertrand Russell ::
-  La mayoría de los grandes males que los hombres han infligido a los hombres
-  han llegado a través de gente que se sentía completamente segura de algo que,
-  en realidad era falso.  
-
-+ Bertrand Russell ::
-  Los hombres nacen ignorantes, no estúpidos. Es la educación lo que puede
-  hacerles estúpidos. 
-
-+ Bertrand Russell ::
-  Una vida feliz tiene que ser, en gran medida, una vida tranquila, pues solo
-  en un ambiente tranquilo puede vivir la auténtica alegría. 
-
-+ Bertrand Russell ::
-  Una vida feliz tiene que ser, en gran medida, una vida tranquila, pues solo
-  en un ambiente tranquilo puede vivir la auténtica alegría. 
-
-+ Bertrand Russell "Decálogo" ::
-   1.  No estés absolutamente seguro de nada.
-   2.  No creas conveniente actuar ocultando pruebas, pues las pruebas terminan
-       por salir a la luz. 
-   3.  Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.
-   4.  Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos,
-       trata de superarla por medio de la razón y no de la autoridad, pues una
-       victoria que dependa de la autoridad es irreal e ilusoria. 
-   5.  No respetes la autoridad de los demás, pues siempre se encuentran
-       autoridades enfrentadas. 
-   6.  No utilices la fuerza para suprimir las ideas que crees perniciosas, pues
-       si lo haces, ellas te suprimirán a ti. 
-   7.  No temas ser extravagante en tus ideas, pues todas la ideas ahora
-       aceptadas fueron en su día extravagantes. 
-   8.  Disfruta más con la discrepancia inteligente que con la conformidad
-       pasiva, pues si valoras la inteligencia como debieras, aquélla significa
-       un acuerdo más profundo que ésta. 
-   9.  Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues
-       más incómoda es cuando tratas de ocultarla.
-   10. No sientas envidia de la felicidad de los que viven en el paraíso de los
-       necios, pues sólo un necio pensará que eso es la felicidad. 
-
-+ Bill Nye ::
-  Algo no va bien en una sociedad que va al gimnasio en coche para montar en
-  una bici estática. 
-
-+ Blaise Pascal ::
-  El hombre está dispuesto siempre a negar todo aquello que no comprende. 
-
-+ Blaise Pascal ::
-  Es mucho mejor conocer algo acerca de todo, que acerca de una sola cosa. Lo
-  universal es siempre mejor. 
-+§ Blaise Pascal ::
-  La verdadera función de la razón es mostrar al hombre que algunas cosas están
-  más allá de la razón 
-
-+ Blaise Pascal ::
-  No se muestra la grandeza por estar en un extremo, sino tocando los dos a la
-  vez y llenando el espacio intermedio. 
-
-+ Blaise Pascal ::
-  Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
-
-+ Blaise Pascal: ::
-  He descubierto que toda la maldad humana proviene de la incapacidad del ser
-  humano de sentarse en calma en una habitación. 
-
-+ Bob Talbert ::
-  Enseñar a niños a contar es bueno, pero enseñarles lo que realmente cuenta es
-  mejor.  
-
-+ Brian Goldman ::
-  Good judgement comes from experience, and experience comes from bad
-  judgement. 
-
-+ Buda ::
-  Duda de todo. Encuentra tu propia luz.
-
-+ Buda ::
-  Si tiene solución, ¿por qué lloras?
-  Si no tiene solución, ¿por qué lloras?
-
-+ Buda ::
-  Todo lo que somos es el resultado de lo que hemos pensado.
-
-+ Budismo [B. Kosko "Pensamiento borroso" p. 84] ::
-  Buda reducía su visión del mundo a cuatro puntos: 
-  (1) la vida es sufrimiento; 
-  (2) el sufrimiento nace del deseo; 
-  (3) elimina el deseo y habrás eliminado el sufrimiento, y 
-  (4) vive una vida decente y medita para que ello te ayude a eliminar el
-      deseo. 
-
-+ Bías, el Prieneo ::
-  Pon manos a la obra con lentitud, pero, una vez comenzada, sé constante.
-
-+ Calderón de la Barca "La vida es sueño" ::
-  Tanto gusto había
-  en quejarse, un filósofo decía,
-  que, a trueco de quejarse,
-  habían las desdichas de buscarse.
++ [[https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca][Pedro Calderón de la Barca]] ::
+  + #+BEGIN_VERSE
+    Tanto gusto había
+    en quejarse, un filósofo decía,
+    que, a trueco de quejarse,
+    habían las desdichas de buscarse.
+    #+END_VERSE   
 
 + Calvin Coolidge ::
   La educación consiste en enseñar a los hombres, no lo que deben pensar, sino
@@ -1028,6 +860,10 @@ encontrando.
 + Gustave Flaubert ::
   El futuro nos tortura y el pasado nos encadena. He aquí por qué se nos escapa
   el presente. 
+
++ [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]] ::
+  El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
+  cumplimiento de nuestros deseos y cumplirlos plenamente. 
 
 + H. L. Mencken ::
   There is always an easy solution to every human problem: neat, plausible, and
