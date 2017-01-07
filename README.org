@@ -1024,6 +1024,10 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Maurice_Maeterlinck][Maurice Maeterlinck]] ::
   + El silencio es el sol que madura los frutos del alma.
 
++ [[https://it.wikipedia.org/wiki/Massimo_Recalcati][Massimo Recalcati]] ::
+  + El malestar actual de la juventudno estriba en la oposición entre sueño y
+    realidad, sino en la ausencia de sueños.
+
 + [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne]] ::
   + A quienes me preguntan la razón de mis viajes les contesto que sé bien de
     qué huyo pero ignoro lo que busco.
