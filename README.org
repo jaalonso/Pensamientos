@@ -169,6 +169,8 @@ encontrando.
   + Los errores son como una colección por fascículos: cada uno te enseña una
     lección, pero el precio es cada vez más alto. 
   + Poco basta cada día, si cada día se logra ese poco.
+  + Sólo se comprende cuando se deja de obedecer, sólo se obedece cuando no se
+    comprende.
 
 + [[https://es.wikipedia.org/wiki/Arist%C3%B3teles][Aristóteles]] ::
   + Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la
