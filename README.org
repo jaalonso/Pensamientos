@@ -16,6 +16,10 @@ encontrando.
   + La vida es difícil. Para estar en paz con uno mismo hay que decir la
     verdad. Para estar en paz con el prójimo hay que mentir.
 
++ [[https://es.wikipedia.org/wiki/Alain][Alain]]
+  + En definitiva, lo importante es empezar. No importa cómo, luego habrá
+    tiempo para pensar en los detalles.
+
 + [[https://es.wikipedia.org/wiki/Alan_Watts][Alan Watts]] ::
   + El desapego significa no sentir ningún remordimiento por el pasado ni miedo
     por el futuro; dejar que la vida siga su curso sin intentar interferir en
@@ -74,6 +78,11 @@ encontrando.
     e intensiva de buenos libros.
   + La experiencia no es lo que te sucede, sino lo que haces con lo que te
     sucede.
+  + La investigación de las enfermedades ha avanzado tanto que es cada vez más
+    difícil encontrar a alguien que esté completamente sano. 
+  + Las personas debemos el progreso a los insatisfechos.
+  + Quizá la única lección que nos enseña la historia es que los seres humanos
+    no aprendemos nada de las lecciones de la historia. 
 
 + [[https://es.wikipedia.org/wiki/Alejandro_Dumas][Alejandro Dumas]] ::
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
@@ -610,10 +619,6 @@ encontrando.
   + El futuro nos tortura y el pasado nos encadena. He aquí por qué se nos
     escapa el presente.
 
-+ [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]] ::
-  + El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
-    cumplimiento de nuestros deseos y cumplirlos plenamente. 
-
 + [[https://es.wikipedia.org/wiki/H._L._Mencken][H.L. Mencken]] ::
   + Para cada problema complejo y difícil, siempre hay una respuesta simple,
   fácil y equivocada.  
@@ -640,8 +645,10 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]] ::
   + Dime lo que crees ser y te diré lo que no eres.
+  + El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
+    cumplimiento de nuestros deseos y cumplirlos plenamente. 
   + El hombre que pretende verlo todo con claridad antes de decidir nunca
-    decide.
+    decide. 
   + Hacer con soltura lo que es difícil a los demás, he ahí la señal del
     talento; hacer lo que es imposible al talento, he ahí el signo del genio.
   + La vida es un aprendizaje de renunciamiento progresivo, de continua
@@ -980,8 +987,10 @@ encontrando.
   + Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.
 
 + [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]] ::
+  + De lo que no se puede hablar hay que callar.
   + La solución a los problemas que ves en tu vida es vivir en tal forma que
     desaparezca lo problemático. 
+  + Los límites de mi lenguaje son los límites de mi mundo.
   + No busquéis el significado, buscad el uso.
 
 + [[https://es.wikipedia.org/wiki/Marcel_Proust][Marcel Proust]] ::
@@ -1415,6 +1424,7 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Voltaire][Voltaire]] ::
   + Cuando uno no vive como piensa, acaba pensando como vive. 
   + El secreto de aburrir a la gente consiste en decirlo todo.
+  + Es peligroso tener razón cuando el Gobierno está equivocado.
   + He decidido hacer lo que me gusta porque es bueno para la salud.
   + La estupidez es una enfermedad extraordinaria, no es el enfermo el que
     sufre por ella, sino los demás.
