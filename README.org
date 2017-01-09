@@ -1298,6 +1298,10 @@ encontrando.
   + La vida merece la pena sólo por dos cosas: por descubrir las matemáticas y
     por enseñarlas. 
 
++ [[https://es.wikipedia.org/wiki/Simone_de_Beauvoir][Simone de Beauvoir]] ::
+  + Entre dos individuos, la armonía nunca viene dada, sino que debe
+    conquistarse indefinidamente.
+
 + [[https://es.wikipedia.org/wiki/Raymond_Smullyan][Raymond Smullyan]] ::
   + Sople como sople el viento,
     vaya como vaya el mundo,
