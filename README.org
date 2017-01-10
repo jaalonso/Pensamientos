@@ -20,6 +20,13 @@ encontrando.
   + En definitiva, lo importante es empezar. No importa cómo, luego habrá
     tiempo para pensar en los detalles.
 
++ [[https://es.wikipedia.org/wiki/Alain_Badiou][Alain Badiou]] ::
+  + Las matemáticas fueron y siguen siendo muy importantes para la filosofía,
+    porque son el ejemplo tipo de un lenguaje cuya Verdad es independiente del
+    poder. Lo enunciado se demuestra o no se demuestra. No hay rey o clérigo
+    que valga. Es, en cierto sentido, el primer pensamiento democrático,
+    sometido a examen colectivo.
+
 + [[https://es.wikipedia.org/wiki/Alan_Watts][Alan Watts]] ::
   + El desapego significa no sentir ningún remordimiento por el pasado ni miedo
     por el futuro; dejar que la vida siga su curso sin intentar interferir en
