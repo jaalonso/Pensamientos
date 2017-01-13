@@ -585,6 +585,8 @@ encontrando.
     decir no cuando es no. 
 
 + [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei]] ::
+  + En lo tocante a la ciencia, la autoridad de un millar no es superior al
+    humilde razonamiento de una sola persona. 
   + Las matemáticas son el alfabeto con el cual Dios ha escrito el Universo.
   + No podemos enseñar nada a nadie. Tan sólo podemos ayudar a que descubran
     por sí mismos.
