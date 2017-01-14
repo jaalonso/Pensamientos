@@ -126,8 +126,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry][Antoine de Saint-Exupéry]] ::
   + El sentido de las cosas no está en las cosas mismas, sino en nuestra
     actitud hacia ellas.
-  + La huida no ha llevado a nadie a ningún sitio.
   + El fracaso fortifica a los fuertes.
+  + La huida no ha llevado a nadie a ningún sitio.
   + La perfección se consigue, no cuando no haya más a añadir, sino cuando no
     hay nada más por quitar. 
   + Si quieres construir un barco, no empieces por buscar madera, cortar tablas
