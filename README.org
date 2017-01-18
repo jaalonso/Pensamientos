@@ -106,6 +106,10 @@ encontrando.
   + Quemad viejos leños, leed viejos libros, bebed viejos vinos, tened viejos
     amigos.
 
++ [[https://es.wikipedia.org/wiki/Alfred_Korzybski][Alfred Korzybski]] ::
+  + Hay dos maneras fáciles de moverse por la vida: creerlo todo o dudar de
+    todo. Ambas nos evitan pensar.  
+
 + [[https://es.wikipedia.org/wiki/Alfred_North_Whitehead][Alfred North Whitehead]] ::
   + No hay verdades absolutas; todas las verdades son medias verdades. El mal
     surge de quererlas tratar como verdades absolutas.
