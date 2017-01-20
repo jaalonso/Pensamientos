@@ -16,6 +16,11 @@ encontrando.
   + La vida es difícil. Para estar en paz con uno mismo hay que decir la
     verdad. Para estar en paz con el prójimo hay que mentir.
 
++ [[https://es.wikipedia.org/wiki/Akio_Morita][Akio Morita]] ::
+  + Se puede ser totalmente racional con una máquina. Pero si usted trabaja con
+    gente, a veces la lógica tiene que ir en el asiento trasero y dejar
+    adelante a la comprensión. 
+
 + [[https://es.wikipedia.org/wiki/Akira_Kurosawa][Akira Kurosawa]] :: 
   + En un mundo loco, solo los locos son cuerdos
 
