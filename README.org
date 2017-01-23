@@ -1166,6 +1166,7 @@ encontrando.
   + La sabiduría comienza escuchando ... escucha y serás sabio.
 
 + [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón]] ::
+  + El hombre es un ser en busca de significado. 
   + La belleza es el esplendor de la verdad.
   + La justicia no es otra cosa que la conveniencia del más fuerte.
   + La pobreza no viene por la disminución de las riquezas, sino por la
