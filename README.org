@@ -1,4 +1,4 @@
-Este repositorio contiene una recopilación de pensamientos con los que me voy
+﻿Este repositorio contiene una recopilación de pensamientos con los que me voy
 encontrando. 
 
 + [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]] ::
@@ -463,6 +463,11 @@ encontrando.
     misa más que Dios. 
   + Sólo los tontos creen que el silencio es un vacío. No está vacío nunca. Y a
     veces la mejor manera de comunicarse es callando. 
+
++ [[https://es.wikipedia.org/wiki/D%C5%8Dgen][Eihei Dogen]] ::
+  + La vida y la muerte son posiciones completas. Entre ambas existe la misma
+    relación que entre el invierno y la primavera. Es impropio decir que el invierno
+    se transforma en primavera, o que la primavera se transforma en verano.
 
 + [[https://es.wikipedia.org/wiki/Elbert_Hubbard][Elbert Hubbard]] ::
   + Nadie necesita más unas vacaciones que el que acaba de tenerlas. 
