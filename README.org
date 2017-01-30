@@ -125,6 +125,15 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Alejandro_Dumas][Alejandro Dumas]] ::
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
 
++ [[https://es.wikipedia.org/wiki/Alexander_Fleming][Alexander Fleming]] ::
+  + Un jardinero no debe ser impaciente. Las flores necesitan tiempo para
+    desarrollarse; si se intenta apresurar su crecimiento, se les hace más mal
+    que bien. Se las puede proteger contra los elementos, se las puede dar de
+    comer y de beber, pero no resulta difícil matarlas si se las proporciona
+    demasiada comida o bebidas demasiado fuertes. Ellas responden a la
+    simpatía; son capaces de soportar tratamientos extremadamente duros. En
+    resumen, se parecen mucho a los seres humanos.  
+
 + [[https://es.wikipedia.org/wiki/Alexander_Pope][Alexander Pope]] ::
   + Puesto que es razonable dudar de la mayoría de las cosas, debiéramos dudar
     más que de nada de esa razón nuestra que quisiera demostrar todas las
