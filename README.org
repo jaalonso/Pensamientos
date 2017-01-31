@@ -1315,6 +1315,10 @@ encontrando.
   + Si nos fuera dado el poder de vernos como nos ven los demás, de cuantos
     disparates y necedades nos veríamos libres. 
 
++ [[https://es.wikipedia.org/wiki/Robert_Frost][Robert Frost]] ::
+  + En dos palabras puedo resumir cuanto he aprendido acerca de la vida: sigue
+    adelante.  
+
 + [[https://es.wikipedia.org/wiki/Robert_G._Ingersoll][Robert G. Ingersoll]] ::
   + En la vida no hay premios ni castigos, sino consecuencias.
 
