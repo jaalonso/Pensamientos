@@ -126,6 +126,9 @@ encontrando.
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
 
 + [[https://es.wikipedia.org/wiki/Alexander_Fleming][Alexander Fleming]] ::
+  + El investigador sufre las decepciones, los largos meses pasados en una
+    dirección equivocada, los fracasos. Pero los fracasos son también útiles,
+    porque, bien analizados, pueden conducir al éxito.
   + Un jardinero no debe ser impaciente. Las flores necesitan tiempo para
     desarrollarse; si se intenta apresurar su crecimiento, se les hace más mal
     que bien. Se las puede proteger contra los elementos, se las puede dar de
