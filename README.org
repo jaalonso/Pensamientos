@@ -823,6 +823,9 @@ encontrando.
   + La lectura es como el alimento; el provecho no está en proporción de lo que
     se come, sino de los que se digiere.
 
++ [[https://es.wikipedia.org/wiki/James_Joyce][James Joyce]] ::
+  + Los errores son los umbrales del descubrimiento. 
+
 + [[https://es.wikipedia.org/wiki/Jean_Cocteau][Jean Cocteau]] ::
   + No se debe confundir la verdad con la opinión de la mayoría.
   + Un egoísta es aquel que se empeña en hablarte de sí mismo cuando tú te
