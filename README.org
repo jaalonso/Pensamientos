@@ -126,6 +126,7 @@ encontrando.
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
 
 + [[https://es.wikipedia.org/wiki/Alexander_Fleming][Alexander Fleming]] ::
+  + A veces uno realiza un hallazgo cuando no lo está buscando. 
   + El investigador sufre las decepciones, los largos meses pasados en una
     dirección equivocada, los fracasos. Pero los fracasos son también útiles,
     porque, bien analizados, pueden conducir al éxito.
