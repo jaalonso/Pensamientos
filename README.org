@@ -112,6 +112,8 @@ encontrando.
     naturaleza mucho antes de haber aprendido a dominarse a sí mismo.  
 
 + [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]] ::
+  + El secreto de la genialidad es el de conservar el espíritu del niño hasta
+    la vejez, lo cual quiere decir nunca perder el entusiasmo.  
   + La cultura no deriva de la lectura de libros, sino de la lectura exhaustiva
     e intensiva de buenos libros.
   + La experiencia no es lo que te sucede, sino lo que haces con lo que te
