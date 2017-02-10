@@ -111,6 +111,10 @@ encontrando.
   + Vivimos en una época peligrosa. El ser humano ha aprendido a dominar la
     naturaleza mucho antes de haber aprendido a dominarse a sí mismo.  
 
++ [[https://es.wikipedia.org/wiki/Albert_Szent-Gy%C3%B6rgyi][Albert Szent Gyorgyi]] ::
+  + Investigar es ver lo que todo el mundo ha visto, y pensar lo que nadie más
+    ha pensado. 
+
 + [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]] ::
   + El bien de la humanidad debe consistir en que cada uno goce al máximo de la
     felicidad que pueda, sin disminuir la felicidad de los demás. 
