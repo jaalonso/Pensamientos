@@ -118,6 +118,10 @@ encontrando.
   + Investigar es ver lo que todo el mundo ha visto, y pensar lo que nadie más
     ha pensado. 
 
++ [[https://es.wikipedia.org/wiki/Alberto_Manguel][Alberto Manguel]] ::
+  + Leemos para entender, o para comenzar a entender. No podemos hacer más que
+    leer. Leer, casi tanto como respirar, es nuestra función esencial.  
+
 + [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]] ::
   + El bien de la humanidad debe consistir en que cada uno goce al máximo de la
     felicidad que pueda, sin disminuir la felicidad de los demás. 
