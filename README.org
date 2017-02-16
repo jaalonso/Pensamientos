@@ -121,6 +121,7 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Alberto_Manguel][Alberto Manguel]] ::
   + Leemos para entender, o para comenzar a entender. No podemos hacer más que
     leer. Leer, casi tanto como respirar, es nuestra función esencial.  
+  + Quizá pudiese vivir sin escribir. No creo que pudiera vivir sin leer. 
 
 + [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]] ::
   + El bien de la humanidad debe consistir en que cada uno goce al máximo de la
