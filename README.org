@@ -193,6 +193,7 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Andr%C3%A9_Maurois][André Maurois]] ::
   + La lectura de un buen libro es un diálogo incesante en que el libro habla y
     el alma contesta.
+  + Sólo hay una verdad absoluta: que la verdad es relativa.
 
 + [[https://es.wikipedia.org/wiki/Anthony_de_Mello][Anthony de Mello]] ::
   + Jamás se ha emborrachado nadie a base de comprender intelectualmente la
