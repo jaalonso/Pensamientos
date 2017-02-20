@@ -196,6 +196,8 @@ encontrando.
   + Sólo hay una verdad absoluta: que la verdad es relativa.
 
 + [[https://es.wikipedia.org/wiki/Anthony_de_Mello][Anthony de Mello]] ::
+  + ¿En qué crees que gasta su vida la mayoría de la gente? ¡En impresionar a
+    los otros!
   + Jamás se ha emborrachado nadie a base de comprender intelectualmente la
     palabra vino. 
   + Medita, contempla los muros; observa tus ideas, tus hábitos, tus apegos y
@@ -1160,6 +1162,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Miguel_de_Cervantes][Miguel de Cervantes]] ::
   + Confía en el tiempo, que suele dar dulces salidas a muchas amargas
     dificultades.
+
++ [[https://es.wikipedia.org/wiki/Miguel_de_Unamuno][Miguel de Unamuno]] ::
+  + Hay que sentir el pensamiento y pensar el sentimiento.
 
 + [[https://es.wikipedia.org/wiki/Moli%C3%A8re][Molière]] ::
   + Las cosas no valen sino lo que se las hace valer.
