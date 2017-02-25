@@ -420,10 +420,12 @@ encontrando.
     el acto de llegar allí, que concede el mayor disfrute.
 
 + [[https://es.wikipedia.org/wiki/Carl_Gustav_Jung][Carl Gustav Jung]] ::
-  + Todo lo que nos irrita de los demás, nos puede ayudar a entendernos mejor a
-    nosotros mismos.
   + El zapato que le ajusta a un hombre le aprieta a otro; no hay receta para
     la vida que funcione en todos los casos.
+  + Todo lo que nos irrita de los demás, nos puede ayudar a entendernos mejor a
+    nosotros mismos.
+  + Uno recuerda con aprecio a sus maestros brillantes, pero con gratitud a
+    aquellos que tocaron nuestros sentimientos.
 
 + [[https://es.wikipedia.org/wiki/Carlos_Fuentes][Carlos Fuentes]] ::
   + Sólo pueden disipar el horror tres consejos: no admires el poder, no
@@ -1445,7 +1447,7 @@ encontrando.
     construir una casa. La perseverancia y la atención no son dones innatos
     sino un camino que se aprende a recorrer.
 
-+ [[https://es.wikipedia.org/wiki/S%C3%A9neca][Séneca]] ::
++ [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca]] ::
   + Brevísima y agitadísima es la vida de aquellos que olvidan el pasado,
     descuidan el presente y temen el futuro.
   + Como el suelo, por rico que sea, no puede dar fruto si no se cultiva,
