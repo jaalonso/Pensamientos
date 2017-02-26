@@ -914,6 +914,8 @@ encontrando.
   + La vida es lo que te pasa mientras estás ocupado haciendo otros planes.
 
 + [[https://es.wikipedia.org/wiki/John_Locke][John Locke]] ::
+  + El trabajo del maestro no consiste tanto en enseñar todo lo aprendible,
+    como en producir en el alumno amor y estima por el conocimiento. 
   + Los hombres olvidan siempre que la felicidad humana es una disposición de
     la mente y no una condición de las circunstancias.
 
