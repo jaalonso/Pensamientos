@@ -1091,6 +1091,9 @@ encontrando.
   + El hombre es producto de sus pensamientos: se convierte en lo que piensa.
   + Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.
 
++ [[https://es.wikipedia.org/wiki/Mateo_Alemán][Mateo Alemán]] ::
+  + No hay maestro como el ejercicio.
+
 + [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]] ::
   + De lo que no se puede hablar hay que callar.
   + La solución a los problemas que ves en tu vida es vivir en tal forma que
