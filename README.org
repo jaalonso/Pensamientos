@@ -845,6 +845,10 @@ encontrando.
   + Lo que sabemos es una gota de agua; lo que ignoramos es el océano.
   + Los hombres construimos demasiados muros y no suficientes puentes.
 
++ [[https://es.wikipedia.org/wiki/Is%C3%B3crates][Isócrates]] ::
+  + Una colección de bellas máximas es un tesoro más apreciable que las
+    riquezas.  
+
 + [[https://es.wikipedia.org/wiki/Jacinto_Benavente][Jacinto Benavente]] ::
   + La vida es como un viaje por la mar: hay días de calma y días de borrasca;
     lo importante es ser un buen capitán de nuestro barco.
