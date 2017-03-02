@@ -1318,6 +1318,10 @@ encontrando.
   + Ser feliz es muy sencillo. Lo que es difícil es ser sencillo.
   + ¿Cuál es el problema? Yo soy el problema. Deshazte del "yo" y de repente no
     hay problema.
+
++ [[https://es.wikipedia.org/wiki/Reinhold_Niebuhr][Reinhold Niebuhr]] ::
+  + Señor, dame la serenidad para aceptar las cosas que no puedo cambiar, valor
+    para cambiar las cosas que puedo y sabiduría para poder diferenciarlas. 
  
 + [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]] ::
   + Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no
