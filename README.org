@@ -1104,6 +1104,10 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Mateo_Alemán][Mateo Alemán]] ::
   + No hay maestro como el ejercicio.
 
++ [[https://es.wikipedia.org/wiki/Maya_Angelou][Maya Angelou]] ::
+  + La gente olvidará lo que dijiste, también olvidará lo que hiciste, pero
+    jamás olvidará cómo les hiciste sentir. 
+
 + [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]] ::
   + De lo que no se puede hablar hay que callar.
   + La solución a los problemas que ves en tu vida es vivir en tal forma que
