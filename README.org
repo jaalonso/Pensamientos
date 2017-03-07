@@ -1522,6 +1522,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Terry_Pratchett][Terry Pratchett]] ::
   + El tiempo es una droga. En cantidades excesivas, mata.
 
++ [[https://es.wikipedia.org/wiki/Thomas_Alva_Edison][Thomas Alva Edison]] ::
+  + No he fracasado, he encontrado diez mil fórmulas que no funcionan.
+
 + [[https://es.wikipedia.org/wiki/Thomas_Carlyle][Thomas Carlyle]] ::
   + No hables, en manera alguna, hasta que tengas algo que decir.
 
