@@ -917,6 +917,9 @@ encontrando.
   + Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
     mejor las cosas. 
 
++ [[https://es.wikipedia.org/wiki/John_C._Maxwell][John C. Maxwell]] ::
+  + La clave del problema reside en identificar el problema.
+
 + [[https://es.wikipedia.org/wiki/John_Holt_(pedagogo)][John Holt]] ::
   + Aprendemos a hacer algo haciéndolo. No existe otra manera.
 
