@@ -1095,6 +1095,9 @@ encontrando.
   + Sorprendernos por algo es el primer paso de la mente hacia el
     descubrimiento.
 
++ [[https://es.wikipedia.org/wiki/Madame_Roland][Madame Roland]] ::
+  + El mundo llama locos a quienes no afecta la locura colectiva.
+
 + [[https://es.wikipedia.org/wiki/Mahatma_Gandhi][Mahatma Gandhi]] ::
   + Casi todo lo que realice será insignificante, pero es muy importante que lo
     haga. 
