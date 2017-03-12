@@ -1290,6 +1290,9 @@ encontrando.
   + En modo alguno hemos de enfadarnos con las cosas; nada les importa nuestras
     iras. 
 
++ Proverbio árabe ::
+  + No hables si lo que vas a decir no es más hermoso que el silencio.
+
 + Proverbio chino ::
   + Aquel que pregunta es un tonto por cinco minutos, pero el que no pregunta
     permanece tonto por siempre.
@@ -1311,8 +1314,9 @@ encontrando.
 + Proverbio japonés ::
   + Las palabras no pronunciadas son las flores del silencio.
 
-+ Proverbio árabe ::
-  + No hables si lo que vas a decir no es más hermoso que el silencio.
++ Proverbio persa ::
+  + Aprende lo que te parezca difícil: todo lo difícil se vuelve fácil gracias
+    al aprendizaje.
 
 + Proverbio Zen ::
   + Acepta lo que no puedas cambiar y
