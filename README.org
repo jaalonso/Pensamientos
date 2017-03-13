@@ -175,6 +175,10 @@ encontrando.
     más que de nada de esa razón nuestra que quisiera demostrar todas las
     cosas.
 
++ [[https://es.wikipedia.org/wiki/Alexandra_David-N%C3%A9el][Alexandra David-Néel]] ::
+  + Descuidar las pequeñas cosas con el pretexto de que preferimos las grandes,
+    es la excusa de los flojos.
+
 + [[https://es.wikipedia.org/wiki/Alfonso_X_de_Castilla][Alfonso X el Sabio]] ::
   + Quemad viejos leños, leed viejos libros, bebed viejos vinos, tened viejos
     amigos.
