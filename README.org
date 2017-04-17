@@ -1136,8 +1136,8 @@ encontrando.
   + La sabiduría es el arte de aceptar aquello que no puede ser cambiado, de
     cambiar aquello que puede ser cambiado y, sobre todo, de conocer la
     diferencia. 
-  + Si logras separar, de lo que al parecer te aflige, la opinión que te haces de
-    ello evitarás muchos sufrimientos.
+  + Si logras separar, de lo que al parecer te aflige, la opinión que te haces
+    de ello evitarás muchos sufrimientos.
 
 + [[https://es.wikipedia.org/wiki/Marie_Curie][Marie Curie]] ::
   + Dejamos de temer aquello que hemos aprendido a entender.
@@ -1179,7 +1179,6 @@ encontrando.
     ofrezco a quien me contradice, que me instruye. La causa de la verdad
     debería ser la causa común de uno y otro. 
   + El signo más cierto de la sabiduría es la serenidad constante.
-  + La prueba más clara de la sabiduría es una alegría continua.  
   + Mi vida ha estado llena de terribles desgracias, la mayoría de las cuales
     nunca sucedieron.  
   + Nuestra opinión pone precio a las cosas.
@@ -1431,8 +1430,8 @@ encontrando.
   + La mejor medicina es un ánimo gozoso. 
 
 + [[https://es.wikipedia.org/wiki/Salvador_Jacinto_Polo_de_Medina][Salvador Jacinto Polo de Medina]] ::
-  Educar es cultivar a un tiempo el conocimiento de lo verdadero, la voluntad
-  de lo bueno y la sensibilidad de lo bello. 
+  + Educar es cultivar a un tiempo el conocimiento de lo verdadero, la voluntad
+    de lo bueno y la sensibilidad de lo bello. 
 
 + [[https://es.wikipedia.org/wiki/Samuel_Butler_(novelista)][Samuel Butler]] ::
   + La vida es el arte de sacar conclusiones suficientes a partir de datos
