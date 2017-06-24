@@ -356,7 +356,7 @@ encontrando.
     debe. 
   + Si deseas persuadir, apela al interés y no a la razón.
 
-+ [[https://es.wikipedia.org/wiki/Bertrand_Russell][Bertrand Russel]] ::
++ [[https://es.wikipedia.org/wiki/Bertrand_Russell][Bertrand Russell]] ::
   + El tiempo que disfrutes desperdiciándolo no es tiempo desperdiciado. 
   + El método de establecer como postulado lo que queramos tiene muchas
     ventajas. Las mismas que tiene el robo sobre el trabajo honrado.
@@ -400,7 +400,6 @@ encontrando.
     están más allá de la razón
   + No se muestra la grandeza por estar en un extremo, sino tocando los dos a
     la vez y llenando el espacio intermedio. 
-  + Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
   + He descubierto que toda la maldad humana proviene de la incapacidad del ser
     humano de sentarse en calma en una habitación.
 
@@ -469,8 +468,6 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Confucio][Confucio]] ::
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso. 
   + Desplaza la montaña quien comienza por retirar las pequeñas piedras.
-  + El hombre sabio busca lo que desea en su interior; el no sabio, lo busca en
-    los demás.
   + El que por la mañana ha conseguido conocer la verdad, ya puede morir por la
     tarde. 
   + El silencio es el único amigo que jamás traiciona.
@@ -478,7 +475,8 @@ encontrando.
     vida.
   + Exígete mucho a ti mismo y espera poco de los demás. Así te ahorraras
     disgustos.
-  + Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en los demás. 
+  + Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en los
+    demás.
   + Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.
   + No importa lo lento que vayas, siempre y cuando no te detengas.
   + Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he
@@ -504,7 +502,7 @@ encontrando.
     opresor. 
 
 + [[https://es.wikipedia.org/wiki/Di%C3%B3genes_de_Sinope][Diógenes de Sínope]] ::
-  + Callando es como se prende a oír; oyendo es como se aprende a hablar; y
+  + Callando es como se aprende a oír; oyendo es como se aprende a hablar; y
     luego, hablando se aprende a callar. 
 
 + [[https://es.wikipedia.org/wiki/Libro_del_Eclesiast%C3%A9s][Eclesiastés]] ::
@@ -631,7 +629,8 @@ encontrando.
     amigos. 
 
 + [[https://es.wikipedia.org/wiki/Fran%C3%A7oise_Sagan][Françoise Sagan]] ::
-  + Sólo cerrando las puertas detrás de uno se abren ventanas hacia el porvenir. 
+  + Sólo cerrando las puertas detrás de uno se abren ventanas hacia el
+    porvenir.
 
 + [[https://es.wikipedia.org/wiki/Franz_Schubert][Franz Schubert]] ::
   + Cuando uno se inspira en algo bueno, la música nace con fluidez, las
@@ -724,7 +723,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/H._L._Mencken][H.L. Mencken]] ::
   + Para cada problema complejo y difícil, siempre hay una respuesta simple,
-  fácil y equivocada.  
+    fácil y equivocada.  
 
 + [[https://en.wikipedia.org/wiki/Haim_Ginott][Haim Ginott]] ::
   + Los niños son como cemento fresco, cualquier cosa que caiga sobre ellos
@@ -1114,6 +1113,10 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Mateo_Alemán][Mateo Alemán]] ::
   + No hay maestro como el ejercicio.
+
++ [[https://es.wikipedia.org/wiki/M%C3%A1ximo_Gorki][Máximo Gorki]] ::
+  + Cuando el trabajo es un placer la vida es bella. Pero cuando nos es
+    impuesto la vida es una esclavitud. 
 
 + [[https://es.wikipedia.org/wiki/Maya_Angelou][Maya Angelou]] ::
   + La gente olvidará lo que dijiste, también olvidará lo que hiciste, pero
