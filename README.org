@@ -1111,6 +1111,10 @@ encontrando.
   + El hombre es producto de sus pensamientos: se convierte en lo que piensa.
   + Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.
 
++ [[https://es.wikipedia.org/wiki/Mary_Shelley][Mary Shelley]] ::
+  + Nada contribuye a tranquilizar la mente como un propósito firme,un punto en
+    el que pueda el alma fijar sus ojos intelectuales. 
+
 + [[https://es.wikipedia.org/wiki/Mateo_Alemán][Mateo Alemán]] ::
   + No hay maestro como el ejercicio.
 
