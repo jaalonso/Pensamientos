@@ -1,4 +1,4 @@
-Este repositorio contiene una recopilación de pensamientos con los que me voy
+<Este repositorio contiene una recopilación de pensamientos con los que me voy
 encontrando. 
 
 + [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]] ::
@@ -547,8 +547,8 @@ encontrando.
     ayer. 
   + Lo que perturba a los hombres no son las cosas, sino su manera de
     enjuiciarlas. 
-  + Si no quieres ver tus deseos frustados, no desees jamás sino aquéllo que
-    sólo de tí depende.
+  + Si no quieres ver tus deseos frustrados, no desees jamás sino aquéllo que
+    sólo de ti depende.
   + También en la moderación hay un término medio, y quien no da con él es
     víctima de un error parecido al de quien se excede por desenfreno.
   + Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
