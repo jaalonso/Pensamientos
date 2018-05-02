@@ -1,4 +1,4 @@
-<Este repositorio contiene una recopilación de pensamientos con los que me voy
+Este repositorio contiene una recopilación de pensamientos con los que me voy
 encontrando. 
 
 + [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]] ::
@@ -955,8 +955,16 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Jorge_Luis_Borges][Jorge Luis Borges]] ::
   + La duda es uno de los nombres de la inteligencia.
+  + En cuanto al fracaso y la fama, me parecen irrelevantes y no me
+    preocupan. Lo que quiero ahora es la paz, el placer del pensamiento
+    y de la amistad. Y aunque parezca demasiado ambicioso, la sensación
+    de amar y ser amado.
   + Los españoles siempre están pensando en la envídia. Para decir que algo es
     bueno dicen: "Es envidiable".
+  + Maestro no es el que se aplica a la tarea de enseñar cosas, porque
+    una enciclopedia, en tal caso, sería mejor. El maestro no enseña
+    cosas sino una manera de tratar con las cosas, una manera de tratar
+    con el incesante universo. 
   + Nuestro vivir es una serie de adaptaciones, vale decir, una educación del
     olvido.
   + Que otros se jacten de las páginas que han escrito; a mi me enorgullecen
