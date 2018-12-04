@@ -1119,6 +1119,10 @@ encontrando.
   + El hombre es producto de sus pensamientos: se convierte en lo que piensa.
   + Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.
 
++ [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]] ::
+  + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
+    hacer una pausa y reflexionar.
+
 + [[https://es.wikipedia.org/wiki/Mary_Shelley][Mary Shelley]] ::
   + Nada contribuye a tranquilizar la mente como un propósito firme,un punto en
     el que pueda el alma fijar sus ojos intelectuales. 
