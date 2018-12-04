@@ -1,5 +1,5 @@
 Este repositorio contiene una recopilación de pensamientos con los que me voy
-encontrando. 
+encontrando.
 
 + [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]] ::
   + Es más fácil reprimir el primer capricho que satisfacer a todos los que le
