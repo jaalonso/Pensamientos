@@ -776,7 +776,7 @@ Recopilación de los pensamientos incluidos en las cartas de las
     elecciones en el pasado. Lo que seas mañana será consecuencia de tus actos
     de hoy.
 
-+ [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]] ;;
++ [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]] ::
   + Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
 
 + [[https://bit.ly/2E7OKPL][Thich Nhat Hanh]] ::
