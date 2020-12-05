@@ -748,6 +748,11 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://en.wikipedia.org/wiki/Richard_Hamming][Richard Hamming]] ::
   + El propósito de la computación es la comprensión, no los números.
 
++ [[https://bit.ly/3qtRJpl][Robert Louis Stevenson]] ::
+  + Saber lo que prefieres, en lugar de decir sumisamente "amén" a lo que el
+    mundo te dice que debieras preferir, significa que has mantenido tu alma con
+    vida.
+
 + [[https://bit.ly/3j663Qz][Ronald Laing]] ::
   + Deberíamos dedicarnos a desaprender gran parte de lo aprendido y aprender lo
     que no se nos ha enseñado.
