@@ -70,7 +70,7 @@ Recopilación de los pensamientos incluidos en las cartas de las
     se convierte en certeza; las teorías unidas revelan su fuente común antes de
     desaparecer.
 
-+ [[https://es.wikipedia.org/wiki/Antoine_Lavoisier][Antoine Lavoisier]]
++ [[https://es.wikipedia.org/wiki/Antoine_Lavoisier][Antoine Lavoisier]] ::
   + Pensamos solo por medio de las palabras. Los idiomas son verdaderos métodos
     analíticos. El álgebra, que se adapta a su propósito en cada especie de
     expresión, de la manera más simple, más exacta y mejor posible, es al mismo
