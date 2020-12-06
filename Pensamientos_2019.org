@@ -135,6 +135,9 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + Los hombres son criaturas muy raras: la mitad censura lo que practica; la otra
     mitad practica lo que censura; el resto siempre dice y hace lo que debe.
 
++ [[https://es.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle][Bernard Le Bovier de Fontenelle]] ::
+  + Solemos llamar inútiles a las cosas que no comprendemos.
+
 + [[https://es.wikipedia.org/wiki/Bertrand_Russell][Bertrand Russell]] ::
   + Aunque esto pueda parecer una paradoja, toda la ciencia exacta está dominada
     por la idea de aproximación. Cuando un hombre te dice que sabe la verdad
@@ -160,7 +163,13 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + El hombre está dispuesto siempre a negar todo aquello que no comprende.
   + La contradicción no es un signo de falsedad, ni la falta de contradicción un
     signo de verdad.
+  + Toda la miseria de los hombres proviene de una única cosa, que es no saber
+    permanecer en reposo en una habitación.
   + Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
+
++ [[https://es.wikipedia.org/wiki/Burrhus_Frederic_Skinner][Burrhus Frederic Skinner]] ::
+  + El auténtico problema no es si las máquinas piensan, sino si lo hacen los
+    hombres.
 
 + [[https://es.wikipedia.org/wiki/Carl_Benjamin_Boyer][Carl B. Boyer]] y [[https://en.wikipedia.org/wiki/Uta_Merzbach][Uta C. Merzbach]] ::
   + Una de las lecciones que la historia de las matemáticas nos enseña claramente
@@ -204,239 +213,117 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + ¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir y flores
     para tener algo por lo que vivir.
 
-+ Daniel Kahneman
++ [[https://es.wikipedia.org/wiki/Daniel_Kahneman][Daniel Kahneman]] ::
   + A menudo nuestro cerebro racionaliza los pensamientos automáticos y los
     presenta como el fruto de un razonamiento elaborado. Pero son historias que nos
     inventamos para justificar decisiones que en realidad son fruto de nuestros
     prejuicios. Es una forma de engañarnos.
 
-+ David Hilbert
++ [[https://es.wikipedia.org/wiki/David_Hilbert][David Hilbert]] ::
   + Es un error creer que el rigor es enemigo de la simplicidad. Por el contrario,
     numerosos ejemplos confirman que el método riguroso es al mismo tiempo el más
     simple y el más fácil de comprender. El mismo esfuerzo por el rigor nos obliga a
     encontrar métodos de prueba más sencillos.
-
-+ David Hilbert
   + Las matemáticas son un juego que se juega de acuerdo a ciertas reglas simples
     con marcas sin sentido en el papel.
-
-+ David Hilbert
   + Un problema matemático debería ser difícil para seducirnos, pero no
     completamente inaccesible, para que no se burle de nuestros esfuerzos. Debería
     ser para nosotros una guía en el laberíntico camino hacia las verdades ocultas
     y, en última instancia, un recordatorio de nuestro placer en la solución
     exitosa.
-
-+ David Hilbert
   + Una teoría matemática no debe considerarse completa hasta que la hayas dejado
     tan clara que puedas explicársela al primer hombre con el que te encuentres en
     la calle.
 
-+ David Hilbert
-  + Una teoría matemática no debe considerarse completa hasta que la hayas dejado
-    tan clara que puedas explicársela al primer hombre con el que te encuentres en
-    la calle.
-
-+ David Hume
++ [[https://es.wikipedia.org/wiki/David_Hume][David Hume]] ::
   + Cada solución da pie a una nueva pregunta.
 
-+ Denis Diderot
++ [[https://es.wikipedia.org/wiki/Denis_Diderot][Denis Diderot]] ::
   + Cuidado con el hombre que habla de poner las cosas en orden. Poner las
     cosas en orden siempre significa poner las cosas bajo su control.
-
-+ Denis Diderot
-  + Cuidado con el hombre que habla de poner las cosas en orden. Poner las cosas
-    en orden siempre significa poner las cosas bajo su control.
-
-+ Denis Diderot
   + Las frases concisas son como clavos afilados que clavan la verdad en nuestra
     memoria.
-
-+ Denis Diderot [[https://es.wikipedia.org/wiki/Denis_Diderot][Denis Diderot]].
   + Una idiotez común es creer que el que tiene más clientes es el más
     hábil.
 
-+ Diógenes de Sínope.
++ [[https://es.wikipedia.org/wiki/Di%C3%B3genes_de_Sinope][Diógenes de Sínope]] ::
   + Callando es como se aprende a oír; escuchando es como se aprende a hablar; y
     después, hablando, se aprende a callar.
 
-+ Donald E Knuth
++ [[https://es.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]] ::
   + El proceso de preparación de programas para una computadora digital es
     especialmente atractivo, no solo porque puede ser gratificante económica y
     científicamente, sino también porque puede ser una experiencia estética muy
     parecida a la composición de poesía o música.
-
-+ Donald E Knuth
   + El verdadero problema es que los programadores han pasado demasiado tiempo
     preocupándose por la eficiencia en los lugares equivocados y en los momentos
     equivocados; la optimización prematura es la raíz de todo mal (o al menos la
     mayor parte) en la programación.
-
-+ Donald E Knuth
   + Hemos visto que la programación de computadoras es un arte, porque aplica el
     conocimiento acumulado al mundo, porque requiere habilidad e ingenio, y
     especialmente porque produce objetos de belleza. Un programador que se vea
     inconscientemente como un artista disfrutará de lo que hace y lo haremos
     mejor.
-
-+ Donald E Knuth
   + La diferencia entre el arte y la ciencia es que la ciencia es lo que la gente
     entiende lo suficientemente bien como para explicarle a una computadora. Todo
     lo demás es arte.
+  + La mejor teoría está inspirada en la práctica. La mejor práctica está
+    inspirada en la teoría.
 
-+ Donald Knuth
-  + The best theory is inspired by practice. The best practice is inspired by
-    theory.
-
-+ E.T. Bell
-  + One of the endlessly alluring aspects of mathematics is that its thorniest
-    paradoxes have a way of blooming into beautiful theories.
-
-+ Edsger Dijkstra
++ [[https://es.wikipedia.org/wiki/Edsger_Dijkstra][Edsger Dijkstra]] ::
   + Es imposible afinar un lápiz con una cuchilla desafilada. Es igualmente inútil
     tratar de hacerlo con diez.
 
-+ Elbert Hubbard
++ [[https://es.wikipedia.org/wiki/Elbert_Hubbard][Elbert Hubbard]] ::
   + Las inteligencias poco capaces se interesan en lo extraordinario; las
     inteligencias poderosas en las cosas ordinarias.
 
-+ Elie Cartan
++ [[https://es.wikipedia.org/wiki/%C3%89lie_Cartan][Elie Cartan]] ::
   + Más que ninguna otra ciencia, las matemáticas se desarrollan a través de una
-    secuencia de abstracciones consecutivas. El deseo de evitar errores obliga a
+    secuencia de abstracciones sucesivas. El deseo de evitar errores obliga a
     los matemáticos a encontrar y aislar la esencia de los problemas y las
     entidades consideradas. Llevado al extremo, este procedimiento justifica la
     conocida broma de que un matemático es un científico que no sabe lo que dice
     ni si existe o no lo que dice.
 
-+ Emmy Noether
++ [[https://es.wikipedia.org/wiki/Emmy_Noether][Emmy Noether]] ::
   + Si pudiéramos ser educados dejando al margen lo que la gente piense o deje de
     pensar, y teniendo en cuenta solo lo que en principio es bueno o malo, ¡qué
     diferente sería todo!
 
-+ En G. Polya
-  + Quien mal comprende, mal responde.
-
-+ Epicteto
++ [[https://es.wikipedia.org/wiki/Epicteto][Epicteto]] ::
   + No nos perturban las cosas sino las opiniones que de ellas tenemos.
 
-+ Eric T Bell,
++ [[https://es.wikipedia.org/wiki/Eric_Temple_Bell][Eric Temple Bell]] ::
   + "Obvio" es la palabra más peligrosa en matemáticas.
+  + Uno de los aspectos más atractivos de las matemáticas es que sus paradojas
+    más complejas se convierten en hermosas teorías.
 
-+ Errico Malatesta
++ [[https://es.wikipedia.org/wiki/Errico_Malatesta][Errico Malatesta]] ::
   + A los anarquistas les compete la especial misión de ser custodios celosos de la
     libertad, contra los aspirantes al poder y contra la posible tiranía de las
     mayorías.
 
-+ Eugene Decouvertes
-  + It is not the answer that enlightens, but the question.
++ [[https://es.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco][Eugène Ionesco]] ::
+  + No es la respuesta lo que nos ilumina, sino la pregunta.
 
-+ Ezra Pound
-  + El objetivo de las matemáticas es explicar todo lo posible en términos
-    simples. Michael F Atiyah
-
-+ Fontenelle
-  + “Solemos llamar inútiles a las cosas que no comprendemos.”
-
-+ Francis Bacon
++ [[https://es.wikipedia.org/wiki/Francis_Bacon][Francis Bacon]] ::
+  + El hombre prefiere creer lo que prefiere que sea verdad.
+  + Los primeros y más antiguos investigadores de la verdad solían arrojar su
+    conocimiento en aforismos, o en frases cortas, dispersas y no metódicas.
   + Quien no quiere pensar es un fanático; quien no puede pensar es un idiota;
     quien no osa pensar es un cobarde.
 
-+ Frederic Burrhus Skinner
-  + El auténtico problema no es si las máquinas piensan, sino si lo hacen los
-    hombres.
++ [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]] ::
+  + Los jóvenes deben probar los teoremas, los viejos deben escribir libros.
 
-+ G. Frege
-  + El objetivo de la prueba es, de hecho, no sólo poner la verdad de una
-    proposición más allá de toda duda, sino también darnos una idea de la
-    dependencia de una verdad con respecto a otra. Después de habernos convencido
-    de que una roca es inamovible, al intentar moverla sin éxito, queda la siguiente
-    pregunta, ¿qué es lo que lo sostiene de forma tan segura?
-
-+ G. H. Hardy
-  + Young men should prove theorems, old men should write books.
-
-+ G. Polya
-  + El necio ve el principio, el sabio el final.
-
-+ G. Polya
-  + El sabio empieza por el final, el necio termina en el principio.
-
-+ G. Polya
-  + Es mucho mejor resolver un problema de cinco maneras diferentes, que resolver
-    cinco problemas de una sola manera.
-
-
-+ G. Polya
-  + Según el viento, la vela. Según la tela, el traje.
-
-+ G. Polya.
-  + Si el fin perseguido no está claro en nuestra mente, perderemos fácilmente
-    el camino y abandonaremos el problema.
-
-+ G.W. Leibniz
-  + La música es el placer que experimenta la mente humana al contar sin darse
-    cuenta de que está contando.
-
-+ Galileo Galilei
++ [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei]] ::
   + Nunca me he encontrado con alguien tan ignorante de quien no pudiese aprender
     algo.
-
-+ Galileo Galilei
   + Todas las verdades son fáciles de entender, una vez descubiertas. El
     caso es descubrirlas.
 
-+ Georg Gottlob
-  + Computer science is the continuation of logic by other means.
-
-+ George M Phillips
-  + A veces se dice que las matemáticas no son un tema experimental. Esto no es
-    verdad! Los matemáticos a menudo usan la evidencia de muchos ejemplos para
-    ayudar a formar una conjetura, y este es un enfoque experimental. Habiendo
-    formado una conjetura sobre lo que podría ser cierto, la siguiente tarea es
-    tratar de probarlo.
-
-+ George Polya
-  + Hay que conjeturar el teorema matemático antes de probarlo: hay que planificar
-    la idea de la prueba antes de completar los detalles. Hay que combinar las
-    observaciones y seguir analogías: hay que intentarlo y volverlo a intentar. El
-    resultado del trabajo creativo del matemático es el razonamiento demostrativo,
-    una prueba; pero la prueba es descubierta por el razonamiento plausible, por la
-    suposición.
-
-+ George Polya
-  + Las matemáticas consisten en contenido y conocimiento. ¿Qué es el
-    conocimiento en matemáticas? La capacidad de resolver problemas.
-
-+ George Polya
-  + Las matemáticas consisten en contenido y conocimiento. ¿Qué es el conocimiento
-    en matemáticas? La capacidad de resolver problemas.
-
-+ George Polya
-  + Resolver problemas es una habilidad práctica como, digamos, nadar. Adquirimos
-    cualquier habilidad práctica por imitación y práctica.
-
-+ George Polya
-  + Resolver problemas puede ser considerado como la actividad humana más
-    característica.
-
-+ George Polya
-  + Resolver problemas se puede considerar como la actividad humana más
-    característica.
-
-+ George Polya
-  + Un gran descubrimiento resuelve un gran problema pero hay un grano de
-    descubrimiento en la solución de cualquier problema. Su problema puede ser
-    modesto; pero si desafía su curiosidad y pone en juego sus facultades
-    inventivas, y si lo resuelve por sus propios medios, puede experimentar la
-    tensión y disfrutar del triunfo del descubrimiento.
-
-
-+ George Pólya
-  + The elegance of a mathematical theorem is directly proportional to the number
-    of independent ideas one can see in the theorem and inversely proportional to
-    the effort it takes to see them.
-
-+ Gian-Carlo Rota
++ [[https://en.wikipedia.org/wiki/Gian-Carlo_Rota][Gian-Carlo Rota]] ::
   + El ejemplo más común de belleza en matemáticas es un paso brillante en una
     prueba que de otra manera no sería distinguida. Un teorema hermoso puede no
     ser bendecido con una prueba igualmente hermosa; con frecuencia aparecen
@@ -445,150 +332,156 @@ Recopilación de los pensamientos incluidos en las cartas de las
     coincidan con la belleza del teorema, con éxito variable. Sin embargo, es
     imposible encontrar pruebas hermosas de teoremas que no sean
     hermosos.
-
-+ Gian-Carlo Rota
   + La lógica matemática no trata de la verdad, sino del juego de la verdad.
 
-+ Gottfried W Leibniz
++ [[https://en.wikipedia.org/wiki/Georg_Gottlob][Georg Gottlob]] ::
+  + La ciencia de la computación es la continuación de la lógica por otros
+    medios.
+
++ [[https://es.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]] ::
+  + El necio ve el principio, el sabio el final.
+  + El sabio empieza por el final, el necio termina en el principio.
+  + Es mucho mejor resolver un problema de cinco maneras diferentes, que resolver
+    cinco problemas de una sola manera.
+  + Hay que conjeturar el teorema matemático antes de probarlo: hay que planificar
+    la idea de la prueba antes de completar los detalles. Hay que combinar las
+    observaciones y seguir analogías: hay que intentarlo y volverlo a intentar. El
+    resultado del trabajo creativo del matemático es el razonamiento demostrativo,
+    una prueba; pero la prueba es descubierta por el razonamiento plausible, por la
+    suposición.
+  + La elegancia de un teorema matemático es directamente proporcional al número
+    de ideas independientes que se pueden ver en el teorema e inversamente
+    proporcional al esfuerzo que se requiere para verlas.
+  + Las matemáticas consisten en contenido y conocimiento. ¿Qué es el conocimiento
+    en matemáticas? La capacidad de resolver problemas.
+  + Quien mal comprende, mal responde.
+  + Resolver problemas es una habilidad práctica como, digamos, nadar. Adquirimos
+    cualquier habilidad práctica por imitación y práctica.
+  + Resolver problemas se puede considerar como la actividad humana más
+    característica.
+  + Según el viento, la vela. Según la tela, el traje.
+  + Si el fin perseguido no está claro en nuestra mente, perderemos fácilmente
+    el camino y abandonaremos el problema.
+  + Un gran descubrimiento resuelve un gran problema pero hay un grano de
+    descubrimiento en la solución de cualquier problema. Su problema puede ser
+    modesto; pero si desafía su curiosidad y pone en juego sus facultades
+    inventivas, y si lo resuelve por sus propios medios, puede experimentar la
+    tensión y disfrutar del triunfo del descubrimiento.
+
++ [[https://es.wikipedia.org/wiki/Gottfried_Leibniz][Gottfried Leibniz]] ::
   + Dos cosas son idénticas si una puede ser sustituida por la otra sin afectar
     la verdad.
-
-+ Gottfried W Leibniz
-  + Dos cosas son idénticas si una puede ser sustituida por la otra sin afectar
-    la verdad.
-
-+ Gottfried Wilhelm Leibniz
   + En el ámbito del espíritu, busca la claridad; en el mundo material, busca la
     utilidad.
+  + Incluso en los juegos de niños hay cosas para interesar al matemático más
+    grande.
+  + La música es el placer que experimenta la mente humana al contar sin darse
+    cuenta de que está contando.
 
-+ Gottlob Frege
-  + El objetivo de la prueba es, de hecho, no solo colocar la verdad de una
-    proposición fuera de toda duda, sino también darnos una idea de la dependencia
-    de una verdad sobre otra. Después de habernos convencido de que una roca es
-    inamovible, al intentar sin éxito moverla, queda la pregunta adicional, ¿qué
-    es lo que la sostiene de manera tan segura?
-
-+ Gottlob Frege
++ [[https://es.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]] ::
+  + El objetivo de la prueba es, de hecho, no sólo poner la verdad de una
+    proposición más allá de toda duda, sino también darnos una idea de la
+    dependencia de una verdad con respecto a otra. Después de habernos convencido
+    de que una roca es inamovible, al intentar moverla sin éxito, queda la siguiente
+    pregunta, ¿qué es lo que lo sostiene de forma tan segura?
   + Realmente vale la pena inventar un nuevo símbolo si podemos eliminar no pocas
     dificultades lógicas y asegurar el rigor de las pruebas. Pero muchos
     matemáticos parecen tener tan poca sensación de pureza lógica y precisión que
     usarán una palabra que significa tres o cuatro cosas diferentes, antes de
     tomar la terrible decisión de inventar una nueva palabra.
 
-+ Gregory Chaitin
++ [[https://es.wikipedia.org/wiki/Gregory_Chaitin][Gregory Chaitin]] ::
   + En cierto modo, las matemáticas no son el arte de responder preguntas
     matemáticas, es el arte de hacer las preguntas correctas, las preguntas que te
     dan una idea, las que te guían en direcciones interesantes, las que se
     conectan con muchas otras preguntas interesantes, las que tienen hermosas
     respuestas.
 
-+ Gregory Chaitin
-  + In a way, math isn't the art of answering mathematical questions, it is the art
-    of asking the right questions, the questions that give you insight, the ones
-    that lead you in interesting directions, the ones that connect with lots of
-    other interesting questions -the ones with beautiful answers.
-
-+ Haemin Sunim.
++ [[https://es.wikipedia.org/wiki/Haemin_Sunim][Haemin Sunim]] ::
   + Si no cambiamos por nosotros mismos, entonces el mundo nos obligará a
     cambiar, lo cual es más doloroso. El cambio es necesario para nuestro
     crecimiento espiritual.
+  + Si quiero convencer a alguien, primero escucho con atención. Incluso si
+    tengo razón, no se convencerá hasta que se sienta escuchado y respetado.
 
-+ Haemin Sunim.
-  + Si quiero convencer a alguien, primero escucho con atención. Incluso si tengo
-    razón, no se convencerá hasta que se sienta escuchado y respetado.
-
-+ Hecato de Rodas
++ [[https://es.wikipedia.org/wiki/Hecato_de_Rodas][Hecato de Rodas]] ::
   + Si dejas de esperar, dejarás de temer.
 
-+ Henri Bergson
-  + Lo que hacemos depende de lo que somos; pero debe añadirse que somos, en cierta
-    medida, lo que hacemos y que nos creamos continuamente a nosotros mismos.
++ [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson]] ::
+  + Lo que hacemos depende de lo que somos; pero debe añadirse que somos, en
+    cierta medida, lo que hacemos y que nos creamos continuamente a nosotros
+    mismos.
 
-+ Henri Poincaré
++ [[https://es.wikipedia.org/wiki/Henri_Poincar%C3%A9][Henri Poincaré]] ::
   + El sentimiento de la belleza matemática, de la armonía de los números y de
     las formas, de la elegancia geométrica. Es un sentimiento genuinamente
     estético, que todos los matemáticos conocen. Y esto es sensibilidad.
-
-+ Henri Poincaré
   + El verdadero método para prever el futuro de las matemáticas es estudiar su
     historia y su estado actual.
-
-+ Henri Poincaré
   + La ciencia son hechos; de la misma manera que las casas están hechas de
     piedras, la ciencia está hecha de hechos; pero un montón de piedras no es una
     casa y una colección de hechos no es necesariamente ciencia.
-
-+ Henri Poincaré
   + Los matemáticos conceden gran importancia a la elegancia de sus métodos y sus
     resultados. Esto no es puro diletantismo. ¿Qué es lo que nos da la sensación
     de elegancia en una solución, en una demostración? Es la armonía de las
     diversas partes, su simetría, su feliz equilibrio; en una palabra es todo lo
     que introduce orden, todo lo que da unidad, lo que nos permite ver claramente
     y comprender a la vez el conjunto y los detalles.
-
-+ Henri Poincaré
   + Todos creen firmemente en ello porque los matemáticos se imaginan que es un
     hecho de observación, y los observadores que es una teoría matemática.
 
-+ Henry David Thoreau
++ [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]] ::
   + No importa lo pequeño pueda parecer el comienzo: lo que se hace bien, bien
     hecho queda para siempre.
 
-+ Hermann Weyl
-  + A modern mathematical proof is not that different from a modern machine:
-    simple fundamental principles are hidden under a mass of technical details.
-
-+ Hermann Weyl
++ [[https://es.wikipedia.org/wiki/Hermann_Weyl][Hermann Weyl]] ::
+  + Una prueba matemática moderna no es tan diferente de una máquina moderna:
+    simples principios fundamentales están ocultos bajo una masa de detalles
+    técnicos.
   + La investigación matemática eleva la mente humana a una proximidad más
     cercana a lo divino de la que se puede alcanzar a través de cualquier otro
     medio.
 
-+ Hippolyte Taine
++ [[https://es.wikipedia.org/wiki/Hippolyte_Taine][Hippolyte Taine]] ::
   + Para conseguir algún resultado en la vida es preciso tener paciencia,
     aburrirse, hacer y deshacer, volver a empezar y seguir de nuevo, sin que un
-    impulso de cólera o un arrebato de la imaginación vengan a detener o desviar el
-    trabajo diario.
+    impulso de cólera o un arrebato de la imaginación vengan a detener o desviar
+    el trabajo diario.
 
-+ Horace Walpole
++ [[https://es.wikipedia.org/wiki/Horace_Walpole][Horace Walpole]] ::
   + Todo el secreto de la vida es estar interesado en una cosa profundamente y en
     otras tantas un poco.
 
-+ Ian Stewart
++ [[https://es.wikipedia.org/wiki/Ian_Stewart][Ian Stewart]] ::
   + A menudo la contribución clave de la intuición es hacernos conscientes de los
     puntos débiles de un problema, lugares donde puede ser vulnerable a los
     ataques. Una prueba matemática es como una batalla, o si prefieres una
     metáfora menos belicosa, una partida de ajedrez. Una vez que se ha
     identificado un punto débil potencial, el conocimiento técnico de la
     maquinaria matemática puede aprovecharse para explotarlo.
-
-+ Ian Stewart
   + La intuición matemática es la capacidad de la mente para sentir la forma y la
     estructura, para detectar patrones que no podemos percibir conscientemente. La
     intuición carece de la claridad cristalina de la lógica consciente, pero lo
     compensa al llamar la atención sobre cosas que nunca hubiéramos considerado
     conscientemente.
-
-+ Ian Stewart
   + La tendencia del empresario es explotar el mundo natural. La tendencia del
     ingeniero es cambiarlo. La tendencia del científico es tratar de entenderlo, de
     averiguar qué es lo que realmente está sucediendo. La tendencia del matemático
     es estructurar ese proceso de comprensión buscando generalidades que
     atraviesen las subdivisiones obvias.
 
-+ Immanuel Kant
++ [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant]] ::
   + Tan solo por la educación puede el hombre llegar a ser hombre. El hombre no es
     más que lo que la educación hace de él.
 
-+ Imre Lakatos
-  + La formación científica -atomizada de acuerdo con técnicas distintas y
-    separadas- ha degenerado en entrenamiento científico. No hay que sorprenderse de
-    que ello desanime a las mentes críticas.
-
-+ Imre Lakatos.
++ [[https://es.wikipedia.org/wiki/Imre_Lakatos][Imre Lakatos]] ::
   + El compromiso ciego con una teoría no es una virtud intelectual: es un crimen
     intelectual.
+  + La formación científica, atomizada de acuerdo con técnicas distintas y
+    separada, ha degenerado en entrenamiento científico. No hay que sorprenderse
+    de que ello desanime a las mentes críticas.
 
-+ Ivars Peterson
++ [[https://en.wikipedia.org/wiki/Ivars_Peterson][Ivars Peterson]] ::
   + El misterio es un ingrediente ineludible de las matemáticas. Las matemáticas
     están llenas de preguntas sin respuesta, que superan con creces el número de
     teoremas y resultados conocidos. Está en la naturaleza de las matemáticas el
@@ -597,28 +490,19 @@ Recopilación de los pensamientos incluidos en las cartas de las
     las piezas de la matemática que pueden ser validadas por pruebas relativamente
     cortas. Todo lo demás es especulación.
 
-+ J.L. Borges
-  + Nuestra cobardía y nuestra desidia tienen la culpa de que el mañana y el ayer
-    sean iguales.
-
-+ J.W. von Goethe
++ [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]] ::
   + Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El atrevimiento
     posee genio, poder y magia. Comiénzalo ahora.
 
-+ Jacques Lacan
++ [[https://es.wikipedia.org/wiki/Jacques_Lacan][Jacques Lacan]] ::
   + He aquí el gran error de siempre: imaginar que los seres humanos piensan lo que
-    dicen.
 
-+ Jacques Lacan
-  + He aquí el gran error de siempre: imaginar que los seres humanos piensan lo que
-    dicen.
-
-+ James J. Sylvester
++ [[https://es.wikipedia.org/wiki/James_Joseph_Sylvester][James Joseph Sylvester]] ::
   + El objetivo constante del matemático es reducir todas sus expresiones a sus
     términos más elementales, reducir cada palabra y frase superflua, y condensar
     el máximo de significado en el mínimo de lenguaje.
 
-+ Jean Dieudonné
++ [[https://es.wikipedia.org/wiki/Jean_Dieudonn%C3%A9][Jean Dieudonné]] ::
   + No existe un criterio de apreciación que no varíe de una época a otra y de un
     matemático a otro. [...] Estas divergencias en el gusto recuerdan las disputas
     que suscitan las obras de arte, y es un hecho de que los matemáticos a menudo
@@ -626,70 +510,44 @@ Recopilación de los pensamientos incluidos en las cartas de las
     sorprender a los profesionales de otras ciencias: para ellos, el único
     criterio es la verdad de una teoría o fórmula.
 
-+ Jean Piaget.
++ [[https://es.wikipedia.org/wiki/Jean_Piaget][Jean Piaget]] ::
   + El objetivo principal de la educación es crear hombres capaces de hacer cosas
     nuevas, no simplemente repetir lo que han hecho otras generaciones, hombres
     creativos, inventivos y descubridores.
 
-+ Jeff Lindsay
++ [[https://es.wikipedia.org/wiki/Jeff_Lindsay][Jeff Lindsay]] ::
   + La clave de una vida feliz es alcanzar metas de las que te sientas
     orgulloso y un propósito que cumplir.
 
-+ John A Wheeler
++ [[https://es.wikipedia.org/wiki/John_Archibald_Wheeler][John Archibald Wheeler]] ::
   + Vivimos en una isla rodeada de un mar de ignorancia. A medida que nuestra
     isla del conocimiento crece, también crece la costa de nuestra ignorancia.
 
-+ John Johnson
-  + Primero resuelve el problema. Luego escribe el código.
-
-+ John von Neumann.
++ [[https://es.wikipedia.org/wiki/John_von_Neumann][John von Neumann]] ::
   + Se espera que un teorema matemático o una teoría matemática no sólo describa
     y clasifique de manera sencilla y elegante numerosos y a priori dispares casos
     especiales. También se espera elegancia en su estructura arquitectónica.
 
-+ Joseph Fourier
++ [[https://es.wikipedia.org/wiki/Jorge_Luis_Borges][Jorge Luis Borges]] ::
+  + Nuestra cobardía y nuestra desidia tienen la culpa de que el mañana y el ayer
+    sean iguales.
+
++ [[https://es.wikipedia.org/wiki/Joseph_Fourier][Joseph Fourier]] ::
   + Mathematics compares the most diverse phenomena and discovers the secret
     analogies that unite them.
 
-+ Joshua Bloch
-  + “The cleaner and nicer the program, the faster it’s going to run. And if it
-    doesn’t, it’ll be easy to make it fast.”
++ [[https://en.wikipedia.org/wiki/Joshua_Bloch][Joshua Bloch]] ::
+  + Cuanto más claro y bonito sea el programa, más rápido se ejecutará. Y si no
+    lo hace, será fácil hacerlo rápido.
 
-+ José Saramago
++ [[https://es.wikipedia.org/wiki/Jos%C3%A9_Saramago][José Saramago]] ::
   + La esperanza nunca ha sido de fiar.
 
-+ Joyce Wheeler
-  + Sometimes it's better to leave something alone, to pause, and that's very true
-    of programming.
++ [[https://es.wikipedia.org/wiki/Kurt_Lewin][Kurt Lewin]] ::
+  + No hay nada tan práctico como una buena teoría.
 
-+ Juan Bosco
-  + ¡Mi mayor satisfacción es verte alegre!
-
-+ Kurt Z Lewin.
-  + No hay nada tan práctico como una buena teoría
-
-+ Leibniz
-  + Incluso en los juegos de niños hay cosas para interesar al matemático más
-    grande.
-
-+ Leonard Euler
++ [[https://es.wikipedia.org/wiki/Leonhard_Euler][Leonhard Euler]] ::
   + Algunos hechos se pueden ver más claramente con el ejemplo que con pruebas.
-
-+ Leonardo da Vinci
-  + El mayor placer es la alegría de entender.
-
-+ Leonardo da Vinci
-  + El que ama la práctica sin teoría es como el marinero que se embarca sin
-    timón ni brújula y nunca sabe dónde puede ir.
-
-+ Leonardo da Vinci
-  + La simplicidad es la máxima sofisticación.
-
-+ Leonardo da Vinci
-  + Los que se enamoran de la práctica sin la teoría son como los pilotos sin timón
-    ni brújula, que nunca podrán saber a dónde van.
-
-+ Leonhard Euler
   + Las propiedades de los números conocidos hoy en día han sido descubiertas en
     su mayoría por la observación, y descubiertas mucho antes de que su verdad
     haya sido confirmada por rígidas demostraciones. Hay incluso muchas
@@ -697,100 +555,98 @@ Recopilación de los pensamientos incluidos en las cartas de las
     probar; sólo las observaciones nos han llevado a su conocimiento. Por lo
     tanto, vemos que en la teoría de los números, que todavía es muy imperfecta,
     podemos poner nuestras mayores esperanzas en las observaciones.
-
-+ Leonhard Euler
   + Nada ocurre en el mundo cuyo significado no sea el de un máximo o un mínimo.
 
-+ Mahatma Gandhi
++ [[https://es.wikipedia.org/wiki/Leonardo_da_Vinci][Leonardo da Vinci]] ::
+  + El mayor placer es la alegría de entender.
+  + El que ama la práctica sin teoría es como el marinero que se embarca sin
+    timón ni brújula y nunca sabe dónde puede ir.
+  + La simplicidad es la máxima sofisticación.
+  + Los que se enamoran de la práctica sin la teoría son como los pilotos sin timón
+    ni brújula, que nunca podrán saber a dónde van.
+
++ [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca]] ::
+  + Enseñando aprendemos.
+  + Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen de
+    ti.
+  + Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por
+    medio de ejemplos.
+
++ [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]] ::
+  + El que hoy en día enseña filosofía da al otro alimentos no para complacerle,
+    sino para modificar su gusto.
+
++ [[https://es.wikipedia.org/wiki/Mahatma_Gandhi][Mahatma Gandhi]] ::
   + La verdad es totalmente interior. No hay que buscarla fuera de nosotros ni
     querer realizarla luchando con violencia con enemigos exteriores.
 
-+ Marco Aurelio
++ [[https://es.wikipedia.org/wiki/Maim%C3%B3nides][Maimónides]] ::
+  + Quien quiera alcanzar la perfección humana, debe estudiar primero la
+    Lógica, después las distintas ramas de las Matemáticas en su orden correcto,
+    luego la Física, y por último la Metafísica.
+
++ [[https://es.wikipedia.org/wiki/Marco_Aurelio][Marco Aurelio]] ::
   + La vida de un hombre es lo que sus pensamientos hacen de ella.
 
-+ Marguerite Duras
++ [[https://es.wikipedia.org/wiki/Marguerite_Duras][Marguerite Duras]] ::
   + Muy pronto en la vida es demasiado tarde.
 
-+ Marie Curie
++ [[https://es.wikipedia.org/wiki/Marie_Curie][Marie Curie]] ::
   + Nada en la vida debe ser temido, solamente comprendido. Ahora es el momento de
     comprender más, para temer menos.
 
-+ Mario Bunge
++ [[https://es.wikipedia.org/wiki/Mario_Bunge][Mario Bunge]] ::
   + De todos los enemigos de la educación, uno de los peores es el pedagogo que
     asegura que el modo de enseñar es más importante que lo que se enseña.
-
-+ Mario Bunge
   + Es importante enseñar a estudiar por cuenta propia, a buscar por cuenta propia,
     a asombrarse.
-
-+ Mario Bunge
   + Hay que educar a la gente. No basta saber que a la tía María le fue bien con
     el acupunturista o con el homeópata, porque el efecto placebo siempre está en
     la cabecera de los enfermos. Y no sólo de los enfermos, sino también de los
     votantes.
-
-+ Mario Bunge
   + Hay que formar cerebros porque solamente el cerebro bien formado puede, no
     solamente usar la técnica existente, sino mejorarla con ideas nuevas y
     originales gracias a su curiosidad y a que está investigando. Si se insiste
     con la misma información a la gente, en lugar de cultivar su curiosidad,
     terminará por aburrirse.
-
-+ Mario Bunge
   + Si bien uno está contento de pertenecer a una red cultural, llega un momento
     en que se necesita más tiempo para la reflexión. De lo contrario, ésta es
     superficial, demasiado rápida, sin tiempo para asimilar, criticar,
     sopesar. Hace falta más tiempo para ensimismarse, para reflexionar en silencio
     y soledad.
-
-+ Mario Bunge
   + Sólo los fanáticos odian a las personas tanto como las doctrinas. Uno puede
     ser intolerante con las teorías falsas, pero tolerante con quienes las
     sustentan, a condición de que no medren con ellas.
 
-+ Mark Tarver.
-  + There is no problem with Lisp, because Lisp is, like life, what you make of
-    it.
++ [[https://es.wikipedia.org/wiki/Martin_Fowler][Martin Fowler]] ::
+  + Cualquier ignorante puede escribir un programa que un ordenador puede
+    entender. Los buenos programadores escriben programas que los humanos pueden
+    entender.
 
-+ Martin Fowler
-  + Any fool can write code that a computer can understand. Good programmers write
-    code that humans can understand.
-
-+ Martin Rinard
-  + Proving theorems is not for the mathematicians anymore: with theorem provers,
-    it's now a job for the hacker.
-
-+ María Montessori
++ [[https://es.wikipedia.org/wiki/Maria_Montessori][María Montessori]] ::
   + Cualquier ayuda innecesaria es un obstáculo para el desarrollo.
 
-+ Max Planck
++ [[https://es.wikipedia.org/wiki/Max_Planck][Max Planck]] ::
   + No es la posesión de la verdad, sino el éxito que acompaña a la búsqueda de
     ella, lo que enriquece al buscador y le trae la felicidad.
 
-+ Michael F Atiyah
++ [[https://es.wikipedia.org/wiki/Michael_Atiyah][Michael Atiyah]] ::
   + Cualquier buen teorema debe tener varias pruebas, cuanto más mejor. Por dos
     razones: generalmente, las diferentes pruebas tienen diferentes fortalezas y
     debilidades, y se generalizan en diferentes direcciones: no son solo
     repeticiones entre sí.
 
-+ Miguel de Unamuno
++ [[https://es.wikipedia.org/wiki/Miguel_de_Unamuno][Miguel de Unamuno]] ::
   + Se viaja no para buscar el destino sino para huir de donde se parte.
 
-+ Moisés Maimónides
-  + Quien quiera alcanzar la perfección humana, debe estudiar primero la
-    Lógica, después las distintas ramas de las Matemáticas en su orden correcto,
-    luego la Física, y por último la Metafísica.
-
-+ Molière
++ [[https://es.wikipedia.org/wiki/Moli%C3%A8re][Molière]] ::
   + Las cosas sólo tienen el valor que les damos.
 
-+ Morris Kline
++ [[https://es.wikipedia.org/wiki/Morris_Kline][Morris Kline]] ::
   + Aunque los conceptos y operaciones matemáticas están formulados para
     representar aspectos del mundo físico, las matemáticas no deben identificarse
     con el mundo físico. Sin embargo, nos dice mucho sobre ese mundo si tenemos
     cuidado de aplicarlo e interpretarlo correctamente.
-
-+ Morris Kline
   + La introducción y la aceptación gradual de conceptos que no tienen
     contrapartes inmediatas en el mundo real ciertamente forzó el reconocimiento
     de que las matemáticas son una creación humana, algo arbitraria, en lugar de
@@ -798,150 +654,110 @@ Recopilación de los pensamientos incluidos en las cartas de las
     la naturaleza. Pero acompañar este reconocimiento y, de hecho, impulsar su
     aceptación fue un descubrimiento más profundo: las matemáticas no son un
     cuerpo de verdades sobre la naturaleza.
-
-+ Morris Kline
   + Las matemáticas no representan leyes inherentes al diseño del universo, sino que
     simplemente proporciona esquemas o modelos hechos por el hombre que podemos
     usar para deducir conclusiones sobre nuestro mundo sólo en la medida en que el
     modelo es una buena idealización.
-
-+ Morris Kline
   + Una prueba nos dice dónde concentrar nuestras dudas. [...] Una prueba
     elegantemente ejecutada es un poema en todo menos en la forma en que está
     escrito.
 
-+ Napoleón I
++ [[https://es.wikipedia.org/wiki/Napole%C3%B3n_Bonaparte][Napoleón Bonaparte]] ::
   + Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
     encontrado.
 
-+ Nicolás Copérnico
++ [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Cop%C3%A9rnico][Nicolás Copérnico]] ::
   + Las matemáticas se escriben para los matemáticos.
 
-+ Octavio Paz
++ [[https://es.wikipedia.org/wiki/Octavio_Paz][Octavio Paz]] ::
   + Cuidemos las palabras y cuidémonos de ellas.
 
-+ Oliver Heaviside
-  + Mathematics is an experimental science, and definitions do not come first, but
-    later on.
++ [[https://es.wikipedia.org/wiki/Oliver_Heaviside][Oliver Heaviside]] ::
+  + Las matemáticas son una ciencia experimental, y las definiciones no son lo
+    primero, sino lo último.
 
-+ Ovidio
++ [[https://es.wikipedia.org/wiki/Ovidio][Ovidio]] ::
   + La gota horada la roca, no por su fuerza sino por su constancia.
 
-+ Pascal
-  + Toda la miseria de los hombres proviene de una única cosa, que es no saber
-    permanecer en reposo en una habitación.
-
-+ Patrik W. Thompson
-  + Aprender matemáticas es aprender a resolver problemas matemáticos.
-
-+ Paul A. M. Dirac
++ [[https://es.wikipedia.org/wiki/Paul_Dirac][Paul Dirac]] ::
   + Una teoría con belleza matemática es más probable que sea correcta que una
     fea que se ajuste a algunos datos experimentales.
+  + Buena parte de mi investigación en física ha consistido en no proponerse
+    resolver un problema en particular, sino simplemente examinar las cantidades
+    matemáticas de un tipo que los físicos utilizan y tratar de combinarlas de
+    una manera interesante.
 
-+ Paul Dirac
-  + A good deal of my research in physics has consisted in not setting out to solve
-    some particular problem, but simply examining mathematical quantities of a kind
-    that physicists use and trying to fit them together in an interesting way.
-
-+ Paul Halmos
++ [[https://es.wikipedia.org/wiki/Paul_Halmos][Paul Halmos]] ::
   + Es el deber de todos los profesores, y de los profesores de matemáticas en
     particular, exponer a sus alumnos a problemas mucho más que a hechos.
-
-+ Paul Halmos
+  + La alegría de aprender repentinamente un secreto anterior y la alegría de
+    descubrir repentinamente una verdad desconocida hasta ahora son las mismas
+    para mí. Ambas tienen el destello de la iluminación, la visión casi
+    increíblemente mejorada, y el éxtasis y la euforia de la tensión liberada.
+  + Las matemáticas no son una ciencia deductiva, es un cliché. Cuando se trata
+    de probar un teorema, no sólo se enumeran las hipótesis, y luego se empieza a
+    razonar. Lo que haces es ensayo y error, experimentación, conjeturas.
+  + Las matemáticas no son una ciencia deductiva, es un cliché. Cuando se trata
+    de probar un teorema, no sólo se enumeran las hipótesis, y luego se empieza a
+    razonar. Lo que se hace es ensayo y error, experimentación, conjeturas.
   + No sólo lo leas; ¡lucha! Haz tus propias preguntas, busca tus propios
     ejemplos, descubre tus propias pruebas.
-
-+ Paul Halmos
+  + Un profesor que no siempre está pensando en resolver problemas -de los que no
+    conoce la respuesta- simplemente no está psicológicamente preparado para
+    enseñarles a sus alumnos a resolver problemas.
   + Una buena cantidad de ejemplos, tan grande como sea posible, es indispensable
     para una comprensión completa de cualquier concepto, y cuando quiero aprender
     algo nuevo, mi primer trabajo es construir uno.
 
-+ Paul Lockhart
++ [[https://en.wikipedia.org/wiki/A_Mathematician%27s_Lament][Paul Lockhart]] ::
   + Hacer matemáticas siempre debe significar encontrar patrones y crear
     explicaciones hermosas y significativas.
-
-+ Paul Lockhart
   + La agudeza mental de cualquier tipo proviene de resolver problemas por ti
     mismo, no de que te digan cómo resolverlos.
-
-+ Paul Lockhart
   + La enseñanza no se limita a la información. Se trata de tener una relación
     intelectual honesta con tus alumnos.
-
-+ Paul Lockhart
   + Las matemáticas son el arte de la explicación. Si les niega a los estudiantes
     la oportunidad de participar en esta actividad, de plantear sus propios
     problemas, de hacer sus propias conjeturas y descubrimientos, de equivocarse,
     de frustrarse creativamente, de inspirarse y de preparar sus propias
     explicaciones y pruebas, les niega la matemática misma.
-
-+ Paul Lockhart
   + Si hay algo así como un principio estético unificador en matemáticas, es
     este: lo simple es hermoso. Los matemáticos disfrutan pensando en las cosas
     más simples posibles, y las más simples son fantásticas.
-
-+ Paul Lockhart
   + Un buen problema es algo que no sabes cómo resolver. Eso es lo que lo hace un
     buen rompecabezas y una buena oportunidad.
 
-+ Paul R. Halmos
-  + La alegría de aprender repentinamente un secreto anterior y la alegría de
-    descubrir repentinamente una verdad desconocida hasta ahora son las mismas
-    para mí. Ambas tienen el destello de la iluminación, la visión casi
-    increíblemente mejorada, y el éxtasis y la euforia de la tensión liberada.
-
-+ Paul R. Halmos
-  + Las matemáticas no son una ciencia deductiva, es un cliché. Cuando se trata
-    de probar un teorema, no sólo se enumeran las hipótesis, y luego se empieza a
-    razonar. Lo que haces es ensayo y error, experimentación, conjeturas.
-
-+ Paul R. Halmos
-  + Las matemáticas no son una ciencia deductiva, es un cliché. Cuando se trata
-    de probar un teorema, no sólo se enumeran las hipótesis, y luego se empieza a
-    razonar. Lo que se hace es ensayo y error, experimentación, conjeturas.
-
-+ Paul R. Halmos
-  + Un profesor que no siempre está pensando en resolver problemas -de los que no
-    conoce la respuesta- simplemente no está psicológicamente preparado para
-    enseñarles a sus alumnos a resolver problemas.
-
-+ Paulo Freire
++ [[https://es.wikipedia.org/wiki/Paulo_Freire][Paulo Freire]] ::
   + No habría creatividad sin la curiosidad que nos mueve y que nos pone
     pacientemente impacientes ante el mundo que no hicimos, al que acrecentamos con
     algo que hacemos.
 
-+ Philip K. Dick
++ [[https://es.wikipedia.org/wiki/Philip_K._Dick][Philip K. Dick]] ::
   + La herramienta básica para la manipulación de la realidad es la manipulación
     de las palabras. Si puedes controlar el significado de las palabras, puedes
     controlar a la gente que debe usar las palabras.
 
-+ Platón
++ [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón]] ::
   + El matemático es perfecto sólo en la medida en que es un hombre perfecto, en
     la medida en que siente en sí mismo la belleza de la verdad; sólo entonces su
     trabajo será minucioso, transparente, prudente, puro, claro y elegante.
 
-+ Pomponio.
-  + Algunos hasta tal punto se refugian en la oscuridad que consideran confuso
-    cuanto es luminoso
-
-+ Proverbio persa
++ Proverbio persa ::
   + Aprende lo que te parezca difícil: todo lo difícil se vuelve fácil gracias al
     aprendizaje.
 
-+ Pío Baroja
++ [[https://es.wikipedia.org/wiki/P%C3%ADo_Baroja][Pío Baroja]] ::
   + A una colectividad se le engaña siempre mejor que a un hombre.
 
-+ Rabindranath Tagore
++ [[https://es.wikipedia.org/wiki/Rabindranath_Tagore][Rabindranath Tagore]] ::
   + Ese que habla tanto está completamente hueco, ya sabes que el cántaro vacío es
     el que más suena.
 
-+ Raymond S. Nickerson
++ [[https://en.wikipedia.org/wiki/Raymond_S._Nickerson][Raymond S. Nickerson]] ::
   + Además de considerar las matemáticas como el estudio de patrones, las
     matemáticas pueden ser vistas, pragmáticamente, como una vasta colección de
     problemas de ciertos tipos y de enfoques que han demostrado ser efectivos para
     resolverlos.
-
-+ Raymond S. Nickerson
   + Sin negar la utilidad de la distinción entre intuición y prueba, creo que se
     puede hacer con demasiada agudeza; la intuición desempeña un papel esencial en
     la elaboración y evaluación de las pruebas y a veces se modifica como
@@ -950,36 +766,24 @@ Recopilación de los pensamientos incluidos en las cartas de las
     es útil, no es posible tenerla en un sentido muy satisfactorio sin el
     otro.
 
-+ Remy de Gourmont
++ [[https://es.wikipedia.org/wiki/Remy_de_Gourmont][Remy de Gourmont]] ::
   + El hombre no asocia ideas de acuerdo a la lógica o verificable exactitud, sino
     de acuerdo a su gusto e intereses. Es por esta razón que la mayoría de las
     verdades no son nada más que prejuicios.
 
-+ René Descartes
++ [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]] ::
   + Cada problema que resolví se convirtió en una regla que sirvió después para
     resolver otros problemas. Así, cada verdad descubierta era una regla
     disponible en el descubrimiento de las siguientes.
-
-+ René Descartes
   + Cuando surge un problema, deberíamos ser capaces de ver pronto si será rentable
     examinar otros problemas primero, y qué otros, y en qué orden.
-
-+ René Descartes
   + Para buscar la verdad, es necesario, una vez en el curso de nuestra vida,
     dudar, en la medida de lo posible, de todas las cosas.
 
-+ Richard Courant y Herbert Robbins
-  + La matemática como expresión de la mente humana refleja la voluntad activa,
-    la razón contemplativa y el deseo de perfección estética. Sus elementos
-    básicos son la lógica y la intuición, el análisis y la construcción, la
-    generalidad y la individualidad.
-
-+ Richard Courant y Herbert Robbins.
++ [[https://es.wikipedia.org/wiki/Richard_Courant][Richard Courant]] y [[https://en.wikipedia.org/wiki/Herbert_Robbins][Herbert Robbins]] ::
   + El hecho de que la prueba de un teorema consista en la aplicación de ciertas
     reglas simples de lógica no elimina el elemento creativo en las matemáticas,
     que radica en la elección de las posibilidades a examinar.
-
-+ Richard Courant y Herbert Robbins.
   + La matemática como expresión de la mente humana refleja la voluntad activa,
     la razón contemplativa y el deseo de perfección estética. Sus elementos
     básicos son la lógica y la intuición, el análisis y la construcción, la
@@ -988,150 +792,90 @@ Recopilación de los pensamientos incluidos en las cartas de las
     antitéticas y la lucha por su síntesis lo que constituye la vida, la utilidad
     y el valor supremo de la ciencia matemática.
 
-+ Richard Hamming
-  + The purpose of computing is insight, not numbers.
++ [[https://es.wikipedia.org/wiki/Richard_Hamming][Richard Hamming]] ::
+  + El propósito de la computación es la comprensión, no los números.
 
-+ Richard P. Feynman)
-  + Una medida de nuestro entendimiento es el número de formas independientes de
-    llegar al mismo resultado.
-
-+ Richard Phillips Feynman
++ [[https://es.wikipedia.org/wiki/Richard_Feynman][Richard Feynman]] ::
   + La mejor enseñanza sólo puede hacerse cuando hay una relación individual
     directa entre un estudiante y un buen profesor: una situación en la que el
     estudiante discute las ideas, piensa sobre las cosas y habla sobre las cosas. Es
     imposible aprender mucho asistiendo simplemente a una lección, o incluso
     haciendo simplemente los problemas que se proponen.
-
-+ Richard Phillips Feynman
   + Para aquellos que no conocen las matemáticas, es difícil sentir la belleza, la
     profunda belleza de la naturaleza... Si quieres aprender sobre la naturaleza,
     apreciar la naturaleza, es necesario aprender el lenguaje en el que habla.
+  + Una medida de nuestro entendimiento es el número de formas independientes de
+    llegar al mismo resultado.
 
-+ Robert A. Heinlein
-  + You can sway a thousand men by appealing to their prejudices quicker than you
-    can convince one man by logic.
++ [[https://es.wikipedia.org/wiki/Robert_A._Heinlein][Robert A. Heinlein]] ::
+  + Puedes convencer a mil hombres apelando a sus prejuicios más rápidamente que
+    a uno solo utilizando la lógica.
 
-+ Roger Penrose
++ [[https://es.wikipedia.org/wiki/Roger_Penrose][Roger Penrose]] ::
   + La comprensión es, después de todo, de lo que se trata la ciencia, y la
     ciencia es mucho más que la computación sin sentido.
-
-+ Roger Penrose
   + Una idea hermosa tiene muchas más posibilidades de ser una idea correcta que
     una fea.
 
-+ Ronald Laing
++ [[https://es.wikipedia.org/wiki/Ronald_David_Laing][Ronald David Laing]] ::
   + Deberíamos dedicarnos a desaprender gran parte de lo aprendido y aprender lo
     que no se nos ha enseñado.
 
-+ Ryan Huber
-  + Los grandes programadores que he conocido están encantados de escribir
-    software en casi cualquier idioma. Los mediocres tienen fuertes opiniones
-    sobre el mejor lenguaje de programación.
-
-+ San Agustín
++ [[https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona][San Agustín]] ::
   + Los hombres están siempre dispuestos a curiosear y averiguar sobre las vidas
     ajenas, pero les da pereza conocerse a sí mismos y corregir su propia vida.
 
-+ Santiago Ramón y Cajal
++ [[https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Santiago Ramón y Cajal]] ::
   + ¿No tienes enemigos? ¿Es que jamás dijiste la verdad o jamás amaste la
     justicia?
 
-+ Sigmund Freud
++ [[https://es.wikipedia.org/wiki/Sexto_Pomponio][Sexto Pomponio]] ::
+  + Algunos hasta tal punto se refugian en la oscuridad que consideran confuso
+    cuanto es luminoso
+
++ [[https://es.wikipedia.org/wiki/Sigmund_Freud][Sigmund Freud]] ::
   + ¡Estudia! No para saber una cosa más, sino para saberla mejor.
 
-+ Simon Peyton Jones
-  + Interconnectedness makes big programs eventually crumble under their own
-    weight.
-
-+ Simone de Beauvoir
++ [[https://es.wikipedia.org/wiki/Simone_de_Beauvoir][Simone de Beauvoir]] ::
   + La representación del mundo, como el mundo mismo, es obra de los hombres; la
     describen desde su propio punto de vista, que confunden con la verdad
     absoluta.
 
-+ Sir Francis Bacon
-  + El hombre prefiere creer lo que prefiere que sea verdad.
-
-+ Sir Francis Bacon
-  + Los primeros y más antiguos investigadores de la verdad solían arrojar su
-    conocimiento en aforismos, o en frases cortas, dispersas y no metódicas.
-
-+ Stan Gudder,
-  + La esencia de las matemáticas no es complicar las cosas simples, sino
-    hacerlas simples.
-
-+ Stanislaw M Ulam,
++ [[https://es.wikipedia.org/wiki/Stanis%C5%82aw_Ulam][Stanislaw M Ulam]] ::
+  + El lado estético de las matemáticas ha sido de una importancia abrumadora a
+    lo largo de su desarrollo. Lo que importa no es si un teorema es útil, sino lo
+    elegante que es.
   + En muchos casos, las matemáticas son un escape de la realidad. El matemático
     encuentra su propio nicho monástico y felicidad en actividades que están
     desconectadas de los asuntos externos. Algunos lo practican como si usaran una
     droga. El ajedrez a veces juega un papel similar. En su descontento por los
     acontecimientos de este mundo, algunos se sumergen en una especie de autarquía
     en matemáticas.
-
-+ Stanislaw M Ulam.
-  + El lado estético de las matemáticas ha sido de una importancia abrumadora a
-    lo largo de su desarrollo. Lo que importa no es si un teorema es útil, sino lo
-    elegante que es.
-
-+ Stanislaw M Ulam.
   + ¿Qué es exactamente la matemática? Muchos lo han intentado, pero nadie ha
     logrado definir las matemáticas; siempre es otra cosa.
 
-+ Steve Jobs
++ [[https://es.wikipedia.org/wiki/Steve_Jobs][Steve Jobs]] ::
   + Learning to program teaches you how to think. Computer science is a liberal
     art.
 
-+ Séneca
-  + Enseñando aprendemos.
-
-+ Séneca
-  + Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen de
-    ti.
-
-+ Séneca
-  + Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por
-    medio de ejemplos.
-
-+ Sócrates
++ [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]] ::
   + La ciencia humana consiste más en destruir errores que en descubrir verdades.
 
-+ Theoni Pappas
-  + A lo largo de la evolución de las matemáticas, los problemas han actuado como
-    catalizadores en el descubrimiento y desarrollo de las ideas matemáticas. De
-    hecho, la historia de las matemáticas probablemente se puede rastrear
-    estudiando los problemas que los matemáticos han tratado de resolver a lo
-    largo de los siglos. Es casi descorazonador cuando un viejo problema es
-    finalmente resuelto, porque ya no estará más aquí para desafiar y estimular el
-    pensamiento matemático.
-
-+ Tony Hoare
++ [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]] ::
   + Inside every large program is a small program trying to get out.
 
-+ Umberto Eco
++ [[https://es.wikipedia.org/wiki/Umberto_Eco][Umberto Eco]] ::
   + No todas las verdades son para todos los oídos.
 
-+ Unknown
-  + Theory is when you know something, but it doesn’t work. Practice is
-    when something works, but you don’t know why. Programmers combine theory
-    and practice: Nothing works and they don’t know why.
-
-+ Unknown
-  + Theory is when you know something, but it doesn’t work. Practice is when
-    something works, but you don’t know why. Programmers combine theory and
-    practice: Nothing works and they don’t know why.
-
-+ Victor Hugo
++ [[https://es.wikipedia.org/wiki/Victor_Hugo][Victor Hugo]] ::
   + El agua que no corre hace un pantano; la mente que no trabaja hace un tonto.
 
-+ Voltaire
++ [[https://es.wikipedia.org/wiki/Voltaire][Voltaire]] ::
   + A los tontos todo les maravilla en un autor apreciado; pero yo, que leo para
     mí, sólo apruebo lo que me gusta.
-
-+ Voltaire
   + El cerebro humano es un órgano complejo con el maravilloso poder de
     permitirle al hombre encontrar razones para seguir creyendo lo que sea que
     quiera creer.
-
-+ Voltaire
   + En geometría, como en la mayoría de las ciencias, es muy raro que una
     proposición aislada sea de utilidad inmediata. Pero las teorías más poderosas
     en la práctica están formadas por proposiciones que sólo la curiosidad sacó a
@@ -1139,37 +883,26 @@ Recopilación de los pensamientos incluidos en las cartas de las
     de qué manera deberían dejar de serlo un día. En este sentido, se puede decir
     que en la ciencia real, ninguna teoría, ninguna investigación, es en efecto
     inútil.
-
-+ Voltaire
   + Los prejuicios son la razón de los tontos.
 
-+ Wadler
-  + I think that Agda is what Haskell wants to be when it grows up.
-
-+ Wilhelm von Humboldt.
++ [[https://es.wikipedia.org/wiki/Wilhelm_von_Humboldt][Wilhelm von Humboldt]] ::
   + La interdependencia entre el pensamiento y la palabra ilumina claramente la
     verdad de que las lenguas no son realmente un medio para representar verdades
     ya conocidas, sino más bien un instrumento para descubrir verdades no
     reconocidas anteriormente. Las diferencias entre los lenguajes no son las de
     los sonidos y los signos, sino las de las diferentes cosmovisiones.
 
-+ William James
++ [[https://es.wikipedia.org/wiki/William_James][William James]] ::
   + Cuando debemos hacer una elección y no la hacemos, esto ya es una
     elección.
-
-+ William James
   + El arte de ser sabio es el arte de saber qué pasar por alto.
-
-+ William James
   + El objetivo de la ciencia es siempre reducir la complejidad a la
     simplicidad.
-
-+ William James
   + Primero se ataca una nueva teoría por absurda; luego se admite que es cierta,
     pero obvia e insignificante; finalmente se la considera tan importante que sus
     adversarios afirman que ellos mismos la descubrieron.
 
-+ William P Thurston
++ [[https://es.wikipedia.org/wiki/William_Thurston][William Thurston]] ::
   + Las matemáticas son increíblemente comprimibles: puede que tenga que luchar
     mucho tiempo, paso a paso, para trabajar en algún proceso o idea desde varios
     enfoques. Pero una vez que realmente lo entiendes y tienes la perspectiva
@@ -1177,35 +910,21 @@ Recopilación de los pensamientos incluidos en las cartas de las
     archivarlo, recuperarlo rápida y completamente cuando lo necesites, y usarlo
     como un solo paso en algún otro proceso mental. La idea que acompaña a esta
     compresión es una de las verdaderas alegrías de las matemáticas.
-
-+ William P. Thurston
   + Las matemáticas no tratan de números, ecuaciones, cálculos o algoritmos: se
     trata de entender.
 
-+ Wittgenstein
-  + El que hoy en día enseña filosofía da al otro alimentos no para complacerle,
-    sino para modificar su gusto.
-
-+ Yunmen Wenyan.
++ [[https://en.wikipedia.org/wiki/Yunmen_Wenyan][Yunmen Wenyan]] ::
   + Si tu mente no está nublada por cosas innecesarias, esta es la mejor estación
     de tu vida.
 
-+ Zhuangzi
++ [[https://es.wikipedia.org/wiki/Zhuangzi][Zhuangzi]] ::
   + El buen orden resulta espontáneamente cuando se dejan las cosas a sí mismas.
-
-+ Zhuangzi
   + Los pies pisan el suelo; pero es aquello que no pisan lo que permite
     caminar. Aquello que se conoce es poco; pero, apoyado en lo poco que se conoce
     es posible conocer mucho.
-
-+ Zhuangzi
+  + Un camino se hace caminando sobre él.
   + Un pequeño saber no puede equipararse a uno grande. Ni una corta vida a una
     larga existencia. ¿Cómo se sabe que esto es así? El hongo que sólo vive una
     mañana desconoce el ciclo de la luna. La cigarra de verano nada sabe de
     primaveras ni de otoños. Así son las pequeñas existencias.
-
-+ Zhuangzi
   + Una rana en un pozo no puede concebir el océano.
-
-+ Zhuangzi.
-  + Un camino se hace caminando sobre él.

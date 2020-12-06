@@ -626,6 +626,11 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + La inteligencia artificial es la ciencia de hacer que las máquinas hagan
     cosas que requerirían inteligencia si las hicieran los hombres.
 
++ [[https://bit.ly/2IgDGm4][Mary Shelley]] ::
+  + "Hablar con la gente constituye ahora mismo una molestia que me alegra mucho
+    poder evitar. La soledad es el único agarradero que tengo, mi mejor recurso,
+    mi refugio. La soledad me beneficia: me da momentos espaciosos".
+
 + [[https://bit.ly/3gQRHCN][Michel de Montaigne]] ::
   + Cuando me llevan la contraria, despiertan mi atención, no mi cólera; me
     ofrezco a quien me contradice, que me instruye. La causa de la verdad
