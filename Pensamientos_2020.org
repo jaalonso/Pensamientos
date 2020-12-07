@@ -160,6 +160,7 @@ Recopilación de los pensamientos incluidos en las cartas de las
     decisión de su voluntad; no va a quedarse con la mente en blanco.
 
 + [[https://es.wikipedia.org/wiki/Confucio][Confucio]] ::
+  + El hombre que mueve una montaña empieza por arrastrar una pequeña piedra.
   + Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un sólo día
     de tu vida.
   + Lo que el sabio desea lo busca en sí mismo. El necio lo busca en los demás.
