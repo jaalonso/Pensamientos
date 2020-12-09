@@ -28,6 +28,10 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + Para hacer las cosas bien es necesario: primero, el amor, segundo, la
     técnica.
 
++ [[https://es.wikipedia.org/wiki/Antonio_Gramsci][Antonio Gramsci]] ::
+  + El viejo mundo se muere. El nuevo tarda en aparecer. Y en ese claroscuro
+    surgen los monstruos.
+
 + [[https://es.wikipedia.org/wiki/Antonio_Machado][Antonio Machado]] ::
   + Despacito y buena letra, que el hacer las cosas bien, importa más que el
     hacerlas.
