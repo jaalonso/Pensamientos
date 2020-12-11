@@ -847,6 +847,9 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://bit.ly/2Y60TMJ][Wernher von Braun]] ::
   + Investigación es lo que hago cuando no sé lo que estoy haciendo.
 
++ [[https://es.wikipedia.org/wiki/William_Blake][William Blake]] ::
+  + Una misma ley para el león y para el buey es opresión.
+
 + [[https://bit.ly/2Uv6UAA][William Faulkner]] ::
   + La sabiduría suprema es tener sueños bastante grandes para no perderlos de
     vista mientras se persiguen.
