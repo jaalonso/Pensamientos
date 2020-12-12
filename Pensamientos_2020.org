@@ -619,6 +619,7 @@ Recopilación de los pensamientos incluidos en las cartas de las
 
 + [[https://es.wikipedia.org/wiki/Marie_Curie][Marie Curie]] ::
   + Dejamos de temer aquello que se ha aprendido a entender.
+  + Siento menos curiosidad por la gente y más curiosidad por las ideas.
 
 + [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]] ::
   + Nunca discutas con un ignorante, te hará descender a su nivel y ahí te
