@@ -130,6 +130,9 @@ encontrando.
     leer. Leer, casi tanto como respirar, es nuestra función esencial.
   + Quizá pudiese vivir sin escribir. No creo que pudiera vivir sin leer.
 
++ [[https://es.wikipedia.org/wiki/Alberto_Moravia][Alberto Moravia]] ::
+  + Sentido común: algo así como salud contagiosa.
+
 + [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]] ::
   + El bien de la humanidad debe consistir en que cada uno goce al máximo de la
     felicidad que pueda, sin disminuir la felicidad de los demás.
@@ -179,6 +182,10 @@ encontrando.
   + Descuidar las pequeñas cosas con el pretexto de que preferimos las grandes,
     es la excusa de los flojos.
 
++ [[https://es.wikipedia.org/wiki/Alexis_de_Tocqueville][Alexis de Tocqueville]] ::
+  + Una idea falsa, pero clara y precisa, tendrá más poder en el mundo que una idea
+    verdadera y compleja.
+
 + [[https://es.wikipedia.org/wiki/Alfonso_X_de_Castilla][Alfonso X el Sabio]] ::
   + Quemad viejos leños, leed viejos libros, bebed viejos vinos, tened viejos
     amigos.
@@ -191,6 +198,13 @@ encontrando.
   + No hay verdades absolutas; todas las verdades son medias verdades. El mal
     surge de quererlas tratar como verdades absolutas.
   + Pensamos en generalidades, pero vivimos en detalles.
+
++ [[https://es.wikipedia.org/wiki/Ana%C3%AFs_Nin][Anais Nin]] ::
+  + No vemos jamás las cosas tal cual son, las vemos tal cual somos.
+
++ [[https://bit.ly/37bBjJJ][André Gide]] ::
+  + Muchas veces las palabras que tendríamos que haber dicho no se presentan ante
+    nuestro espíritu hasta que ya es demasiado tarde.
 
 + [[https://es.wikipedia.org/wiki/Andr%C3%A9_Malraux][André Malraux]] ::
   + En la política es a veces como en la gramática: un error en el que todos
@@ -235,6 +249,10 @@ encontrando.
   + Despacito y buena letra:
     el hacer las cosas bien
     importa más que el hacerlas.
+  + Entre hacer las cosas bien y hacerlas mal está el no hacerlas, como término
+  + Es propio de hombres de cabezas medianas embestir contra todo aquello que no
+  + Huid de escenarios, púlpitos, plataformas y pedestales. Nunca perdáis contacto
+    con el suelo; porque sólo así tendréis una idea aproximada de vuestra estatura.
   + Juzgarnos o corregirnos supone aplicar la medida ajena al paño propio.
   + La página escrita nunca recuerda todo lo que se ha intentado, sino lo poco
     que se ha conseguido.
@@ -252,6 +270,9 @@ encontrando.
   + ¿Tu verdad? No, la Verdad,
     y ven conmigo a buscarla.
     La tuya guárdatela.
+
++ [[https://es.wikipedia.org/wiki/Antonio_Porchia][Antonio Porchia]] ::
+  + Las dificultades también pasan como todo pasa, sin dificultad.
 
 + [[https://es.wikipedia.org/wiki/Ant%C3%B3n_Ch%C3%A9jov][Antón Chéjov]] ::
   + Los hombre inteligentes quieren aprender. Los demás, enseñar.
@@ -313,6 +334,9 @@ encontrando.
     que deseas.
 
 + [[https://es.wikipedia.org/wiki/Arthur_Schopenhauer][Arthur Schopenhauer]] ::
+  + El mundo en el cual cada uno vive depende de cómo lo conciba, y se ajusta, por
+    ello, a las diferencias mentales: según sea cada mente, ese mundo resultará más
+    pobre, anodino y superficial, o rico, interesante y lleno de sentido.
   + La soledad concede al hombre dotado de grandes cualidades intelectuales una
     doble ventaja: primero, le proporciona la posibilidad de estar consigo
     mismo; y, segundo, la de no estar con los demás.
@@ -325,6 +349,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Arturo_Graf][Arturo Graf]] ::
   + El hombre comienza, en realidad, a ser viejo cuando deja de ser educable.
+  + El que en un arte ha llegado a maestro puede prescindir de las reglas.
   + Si quieres oír cantar a tu alma, haz el silencio a tu alrededor.
 
 + [[https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n][Baltasar Gracián]] ::
@@ -351,12 +376,51 @@ encontrando.
     remordimiento.
 
 + [[https://es.wikipedia.org/wiki/Benjamin_Franklin][Benjamin Franklin]] ::
+  + Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.
   + Los hombres son criaturas muy raras: la mitad censura lo que practica, la
     otra mitad practica lo que censura, el resto siempre dice y hace lo que
     debe.
   + Si deseas persuadir, apela al interés y no a la razón.
 
++ [[https://bit.ly/3oRRBiL][Bernard Shaw]] ::
+  + Cuando un hombre estúpido hace algo que le avergüenza, siempre dice que cumple
+    con su deber.
+  + Dichoso es el que tiene una profesión que coincide con su afición.
+  + El hombre con dolor de muelas piensa que todos los que tienen dientes sanos
+    son felices. El hombre pobre comete el mismo error con el rico.
+  + El hombre razonable se adapta al mundo: el irracional persiste en intentar
+    adaptar el mundo a sí mismo. Por lo tanto, todo progreso depende del hombre
+    irrazonable.
+  + El secreto de ser desdichado estriba en tener tiempo de pensar si se es, o
+    no, feliz. La cura es la ocupación, porque ocupación significa preocupación;
+    y la persona preocupada no es ni feliz ni infeliz, sino simplemente viva y
+    activa, lo que es más agradable que cualquier felicidad hasta que uno se cansa
+    de ella.
+  + Es difícil, si no imposible, para la mayoría de la gente pensar de otra
+    manera que no sea en la moda de su propia época.
+  + La actividad es el único camino que lleva al conocimiento.
+  + La gente siempre culpa a las circunstancias por lo que son. No creo en las
+    circunstancias. Las personas que se llevan bien en este mundo son las personas
+    que se levantan y buscan las circunstancias que quieren y, si no las
+    encuentran, las hacen.
+  + Los perros no molestan hasta que ladran y los necios hasta que hablan.
+  + Los que son capaces, crean; los que no son capaces, enseñan.
+  + Mi forma de bromear es decir la verdad. Es la broma más divertida del mundo.
+  + Mientras tenemos un deseo, tenemos una razón de vivir. La satisfacción es la
+    muerte.
+  + No hagas a los demás como esperarías que te hicieran a ti. Puede que sus
+    gustos no sean los mismos.
+  + Si comienzas por sacrificarte por tus seres queridos, terminarás odiando a
+    aquellos por quienes te has sacrificado.
+  + Siempre hay peligro para aquellos que lo temen.
+  + Soy tan partidario de la disciplina del silencio, que podría hablar hora
+    enteras sobre ella.
+  + Todo necio cree lo que le dicen sus maestros y llama a su credulidad ciencia o
+    moralidad con tanta seguridad como su padre la llamaba revelación divina.
+
 + [[https://es.wikipedia.org/wiki/Bertrand_Russell][Bertrand Russell]] ::
+  + Al contrario del esquema habitual me he hecho gradualmente más rebelde a medida
+    que envejezco.
   + El tiempo que disfrutes desperdiciándolo no es tiempo desperdiciado.
   + El método de establecer como postulado lo que queramos tiene muchas
     ventajas. Las mismas que tiene el robo sobre el trabajo honrado.
@@ -396,12 +460,18 @@ encontrando.
   + El hombre está dispuesto siempre a negar todo aquello que no comprende.
   + Es mucho mejor conocer algo acerca de todo, que acerca de una sola cosa. Lo
     universal es siempre mejor.
-  + La verdadera función de la razón es mostrar al hombre que algunas cosas
-    están más allá de la razón
-  + No se muestra la grandeza por estar en un extremo, sino tocando los dos a
-    la vez y llenando el espacio intermedio.
   + He descubierto que toda la maldad humana proviene de la incapacidad del ser
     humano de sentarse en calma en una habitación.
+  + He redactado esta carta más extensa de lo usual porque carezco de tiempo para
+    escribirla más breve.
+  + La mayoría de los males les vienen a los hombres por no quedarse en casa.
+  + La verdadera función de la razón es mostrar al hombre que algunas cosas
+    están más allá de la razón
+  + Ni la contradicción es indicio de falsedad, ni la falta de contradicción es
+    indicio de verdad.
+  + No se muestra la grandeza por estar en un extremo, sino tocando los dos a
+    la vez y llenando el espacio intermedio.
+  + Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
 
 + [[https://es.wikipedia.org/wiki/Buda_Gautama][Buda Gautama]] ::
   + Duda de todo. Encuentra tu propia luz.
@@ -417,21 +487,47 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/B%C3%ADas][Bías de Priene]] ::
   + Pon manos a la obra con lentitud, pero, una vez comenzada, sé constante.
 
++ [[https://en.wikipedia.org/wiki/Brian_Kernighan][Brian Kernighan]] ::
+  + El control de la complejidad es la esencia de la programación informática.
+
++ [[https://en.wikipedia.org/wiki/Buckminster_Fuller][Buckminster Fuller]] ::
+  + Cuando estoy trabajando en un problema, nunca pienso en la belleza. Sólo
+    pienso en cómo resolver el problema. Pero cuando he terminado, si la solución
+    no es bella, sé que está mal.
+
++ [[https://bit.ly/3o1l5tc][C.S. Lewis]] ::
+  + Lo que ves y escuchas depende de qué tipo de persona eres y desde qué punto estás mirando.
+
 + [[https://es.wikipedia.org/wiki/Calvin_Coolidge][Calvin Coolidge]] ::
   + La educación consiste en enseñar a los hombres, no lo que deben pensar,
     sino a pensar.
 
 + [[https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]] ::
+  + El verdadero objetivo de la ciencia es el honor de la mente humana.
+  + Las matemáticas son la reina de las ciencias y la teoría de los números es la
+    reina de las matemáticas.
+  + Los encantos de esta ciencia sublime, las matemáticas, sólo se le revelan a
+    aquellos que tienen el valor de profundizar en ella.
   + No es el conocimiento, sino el acto de aprendizaje, y no la posesión, sino
     el acto de llegar allí, que concede el mayor disfrute.
 
 + [[https://es.wikipedia.org/wiki/Carl_Gustav_Jung][Carl Gustav Jung]] ::
   + El zapato que le ajusta a un hombre le aprieta a otro; no hay receta para
     la vida que funcione en todos los casos.
+  + Eres lo que haces, no lo que dices que vas a hacer.
+  + Pensar es difícil. Por eso la mayoría de la gente prefiere juzgar.
   + Todo lo que nos irrita de los demás, nos puede ayudar a entendernos mejor a
     nosotros mismos.
   + Uno recuerda con aprecio a sus maestros brillantes, pero con gratitud a
     aquellos que tocaron nuestros sentimientos.
+
++ [[https://bit.ly/2ZX47lo][Carl Sagan]] ::
+  + En la ciencia suele ocurrir que un científico diga: Es un buen argumento, yo
+    estaba equivocado ́, cambie de opinión y desde ese momento no se vuelva a
+    mencionar la antigua posición. Realmente pasa. Aunque no lo frecuentemente que
+    debería ya que los científicos son humanos y el cambio es a veces doloroso. Pero
+    ocurre cada día. No recuerdo la última vez que algo así pasó en política o
+    religión.
 
 + [[https://es.wikipedia.org/wiki/Carlos_Fuentes][Carlos Fuentes]] ::
   + Sólo pueden disipar el horror tres consejos: no admires el poder, no
@@ -458,12 +554,24 @@ encontrando.
   + Saber que hay cosas que no se pueden saber es la cumbre del saber.
 
 + [[https://es.wikipedia.org/wiki/Cicer%C3%B3n][Cicerón]] ::
+  + Hay que atender no sólo a lo que cada cual dice, sino a lo que siente y al
+    motivo porque lo siente.
+  + Humano es errar; pero sólo los estúpidos perseveran en el error.
+  + La necedad es la madre de todos los males.
   + Mi conciencia tiene para mí más peso que la opinión de todo el mundo.
   + No hay ventaja alguna en conocer el futuro; al contrario, es doloroso
     atormentarse sin provecho.
+  + Pensar es como vivir dos veces.
   + ¿Qué cosa más grande que tener a alguien con quien te atrevas a hablar como
     contigo mismo?
+  + Si cerca de la biblioteca tienes un jardín ya no te faltará de nada.
   + Si quieres aprender, enseña.
+  + Una cosa es saber y otra saber enseñar.
+
++ [[https://bit.ly/2CRi1xN][Clorindo Testa]], ::
+  + Creo que para un pintor, para un arquitecto, la jubilación no existe. Uno sigue
+    haciendo cosas mientras le salen. No las va a cortar así por una decisión de su
+    voluntad; no va a quedarse con la mente en blanco.
 
 + [[https://es.wikipedia.org/wiki/Confucio][Confucio]] ::
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
@@ -473,6 +581,8 @@ encontrando.
   + El silencio es el único amigo que jamás traiciona.
   + Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu
     vida.
+  + Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un sólo día de
+    tu vida.
   + Exígete mucho a ti mismo y espera poco de los demás. Así te ahorraras
     disgustos.
   + Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en los
@@ -482,8 +592,25 @@ encontrando.
   + Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he
     aquí el verdadero saber.
 
++ [[https://es.wikipedia.org/wiki/Constantino_Cavafis][Constantino Cavafis]] ::
+  + Tu llegada allí es tu destino. Mas no apresures nunca el viaje. Mejor que dure
+    muchos años y atracar, viejo ya, en la isla, enriquecido de cuanto ganaste en el
+    camino.
+
 + [[https://es.wikipedia.org/wiki/Dale_Carnegie][Dale Carnegie]] ::
   + Recuerda, hoy es el mañana por el que te preocupabas ayer.
+
++ [[https://bit.ly/3fmrElv][Dan Brown]] ::
+  + Solo hay un agente infeccioso que viaje más rápido que un virus. El miedo.
+
++ [[https://es.wikipedia.org/wiki/David_Hilbert][David Hilbert]] ::
+  + Es un error creer que el rigor es enemigo de la sencillez. Al contrario,
+    encontramos confirmado por numerosos ejemplos que el método riguroso es al
+    mismo tiempo el más simple y el más fácil de comprender. El propio esfuerzo
+    por el rigor nos obliga a descubrir métodos de prueba más sencillos.
+  + Las matemáticas no son como un juego cuyas tareas están determinadas por reglas
+    estipuladas arbitrariamente. Más bien, es un sistema conceptual que posee una
+    necesidad interna que solo puede ser así y de ninguna manera de otra manera.
 
 + [[https://es.wikipedia.org/wiki/David_Hume][David Hume]] ::
   + Estoy convencido de que cuando los hombres están más seguros y son más
@@ -505,6 +632,28 @@ encontrando.
   + Callando es como se aprende a oír; oyendo es como se aprende a hablar; y
     luego, hablando se aprende a callar.
 
++ [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]] ::
+  + Cambiemos nuestra actitud tradicional en la construcción de programas. En
+    lugar de imaginar que nuestra tarea principal es indicarle a una computadora
+    lo que debe hacer, concentrémonos más bien en explicarle a los seres humanos
+    lo que queremos que haga una computadora.
+  + La ciencia es lo que entendemos lo suficientemente bien como para explicarle
+    a una computadora. El arte es todo lo demás que hacemos.
+  + La programación de computadoras es un arte, porque aplica el conocimiento
+    acumulado al mundo, porque requiere habilidad e ingenio, y especialmente
+    porque produce objetos de belleza. Un programador que subconscientemente se ve
+    a sí mismo como un artista disfrutará lo que hace y lo hará mejor.
+
++ [[https://bit.ly/34kwQ72][Doris Lessing]] ::
+  + Reconsideras tu vida conforme la vas viviendo, de la misma forma que si
+    estuvieras escalando una montaña y continuamente vieras los mismos paisajes
+    desde distintos puntos de vista.
+  + Todos los movimientos políticos son así: nosotros tenemos razón, todos los
+    demás están equivocados. Las personas de nuestro lado que no están de acuerdo
+    con nosotros son herejes y comienzan a convertirse en enemigos. Con ello viene
+    una absoluta convicción de su propia superioridad moral. Hay una simplificación
+    excesiva en todo y un terror a la flexibilidad.
+
 + [[https://es.wikipedia.org/wiki/Libro_del_Eclesiast%C3%A9s][Eclesiastés]] ::
   + Mantente en tu quehacer y conságrate a él, en tu tarea envejece.
   + En todo lo que hagas, sé moderado.
@@ -514,8 +663,13 @@ encontrando.
     nuevo", aún ésa fue ya en los siglos anteriores a nosotros.
 
 + [[https://es.wikipedia.org/wiki/Edgar_Allan_Poe][Edgar Allan Poe]] ::
+  + El mismo acto de escribir fuerza al pensamiento a hacerse lógico.
   + Hay muchas personas que no saben perder a solas el tiempo y son el azote de
     las que tienen ocupaciones.
+
++ [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]] ::
+  + El arte de la programación es el arte de organizar la complejidad, de dominar
+    la multitud y evitar su caos bastardo.
 
 + [[https://es.wikipedia.org/wiki/Edmund_Burke][Edmund Burke]] ::
   + Hay un momento límite en el que la paciencia deja de ser una virtud.
@@ -528,13 +682,51 @@ encontrando.
   + Sólo los tontos creen que el silencio es un vacío. No está vacío nunca. Y a
     veces la mejor manera de comunicarse es callando.
 
++ [[https://en.wikipedia.org/wiki/Edward_Kasner][Edward Kasner]] y [[https://en.wikipedia.org/wiki/James_R._Newman][James R. Newman]] ::
+  + Las matemáticas son la ciencia que utiliza palabras fáciles para las ideas
+    difíciles.
+
 + [[https://es.wikipedia.org/wiki/Elbert_Hubbard][Elbert Hubbard]] ::
+  + Cultiva solo aquellos hábitos que quisieras que dominaran tu vida.
+  + Cuando la vida te de limones, haz limonada.
+  + El conocimiento es la esencia destilada de nuestras intuiciones, corroborada
+    por la experiencia.
+  + El mayor error que puedes cometer en la vida es temer continuamente que
+    cometerás uno.
+  + Hacer que los hombres vivan en tres mundos a la vez - pasado, presente y
+    futuro - ha sido el principal daño que ha hecho la religión organizada.
+  + La educación académica es el acto de memorizar cosas leídas en libros, y
+    cosas contadas por profesores universitarios que obtuvieron su educación
+    principalmente memorizando cosas leídas en libros.
+  + La experiencia es el nombre que todos le dan a sus errores.
   + Nadie necesita más unas vacaciones que el que acaba de tenerlas.
+  + No arrojes tus penas sobre las personas; guarda la triste historia de tu vida
+    para ti. Los problemas crecen contándolos.
+  + No hagas nada, no digas nada y no seas nada, y nunca serás criticado.
+  + No te tomes la vida demasiado en serio, nunca saldrás vivo de ella.
+  + Nunca des explicaciones: tus amigos no lo necesitan y tus enemigos no te
+    creerán de ninguna manera.
+  + Si desea un trabajo bien hecho, seleccione un hombre ocupado, el otro tipo no
+    tiene tiempo.
+  + Suministrar un pensamiento es un masaje mental; pero desarrollar un
+    pensamiento propio es un logro. Pensar es un ejercicio mental, y ninguna
+    facultad crece, salvo cuando se ejercita.
+  + Todo hombre es un maldito tonto durante al menos cinco minutos al día. La
+    sabiduría consiste en no exceder el límite.
+  + Un especialista es uno que se limita a sí mismo al tipo de ignorancia que ha
+    elegido.
+  + Un fracasado es un hombre que ha cometido un error y no es capaz de
+    convertirlo en experiencia.
 
 + [[https://es.wikipedia.org/wiki/Emil_Cioran][Emil Cioran]] ::
   + Es menos por reacción de defensa que por pudor, por el deseo de esconder su
     irrealidad, que todos los humanos llevan una máscara. Arrancársela es
     perderlos y perderse.
+
++ [[https://es.wikipedia.org/wiki/%C3%89mile_Durkheim][Emile Durkheim]] ::
+  + Una mente que cuestiona todo, a menos que sea lo suficientemente fuerte como
+    para soportar el peso de su ignorancia, corre el riesgo de cuestionarse a sí
+    misma y quedar envuelta en dudas.
 
 + [[https://es.wikipedia.org/wiki/Enrico_Bombieri][Enrico Bombieri]] ::
   + Cuando las cosas se vuelven demasiado complicadas, a veces tiene sentido
@@ -559,6 +751,11 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Erasmo_de_R%C3%B3terdam][Erasmo de Róterdam]] ::
   + El que conoce el arte de vivir consigo mismo ignora el aburrimiento.
   + La esencia de la felicidad consiste en que aceptes ser el que eres.
+
++ [[https://es.wikipedia.org/wiki/Eric_Temple_Bell][Eric Temple Bell]] ::
+  + La abstracción, a veces lanzada como un reproche a las matemáticas, es su
+    principal gloria y su título más seguro de utilidad práctica. También es la
+    fuente de la belleza que puede surgir de las matemáticas.
 
 + [[https://es.wikipedia.org/wiki/Ernest_Hemingway][Ernest Hemingway]] ::
   + Se necesitan dos años para aprender a hablar y sesenta para aprender a
@@ -595,6 +792,11 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Friedrich_Ludwig_Jahn][Federico Luis Jahn]] ::
   + El secreto para vivir en paz con todos consiste en el arte de comprender a
     cada uno según su individualidad.
+
++ [[https://en.wikipedia.org/wiki/Felix_Klein][Felix Klein]] ::
+  + Todo el mundo sabe lo que es una curva, hasta que ha estudiado suficientes
+    matemáticas para confundirse a través del incontable número de posibles
+    excepciones.
 
 + [[https://es.wikipedia.org/wiki/Francis_Bacon][Francis Bacon]] ::
   + La amistad duplica las alegrías y divide las angustias por la mitad.
@@ -660,11 +862,22 @@ encontrando.
   + La ventaja de tener mala memoria es que se goza muchas veces con las mismas
     cosas.
   + Lo que mucho ocupa termina por preocupar.
+  + Quien se sabe profundo, se esfuerza por ser claro; quien desea parecer profundo
+    a la gran masa, se esfuerza por ser oscuro.
 
 + [[https://es.wikipedia.org/wiki/Friedrich_Schlegel][Friedrich Schlegel]] ::
   + Cuanto más se sabe, más se desea aprender. Con la sabiduría crece
     paralelamente la sensación de no saber o, mejor dicho, de saber que no se
     sabe.
+
++ [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]] ::
+  + Los patrones del matemático, como los del pintor o el poeta deben ser
+    hermosos; las ideas, como los colores o las palabras deben encajar de manera
+    armoniosa. La belleza es la primera prueba: no hay lugar permanente en este
+    mundo para las matemáticas feas.
+  + Un matemático, como un pintor o un poeta, es un creador de patrones. Si sus
+    patrones son más permanentes que los de ellos, es porque están hechos con
+    ideas.
 
 + [[https://es.wikipedia.org/wiki/G._K._Chesterton][G.K. Chesterton]] ::
   + La única educación posible es esta: estar lo bastante seguro de una cosa
@@ -690,16 +903,79 @@ encontrando.
   + Aprendemos de la experiencia que los hombres nunca aprenden nada de la
     experiencia.
 
++ [[https://en.wikipedia.org/wiki/Georg_Cantor][Georg Cantor]] ::
+  + En matemáticas, el arte de hacer preguntas es más valioso que la resolución
+    de problemas.
+  + La esencia de las matemáticas es su libertad.
+
++ [[https://en.wikipedia.org/wiki/George_Boole][George Boole]] ::
+  + Por muy correcto que parezca un teorema matemático, nunca hay que conformarse
+    con que no haya algo imperfecto en él hasta que también dé la impresión de ser
+    bello.
+
 + [[https://es.wikipedia.org/wiki/George_Eliot][George Eliot]] ::
   + Bendito sea el hombre que no teniendo nada que decir, se abstiene de
     demostrárnoslo con sus palabras.
+
++ [[https://bit.ly/31dDTvO][George Lakoff]] ::
+  + La idea de que la gente abandonará sus creencias irracionales ante la solidez
+    de la evidencia presentada ante ella es en sí misma una creencia irracional,
+    no apoyada por la evidencia.
 
 + [[https://es.wikipedia.org/wiki/George_Orwell][George Orwell]] ::
   + Ver lo que tenemos delante de nuestras narices requiere una lucha
     constante.
 
++ [[https://es.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]] ::
+  + Corremos menos peligro de equivocarnos si no perdemos de vista nuestra meta.
+  + Debemos hacer lo que podemos si no podemos hacer lo que queremos.
+  + El fin sugiere los medios.
+  + El objeto de la pesca no es tirar el anzuelo sino sacar el pez.
+  + Es mejor resolver un problema de cinco maneras diferentes, que resolver cinco
+    problemas de una sola manera.
+  + La belleza en las matemáticas es ver la verdad sin esfuerzo.
+  + La elegancia de un teorema es directamente proporcional al número de ideas
+    que puedes ver en él e inversamente proporcional al esfuerzo que requiere
+    verlas.
+  + La primera regla del descubrimiento es tener inteligencia y buena suerte. La
+    segunda regla del descubrimiento es sentarse y esperar hasta que se tenga una
+    idea brillante.
+  + La resolución de problemas es una habilidad práctica como, digamos, la
+    natación. Adquirimos cualquier habilidad práctica por imitación y
+    práctica. Tratando de nadar, imitas lo que otras personas hacen con sus manos
+    y pies para mantener sus cabezas sobre el agua, y, finalmente, aprendes a
+    nadar practicando la natación. Al intentar resolver problemas, hay que
+    observar e imitar lo que hacen otras personas al resolver problemas y,
+    finalmente, se aprende a resolver problemas haciéndolos.
+  + Las matemáticas tienen dos caras: son la ciencia rigurosa de Euclides, pero
+    también son algo más. La matemática presentada a la manera euclidiana aparece
+    como una ciencia sistemática y deductiva; pero la matemática en ciernes
+    aparece como una ciencia experimental e inductiva. Ambos aspectos son tan
+    antiguos como la propia ciencia de las matemáticas.
+  + Mire alrededor suyo cuando encuentre la primera seta: las setas como los
+    descubrimientos no crecen nunca solas.
+  + No crea nada, pero reserve sus dudas para las cosas importantes.
+  + No piensa bien quien no piensa dos veces.
+  + Para enseñar de manera efectiva, un profesor debe desarrollar un sentimiento
+    por su asignatura; no puede hacer que sus alumnos sientan su vitalidad si no
+    la siente él mismo. No puede compartir su entusiasmo cuando no tiene
+    entusiasmo que compartir. La forma en que expone su tema puede ser tan
+    importante como el tema que expone; debe sentir personalmente que es
+    importante.
+  + Sus cinco mejores amigos son qué, por qué, dónde, cuándo y cómo.
+  + Un gran descubrimiento resuelve un gran problema, pero hay un grano de
+    descubrimiento en cualquier problema.
+
 + [[https://es.wikipedia.org/wiki/Georges_Clemenceau][Georges Clemenceau]] ::
+  + La vida de un hombre es interesante cuando ha cometido errores; es una muestra
+    de que intentó superarse.
   + Los tontos no gustan de admirar las cosas sino cuando llevan una etiqueta.
+
++ [[https://bit.ly/2ZnMPit][Gian-Carlo Rota]] ::
+  + El avance de las matemáticas puede ser visto como un progreso de lo infinito
+    a lo finito.
+  + Un buen maestro no enseña hechos, enseña entusiasmo, apertura de mente y
+    valores.
 
 + [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Gibran Jalil Gibran]] ::
   + El olvido es una forma de libertad.
@@ -708,9 +984,30 @@ encontrando.
   + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar entre las
     nubes.
 
++ [[https://bit.ly/3debxWY][Giovanni Sartori]] ::
+  + El único modo de resolver los problemas es conociéndolos, saber que existen. El
+    simplismo los cancela y, así, los agrava.
+
++ [[https://es.wikipedia.org/wiki/G%C3%B6sta_Mittag-Leffler][Gösta Mittag-Leffler]] ::
+  + La mejor obra del matemático es el arte, un arte altamente perfecto, tan audaz
+    como los más secretos sueños de la imaginación, claro y límpido. El genio
+    matemático y el genio artístico se tocan mutuamente.
+
++ [[https://bit.ly/3jDqKDW][Gottfried Leibniz]] ::
+  + El placer que obtenemos de la música proviene de contar, pero contando
+    inconscientemente. La música no es más que aritmética inconsciente.
+  + Es indigno que hombres notables pierdan su tiempo como esclavos del cálculo
+    cuando podrían dejar ese trabajo en manos de cualquiera si se usaran las
+    máquinas.
+
++ [[https://en.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]] ::
+  + Todo buen matemático es al menos medio filósofo, y todo buen filósofo es al
+    menos medio matemático.
+
 + [[https://es.wikipedia.org/wiki/Groucho_Marx][Groucho Marx]] ::
   + La política es el arte de buscar problemas, encontrarlos, hacer un
     diagnóstico falso y aplicar después los remedios equivocados.
+  + Todavía no sé qué me vas a preguntar, pero me opongo.
 
 + [[https://es.wikipedia.org/wiki/Gustav_Meyrink][Gustav Meyrink]] ::
   + La vida toda no es nada más que preguntas materializadas, las cuales llevan
@@ -725,12 +1022,27 @@ encontrando.
   + Para cada problema complejo y difícil, siempre hay una respuesta simple,
     fácil y equivocada.
 
++ [[https://bit.ly/2D9hgQt][Haemin Sunim]] ::
+  + ¿Quieres sentirte joven de nuevo? Aprende algo nuevo. Ser estudiante hace que
+    tu mente esté fresca y curiosa como un niño pequeño otra vez.
+
 + [[https://en.wikipedia.org/wiki/Haim_Ginott][Haim Ginott]] ::
   + Los niños son como cemento fresco, cualquier cosa que caiga sobre ellos
     deja una huella.
 
++ [[https://es.wikipedia.org/wiki/Hans_Reichenbach][Hans Reichenbach]] ::
+  + La esencia del conocimiento es la generalización. Que el fuego se puede
+    producir frotando la madera de cierta manera es un conocimiento derivado de la
+    generalización de las experiencias individuales; la afirmación significa que
+    frotar la madera de esta manera siempre producirá fuego. Por lo tanto, el arte
+    del descubrimiento es el arte de la correcta generalización.
+
 + [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson]] ::
   + El ojo ve sólo lo que la mente está preparada para comprender.
+
++ [[https://es.wikipedia.org/wiki/Henri_L%C3%A9on_Lebesgue][Henri Lebesgue]] ::
+  + La única enseñanza que un profesor puede dar, en mi opinión, es la de pensar
+    delante de sus alumnos.
 
 + [[https://es.wikipedia.org/wiki/Henri_Poincar%C3%A9][Henri Poincaré]] ::
   + Duda de los datos hasta que los datos no dejen lugar a dudas.
@@ -739,11 +1051,22 @@ encontrando.
   + La ciencia son hechos; de la misma manera que las casas están hechas de
     piedras, la ciencia está hecha de hechos; pero un montón de piedras no es
     una casa y una colección de hechos no es necesariamente ciencia.
+  + Las matemáticas son el arte de dar el mismo nombre a cosas diferentes.
   + Los descubrimientos matemáticos, pequeños o grandes, nunca se generan
     espontáneamente. Presuponen siempre una sólida base de conocimientos
     preliminares bien madurados por el trabajo consciente y subconsciente.
+  + Los matemáticos dan mucha importancia a la elegancia de sus métodos y a sus
+    resultados. Esto no es puro diletantismo. ¿Qué es lo que en verdad nos da la
+    sensación de elegancia en una solución, en una demostración? Es la armonía de
+    las diversas partes, su la simetría, su feliz equilibrio; en una palabra, es
+    todo lo que introduce orden, todo lo que da unidad, lo que nos permite ver con
+    claridad y comprender a la vez tanto el conjunto como los detalles.
   + Una palabra bien elegida puede economizar no sólo cien palabras, sino cien
     pensamientos.
+
+
++ [[https://bit.ly/2Yv5qZI][Henry Brougham]] ::
+  + Procura buscar el conocimiento en las dificultades.
 
 + [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]] ::
   + Dime lo que crees ser y te diré lo que no eres.
@@ -788,6 +1111,10 @@ encontrando.
   + Llama experiencias a tus dificultades y recuerda que cada una de ellas te
     ayuda a madurar.
 
++ [[https://bit.ly/3fSs4RM][Henry Moore]] ::
+  + No hay jubilación para un artista; el arte es una forma de vida y como tal no
+    tiene fin.
+
 + [[https://es.wikipedia.org/wiki/Herbert_Alexander_Simon][Herbert A. Simon]] ::
   + En el mundo de los computadores, el momento de la verdad es el de ejecutar
     el programa; los demás es profecía.
@@ -801,9 +1128,15 @@ encontrando.
     de Saint Moritz. El modo en que tocaba y acariciaba cada pieza denotaba que
     era un hombre extraordinario. Amaba profundamente lo que hacía. Amar lo que
     uno hace es requisito necesario para ser artista.
+  + Las influencias aparecen al principio, pero llegados a un cierto punto,
+    terminan.
 
 + [[https://es.wikipedia.org/wiki/Hermann_Hesse][Hermann Hesse]] ::
   + Hacer versos malos depara mucha más felicidad que leer los más bellos.
+
++ [[https://es.wikipedia.org/wiki/Hermann_Weyl][Hermann Weyl]] ::
+  + Mi trabajo siempre trató de unir lo verdadero con lo bello; pero cuando tuve
+    que elegir uno u otro, generalmente elegí lo bello.
 
 + [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Heródoto]] ::
   + Es más fácil embaucar a muchos juntos que a uno solo.
@@ -812,6 +1145,7 @@ encontrando.
   + Todo cambia, nada es.
 
 + [[https://es.wikipedia.org/wiki/Hes%C3%ADodo][Hesíodo]] ::
+  + Sé prudente. Lo mejor en todo es escoger la ocasión.
   + Si añades un poco a lo poco y lo haces así con frecuencia, pronto llegará a
     ser mucho.
 
@@ -827,6 +1161,7 @@ encontrando.
   + Aunque nada cambie, si yo cambio, todo cambia.
 
 + [[https://es.wikipedia.org/wiki/Horacio][Horacio]] ::
+  + A los que mucho desean les falta mucho.
   + A la gente triste le disgusta la feliz, tanto como la feliz aborrece la
     triste; los que son rápidos de pensamiento se ponen nerviosos con los
     calmados, así como los desocupados no pueden soportar a los que siempre
@@ -834,6 +1169,30 @@ encontrando.
   + Apodérate del día; no confíes en el mañana.
   + Borra muchas veces, si quieres escribir cosas que sean dignas de ser
     leídas.
+  + Lo que hace falta es someter a las circunstancias, no someterse a ellas.
+
++ [[https://es.wikipedia.org/wiki/Howard_Eves][Howard Eves]] ::
+  + Existe una distinción entre lo que se puede llamar un problema y lo que puede
+    considerar un ejercicio. Este último sirve para entrenar al en alguna técnica o
+    procedimiento, y requiere poco o ningún original. A diferencia de un ejercicio,
+    un problema, si es apropiado para nivel, debe requerir pensamiento por parte del
+    estudiante. Es imposible exagerar la importancia de los problemas en las
+    matemáticas. Es por medio de los problemas que las matemáticas se desarrollan y
+    se levantan por sí mismas. Cada nuevo descubrimiento en matemáticas es el
+    resultado de un intento de resolver algún problema.
+
++ [[https://es.wikipedia.org/wiki/Ian_Stewart][Ian Stewart]] ::
+  + A menudo, la contribución clave de la intuición es hacernos conscientes de
+    los puntos débiles de un problema, los lugares donde puede ser vulnerable a un
+    ataque. Una demostración matemática es como una batalla, o si prefiere una
+    metáfora menos bélica, una partida de ajedrez. Una vez que se ha identificado
+    un punto débil potencial, la comprensión técnica del matemático de la
+    maquinaria de las matemáticas puede utilizarse para explotarlo.
+  + Criticar a las matemáticas por su abstracción es perder el punto por
+    completo. La abstracción es lo que hace que las matemáticas funcionen. Si te
+    concentras demasiado en una aplicación demasiado limitada de una idea
+    matemática, le robas al matemático sus herramientas más importantes: analogía,
+    generalidad, y simplicidad.
 
 + [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant]] ::
   + La ciencia es la organización del conocimiento, pero la sabiduría es la
@@ -842,12 +1201,23 @@ encontrando.
   + Ser es hacer.
   + Vemos las cosas, no como son, sino como somos nosotros.
 
++ [[https://bit.ly/3bJNr6w][Imre Lakatos]] ::
+  + Hay una regresión infinita en las pruebas; por lo tanto, las pruebas no
+    prueban. Debes darte cuenta de que probar es un juego, que se juega mientras
+    lo disfrutas y que se detiene cuando te cansas.
+
++ [[https://bit.ly/34FxvAi][Indira Gandhi]] ::
+  + Un día mi abuelo me dijo que hay dos tipos de personas: las que trabajan, y las
+    que buscan el mérito. Me dijo que tratara de estar en el primer grupo: hay menos
+    competencia ahí.
+
 + [[https://es.wikipedia.org/wiki/Isaac_Asimov][Isaac Asimov]] ::
   + Las normas establecidas con razón y con justicia, pueden dejar de ser
     útiles al cambiar las circunstancias, pero al permitir que continuen
     vigentes por la fuerza de la inercia, entonces, no sólo es justo, sino
     también útil, quebrantar aquellas que nos anuncian el hecho de que son
     inútiles, o incluso realmente perjudiciales.
+  + Nunca permitas que el sentido de la moral te impida hacer lo que está bien.
 
 + [[https://es.wikipedia.org/wiki/Isaac_Newton][Isaac Newton]] ::
   + La verdad siempre se halla en la simplicidad y no en la multiplicidad y
@@ -858,6 +1228,16 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Is%C3%B3crates][Isócrates]] ::
   + Una colección de bellas máximas es un tesoro más apreciable que las
     riquezas.
+
++ [[https://en.wikipedia.org/wiki/Israel_Nathan_Herstein][Israel Nathan Herstein]] ::
+  + El valor de un problema no es tanto el de encontrar la respuesta como el de
+    las ideas e intentos que obliga su resolución.
+
++ [[https://bit.ly/2RHtRyr][Italo Calvino]] ::
+  + Renunciar a las cosas es menos difícil de lo que se cree: todo estriba en
+    empezar. Una vez que has logrado prescindir de algo que creías esencial,
+    adviertes que puedes pasarte también sin alguna otra cosa, y luego aún sin otras
+    muchas cosas.
 
 + [[https://es.wikipedia.org/wiki/Jacinto_Benavente][Jacinto Benavente]] ::
   + La vida es como un viaje por la mar: hay días de calma y días de borrasca;
@@ -875,10 +1255,9 @@ encontrando.
   + Un egoísta es aquel que se empeña en hablarte de sí mismo cuando tú te
     estas muriendo de ganas de hablarle de tí.
 
-+ [[https://es.wikipedia.org/wiki/Jean-Paul_Sartre][Jean-Paul Sartre]] ::
-  + Aquello que cada uno de nosotros es, en cada momento de su vida, es la suma
-    de sus elecciones previas.
-  + Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.
++ [[https://es.wikipedia.org/wiki/Jean_Dieudonn%C3%A9][Jean Dieudonné]] ::
+  + La vida de un matemático está dominada por una insaciable curiosidad, un deseo
+    que raya en la pasión por resolver los problemas que estudia.
 
 + [[https://es.wikipedia.org/wiki/Jean_Piaget][Jean Piaget]] ::
   + Inteligencia es lo que usas cuando no sabes qué hacer.
@@ -890,6 +1269,35 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Jean-Jacques_Rousseau][Jean-Jacques Rousseau]] ::
   + Todas las pasiones son buenas cuando uno es dueño de ellas, y todas son
     malas cuando nos esclavizan.
+
++ [[https://es.wikipedia.org/wiki/Jean-Paul_Sartre][Jean-Paul Sartre]] ::
+  + Aquello que cada uno de nosotros es, en cada momento de su vida, es la suma
+    de sus elecciones previas.
+  + Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.
+
++ [[https://bit.ly/3g17HS0][John H. Newman]] ::
+  + En un mundo superior puede ser de otra manera, pero aquí abajo, vivir es
+    cambiar y ser perfecto es haber cambiado muchas veces.
+
++ [[https://es.wikipedia.org/wiki/John_Lennon][John Lennon]] ::
+  + La vida es aquello que te va sucediendo mientras estás ocupado haciendo otros
+    planes.
+
++ [[https://bit.ly/2WwYbPF][John Stillwell]] ::
+  + Imposibilidades aparentes que son nuevas verdades [...] números
+    irracionales, números imaginarios, puntos en el infinito, espacio curvo,
+    ideales y varios tipos de infinito. Estas ideas parecen imposibles al
+    principio porque nuestra intuición no puede comprenderlas, pero pueden ser
+    capturadas con la ayuda del simbolismo matemático, que es una especie de
+    extensión tecnológica de nuestros sentidos.
+
++ [[https://en.wikipedia.org/wiki/John_von_Neumann][John von Neumann]] ::
+  + Si la gente no cree que las matemáticas son simples, es sólo porque no se dan
+    cuenta de lo complicada que es la vida.
+
++ [[https://es.wikipedia.org/wiki/Johann_Caspar_Lavater][Johann Kaspar Lavater]] ::
+  + Si quieres ser sabio, aprende a interrogar razonablemente, a escuchar con
+    atención, a responder serenamente y a callar cuando no tengas nada que decir.
 
 + [[https://es.wikipedia.org/wiki/Johann_Sebastian_Bach][Johann Sebastian Bach]] ::
   + Es fácil tocar un instrumento musical: todo lo que tienes que hacer es
@@ -906,6 +1314,8 @@ encontrando.
   + Lo importante no es donde se está, sino la dirección en que se camina.
   + Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
     las hubiera hecho antes.
+  + Los perezosos siempre hablan de lo que piensan hacer, de lo que harán; los que
+    de veras hacen algo no tienen tiempo de hablar ni de lo que hacen.
   + Nadie es más esclavo que el que se tiene por libre sin serlo.
   + No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
     regresará al camino que en su día la naturaleza predeterminó para él.
@@ -919,6 +1329,8 @@ encontrando.
     procure un gozo intachable a la humanidad.
   + Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
     mejor las cosas.
+  + Todos los días deberíamos oír un poco de música, leer una buena poesía,
+    contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.
 
 + [[https://es.wikipedia.org/wiki/John_C._Maxwell][John C. Maxwell]] ::
   + La clave del problema reside en identificar el problema.
@@ -969,6 +1381,7 @@ encontrando.
     olvido.
   + Que otros se jacten de las páginas que han escrito; a mi me enorgullecen
     las que he leído.
+  + Uno no es lo que es por lo que escribe, sino por lo que ha leído.
 
 + [[https://es.wikipedia.org/wiki/Jos%C3%A9_de_Letamendi][José de Letamendi]] ::
   + Si un loco se obstinara durante mucho tiempo en lanzar piedras a la Luna,
@@ -980,6 +1393,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Joseph_Joubert][Joseph Joubert]] ::
   + Enseñar es aprender dos veces.
+  + El motivo no existe siempre para ser alcanzado, sino para servir de punto de
+    mira.
   + Las palabras son como el vidrio; oscurecen todo aquello que no ayudan a ver
     mejor.
 
@@ -992,10 +1407,17 @@ encontrando.
     cuando se mira lejos.
 
 + [[https://es.wikipedia.org/wiki/Jos%C3%A9_Saramago][José Saramago]] ::
-  + La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria
-    tiene algo negativo, jamás es definitiva.
   + El mundo se está convirtiendo en una caverna igual que la de Platón: todos
     mirando imágenes y creyendo que son la realidad.
+  + En la comunicación directa intervienen la mirada, el olor. En una carta puede
+    caer una lágrima, pero el correo electrónico no puede ir acompañado de
+    emociones. Los hombres terminarán encerrados en una habitación con pantalla,
+    comunicando con todo el mundo pero solos-
+  + Escribo para intentar comprender, y porque no tengo nada mejor que hacer.
+  + La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria
+    tiene algo negativo, jamás es definitiva.
+  + Las tres enfermedades del hombre actual son la incomunicación, la revolución
+    tecnológica y su vida centrada en su triunfo personal.
   + Lo difícil no es vivir con las personas, lo difícil es comprenderlas.
   + Lo malo no es tener opinión; lo malo es tenerla sin saber de qué se habla.
   + Lo peor es que se está armando un sistema en el que las pequeñas cosas son
@@ -1005,6 +1427,9 @@ encontrando.
   + Los cerebros están llenos de palabras que viven en paz y en armonía con sus
     contrarias y enemigas. Por eso la gente hace lo contrario de lo que piensa
     creyendo pensar lo que hace.
+  + Los únicos interesados en cambiar el mundo son los pesimistas, porque los
+    optimistas están encantados con lo que hay.
+  + Nuestra mayor tragedia es no saber qué hacer con nuestras vidas.
 
 + [[https://es.wikipedia.org/wiki/Juan_XXIII][Juan XXIII]] ::
   + Sólo por hoy trataré de vivir exclusivamente el día, sin querer resolver el
@@ -1018,6 +1443,14 @@ encontrando.
   + La ciencia, muchacho, está hecha de errores; pero de errores que conviene
     cometer, porque conducen poco a poco a la verdad.
 
++ [[https://es.wikipedia.org/wiki/Karl_Marx][Karl Marx]] ::
+  + Las ideas dominantes de una época siempre fueron sólo las ideas de una clase
+    dominante.
+
++ [[https://es.wikipedia.org/wiki/Karl_Pearson][Karl Pearson]] ::
+  + El verdadero objetivo del maestro debe ser impartir una apreciación del
+    método y no un conocimiento de los hechos.
+
 + [[https://es.wikipedia.org/wiki/Karl_Popper][Karl Popper]] ::
   + Es imposible hablar de tal manera que no se pueda ser mal interpretado.
   + La ignorancia no consiste en la ausencia de conocimientos sino en rehusar
@@ -1025,11 +1458,26 @@ encontrando.
   + Nuestro conocimiento es necesariamente finito, mientras que nuestra
     ignorancia es necesariamente infinita.
 
++ [[https://en.wikipedia.org/wiki/Karl_Weierstrass][Karl Weierstrass]] ::
+  + Un matemático que no sea también algo de poeta nunca será un matemático
+    perfecto.
+
++ [[https://bit.ly/3dUHggj][Katherine Mansfield]] ::
+  + ¿Qué es lo que más quiero hacer? Esto es lo que no debo dejar de preguntarme
+    ante las dificultades.
+
++ [[https://en.wikipedia.org/wiki/Kurt_G%C3%B6del][Kurt Gödel]] ::
+  + El desarrollo de las matemáticas hacia una mayor precisión ha llevado, como
+    es bien sabido, a la formalización de grandes partes de las mismas, de modo
+    que se puede probar cualquier teorema usando nada más que unas pocas reglas
+    mecánicas.
+
 + [[https://es.wikipedia.org/wiki/Kurt_Tucholsky][Kurt Tucholsky]] ::
   + La ventaja de ser inteligente es que así resulta más fácil pasar por
     tonto. Lo contrario es mucho más difícil.
 
 + [[https://es.wikipedia.org/wiki/Lao-Tse][Lao-Tse]] ::
+  + El Sabio actúa sin hacer nada.
   + El sabio brega todo el día sin dejar el trabajo duro. No obstante, haciendo
     esto, permanece en el estado de tranquilidad perfecta.
   + No valores las cosas difíciles de obtener, verás que nadie se entregará a la
@@ -1042,6 +1490,10 @@ encontrando.
     Cuanto más lejos vas, menos conoces.
     Así pues, el Sabio conoce sin viajar, ve sin mirar, y logra sin Actuar.
   + Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
+
++ [[https://es.wikipedia.org/wiki/Laurence_J._Peter][Laurence J. Peter]] ::
+  + Sólo una cosa es más dolorosa que aprender de la experiencia, y es, no aprender
+    de la experiencia.
 
 + [[https://es.wikipedia.org/wiki/Leonardo_da_Vinci][Leonardo da Vinci]] ::
   + Así como el hierro se oxida por falta de uso, también la inactividad
@@ -1059,6 +1511,25 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Leonhard_Euler][Leonhard Euler]] ::
   + Mejor que de nuestro juicio, debemos fiarnos del cálculo algebraico.
 
++ [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói]] ::
+  + Hay quien cruza el bosque y sólo ve leña para el fuego.
+  + Un hombre es como una fracción cuyo numerador corresponde a lo que él es, en
+    tanto que el denominador es lo que cree ser.
+  + La felicidad no está en hacer lo que se quiere, sino en querer lo que se
+    hace.
+  + Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con exceso
+    lo que no tengo.
+  + Un hombre es como una fracción cuyo numerador corresponde a lo que él es,
+    en tanto que el denominador es lo que cree ser. Cuanto más grande es el
+    denominador, más pequeña es la fracción.
+
++ [[https://bit.ly/3l7SeTp][León Trotski]] ::
+  + Exponer a los oprimidos la verdad sobre la situación es abrirles el camino de
+    la revolución.
+
++ [[https://en.wikipedia.org/wiki/Leopold_Kronecker][Leopold Kronecker]] ::
+  + Dios creó el número natural, y todo el resto es obra del hombre.
+
 + [[https://es.wikipedia.org/wiki/Lewis_Carroll][Lewis Carroll]] ::
   + Alicia se daba por lo general muy buenos consejos a sí misma, aunque rara
     vez los seguía.
@@ -1068,16 +1539,6 @@ encontrando.
     - La cuestión, zanjó Zanco Panco, es saber quién es el que manda,..., eso
       es todo.
 
-+ [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói]] ::
-  + Hay quien pasa por el bosque y sólo ve leña para la hoguera.
-  + Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con exceso
-    lo que no tengo.
-  + La felicidad no está en hacer lo que se quiere, sino en querer lo que se
-    hace.
-  + Un hombre es como una fracción cuyo numerador corresponde a lo que él es,
-    en tanto que el denominador es lo que cree ser. Cuanto más grande es el
-    denominador, más pequeña es la fracción.
-
 + [[https://es.wikipedia.org/wiki/Li_Bai][Li Bai]] ::
   + El mundo está lleno de pequeñas alegrías. El arte consiste en saber
     distinguirlas.
@@ -1086,7 +1547,9 @@ encontrando.
   + A veces es más importante descubrir lo que uno no puede hacer, que lo que
     sí puede.
   + El hombre superior ama su alma; el hombre inferior ama su propiedad.
-  + La sabiduría de la vida consiste en eliminar lo que no sea esencial.
+  + La sabiduría de la vida consiste en la eliminación de lo no esencial. En
+    reducir los problemas de la filosofía a unos pocos solamente: el goce del
+    hogar, de la vida, de la naturaleza, de la cultura.
   + Un placer como el de una conversación perfecta es necesariamente raro,
     porque los sabios rara vez hablan y los que hablan rara vez son sabios.
 
@@ -1106,6 +1569,56 @@ encontrando.
   + Sorprendernos por algo es el primer paso de la mente hacia el
     descubrimiento.
 
++ [[https://twitter.com/ramalhoorg?lang=es][Luciano Ramalho]] ::
+  + La abstracción prematura es tan mala como la optimización prematura.
+
++ [[https://en.wikipedia.org/wiki/Lucien_Szpiro][Lucien Szpiro]] ::
+  + La diferencia entre los matemáticos y los físicos es que después de que los
+    físicos prueban un gran resultado piensan que es fantástico, pero después de
+    que los matemáticos prueban un gran resultado piensan que es trivial.
+
++ [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca]] ::
+  + Brevísima y agitadísima es la vida de aquellos que olvidan el pasado,
+    descuidan el presente y temen el futuro.
+  + Como el suelo, por rico que sea, no puede dar fruto si no se cultiva,
+    la mente sin cultivo tampoco puede producir.
+  + El lenguaje de la verdad debe ser, sin duda alguna, simple y sin
+    artificios.
+  + El mayor impedimento al vivir es la espera, que, por estar pendiente al día
+    de mañana, pierde el de hoy.
+  + Elige por maestro aquél a quien admires, más por lo que en él vieres
+    que por lo que escuchares de sus labios.
+  + Es propio de un alma grande menospreciar lo grandioso y preferir la
+    moderación a la desmesura.
+  + ¡Estudia! No para saber una cosa más, sino para saberla mejor.
+  + Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen
+    de ti.
+  + La vida es como una leyenda, no importa que sea larga, sino que esté bien
+    narrada.
+  + Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por
+    medio de ejemplos.
+  + Lee siempre autores reconocidos y, si en alguna ocasión te agradare
+    recurrir a otros, vuelve luego a los primeros.
+  + Los hombres aprenden mientras enseñan.
+  + Muchas veces lo que no se halla cuando se busca, sale al encuentro cuando
+    no se busca.
+  + Muy pocos aciertan antes de errar.
+  + Nada impide tanto la curación como el cambio frecuente de remedios.
+  + No es pobre el que tiene poco, sino el que ambiciona más.
+  + No está en ningún lugar quien está en todas partes.
+  + Pesa las opiniones, no las cuentes.
+  + Sin estudiar enferma el alma.
+
++ [[https://es.wikipedia.org/wiki/Ludwig_van_Beethoven][Ludwig van Beethoven]] ::
+  + Nunca rompas el silencio si no es para mejorarlo.
+
++ [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]] ::
+  + De lo que no se puede hablar hay que callar.
+  + La solución a los problemas que ves en tu vida es vivir en tal forma que
+    desaparezca lo problemático.
+  + Los límites de mi lenguaje son los límites de mi mundo.
+  + No busquéis el significado, buscad el uso.
+
 + [[https://es.wikipedia.org/wiki/Madame_Roland][Madame Roland]] ::
   + El mundo llama locos a quienes no afecta la locura colectiva.
 
@@ -1119,50 +1632,30 @@ encontrando.
   + El hombre es producto de sus pensamientos: se convierte en lo que piensa.
   + Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.
 
-+ [[https://bit.ly/3mEFnbU][Marie Curie]] ::
-  + Dejamos de temer aquello que se ha aprendido a entender.
++ [[https://es.wikipedia.org/wiki/Manuel_Aza%C3%B1a][Manuel Azaña]] ::
+  + Si los españoles hablásemos sólo de lo que sabemos, se generaría un inmenso
+    silencio, que podríamos aprovechar para el estudio.
 
-+ [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]] ::
-  + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
-    hacer una pausa y reflexionar.
-
-+ [[https://es.wikipedia.org/wiki/Mary_Shelley][Mary Shelley]] ::
-  + Nada contribuye a tranquilizar la mente como un propósito firme,un punto en
-    el que pueda el alma fijar sus ojos intelectuales.
-
-+ [[https://es.wikipedia.org/wiki/Mateo_Alemán][Mateo Alemán]] ::
-  + No hay maestro como el ejercicio.
-
-+ [[https://es.wikipedia.org/wiki/M%C3%A1ximo_Gorki][Máximo Gorki]] ::
-  + Cuando el trabajo es un placer la vida es bella. Pero cuando nos es
-    impuesto la vida es una esclavitud.
-
-+ [[https://es.wikipedia.org/wiki/Maya_Angelou][Maya Angelou]] ::
-  + La gente olvidará lo que dijiste, también olvidará lo que hiciste, pero
-    jamás olvidará cómo les hiciste sentir.
-
-+ [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]] ::
-  + De lo que no se puede hablar hay que callar.
-  + La solución a los problemas que ves en tu vida es vivir en tal forma que
-    desaparezca lo problemático.
-  + Los límites de mi lenguaje son los límites de mi mundo.
-  + No busquéis el significado, buscad el uso.
-
-+ [[https://es.wikipedia.org/wiki/Marcel_Proust][Marcel Proust]] ::
-  + El instinto dicta el deber y la inteligencia da pretextos para eludirlo.
-  + El verdadero viaje de descubrimiento no consiste en buscar nuevos caminos
++ [[https://bit.ly/38WP93b][Marcel Proust]] ::
+  + A veces estamos demasiado dispuestos a creer que el presente es el único estado
+    posible de las cosas.
+  + El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes
     sino en tener nuevos ojos.
+  + El instinto dicta el deber y la inteligencia da pretextos para eludirlo.
 
-+ [[https://es.wikipedia.org/wiki/Marco_Aurelio][Marco Aurelio]] ::
++ [[https://bit.ly/2LqGY3P][Marco Aurelio]] ::
   + El talento, si no nacemos con él, se vuelve algo imposible de obtener.
+  + El universo es cambio; nuestra vida es lo que hacen nuestros pensamientos.
   + La sabiduría es el arte de aceptar aquello que no puede ser cambiado, de
     cambiar aquello que puede ser cambiado y, sobre todo, de conocer la
     diferencia.
   + Si logras separar, de lo que al parecer te aflige, la opinión que te haces
     de ello evitarás muchos sufrimientos.
+  + Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una
+    perspectiva, no la verdad.
 
-+ [[https://es.wikipedia.org/wiki/Marie_Curie][Marie Curie]] ::
-  + Dejamos de temer aquello que hemos aprendido a entender.
++ [[https://bit.ly/3mEFnbU][Marie Curie]] ::
+  + Dejamos de temer aquello que se ha aprendido a entender.
 
 + [[https://es.wikipedia.org/wiki/Mario_Benedetti][Mario Benedetti]] ::
   + No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo
@@ -1181,18 +1674,46 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Mario_Vargas_Llosa][Mario Vargas Llosa]] ::
   + Sólo un idiota puede ser totalmente feliz.
 
++ [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]] ::
+  + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
+  + Nunca discutas con un ignorante, te hará descender a su nivel y ahí te
+    vencerá por experiencia.
+    hacer una pausa y reflexionar.
+
 + [[https://es.wikipedia.org/wiki/Martin_Luther_King][Martin Luther King]] ::
   + Nada en el mundo es más peligroso que la ignorancia sincera y la estupidez
     concienzuda.
   + Nuestras vidas empiezan a terminar el día que guardamos silencio sobre las
     cosas que importan.
 
-+ [[https://es.wikipedia.org/wiki/Maurice_Maeterlinck][Maurice Maeterlinck]] ::
-  + El silencio es el sol que madura los frutos del alma.
++ [[https://bit.ly/3iLww67][Marvin Minsky]] ::
+  + La inteligencia artificial es la ciencia de hacer que las máquinas hagan cosas
+    que requerirían inteligencia si las hicieran los hombres.
+
++ [[https://es.wikipedia.org/wiki/Mary_Shelley][Mary Shelley]] ::
+  + Hablar con la gente constituye ahora mismo una molestia que me alegra mucho
+    poder evitar. La soledad es el único agarradero que tengo, mi mejor recurso,
+    mi refugio. La soledad me beneficia: me da momentos espaciosos.
+  + Nada contribuye a tranquilizar la mente como un propósito firme,un punto en
+    el que pueda el alma fijar sus ojos intelectuales.
 
 + [[https://it.wikipedia.org/wiki/Massimo_Recalcati][Massimo Recalcati]] ::
   + El malestar actual de la juventud no estriba en la oposición entre sueño y
     realidad, sino en la ausencia de sueños.
+
++ [[https://es.wikipedia.org/wiki/Mateo_Alemán][Mateo Alemán]] ::
+  + No hay maestro como el ejercicio.
+
++ [[https://es.wikipedia.org/wiki/Maurice_Maeterlinck][Maurice Maeterlinck]] ::
+  + El silencio es el sol que madura los frutos del alma.
+
++ [[https://es.wikipedia.org/wiki/M%C3%A1ximo_Gorki][Máximo Gorki]] ::
+  + Cuando el trabajo es un placer la vida es bella. Pero cuando nos es
+    impuesto la vida es una esclavitud.
+
++ [[https://es.wikipedia.org/wiki/Maya_Angelou][Maya Angelou]] ::
+  + La gente olvidará lo que dijiste, también olvidará lo que hiciste, pero
+    jamás olvidará cómo les hiciste sentir.
 
 + [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne]] ::
   + A quienes me preguntan la razón de mis viajes les contesto que sé bien de
@@ -1205,6 +1726,10 @@ encontrando.
     nunca sucedieron.
   + Nuestra opinión pone precio a las cosas.
   + Yo no cito a otros más que para expresar mejor mi pensamiento.
+
++ [[https://bit.ly/3lcJ0F3][Milton Friedman]] ::
+  + Si no puedes formular una proposición de forma clara y sin ambigüedades, no
+    la comprendes.
 
 + [[https://es.wikipedia.org/wiki/Michel_Onfray][Michel Onfray]] ::
   + No desprecio a los creyentes, no me parecen ni ridículos ni dignos de
@@ -1230,6 +1755,7 @@ encontrando.
   + El que teme padecer padece ya lo que teme.
   + Nunca he tenido una tristeza que una hora de lectura no haya conseguido
     disipar.
+  + Una cosa no es justa por el hecho de ser ley. Debe ser ley porque es justa.
 
 + [[https://es.wikipedia.org/wiki/Napole%C3%B3n_Bonaparte][Napoleón Bonaparte]] ::
   + Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
@@ -1239,6 +1765,8 @@ encontrando.
   + Nunca interrumpas a tu enemigo mientras está cometiendo un error.
 
 + [[https://es.wikipedia.org/wiki/Nelson_Mandela][Nelson Mandela]] ::
+  + Después de escalar una montaña muy alta, descubrimos que hay muchas otras
+    montañas por escalar.
   + La educación es el arma más poderosa que puedes usar para cambiar el mundo.
 
 + [[https://es.wikipedia.org/wiki/Nicolas_Chamfort][Nicolas Chamfort]] ::
@@ -1249,6 +1777,11 @@ encontrando.
     ‘no’. Saber pronunciar esa palabra y saber vivir solo son los dos únicos
     medios de conservar la libertad y el carácter.
 
++ [[https://bit.ly/30APxBP][Nicolas Malebranche]] ::
+  + Todas las ideas tienen alguna realidad mientras estoy pensando en ellas. (...)
+    Ellas iluminan el espíritu, o se le dan a conocer; algunas incluso lo asombran,
+    o hacen que él las sienta, y todo ello de mil maneras distintas.
+
 + [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo][Nicolás Maquiavelo]] ::
   + La experiencia siempre ha demostrado que jamás suceden bien las cosas
     cuando dependen de muchos.
@@ -1258,7 +1791,10 @@ encontrando.
     cometer en un determinado campo.
 
 + [[https://es.wikipedia.org/wiki/Oscar_Wilde][Oscar Wilde]] ::
+  + Cuanto más conservadoras son las ideas, más revolucionarios los discursos.
   + El trabajo es el refugio de los que no tienen nada que hacer.
+  + La educación es una cosa admirable, pero es bueno recordar de vez en cuando,
+    que nada que valga la pena saber puede ser enseñado.
   + No soy tan joven como para saberlo todo.
   + Nunca des explicaciones. Tus amigos no las necesitan. Tus enemigos no las
     creen.
@@ -1273,6 +1809,26 @@ encontrando.
   + La felicidad es interior, no exterior; por lo tanto, no depende de lo que
     tenemos sino de lo que somos.
 
++ [[https://es.wikipedia.org/wiki/Pablo_Picasso][Pablo Picasso]] ::
+  + Yo no busco, encuentro.
+
++ [[https://es.wikipedia.org/wiki/Paul_Cohen][Paul Cohen]] ::
+  + Para el matemático medio que simplemente quiere saber que su trabajo tiene
+    una base segura, la opción más atractiva es evitar dificultades por medio del
+    programa de Hilbert. Aquí uno considera las matemáticas como un juego formal y
+    solo se preocupa por la cuestión de la coherencia.
+
++ [[https://en.wikipedia.org/wiki/Paul_Erd%C5%91s][Paul Erdős]] ::
+  + ¿Por qué son hermosos los números? Es como preguntar por qué es bella la
+    Novena Sinfonía de Beethoven. Si no ves por qué, alguien no puede
+    decírtelo. Yo sé que los números son hermosos. Si no son hermosos, nada lo
+    es.
+
++ [[https://en.wikipedia.org/wiki/Paul_Halmos][Paul Halmos]] ::
+  + Las matemáticas no son una ciencia deductiva, eso es un cliché. Cuando tratas
+    de probar un teorema, no te limitas a enumerar las hipótesis y luego empiezas
+    a razonar. Lo que haces es prueba y error, experimentación, conjetura.
+
 + [[https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry][Paul Valéry]] ::
   + El problema de nuestros tiempos es que el futuro ya no es lo que era.
 
@@ -1285,6 +1841,14 @@ encontrando.
     en quejarse, un filósofo decía,
     que, a trueco de quejarse,
     habían las desdichas de buscarse.
+
++ [[https://en.wikipedia.org/wiki/Pierre_Boutroux][Pierre Boutroux]] ::
+  + La lógica es invencible, porque para combatir la lógica es necesario usar la
+    lógica.
+
++ [[https://es.wikipedia.org/wiki/P%C3%ADo_Baroja][Pío Baroja]] ::
+  + Cuando el hombre se mira mucho a sí mismo, llega a no saber cuál es su cara y
+    cuál es su careta.
 
 + [[https://es.wikipedia.org/wiki/Piotr_Kropotkin][Piotr Kropotkin]] ::
   + Pocos placeres hay en la vida humana que igualen al producido por la
@@ -1312,6 +1876,7 @@ encontrando.
     tienen que decir algo.
 
 + [[https://es.wikipedia.org/wiki/Plutarco][Plutarco]] ::
+  + El cerebro no es un vaso por llenar, sino una lámpara por encender.
   + En modo alguno hemos de enfadarnos con las cosas; nada les importa nuestras
     iras.
 
@@ -1329,6 +1894,7 @@ encontrando.
     encuentra una excusa.
   + Si el problema tiene solución, ¿por qué te preocupas?. Y si no la tiene,
     ¿por qué te sigues preocupando?
+  + Si te caes siete veces, levántate ocho.
 
 + Proverbio hindú ::
   + Cuando hables, procura que tus palabras sean mejores que el silencio.
@@ -1337,11 +1903,18 @@ encontrando.
   + No puede impedirse el viento. Pero pueden construirse molinos.
 
 + Proverbio japonés ::
+  + Es mejor viajar lleno de esperanza que llegar.
   + Las palabras no pronunciadas son las flores del silencio.
 
 + Proverbio persa ::
   + Aprende lo que te parezca difícil: todo lo difícil se vuelve fácil gracias
     al aprendizaje.
+
++ Proverbio romano ::
+  + Por la ignorancia nos equivocamos, y por las equivocaciones aprendemos.
+
++ Proverbio suizo ::
+  + Las palabras son enanos, los ejemplos son gigantes.
 
 + Proverbio Zen ::
   + Acepta lo que no puedas cambiar y
@@ -1362,18 +1935,29 @@ encontrando.
     después, serás esclavo del convencionalismo.
   + No confundáis la luna con el dedo que la señala.
   + Ser feliz es muy sencillo. Lo que es difícil es ser sencillo.
+  + Si entiendes, las cosas son así. Si no entiendes, las cosas son así.
   + ¿Cuál es el problema? Yo soy el problema. Deshazte del "yo" y de repente no
     hay problema.
 
-+ [[https://es.wikipedia.org/wiki/Reinhold_Niebuhr][Reinhold Niebuhr]] ::
-  + Señor, dame la serenidad para aceptar las cosas que no puedo cambiar, valor
-    para cambiar las cosas que puedo y sabiduría para poder diferenciarlas.
++ [[https://es.wikipedia.org/wiki/Rabindranath_Tagore][Rabindranath Tagore]] ::
+  + El canal se complace pensando que los ríos no existen sino para traerle
+    agua.
+  + Hacer preguntas es prueba de que se piensa.
 
-+ [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]] ::
-  + Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no
-    desespero en aprender.
-  + No hay nada repartido de modo más equitativo en el mundo que la razón: todo
-    el mundo está convencido de tener suficiente.
++ [[https://bit.ly/2BNCfYs][Rafael Chirbes]] ::
+  + A veces cargamos las cosas con una importancia que sólo existe en nuestra
+    cabeza.
+  + Cinismo y amargura son los dos frutos que te da el árbol de la vida.
+  + Cuando las ideas no te dejan ver la realidad, no son ideas, son mentiras.
+  + La misión del hombre en el corto espacio que le toca vagabundear sobre la
+    tierra es precisamente evitar el desorden, corregir el desorden.
+  + Si no sabes adónde vas ningún camino es bueno.
+  + Sólo sobreviven quienes consiguen creerse que son lo que no son.
+  + Todas las juventudes se parecen, es en la madurez cuando empieza la
+    diferencia, nos diferenciamos en cómo resolvemos esa desazón originaria, en
+    cómo abordamos el cruce de caminos que se nos presenta a la salida de la
+    juventud. El tiempo que perdimos. La imposibilidad de recuperarlo. No tener
+    claro si lo que hicimos fue perder o ganar.
 
 + [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson]] ::
   + El hombre grande es aquel que en medio de las muchedumbres mantiene, con
@@ -1384,31 +1968,61 @@ encontrando.
     por lo que los demás dicen de ella.
   + Nunca se ha logrado nada sin entusiasmo.
 
-+ [[https://es.wikipedia.org/wiki/Rabindranath_Tagore][Rabindranath Tagore]] ::
-  + El canal se complace pensando que los ríos no existen sino para traerle
-    agua.
-  + Hacer preguntas es prueba de que se piensa.
-
 + [[https://es.wikipedia.org/wiki/Ram%C3%B3n_de_Campoamor][Ramón de Campoamor]] ::
   + No rechaces tus sueños. ¿Sin la ilusión el mundo que sería?
 
 + [[https://es.wikipedia.org/wiki/Ramon_Llull][Ramón Llull]] ::
   + Hombre paciente no es vencido.
 
++ [[https://bit.ly/2JlTtA7][Ray Bradbury]] ::
+  + No hace falta quemar libros si el mundo empieza a llenarse de gente que no lee,
+    que no aprende, que no sabe ...
+
++ [[https://es.wikipedia.org/wiki/Raymond_Smullyan][Raymond Smullyan]] ::
+  + Sople como sople el viento,
+    vaya como vaya el mundo,
+    ¡a mí me va bien!.
+  + El Sabio no duerme porque deba,
+    ni siquiera porque quiera,
+    sino porque tiene sueño.
+
 + [[https://es.wikipedia.org/wiki/Rembrandt][Rembrandt]] ::
   + Practica lo que sabes y esto te ayudará a ver lo que todavía no sabes.
+
++ [[https://es.wikipedia.org/wiki/Reinhold_Niebuhr][Reinhold Niebuhr]] ::
+  + Señor, dame la serenidad para aceptar las cosas que no puedo cambiar, valor
+    para cambiar las cosas que puedo y sabiduría para poder diferenciarlas.
 
 + [[https://es.wikipedia.org/wiki/Remy_de_Gourmont][Remy de Gourmont]] ::
   + La lógica es buena para razonar, pero mala para vivir.
 
 + [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]] ::
   + Daría todo lo que sé por la mitad de lo que ignoro.
+  + El buen sentido es lo que mejor repartido está entre todo el mundo, pues cada
+    cual piensa que posee buena provisión de él.
+  + Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no
+    desespero en aprender.
   + No hay nada repartido de modo más equitativo en el mundo que la razón: todo
     el mundo está convencido de tener suficiente.
+  + Pensad antes de obrar y no comencéis nada sin haber consultado las
+    circunstancias bien a fondo.
 
 + [[https://es.wikipedia.org/wiki/Richard_Bach][Richard Bach]] ::
   + Si tu felicidad depende de lo que hagan los demás, supongo que estarás en
     aprietos.
+
++ [[https://en.wikipedia.org/wiki/Richard_Courant][Richard Courant]] ::
+  + Las matemáticas como expresión de la mente humana reflejan la voluntad
+    activa, la razón contemplativa y el deseo de perfección estética. Sus
+    elementos básicos son la lógica y la intuición, el análisis y la construcción,
+    la generalidad y la individualidad.
+
++ [[https://bit.ly/33Oi7jg][Richard Feynman]] ::
+  + Necesitamos enseñar a que la duda no sea temida, sino bienvenida y
+    debatida. No hay problema en decir: 'No lo sé'.
+
++ [[https://en.wikipedia.org/wiki/Richard_Hamming][Richard Hamming]] ::
+  + El propósito de la computación es la comprensión, no los números.
 
 + [[https://es.wikipedia.org/wiki/Richard_Whately][Richard Whately]] ::
   + Enseñar a quien no tiene curiosidad por aprender es sembrar un campo sin
@@ -1441,11 +2055,22 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Robert_Louis_Stevenson][Robert Louis Stevenson]] ::
   + No juzgues el día por la cosecha que has recogido, sino por las semillas
     que has plantado.
+  + Saber lo que prefieres, en lugar de decir sumisamente amén a lo que el
+    mundo te dice que debieras preferir, significa que has mantenido tu alma con
+    vida.
 
 + [[https://en.wikipedia.org/wiki/Robert_Orben][Robert Orben]] ::
   + Errar es humano. Y echarle la culpa al ordenador es más humano todavía.
   + Las vacaciones consisten en no tener nada que hacer y disponer de todo el
     día para hacerlo.
+
++ [[https://bit.ly/3j663Qz][Ronald Laing]] ::
+  + Deberíamos dedicarnos a desaprender gran parte de lo aprendido y aprender lo
+    que no se nos ha enseñado.
+
++ [[https://es.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo][Rubén Darío]] ::
+  + No dejes apagar el entusiasmo, virtud tan valiosa como necesaria; trabaja,
+    aspira, tiende siempre hacia la altura.
 
 + [[https://es.wikipedia.org/wiki/Salom%C3%B3n][Salomón]] ::
   + El corazón alegre hace tanto bien como el mejor medicamento.
@@ -1459,9 +2084,15 @@ encontrando.
   + La vida es el arte de sacar conclusiones suficientes a partir de datos
     insuficientes.
 
++ [[https://bit.ly/33lHVDe][Samuel Johnson]] ::
+  + No deseo conversar con un hombre que haya escrito más de lo que ha leído.
+
 + [[https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona][San Agustín]] ::
   + Quien roba con un barco es un pirata, quien roba con una flota es
     almirante.
+
++ [[https://bit.ly/3dyloX0][San Juan de la Cruz]] ::
+  + Buscad leyendo y hallaréis meditando.
 
 + [[https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Santiago Ramón y Cajal]] ::
   Lo peor no es cometer un error, sino tratar de justificarlo, en vez de
@@ -1481,13 +2112,13 @@ encontrando.
   + Entre dos individuos, la armonía nunca viene dada, sino que debe
     conquistarse indefinidamente.
 
-+ [[https://es.wikipedia.org/wiki/Raymond_Smullyan][Raymond Smullyan]] ::
-  + Sople como sople el viento,
-    vaya como vaya el mundo,
-    ¡a mí me va bien!.
-  + El Sabio no duerme porque deba,
-    ni siquiera porque quiera,
-    sino porque tiene sueño.
++ [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]] ::
+  + El grado sumo del saber es contemplar el porqué.
+  + El verdadero viaje no es el que nos lleva lejos, sino el que conduce a
+    nuestro interior.
+  + La ciencia humana consiste más en destruir errores que en descubrir
+    verdades.
+  + Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
 
 + [[https://es.wikipedia.org/wiki/Sor_Juana_In%C3%A9s_de_la_Cruz][Sor Juana Inés de la Cruz]] ::
   + Para todo se halla prueba y razón en qué fundarlo; y no hay razón para
@@ -1500,7 +2131,16 @@ encontrando.
     vivida hacia adelante.
 
 + [[https://es.wikipedia.org/wiki/Stephen_Hawking][Stephen Hawking]] ::
+  + El desorden aumenta con el tiempo porque nosotros medimos el tiempo en el
+    sentido en el que aumenta el desorden.
   + La inteligencia es la habilidad de adaptarse a los cambios.
+
++ [[https://bit.ly/30zR1eU][Stephen J. Gould]] ::
+  + Nuestras formas de aprender sobre el mundo están fuertemente influenciadas
+    por las ideas preconcebidas sociales y los modos de pensar sesgados que todo
+    científico debe aplicar a cualquier problema. El estereotipo de un 'método
+    científico' totalmente racional y objetivo, con científicos individuales como
+    robots lógicos (e intercambiables), es una mitología egoísta.
 
 + [[https://es.wikipedia.org/wiki/Susanna_Tamaro][Susanna Tamaro]]‬ ::
   + Sin constancia, sin dedicación no se logra nada en ningún campo. No se
@@ -1508,42 +2148,13 @@ encontrando.
     construir una casa. La perseverancia y la atención no son dones innatos
     sino un camino que se aprende a recorrer.
 
-+ [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca]] ::
-  + Brevísima y agitadísima es la vida de aquellos que olvidan el pasado,
-    descuidan el presente y temen el futuro.
-  + Como el suelo, por rico que sea, no puede dar fruto si no se cultiva,
-    la mente sin cultivo tampoco puede producir.
-  + El lenguaje de la verdad debe ser, sin duda alguna, simple y sin
-    artificios.
-  + El mayor impedimento al vivir es la espera, que, por estar pendiente al día
-    de mañana, pierde el de hoy.
-  + Elige por maestro aquél a quien admires, más por lo que en él vieres
-    que por lo que escuchares de sus labios.
-  + ¡Estudia! No para saber una cosa más, sino para saberla mejor.
-  + Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen
-    de ti.
-  + La vida es como una leyenda, no importa que sea larga, sino que esté bien
-    narrada.
-  + Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por
-    medio de ejemplos.
-  + Lee siempre autores reconocidos y, si en alguna ocasión te agradare
-    recurrir a otros, vuelve luego a los primeros.
-  + Los hombres aprenden mientras enseñan.
-  + Muchas veces lo que no se halla cuando se busca, sale al encuentro cuando
-    no se busca.
-  + Muy pocos aciertan antes de errar.
-  + Nada impide tanto la curación como el cambio frecuente de remedios.
-  + No es pobre el que tiene poco, sino el que ambiciona más.
-  + No está en ningún lugar quien está en todas partes.
-  + Pesa las opiniones, no las cuentes.
++ [[https://bit.ly/38qowDp][Swami Vivekananda]] ::
+  + Cada uno es responsable de lo que le sucede y tiene el poder de decidir lo que
+    quiere ser. Lo que eres hoy es el resultado de tus decisiones y elecciones en el
+    pasado. Lo que seas mañana será consecuencia de tus actos de hoy.
 
-+ [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]] ::
-  + El grado sumo del saber es contemplar el porqué.
-  + El verdadero viaje no es el que nos lleva lejos, sino el que conduce a
-    nuestro interior.
-  + La ciencia humana consiste más en destruir errores que en descubrir
-    verdades.
-  + Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
++ [[https://es.wikipedia.org/wiki/T%C3%A1cito][Tácito]] ::
+  + Todo lo que se ignora tiende a magnificarse.
 
 + [[https://es.wikipedia.org/wiki/Tales_de_Mileto][Tales de Mileto]] ::
   + De todo lo que es posible aprender, elige y aprende lo mejor; y de todo lo
@@ -1557,6 +2168,11 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Terry_Pratchett][Terry Pratchett]] ::
   + El tiempo es una droga. En cantidades excesivas, mata.
+
++ [[https://bit.ly/2E7OKPL][Thich Nhat Hanh]] ::
+  + La mayor parte de nuestro sufrimiento surge de nuestras ideas y conceptos. Si
+    eres capaz de liberarte de estos conceptos, la ansiedad y el miedo
+    desaparecerán.
 
 + [[https://es.wikipedia.org/wiki/Thomas_Alva_Edison][Thomas Alva Edison]] ::
   + No he fracasado, he encontrado diez mil fórmulas que no funcionan.
@@ -1590,6 +2206,24 @@ encontrando.
   + He buscado el sosiego en todas partes, y sólo lo he encontrado sentado en
     un rincón apartado, con un libro en las manos.
 
++ [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]] ::
+  + ¿Cuál es el núcleo central de la ciencia de la computación? ¿Qué es lo que lo
+    diferencia de los otros temas con los que se relaciona? ¿Qué es lo que el hilo
+    de unión que reúne estas ramas dispares en una sola disciplina? Mi respuesta a
+    estas preguntas es simple - es el arte de programar un ordenador. Es el arte
+    de diseñar métodos eficientes y elegantes para conseguir que un ordenador
+    resuelva problemas, teóricos o prácticos,  pequeños o grandes, simples o
+    complejos. Es el arte de traducir estos diseños programas correctos y
+    eficientes.
+  + En el desarrollo de la comprensión de los fenómenos complejos, la herramienta
+    más poderosa de que dispone el intelecto humano es la abstracción. La
+    abstracción surge del reconocimiento de las similitudes entre ciertos objetos,
+    situaciones o procesos en el mundo real y de la decisión de concentrarse en
+    estas similitudes e ignorar, por el momento, sus diferencias.
+  + Hay dos maneras de diseñar un software. Una forma es hacerlo tan simple que
+    obviamente no haya deficiencias. Y la otra forma es hacerlo tan complicado que
+    no haya deficiencias obvias.
+
 + [[https://es.wikipedia.org/wiki/Truman_Capote][Truman Capote]] ::
   + Para mí, el mayor placer de la escritura no es el tema que se trate, sino
     la música que hacen las palabras.
@@ -1598,11 +2232,18 @@ encontrando.
   + Cuando se dispone de poco tiempo lo peor es perder la calma. Debemos actuar
     como si tuviésemos la eternidad por delante.
   + El mundo está lleno de libros preciosos que nadie lee.
+  + Una de las primeras cosas que se han de hacer para empezar a trabajar con una
+    tesis es escribir el título, la introducción y el índice final; esto es,
+    precisamente las cosas que todos los autores hacen al final.
 
 + [[https://es.wikipedia.org/wiki/Victor_Hugo][Victor Hugo]] ::
   + El éxito es una cosa bastante repugnante. Su falsa semejanza con el mérito
     engaña a los hombres.
   + Lo que bien se piensa, bien se expresa.
+
++ [[https://es.wikipedia.org/wiki/Viktor_Frankl][Viktor Frankl]] ::
+  + Si no está en tus manos cambiar una situación que te produce dolor, siempre
+    podrás escoger la actitud con la que afrontes ese sufrimiento.
 
 + [[https://es.wikipedia.org/wiki/Vincent_van_Gogh][Vincent van Gogh]] ::
   + Si nos perfeccionamos en una sola cosa y la comprendemos bien, adquirimos
@@ -1612,12 +2253,20 @@ encontrando.
   + Pueden los que creen que pueden.
 
 + [[https://es.wikipedia.org/wiki/Voltaire][Voltaire]] ::
+  + Algunos están destinados a razonar erróneamente, otros a no razonar en
+    absoluto, y otros a perseguir a los que razonan.
   + Cuando uno no vive como piensa, acaba pensando como vive.
+  + Cuanto más lee uno, más se instruye; cuanto más medita, más se halla en
+    situación de afirmar que no sabe nada.
+  + Decimos una tontería y a fuerza de repetirla acabamos creyéndola.
+  + El arte de la medicina consiste en mantener al paciente en buen estado de
   + El secreto de aburrir a la gente consiste en decirlo todo.
   + Es peligroso tener razón cuando el Gobierno está equivocado.
   + He decidido hacer lo que me gusta porque es bueno para la salud.
   + La estupidez es una enfermedad extraordinaria, no es el enfermo el que
     sufre por ella, sino los demás.
+  + La más feliz de todas las vidas es una soledad atareada.
+  + Los prejuicios son la razón de los tontos.
   + Pensad por cuenta propia y dejad que los demás disfruten del derecho a
     hacer lo mismo.
   + Una colección de pensamientos debe ser una farmacia donde se encuentra
@@ -1627,6 +2276,9 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Walter_Scott][Walter Scott]] ::
   + Descansar demasiado es oxidarse.
+
++ [[https://bit.ly/2Y60TMJ][Wernher von Braun]] ::
+  + Investigación es lo que hago cuando no sé lo que estoy haciendo.
 
 + [[https://es.wikipedia.org/wiki/William_Arthur_Ward][William A. Ward]] ::
   + El pesimista se queja del viento;
@@ -1647,14 +2299,44 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/William_James][William James]] ::
   + Cuando debemos hacer una elección y no la haces, esto ya es una elección.
   + El arte de ser sabio es el arte de saber qué pasar por alto.
+  + El camino voluntario y soberano hacia la alegría, si perdemos la alegría,
+    consiste en proceder con alegría, actuar y hablar con alegría, como si esa
+    alegría estuviera ya con nosotros.
   + El pájaro no canta porque sea feliz, sino que es feliz porque canta.
+  + El principio más profundo del carácter humano es el anhelo de ser apreciado.
+  + La unión del matemático con el poeta, el fervor con la medida, la pasión con
+    la corrección, este seguramente es el ideal.
   + Muchas personas creen que piensan, pero están reordenando sus prejuicios.
+  + No hay mentira peor que una verdad mal entendida por los que la oyen.
+  + No temas a la vida. Cree que la vida es digna de ser vivida, y tu creencia
+    ayudará a crear el hecho.
+  + Primero una nueva teoría es tachada de absurda; luego se admite que es
+    cierta, pero obvia e insignificante; finalmente, se ve tan importante que sus
+    adversarios afirman que ellos mismos la descubrieron.
+  + Un gran número de personas piensan que están pensando cuando no hacen más que
+    reordenar sus prejuicios.
+  + Una cosa es importante si alguien la cree importante.
+
++ [[https://bit.ly/2X1l7Gu][William Penn]] ::
+  + Dejad pensar al pueblo que gobierna y se dejará gobernar.
 
 + [[https://es.wikipedia.org/wiki/William_Shakespeare][William Shakespeare]] ::
   + En nuestros locos intentos, renunciamos a lo que somos por lo que esperamos
     ser.
   + La brevedad es el alma del ingenio.
   + Los viejos desconfían de la juventud porque han sido jóvenes.
+  + Un hombre que no se alimenta de sus sueños envejece pronto.
+
++ [[https://bit.ly/3itzT1w][William Somerset Maugham]] ::
+  + Como todos los hombres débiles, puso un énfasis exagerado en no cambiar de
+    opinión.
+  + La vejez está lista para emprender tareas que la juventud eludió porque
+    tomaría demasiado tiempo.
+  + Si la gente sólo hablara cuando tuviera algo que decir, el ser humano perdería
+    muy pronto el uso del lenguaje.
+  + Solo avanzada ya mi vida me di cuenta de cuán fácil es decir: no lo sé.
+  + Sólo hay una cosa de la que estoy seguro, y es que hay muy poco de lo que uno
+    pueda estar seguro.
 
 + [[https://es.wikipedia.org/wiki/Winston_Churchill][Winston Churchill]] ::
   + El éxito es aprender a ir de fracaso en fracaso sin desesperarse.
@@ -1666,6 +2348,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Woody_Allen][Woody Allen]] ::
   + La vocación del político de carrera es hacer de cada solución un problema.
   + Las cosas no se dicen, se hacen, porque al hacerlas se dicen solas.
+
++ [[https://bit.ly/2YZrXh7][Yoritomo Tashi]] ::
+  + El sentido común es el arte de resolver los problemas, no de plantearlos.
 
 + [[https://es.wikipedia.org/wiki/Zen%C3%B3n_de_Citio][Zenón de Citio]] ::
   + Recordad que la naturaleza nos ha dado dos oídos y una sola boca, para

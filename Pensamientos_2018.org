@@ -3,14 +3,8 @@
 Recopilación de los pensamientos incluidos en las cartas de las
 [[https://github.com/jaalonso/Lecturas_GLC#lecturas-del-a%C3%B1o-2018][Lecturas compartidas de GLC durante el año 2018]].
 
-+ [[https://es.wikipedia.org/wiki/Albert_Einstein][Albert Einstein]] ::
-  + Cada día sabemos más y entendemos menos.
-
 + [[https://es.wikipedia.org/wiki/Alberto_Moravia][Alberto Moravia]] ::
   + Sentido común: algo así como salud contagiosa.
-
-+ [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]] ::
-  + La experiencia no es lo que te sucede, sino lo que haces con lo que te sucede.
 
 + [[https://es.wikipedia.org/wiki/Alexis_de_Tocqueville][Alexis de Tocqueville]] ::
   + Una idea falsa, pero clara y precisa, tendrá más poder en el mundo que una idea
@@ -23,12 +17,7 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + Muchas veces las palabras que tendríamos que haber dicho no se presentan ante
     nuestro espíritu hasta que ya es demasiado tarde.
 
-+ [[https://bit.ly/3hXStz3][Antoni Gaudí]] ::
-  + Para hacer las cosas bien es necesario: primero, el amor, segundo, la técnica.
-
 + [[https://es.wikipedia.org/wiki/Antonio_Machado][Antonio Machado]] ::
-  + Despacito y buena letra, que el hacer las cosas bien, importa más que el
-    hacerlas.
   + Entre hacer las cosas bien y hacerlas mal está el no hacerlas, como término
   + Es propio de hombres de cabezas medianas embestir contra todo aquello que no
   + Huid de escenarios, púlpitos, plataformas y pedestales. Nunca perdáis contacto
@@ -89,7 +78,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     que envejezco.
 
 + [[https://bit.ly/2CgVtWH][Blaise Pascal]] ::
-  + El hombre está dispuesto siempre a negar todo aquello que no comprende.
   + He redactado esta carta más extensa de lo usual porque carezco de tiempo para
     escribirla más breve.
   + La mayoría de los males les vienen a los hombres por no quedarse en casa.
@@ -127,19 +115,14 @@ Recopilación de los pensamientos incluidos en las cartas de las
     ocurre cada día. No recuerdo la última vez que algo así pasó en política o
     religión.
 
-+ [[https://es.wikipedia.org/wiki/Charles_Dickens][Charles Dickens]] ::
-  + Cada fracaso nos enseña algo que necesitamos aprender.
-
 + [[https://bit.ly/2AjTu2Y][Cicerón]] ::
   + Hay que atender no sólo a lo que cada cual dice, sino a lo que siente y al
     motivo porque lo siente.
   + Humano es errar; pero sólo los estúpidos perseveran en el error.
   + La necedad es la madre de todos los males.
-  + Mi conciencia tiene para mí más peso que la opinión de todo el mundo.
   + Pensar es como vivir dos veces.
   + Si cerca de la biblioteca tienes un jardín ya no te faltará de nada.
   + Si quieres aprender, enseña.
-  + Si quieres ser viejo mucho tiempo, hazte viejo pronto.
   + Una cosa es saber y otra saber enseñar.
 
 + [[https://bit.ly/2CRi1xN][Clorindo Testa]], ::
@@ -150,7 +133,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://es.wikipedia.org/wiki/Confucio][Confucio]] ::
   + Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un sólo día de
     tu vida.
-  + Lo que el sabio desea lo busca en sí mismo. El necio lo busca en los demás.
 
 + [[https://es.wikipedia.org/wiki/Constantino_Cavafis][Constantino Cavafis]] ::
   + Tu llegada allí es tu destino. Mas no apresures nunca el viaje. Mejor que dure
@@ -168,9 +150,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + Las matemáticas no son como un juego cuyas tareas están determinadas por reglas
     estipuladas arbitrariamente. Más bien, es un sistema conceptual que posee una
     necesidad interna que solo puede ser así y de ninguna manera de otra manera.
-
-+ [[https://bit.ly/31qnUvA][David Hume]] ::
-  + La belleza de las cosas existe en el espíritu de quien las contempla.
 
 + [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]] ::
   + Cambiemos nuestra actitud tradicional en la construcción de programas. En
@@ -241,12 +220,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     para soportar el peso de su ignorancia, corre el riesgo de cuestionarse a sí
     misma y quedar envuelta en dudas.
 
-+ [[https://bit.ly/2Blzy0E][Epicteto]] ::
-  + El error del anciano es que pretende enjuiciar el hoy con el criterio del
-    ayer.
-  + Si no tienes ganas de ser frustrado jamás en tus deseos, no desees sino aquello
-    que depende de ti.
-
 + [[https://es.wikipedia.org/wiki/Eric_Temple_Bell][Eric Temple Bell]] ::
   + La abstracción, a veces lanzada como un reproche a las matemáticas, es su
     principal gloria y su título más seguro de utilidad práctica. También es la
@@ -257,12 +230,7 @@ Recopilación de los pensamientos incluidos en las cartas de las
     matemáticas para confundirse a través del incontable número de posibles
     excepciones.
 
-+ [[https://bit.ly/3h3b8rV][Francis Bacon]] ::
-  + Quien no quiere pensar es un fanático; quien no puede pensar, es un idiota;
-    quien no osa pensar es un cobarde.
-
 + [[https://es.wikipedia.org/wiki/Friedrich_Nietzsche][Friedrich Nietzsche]] ::
-  + Desde que me cansé de buscar he aprendido a hallar.
   + Quien se sabe profundo, se esfuerza por ser claro; quien desea parecer profundo
     a la gran masa, se esfuerza por ser oscuro.
 
@@ -356,8 +324,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     menos medio matemático.
 
 + [[https://es.wikipedia.org/wiki/Groucho_Marx][Groucho Marx]] ::
-  + La política es el arte de buscar problemas, encontrarlos, hacer un diagnóstico
-    falso y aplicar después los remedios equivocados.
   + Todavía no sé qué me vas a preguntar, pero me opongo.
 
 + [[https://es.wikipedia.org/wiki/G%C3%B6sta_Mittag-Leffler][Gösta Mittag-Leffler]] ::
@@ -392,17 +358,9 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://bit.ly/2Yv5qZI][Henry Brougham]] ::
   + Procura buscar el conocimiento en las dificultades.
 
-+ [[https://es.wikipedia.org/wiki/Henry_Ford][Henry Ford]] ::
-  + Pensar es el trabajo más difícil que existe. Quizá sea ésta la razón por la que
-    haya tan pocas personas que lo practiquen.
-
 + [[https://bit.ly/3fSs4RM][Henry Moore]] ::
   + No hay jubilación para un artista; el arte es una forma de vida y como tal no
     tiene fin.
-
-+ [[https://es.wikipedia.org/wiki/Herbert_Alexander_Simon][Herbert A. Simon]] ::
-  + En el campo de la computación, el momento de la verdad es la ejecución de un
-    programa; todo lo demás es profecía.
 
 + [[https://bit.ly/3fFBos7][Herbert Von Karajan]] ::
   + Las influencias aparecen al principio, pero llegados a un cierto punto,
@@ -417,8 +375,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 
 + [[https://bit.ly/30HaPxN][Horacio]] ::
   + A los que mucho desean les falta mucho.
-
-+ [[https://bit.ly/30HaPxN][Horacio]] ::
   + Lo que hace falta es someter a las circunstancias, no someterse a ellas.
 
 + [[https://es.wikipedia.org/wiki/Howard_Eves][Howard Eves]] ::
@@ -502,8 +458,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.
 
 + [[https://bit.ly/3fz4w3V][Jorge Luis Borges]] ::
-  + Que otros se jacten de las páginas que han escrito; a mi me enorgullecen las
-    que he leído.
   + Uno no es lo que es por lo que escribe, sino por lo que ha leído.
 
 + [[https://bit.ly/2SBOsW2][Joseph Joubert]] ::
@@ -518,7 +472,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + Escribo para intentar comprender, y porque no tengo nada mejor que hacer.
   + Las tres enfermedades del hombre actual son la incomunicación, la revolución
     tecnológica y su vida centrada en su triunfo personal.
-  + Lo difícil no es vivir con otras personas, es comprenderlas.
   + Los únicos interesados en cambiar el mundo son los pesimistas, porque los
     optimistas están encantados con lo que hay.
   + Nuestra mayor tragedia es no saber qué hacer con nuestras vidas.
@@ -552,9 +505,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + Sólo una cosa es más dolorosa que aprender de la experiencia, y es, no aprender
     de la experiencia.
 
-+ [[https://en.wikipedia.org/wiki/Leopold_Kronecker][Leopold Kronecker]] ::
-  + Dios creó el número natural, y todo el resto es obra del hombre.
-
 + [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói]] ::
   + Hay quien cruza el bosque y sólo ve leña para el fuego.
   + Un hombre es como una fracción cuyo numerador corresponde a lo que él es, en
@@ -563,6 +513,9 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://bit.ly/3l7SeTp][León Trotski]] ::
   + Exponer a los oprimidos la verdad sobre la situación es abrirles el camino de
     la revolución.
+
++ [[https://en.wikipedia.org/wiki/Leopold_Kronecker][Leopold Kronecker]] ::
+  + Dios creó el número natural, y todo el resto es obra del hombre.
 
 + [[https://bit.ly/2J7Y88F][Lin Yutang]] ::
   + La sabiduría de la vida consiste en la eliminación de lo no esencial. En
@@ -600,9 +553,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + El universo es cambio; nuestra vida es lo que hacen nuestros pensamientos.
   + Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una
     perspectiva, no la verdad.
-
-+ [[https://es.wikipedia.org/wiki/Marie_Curie][Marie Curie]] ::
-  + Dejamos de temer aquello que se ha aprendido a entender.
 
 + [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]] ::
   + Nunca discutas con un ignorante, te hará descender a su nivel y ahí te
@@ -672,11 +622,12 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + La lógica es invencible, porque para combatir la lógica es necesario usar la
     lógica.
 
++ [[https://es.wikipedia.org/wiki/P%C3%ADo_Baroja][Pío Baroja]] ::
+  + Cuando el hombre se mira mucho a sí mismo, llega a no saber cuál es su cara y
+    cuál es su careta.
+
 + [[https://bit.ly/3iwPM6r][Plutarco]] ::
   + El cerebro no es un vaso por llenar, sino una lámpara por encender.
-
-+ Proverbio Zen ::
-  + Si entiendes, las cosas son así. Si no entiendes, las cosas son así.
 
 + Proverbio chino ::
   + Si te caes siete veces, levántate ocho.
@@ -690,9 +641,8 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + Proverbio suizo ::
   + Las palabras son enanos, los ejemplos son gigantes.
 
-+ [[https://es.wikipedia.org/wiki/P%C3%ADo_Baroja][Pío Baroja]] ::
-  + Cuando el hombre se mira mucho a sí mismo, llega a no saber cuál es su cara y
-    cuál es su careta.
++ Proverbio Zen ::
+  + Si entiendes, las cosas son así. Si no entiendes, las cosas son así.
 
 + [[https://bit.ly/2BNCfYs][Rafael Chirbes]] ::
   + A veces cargamos las cosas con una importancia que sólo existe en nuestra
@@ -712,12 +662,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://bit.ly/2JlTtA7][Ray Bradbury]] ::
   + No hace falta quemar libros si el mundo empieza a llenarse de gente que no lee,
     que no aprende, que no sabe ...
-
-+ [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]] ::
-  + El buen sentido es lo que mejor repartido está entre todo el mundo, pues cada
-    cual piensa que posee buena provisión de él.
-  + Pensad antes de obrar y no comencéis nada sin haber consultado las
-    circunstancias bien a fondo.
 
 + [[https://en.wikipedia.org/wiki/Richard_Courant][Richard Courant]] ::
   + Las matemáticas como expresión de la mente humana reflejan la voluntad
@@ -751,10 +695,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://bit.ly/3dyloX0][San Juan de la Cruz]] ::
   + Buscad leyendo y hallaréis meditando.
 
-+ [[https://es.wikipedia.org/wiki/Sigmund_Freud][Sigmund Freud]] ::
-  + Existen dos maneras de ser feliz en esta vida, una es hacerse el idiota y la
-    otra serlo.
-
 + [[https://bit.ly/39qMQph][Stephen Hawking]] ::
   + El desorden aumenta con el tiempo porque nosotros medimos el tiempo en el
     sentido en el que aumenta el desorden.
@@ -770,9 +710,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + Cada uno es responsable de lo que le sucede y tiene el poder de decidir lo que
     quiere ser. Lo que eres hoy es el resultado de tus decisiones y elecciones en el
     pasado. Lo que seas mañana será consecuencia de tus actos de hoy.
-
-+ [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]] ::
-  + Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
 
 + [[https://bit.ly/2E7OKPL][Thich Nhat Hanh]] ::
   + La mayor parte de nuestro sufrimiento surge de nuestras ideas y conceptos. Si
@@ -822,12 +759,7 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://bit.ly/2Y60TMJ][Wernher von Braun]] ::
   + Investigación es lo que hago cuando no sé lo que estoy haciendo.
 
-+ [[https://bit.ly/2Uv6UAA][William Faulkner]] ::
-  + La sabiduría suprema es tener sueños bastante grandes para no perderlos de
-    vista mientras se persiguen.
-
 + [[https://bit.ly/2YD7Sg2][William James]] ::
-  + El arte de ser sabio es el arte de saber qué pasar por alto.
   + El camino voluntario y soberano hacia la alegría, si perdemos la alegría,
     consiste en proceder con alegría, actuar y hablar con alegría, como si esa
     alegría estuviera ya con nosotros.
