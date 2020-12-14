@@ -837,6 +837,10 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + Si no está en tus manos cambiar una situación que te produce dolor, siempre
     podrás escoger la actitud con la que afrontes ese sufrimiento.
 
++ [[https://es.wikipedia.org/wiki/Vincent_van_Gogh][Vincent van Gogh]] ::
+  + Trato cada vez más de ser yo mismo, importándome relativamente poco si la
+    gente me aprueba o no.
+
 + [[https://bit.ly/335C5Xt][Voltaire]] ::
   + Algunos están destinados a razonar erróneamente, otros a no razonar en
     absoluto, y otros a perseguir a los que razonan.
