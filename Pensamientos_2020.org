@@ -13,6 +13,10 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + La experiencia no es lo que te sucede, sino lo que haces con lo que te
     sucede.
 
++ [[https://es.wikipedia.org/wiki/Aleksandr_Solzhenitsyn][Aleksandr Solzhenitsin]] ::
+  + La precipitación y la superficialidad son las enfermedades crónicas del
+    siglo.
+
 + [[https://es.wikipedia.org/wiki/Alexis_de_Tocqueville][Alexis de Tocqueville]] ::
   + Una idea falsa, pero clara y precisa, tendrá más poder en el mundo que una
     idea verdadera y compleja.
