@@ -398,6 +398,11 @@ Recopilación de los pensamientos incluidos en las cartas de las
     que frotar la madera de esta manera siempre producirá fuego. Por lo tanto,
     el arte del descubrimiento es el arte de la correcta generalización.
 
++ [[https://es.wikipedia.org/wiki/Heinrich_Heine][Heinrich Heine]] ::
+  + La verdadera locura quizá no sea otra cosa que la sabiduría misma que,
+    cansada de descubrir las vergüenzas del mundo, ha tomado la inteligente
+    resolución de volverse loca.
+
 + [[https://es.wikipedia.org/wiki/Henri_L%C3%A9on_Lebesgue][Henri León Lebesgue]] ::
   + La única enseñanza que un profesor puede dar, en mi opinión, es la de pensar
     delante de sus alumnos.
