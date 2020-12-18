@@ -285,6 +285,9 @@ Recopilación de los pensamientos incluidos en las cartas de las
 
 + [[https://es.wikipedia.org/wiki/Friedrich_Nietzsche][Friedrich Nietzsche]] ::
   + Desde que me cansé de buscar he aprendido a hallar.
+  + El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo
+    intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es
+    demasiado alto por el privilegio de ser uno mismo.
   + Quien se sabe profundo, se esfuerza por ser claro; quien desea parecer
     profundo a la gran masa, se esfuerza por ser oscuro.
 
