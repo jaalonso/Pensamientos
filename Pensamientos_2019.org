@@ -8,17 +8,9 @@ Recopilación de los pensamientos incluidos en las cartas de las
     lo que la gente llama la inteligencia se reduce a la curiosidad.
 
 + [[https://es.wikipedia.org/wiki/Alain][Alain]] ::
-  + En definitiva, lo importante es empezar. No importa cómo, luego habrá tiempo
   + Nada es más peligroso que una idea cuando no se tiene más que una.
   + Ver es algo más que mirar. Ver consiste en advertir los detalles. Para ver bien
     una flor se ha de mirar con lupa, por dentro.
-
-+ [[https://es.wikipedia.org/wiki/Alain_Badiou][Alain Badiou]] ::
-  + Las matemáticas fueron y siguen siendo muy importantes para la filosofía,
-    porque son el ejemplo tipo de un lenguaje cuya Verdad es independiente del
-    poder. Lo enunciado se demuestra o no se demuestra. No hay rey o clérigo que
-    valga. Es, en cierto sentido, el primer pensamiento democrático, sometido a
-    examen colectivo.
 
 + [[https://es.wikipedia.org/wiki/Alan_Turing][Alan Turing]] ::
   + Los programas son rompecabezas. Un juego, como cualquier otro juego.
@@ -27,9 +19,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     puedan ser comprobadas individualmente, y de las que se desprenda fácilmente
     la corrección de todo el programa.
   + Las máquinas me sorprenden con mucha frecuencia.
-
-+ [[https://es.wikipedia.org/wiki/Albert_Camus][Albert Camus]] ::
-  + Todas las desgracias de los hombres provienen de no hablar claro.
 
 + [[https://es.wikipedia.org/wiki/Albert_Einstein][Albert Einstein]] ::
   + La monotonía y la soledad de una vida tranquila estimula la mente creativa.
@@ -111,11 +100,7 @@ Recopilación de los pensamientos incluidos en las cartas de las
     los excesos de la moda.
   + Y nadie pregunta ni nadie contesta, todos hablan solos.
 
-+ [[https://es.wikipedia.org/wiki/Antonio_Porchia][Antonio Porchia]] ::
-  + Las dificultades también pasan como todo pasa, sin dificultad.
-
 + [[https://es.wikipedia.org/wiki/Arist%C3%B3teles][Aristóteles]] ::
-  + El ignorante afirma, el sabio duda y reflexiona.
   + Mercaderes e industriales no deben ser admitidos a la ciudanía, porque su
     género de vida es abyecto y contrario a la virtud.
 
@@ -132,8 +117,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://es.wikipedia.org/wiki/Benjamin_Franklin][Benjamin Franklin]] ::
   + La llave que se usa constantemente reluce como plata: no usándola se llena de
     herrumbre. Lo mismo pasa con el entendimiento.
-  + Los hombres son criaturas muy raras: la mitad censura lo que practica; la otra
-    mitad practica lo que censura; el resto siempre dice y hace lo que debe.
 
 + [[https://es.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle][Bernard Le Bovier de Fontenelle]] ::
   + Solemos llamar inútiles a las cosas que no comprendemos.
@@ -160,12 +143,8 @@ Recopilación de los pensamientos incluidos en las cartas de las
     como sólo el arte más grande puede mostrar.
 
 + [[https://es.wikipedia.org/wiki/Blaise_Pascal][Blaise Pascal]] ::
-  + El hombre está dispuesto siempre a negar todo aquello que no comprende.
-  + La contradicción no es un signo de falsedad, ni la falta de contradicción un
-    signo de verdad.
   + Toda la miseria de los hombres proviene de una única cosa, que es no saber
     permanecer en reposo en una habitación.
-  + Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
 
 + [[https://es.wikipedia.org/wiki/Burrhus_Frederic_Skinner][Burrhus Frederic Skinner]] ::
   + El auténtico problema no es si las máquinas piensan, sino si lo hacen los
@@ -178,10 +157,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     el camino.
 
 + [[https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]] ::
-  + Los encantos de esta ciencia sublime, las matemáticas, sólo se le revelan a
-    aquellos que tienen el valor de profundizar en ella.
-  + No es el conocimiento, sino el acto de aprendizaje, y no la posesión, sino el
-    acto de llegar allí, que concede el mayor disfrute.
   + Sabe que escribo lentamente. Esto se debe sobre todo a que no quedo satisfecho
     hasta que no consigo decir todo cuanto me sea posible en unas pocas palabras, y
     escribir de modo conciso lleva mucho más tiempo que hacerlo en extensión.
@@ -208,8 +183,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     los hombres.
 
 + [[https://es.wikipedia.org/wiki/Confucio][Confucio]] ::
-  + Exígete mucho a ti mismo y espera poco de los demás. Así te ahorrarás
-    disgustos.
   + ¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir y flores
     para tener algo por lo que vivir.
 
@@ -220,12 +193,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     prejuicios. Es una forma de engañarnos.
 
 + [[https://es.wikipedia.org/wiki/David_Hilbert][David Hilbert]] ::
-  + Es un error creer que el rigor es enemigo de la simplicidad. Por el contrario,
-    numerosos ejemplos confirman que el método riguroso es al mismo tiempo el más
-    simple y el más fácil de comprender. El mismo esfuerzo por el rigor nos obliga a
-    encontrar métodos de prueba más sencillos.
-  + Las matemáticas son un juego que se juega de acuerdo a ciertas reglas simples
-    con marcas sin sentido en el papel.
   + Un problema matemático debería ser difícil para seducirnos, pero no
     completamente inaccesible, para que no se burle de nuestros esfuerzos. Debería
     ser para nosotros una guía en el laberíntico camino hacia las verdades ocultas
@@ -245,10 +212,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     memoria.
   + Una idiotez común es creer que el que tiene más clientes es el más
     hábil.
-
-+ [[https://es.wikipedia.org/wiki/Di%C3%B3genes_de_Sinope][Diógenes de Sínope]] ::
-  + Callando es como se aprende a oír; escuchando es como se aprende a hablar; y
-    después, hablando, se aprende a callar.
 
 + [[https://es.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]] ::
   + El proceso de preparación de programas para una computadora digital es
@@ -308,11 +271,8 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + No es la respuesta lo que nos ilumina, sino la pregunta.
 
 + [[https://es.wikipedia.org/wiki/Francis_Bacon][Francis Bacon]] ::
-  + El hombre prefiere creer lo que prefiere que sea verdad.
   + Los primeros y más antiguos investigadores de la verdad solían arrojar su
     conocimiento en aforismos, o en frases cortas, dispersas y no metódicas.
-  + Quien no quiere pensar es un fanático; quien no puede pensar es un idiota;
-    quien no osa pensar es un cobarde.
 
 + [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]] ::
   + Los jóvenes deben probar los teoremas, los viejos deben escribir libros.
@@ -320,8 +280,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei]] ::
   + Nunca me he encontrado con alguien tan ignorante de quien no pudiese aprender
     algo.
-  + Todas las verdades son fáciles de entender, una vez descubiertas. El
-    caso es descubrirlas.
 
 + [[https://en.wikipedia.org/wiki/Gian-Carlo_Rota][Gian-Carlo Rota]] ::
   + El ejemplo más común de belleza en matemáticas es un paso brillante en una
@@ -341,17 +299,12 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://es.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]] ::
   + El necio ve el principio, el sabio el final.
   + El sabio empieza por el final, el necio termina en el principio.
-  + Es mucho mejor resolver un problema de cinco maneras diferentes, que resolver
-    cinco problemas de una sola manera.
   + Hay que conjeturar el teorema matemático antes de probarlo: hay que planificar
     la idea de la prueba antes de completar los detalles. Hay que combinar las
     observaciones y seguir analogías: hay que intentarlo y volverlo a intentar. El
     resultado del trabajo creativo del matemático es el razonamiento demostrativo,
     una prueba; pero la prueba es descubierta por el razonamiento plausible, por la
     suposición.
-  + La elegancia de un teorema matemático es directamente proporcional al número
-    de ideas independientes que se pueden ver en el teorema e inversamente
-    proporcional al esfuerzo que se requiere para verlas.
   + Las matemáticas consisten en contenido y conocimiento. ¿Qué es el conocimiento
     en matemáticas? La capacidad de resolver problemas.
   + Quien mal comprende, mal responde.
@@ -418,15 +371,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     estético, que todos los matemáticos conocen. Y esto es sensibilidad.
   + El verdadero método para prever el futuro de las matemáticas es estudiar su
     historia y su estado actual.
-  + La ciencia son hechos; de la misma manera que las casas están hechas de
-    piedras, la ciencia está hecha de hechos; pero un montón de piedras no es una
-    casa y una colección de hechos no es necesariamente ciencia.
-  + Los matemáticos conceden gran importancia a la elegancia de sus métodos y sus
-    resultados. Esto no es puro diletantismo. ¿Qué es lo que nos da la sensación
-    de elegancia en una solución, en una demostración? Es la armonía de las
-    diversas partes, su simetría, su feliz equilibrio; en una palabra es todo lo
-    que introduce orden, todo lo que da unidad, lo que nos permite ver claramente
-    y comprender a la vez el conjunto y los detalles.
   + Todos creen firmemente en ello porque los matemáticos se imaginan que es un
     hecho de observación, y los observadores que es una teoría matemática.
 
@@ -453,12 +397,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     otras tantas un poco.
 
 + [[https://es.wikipedia.org/wiki/Ian_Stewart][Ian Stewart]] ::
-  + A menudo la contribución clave de la intuición es hacernos conscientes de los
-    puntos débiles de un problema, lugares donde puede ser vulnerable a los
-    ataques. Una prueba matemática es como una batalla, o si prefieres una
-    metáfora menos belicosa, una partida de ajedrez. Una vez que se ha
-    identificado un punto débil potencial, el conocimiento técnico de la
-    maquinaria matemática puede aprovecharse para explotarlo.
   + La intuición matemática es la capacidad de la mente para sentir la forma y la
     estructura, para detectar patrones que no podemos percibir conscientemente. La
     intuición carece de la claridad cristalina de la lógica consciente, pero lo
@@ -495,7 +433,8 @@ Recopilación de los pensamientos incluidos en las cartas de las
     posee genio, poder y magia. Comiénzalo ahora.
 
 + [[https://es.wikipedia.org/wiki/Jacques_Lacan][Jacques Lacan]] ::
-  + He aquí el gran error de siempre: imaginar que los seres humanos piensan lo que
+  + He aquí el gran error de siempre: imaginar que los seres humanos piensan lo
+    que dicen.
 
 + [[https://es.wikipedia.org/wiki/James_Joseph_Sylvester][James Joseph Sylvester]] ::
   + El objetivo constante del matemático es reducir todas sus expresiones a sus
@@ -567,10 +506,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 
 + [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca]] ::
   + Enseñando aprendemos.
-  + Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen de
-    ti.
-  + Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por
-    medio de ejemplos.
 
 + [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]] ::
   + El que hoy en día enseña filosofía da al otro alimentos no para complacerle,
@@ -639,9 +574,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://es.wikipedia.org/wiki/Miguel_de_Unamuno][Miguel de Unamuno]] ::
   + Se viaja no para buscar el destino sino para huir de donde se parte.
 
-+ [[https://es.wikipedia.org/wiki/Moli%C3%A8re][Molière]] ::
-  + Las cosas sólo tienen el valor que les damos.
-
 + [[https://es.wikipedia.org/wiki/Morris_Kline][Morris Kline]] ::
   + Aunque los conceptos y operaciones matemáticas están formulados para
     representar aspectos del mundo físico, las matemáticas no deben identificarse
@@ -662,10 +594,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     elegantemente ejecutada es un poema en todo menos en la forma en que está
     escrito.
 
-+ [[https://es.wikipedia.org/wiki/Napole%C3%B3n_Bonaparte][Napoleón Bonaparte]] ::
-  + Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
-    encontrado.
-
 + [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Cop%C3%A9rnico][Nicolás Copérnico]] ::
   + Las matemáticas se escriben para los matemáticos.
 
@@ -675,9 +603,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://es.wikipedia.org/wiki/Oliver_Heaviside][Oliver Heaviside]] ::
   + Las matemáticas son una ciencia experimental, y las definiciones no son lo
     primero, sino lo último.
-
-+ [[https://es.wikipedia.org/wiki/Ovidio][Ovidio]] ::
-  + La gota horada la roca, no por su fuerza sino por su constancia.
 
 + [[https://es.wikipedia.org/wiki/Paul_Dirac][Paul Dirac]] ::
   + Una teoría con belleza matemática es más probable que sea correcta que una
@@ -694,12 +619,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     descubrir repentinamente una verdad desconocida hasta ahora son las mismas
     para mí. Ambas tienen el destello de la iluminación, la visión casi
     increíblemente mejorada, y el éxtasis y la euforia de la tensión liberada.
-  + Las matemáticas no son una ciencia deductiva, es un cliché. Cuando se trata
-    de probar un teorema, no sólo se enumeran las hipótesis, y luego se empieza a
-    razonar. Lo que haces es ensayo y error, experimentación, conjeturas.
-  + Las matemáticas no son una ciencia deductiva, es un cliché. Cuando se trata
-    de probar un teorema, no sólo se enumeran las hipótesis, y luego se empieza a
-    razonar. Lo que se hace es ensayo y error, experimentación, conjeturas.
   + No sólo lo leas; ¡lucha! Haz tus propias preguntas, busca tus propios
     ejemplos, descubre tus propias pruebas.
   + Un profesor que no siempre está pensando en resolver problemas -de los que no
@@ -741,10 +660,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
   + El matemático es perfecto sólo en la medida en que es un hombre perfecto, en
     la medida en que siente en sí mismo la belleza de la verdad; sólo entonces su
     trabajo será minucioso, transparente, prudente, puro, claro y elegante.
-
-+ Proverbio persa ::
-  + Aprende lo que te parezca difícil: todo lo difícil se vuelve fácil gracias al
-    aprendizaje.
 
 + [[https://es.wikipedia.org/wiki/P%C3%ADo_Baroja][Pío Baroja]] ::
   + A una colectividad se le engaña siempre mejor que a un hombre.
@@ -791,9 +706,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
     enfatizar diferentes aspectos, es solo la interacción de estas fuerzas
     antitéticas y la lucha por su síntesis lo que constituye la vida, la utilidad
     y el valor supremo de la ciencia matemática.
-
-+ [[https://es.wikipedia.org/wiki/Richard_Hamming][Richard Hamming]] ::
-  + El propósito de la computación es la comprensión, no los números.
 
 + [[https://es.wikipedia.org/wiki/Richard_Feynman][Richard Feynman]] ::
   + La mejor enseñanza sólo puede hacerse cuando hay una relación individual
@@ -857,9 +769,6 @@ Recopilación de los pensamientos incluidos en las cartas de las
 + [[https://es.wikipedia.org/wiki/Steve_Jobs][Steve Jobs]] ::
   + Learning to program teaches you how to think. Computer science is a liberal
     art.
-
-+ [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]] ::
-  + La ciencia humana consiste más en destruir errores que en descubrir verdades.
 
 + [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]] ::
   + Inside every large program is a small program trying to get out.
