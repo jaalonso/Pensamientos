@@ -1,0 +1,9 @@
+/.Pensamientos.html.native.pandoc
+Licencia/*
+Makefile
+*.aux
+*.idx
+*.log
+*.toc
+*.tex
+*.css
