@@ -1,0 +1,4170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head>
+<!-- 2020-12-19 sáb 21:30 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Pensamientos</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="José A. Alonso" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="./estilo.css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<h1 class="title">Pensamientos</h1>
+<p>
+Este libro contiene una recopilación de pensamientos con los que me voy
+encontrando.
+</p>
+
+<ul class="org-ul">
+<li><a href="https://es.wikipedia.org/wiki/Aaron_Swartz">Aaron Swartz</a>
+<ul class="org-ul">
+<li>Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que mucho de
+lo que la gente llama la inteligencia se reduce a la curiosidad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Abraham_Lincoln">Abraham Lincoln</a>
+<ul class="org-ul">
+<li>Es más fácil reprimir el primer capricho que satisfacer a todos los que le
+siguen.</li>
+<li>Hagas lo que hagas, hazlo bien.</li>
+<li>Se puede engañar a parte del pueblo parte del tiempo, pero no se puede
+engañar a todo el pueblo todo el tiempo.</li>
+<li>Todos los hombres nacen iguales, pero es la última vez que lo son.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Abraham_Maslow">Abraham Maslow</a>
+<ul class="org-ul">
+<li>Si tu única herramienta es un martillo, tiendes a tratar cada problema como
+si fuera un clavo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Adolfo_Bioy_Casares">Adolfo Bioy Casares</a>
+<ul class="org-ul">
+<li>La vida es difícil. Para estar en paz con uno mismo hay que decir la
+verdad. Para estar en paz con el prójimo hay que mentir.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Agnes_Martin">Agnès Martin</a>
+<ul class="org-ul">
+<li>Cuando descubres lo que te gusta, realmente estás descubriéndote a ti
+mismo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Akio_Morita">Akio Morita</a>
+<ul class="org-ul">
+<li>Se puede ser totalmente racional con una máquina. Pero si usted trabaja con
+gente, a veces la lógica tiene que ir en el asiento trasero y dejar
+adelante a la comprensión.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Akira_Kurosawa">Akira Kurosawa</a>
+<ul class="org-ul">
+<li>En un mundo loco, solo los locos son cuerdos</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alain">Alain</a>
+<ul class="org-ul">
+<li>En definitiva, lo importante es empezar. No importa cómo, luego habrá
+tiempo para pensar en los detalles.</li>
+<li>Nada es más peligroso que una idea cuando no se tiene más que una.</li>
+<li>Ver es algo más que mirar. Ver consiste en advertir los detalles. Para ver bien
+una flor se ha de mirar con lupa, por dentro.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alain_Badiou">Alain Badiou</a>
+<ul class="org-ul">
+<li>Las matemáticas fueron y siguen siendo muy importantes para la filosofía,
+porque son el ejemplo tipo de un lenguaje cuya Verdad es independiente del
+poder. Lo enunciado se demuestra o no se demuestra. No hay rey o clérigo
+que valga. Es, en cierto sentido, el primer pensamiento democrático,
+sometido a examen colectivo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alan_Turing">Alan Turing</a>
+<ul class="org-ul">
+<li>Las máquinas me sorprenden con mucha frecuencia.</li>
+<li>Los programas son rompecabezas. Un juego, como cualquier otro juego.</li>
+<li>Para que el hombre que hace la comprobación no tenga una tarea demasiado
+difícil, el programador debe hacer una serie de afirmaciones definidas que
+puedan ser comprobadas individualmente, y de las que se desprenda fácilmente
+la corrección de todo el programa.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alan_Watts">Alan Watts</a>
+<ul class="org-ul">
+<li>El desapego significa no sentir ningún remordimiento por el pasado ni miedo
+por el futuro; dejar que la vida siga su curso sin intentar interferir en
+su movimiento y cambio, sin intentar prolongar las cosas placenteras ni
+provocar la desaparición de las desagradables. Actuar de este modo es
+moverse al ritmo de la vida, estar en perfecta armonía con su música
+cambiante, a esto se llama iluminación.</li>
+<li>Este es el verdadero secreto de la vida: Estar completamente comprometido
+con lo que haces en el aquí y ahora. Y en lugar de llamarlo trabajo, date
+cuenta de que es un juego.</li>
+<li>La verdadera disciplina del Zen comienza sólo en el punto en que el
+individuo ha dejado completamente de intentar mejorarse a sí mismo. (&#x2026;)
+La razón es que el intento de mejorar o de actuar sobre uno mismo es una
+forma de encerrar la acción en un círculo vicioso, es como tratar de
+morderse los propios dientes.</li>
+<li>Las palabras no pueden expresar más que un pequeño fragmento del
+conocimiento humano, porque lo que podemos decir y pensar es siempre
+inmensamente menor de lo que experimentamos.</li>
+<li>Muy feliz era el ciempiés, hasta que un sapo una vez, le preguntó "¿Qué
+orden al andar siguen tus remos?" lo cual forzó su mente a tal extremo que
+a una zanja, distraído, fue a caer mientras pensaba cómo hacer para correr.</li>
+<li>Una característica típica del estilo zen es que en la acción se compromete
+a fondo y va hasta las últimas consecuencias. En todo se entrega total y
+libremente sin consideración de sí mismo. No confunde la espiritualidad con
+el pensar en Dios mientras uno pela patatas. La espiritualidad zen consiste
+justamente en pelar patatas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Albert_Camus">Albert Camus</a>
+<ul class="org-ul">
+<li>Inocente es quien no necesita explicarse.</li>
+<li>Todas las desgracias de los hombres provienen de no hablar claro.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a>
+<ul class="org-ul">
+<li>Cada día sabemos más y entendemos menos.</li>
+<li>Debe evitarse hablar a los jóvenes del éxito como si se tratase del
+principal objetivo en la vida. La razón más importante para trabajar en la
+escuela y en la vida es el placer de trabajar, el placer de su resultado y
+el conocimiento del valor del resultado para la comunidad.</li>
+<li>El científico encuentra su recompensa en lo que Henri Poincare llama el
+placer de la comprensión, y no en las posibilidades de aplicación que
+cualquier descubrimiento pueda conllevar.</li>
+<li>El mundo no está en peligro por las malas personas sino por aquellas que
+permiten la maldad.</li>
+<li>El planteamiento de un problema es más importante que su solución.</li>
+<li>El sentido común es el conjunto de prejuicios acumulados a través de los
+siglos.</li>
+<li>Hay dos cosas infinitas: el Universo y la estupidez humana. Y del Universo
+no estoy seguro.</li>
+<li>La diferencia entre la genialidad y la estupidez es que la genialidad tiene
+sus límites.</li>
+<li>La monotonía y la soledad de una vida tranquila estimula la mente creativa.</li>
+<li>La vida es muy peligrosa. No por las personas que hacen el mal, sino por las
+que se sientan a ver lo que pasa.</li>
+<li>Los intelectuales resuelven los problemas; los genios, los evitan.</li>
+<li>No entiendes realmente algo a menos que seas capaz de explicárselo a tu
+abuela.</li>
+<li>No guardes nunca en la cabeza aquello que te quepa en un bolsillo.</li>
+<li>No permitas que tu felicidad dependa de alguien porque no siempre esa
+persona será como crees.</li>
+<li>No tengo ningún talento especial pero si soy profundamente curioso.</li>
+<li>Si buscas resultados distintos, no hagas siempre lo mismo.</li>
+<li>Si no sabes explicar algo de manera sencilla, es que no lo entiendes del
+todo.</li>
+<li>Si quieres una vida feliz, átala a un objetivo y no a personas o cosas.</li>
+<li>Tengo una pregunta que a veces me tortura, ¿estoy loco yo o los locos son
+los demás?</li>
+<li>Todo lo que es realmente grande e inspirador es creado por el individuo que
+puede trabajar en libertad.</li>
+<li>Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las
+mismas cosas.</li>
+<li>Una teoría es más impresionante cuanto mayor es la simplicidad de sus
+premisas, más diferentes tipos de cosas se relacionan y más amplia es su área
+de aplicación.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Albert_Guinon">Albert Guinon</a>
+<ul class="org-ul">
+<li>El verdadero secreto de la felicidad consiste en exigir mucho de sí mismo y
+muy poco de los otros.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Albert_Schweitzer">Albert Schweitzer</a>
+<ul class="org-ul">
+<li>Los años arrugan la piel, pero renunciar al entusiasmo arruga el alma.</li>
+<li>Los ideales se parecen a las estrellas en el sentido de que nunca los
+alcanzamos, pero como los navegantes, con ellos dirigimos el rumbo de
+nuestras vidas.</li>
+<li>Vivimos en una época peligrosa. El ser humano ha aprendido a dominar la
+naturaleza mucho antes de haber aprendido a dominarse a sí mismo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Albert_Szent-Gy%C3%B6rgyi">Albert Szent Gyorgyi</a>
+<ul class="org-ul">
+<li>Investigar es ver lo que todo el mundo ha visto, y pensar lo que nadie más
+ha pensado.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alberto_Manguel">Alberto Manguel</a>
+<ul class="org-ul">
+<li>Leemos para entender, o para comenzar a entender. No podemos hacer más que
+leer. Leer, casi tanto como respirar, es nuestra función esencial.</li>
+<li>Quizá pudiese vivir sin escribir. No creo que pudiera vivir sin leer.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alberto_Moravia">Alberto Moravia</a>
+<ul class="org-ul">
+<li>Sentido común: algo así como salud contagiosa.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Aldous_Huxley">Aldous Huxley</a>
+<ul class="org-ul">
+<li>El bien de la humanidad debe consistir en que cada uno goce al máximo de la
+felicidad que pueda, sin disminuir la felicidad de los demás.</li>
+<li>El secreto de la genialidad es el de conservar el espíritu del niño hasta
+la vejez, lo cual quiere decir nunca perder el entusiasmo.</li>
+<li>La cultura no deriva de la lectura de libros, sino de la lectura exhaustiva
+e intensiva de buenos libros.</li>
+<li>La experiencia no es lo que te sucede, sino lo que haces con lo que te
+sucede.</li>
+<li>La investigación de las enfermedades ha avanzado tanto que es cada vez más
+difícil encontrar a alguien que esté completamente sano.</li>
+<li>Las personas debemos el progreso a los insatisfechos.</li>
+<li>Quizá la única lección que nos enseña la historia es que los seres humanos
+no aprendemos nada de las lecciones de la historia.</li>
+<li>Todo está en todo. Todo es realmente cada cosa.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alejandro_Dumas">Alejandro Dumas</a>
+<ul class="org-ul">
+<li>Para todos los males, hay dos remedios: el tiempo y el silencio.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Aleksandr_Solzhenitsyn">Aleksandr Solzhenitsin</a>
+<ul class="org-ul">
+<li>La precipitación y la superficialidad son las enfermedades crónicas del
+siglo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alexander_Fleming">Alexander Fleming</a>
+<ul class="org-ul">
+<li>A veces uno realiza un hallazgo cuando no lo está buscando.</li>
+<li>El investigador sufre las decepciones, los largos meses pasados en una
+dirección equivocada, los fracasos. Pero los fracasos son también útiles,
+porque, bien analizados, pueden conducir al éxito.</li>
+<li>Un jardinero no debe ser impaciente. Las flores necesitan tiempo para
+desarrollarse; si se intenta apresurar su crecimiento, se les hace más mal
+que bien. Se las puede proteger contra los elementos, se las puede dar de
+comer y de beber, pero no resulta difícil matarlas si se las proporciona
+demasiada comida o bebidas demasiado fuertes. Ellas responden a la
+simpatía; son capaces de soportar tratamientos extremadamente duros. En
+resumen, se parecen mucho a los seres humanos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alexander_Graham_Bell">Alexander Graham Bell</a>
+<ul class="org-ul">
+<li>Concentra todos tus pensamientos en el trabajo que estás haciendo. Los
+rayos de sol no queman hasta que se concentran en un punto.</li>
+<li>Los hombres más exitosos son aquellos cuyo éxito es el resultado de una
+acumulación constante. Es el hombre que avanza paso a paso, con su mente
+cada vez más amplia y progresivamente más capaz para comprender cualquier
+tema o situación.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alexander_Pope">Alexander Pope</a>
+<ul class="org-ul">
+<li>Puesto que es razonable dudar de la mayoría de las cosas, debiéramos dudar
+más que de nada de esa razón nuestra que quisiera demostrar todas las
+cosas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alexandra_David-N%C3%A9el">Alexandra David-Néel</a>
+<ul class="org-ul">
+<li>Descuidar las pequeñas cosas con el pretexto de que preferimos las grandes,
+es la excusa de los flojos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alexis_de_Tocqueville">Alexis de Tocqueville</a>
+<ul class="org-ul">
+<li>Una idea falsa, pero clara y precisa, tendrá más poder en el mundo que una idea
+verdadera y compleja.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alfonso_X_de_Castilla">Alfonso X el Sabio</a>
+<ul class="org-ul">
+<li>Quemad viejos leños, leed viejos libros, bebed viejos vinos, tened viejos
+amigos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alfred_Korzybski">Alfred Korzybski</a>
+<ul class="org-ul">
+<li>Hay dos maneras fáciles de moverse por la vida: creerlo todo o dudar de
+todo. Ambas nos evitan pensar.</li>
+<li>Los logros del hombre descansan sobre el uso de símbolos. Nos gobiernan los
+símbolos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Alfred_North_Whitehead">Alfred North Whitehead</a>
+<ul class="org-ul">
+<li>Desde los primeros pasos de su educación el niño debe experimentar el placer
+del descubrimiento.</li>
+<li>El objetivo de la ciencia es buscar explicaciones sencillas para hechos
+complejos.</li>
+<li>No hay verdades absolutas; todas las verdades son medias verdades. El mal
+surge de quererlas tratar como verdades absolutas.</li>
+<li>Pensamos en generalidades, pero vivimos en detalles.</li>
+<li>Se requiere una mente muy inusual para llevar a cabo el análisis de lo obvio.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ana%C3%AFs_Nin">Anais Nin</a>
+<ul class="org-ul">
+<li>No vemos jamás las cosas tal cual son, las vemos tal cual somos.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/37bBjJJ">André Gide</a>
+<ul class="org-ul">
+<li>Muchas veces las palabras que tendríamos que haber dicho no se presentan ante
+nuestro espíritu hasta que ya es demasiado tarde.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Andr%C3%A9_Malraux">André Malraux</a>
+<ul class="org-ul">
+<li>En la política es a veces como en la gramática: un error en el que todos
+incurren finalmente es reconocido como regla.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Andr%C3%A9_Maurois">André Maurois</a>
+<ul class="org-ul">
+<li>La lectura de un buen libro es un diálogo incesante en que el libro habla y
+el alma contesta.</li>
+<li>Sólo hay una verdad absoluta: que la verdad es relativa.</li>
+</ul></li>
+</ul>
+
+
+<ul class="org-ul">
+<li><a href="https://es.wikipedia.org/wiki/Andr%C3%A9_Weil">André Weil</a>
+<ul class="org-ul">
+<li>El matemático seguirá su camino en la seguridad de que podrá saciar su sed en
+las mismas fuentes del conocimiento, convencido de que éstas no cesarán de
+fluir, puras y abundantes, mientras que los demás habrán de recurrir a las aguas
+cenagosas de una sórdida realidad. Si se le reprochase al matemático la soberbia
+de su actitud, si se le reclamase su colaboración, si se le demandase porqué se
+recluye en los altos glaciares a los que nadie salvo los de su clase le puede
+seguir, él contestaría, con Jacobi: <b>Por el honor del espíritu humano</b>.</li>
+<li>El rigor es para el matemático lo que la moral es para el hombre. No consiste
+en probar todo, sino en mantener una distinción clara entre lo que se supone y
+lo que se prueba, y en tratar de asumir lo menos posible en cada etapa.</li>
+<li>En el futuro, como en el pasado, las grandes ideas [de las matemáticas] deben
+ser ideas simplificadoras, el creador debe ser siempre el que aclare, para sí
+mismo y para los demás, los temas más complicados de las fórmulas y los
+conceptos.</li>
+<li>Nada es más fructífero -todos los matemáticos lo saben- que esas oscuras
+analogías, esos reflejos inquietantes de una teoría sobre otra; esas caricias
+furtivas, esas discordias inexplicables; nada da también más placer al
+investigador. Llega el día en que esta ilusión se disuelve: el presentimiento
+se convierte en certeza; las teorías unidas revelan su fuente común antes de
+desaparecer.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Anthony_de_Mello">Anthony de Mello</a>
+<ul class="org-ul">
+<li>¿En qué crees que gasta su vida la mayoría de la gente? ¡En impresionar a
+los otros!</li>
+<li>Jamás se ha emborrachado nadie a base de comprender intelectualmente la
+palabra vino.</li>
+<li>Medita, contempla los muros; observa tus ideas, tus hábitos, tus apegos y
+tus miedos, sin emitir juicio ni condena de ningún tipo. Limítate a
+mirarlos y se derrumbarán.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry">Antoine de Saint-Exupéry</a>
+<ul class="org-ul">
+<li>El sentido de las cosas no está en las cosas mismas, sino en nuestra
+actitud hacia ellas.</li>
+<li>El fracaso fortifica a los fuertes.</li>
+<li>La huida no ha llevado a nadie a ningún sitio.</li>
+<li>La perfección se consigue, no cuando no haya más a añadir, sino cuando no
+hay nada más por quitar.</li>
+<li>Lo importante no es llegar, es saber adónde se va.</li>
+<li>Si quieres construir un barco, no empieces por buscar madera, cortar tablas
+o distribuir el trabajo. Inspira primero en los hombres y mujeres el anhelo
+por el ancho y libre mar.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Antoine_Lavoisier">Antoine Lavoisier</a>
+<ul class="org-ul">
+<li>Pensamos solo por medio de las palabras. Los idiomas son verdaderos métodos
+analíticos. El álgebra, que se adapta a su propósito en cada especie de
+expresión, de la manera más simple, más exacta y mejor posible, es al mismo
+tiempo un idioma y un método analítico. El arte del razonamiento no es más que
+un lenguaje bien organizado.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Antoni_Gaud%C3%AD">Antoni Gaudí</a>
+<ul class="org-ul">
+<li>La originalidad consiste en volver al origen; así pues, original es aquello que
+vuelve a la simplicidad de las primeras soluciones.</li>
+<li>Para hacer las cosas bien es necesario: primero, el amor, segundo, la
+técnica.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Antonio_Escohotado">Antonio Escohotado</a>
+<ul class="org-ul">
+<li>Mi vida ha sido feliz porque he perseguido siempre el conocimiento, en el
+sentido de cambiar de idea. Solo aprender nos permite cambiar de idea.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Antonio_Gala">Antonio Gala</a>
+<ul class="org-ul">
+<li>La felicidad es darse cuenta que nada es demasiado importante.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Antonio_Gramsci">Antonio Gramsci</a>
+<ul class="org-ul">
+<li>El viejo mundo se muere. El nuevo tarda en aparecer. Y en ese claroscuro
+surgen los monstruos.</li>
+<li>Quiero que cada mañana sea para mi año nuevo. Cada día quiero echar
+cuentas conmigo mismo, y renovarme cada día.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Antonio_Machado">Antonio Machado</a>
+<ul class="org-ul">
+<li>Aprendió tantas cosas, que no tuvo tiempo para pensar en ninguna de
+ellas.</li>
+<li>Ayudadme a comprender lo que os digo, y os lo explicaré más despacio.</li>
+<li>Caminante, no hay camino:
+se hace camino al andar.</li>
+<li>De cada diez novedades que pretenden descubrirnos, nueve son
+tonterías. La décima y última, que no es necedad, resulta a última
+hora que tampoco es nueva.</li>
+<li>El escepticismo es una posición vital, no lógica, que ni afirma ni niega, se
+limita a preguntar, y no se asusta de las contradicciones.</li>
+<li>Despacito y buena letra:
+el hacer las cosas bien
+importa más que el hacerlas.</li>
+<li>Entre hacer las cosas bien y hacerlas mal está el no hacerlas, como término</li>
+<li>Es propio de hombres de cabezas medianas embestir contra todo aquello que no</li>
+<li>Hay que tener los ojos muy abiertos para ver las cosas como son; aún más
+abiertos para verlas otras de lo que son; más abiertos todavía para verlas
+mejores de lo que son.</li>
+<li>Huid de escenarios, púlpitos, plataformas y pedestales. Nunca perdáis contacto
+con el suelo; porque sólo así tendréis una idea aproximada de vuestra estatura.</li>
+<li>Juzgarnos o corregirnos supone aplicar la medida ajena al paño propio.</li>
+<li>La página escrita nunca recuerda todo lo que se ha intentado, sino lo poco
+que se ha conseguido.</li>
+<li>Las razones no se transmiten, se engendran, por cooperación, en el diálogo.</li>
+<li>Lo corriente en el hombre es la tendencia a creer verdadero cuanto le reporta
+alguna utilidad. Por eso hay tantos hombres capaces de comulgar con ruedas de
+molino.</li>
+<li>Nunca traces tu frontera
+ni cuides de tu perfil;
+todo eso es cosa de fuera.</li>
+<li>Por mucho que un hombre valga, nunca tendrá valor más alto que el de ser
+hombre.</li>
+<li>Porque toda visión requiere distancia, no hay manera de ver las cosas
+sin salirse de ellas.</li>
+<li>Sed hombres de mal gusto. Yo os aconsejo el mal gusto para combatir
+los excesos de la moda.</li>
+<li>Si es bueno vivir, todavía es mejor soñar, y lo mejor de todo, despertar.</li>
+<li>Todo necio
+confunde valor y precio.</li>
+<li>¡Qué difícil es,
+cuando todo baja,
+no bajar también!.</li>
+<li>¿Tu verdad? No, la Verdad,
+y ven conmigo a buscarla.
+La tuya guárdatela.</li>
+<li>Y nadie pregunta ni nadie contesta, todos hablan solos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Antonio_Porchia">Antonio Porchia</a>
+<ul class="org-ul">
+<li>Las dificultades también pasan como todo pasa, sin dificultad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ant%C3%B3n_Ch%C3%A9jov">Antón Chéjov</a>
+<ul class="org-ul">
+<li>Los hombre inteligentes quieren aprender. Los demás, enseñar.</li>
+</ul></li>
+
+<li>Anónimo
+<ul class="org-ul">
+<li>Conócete a tí mismo.</li>
+<li>Cuando crees que sabes todas las respuestas, la vida te cambia todas las
+preguntas.</li>
+<li>En todo la medida.</li>
+<li>Hay quienes cruzan el bosque y sólo ven leña para el fuego.</li>
+<li>La palabra y la piedra suelta no tienen vuelta.</li>
+<li>La vida crece en las orillas, no en las aguas turbulentas.</li>
+<li>La vida es un espejo; si le sonries, te sonreirá; si le pones mala cara, te
+la pondrá.</li>
+<li>Las mentes brillantes manejan ideas; las corrientes hablan de actualidades;
+las mediocres hablan de los demás.</li>
+<li>Las personas inteligentes son capaces de simplificar lo complejo; los
+tontos, en cambio, suelen complicar lo sencillo.</li>
+<li>Los errores son como una colección por fascículos: cada uno te enseña una
+lección, pero el precio es cada vez más alto.</li>
+<li>Poco basta cada día, si cada día se logra ese poco.</li>
+<li>Sólo se comprende cuando se deja de obedecer, sólo se obedece cuando no se
+comprende.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Arist%C3%B3teles">Aristóteles</a>
+<ul class="org-ul">
+<li>Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la
+persona adecuada, en el grado exacto, en el momento oportuno, con el
+propósito justo y del modo correcto, eso, ciertamente, no resulta tan
+sencillo.</li>
+<li>El género humano tiene, para saber conducirse, el arte y el razonamiento.</li>
+<li>El hombre de mentalidad superior debe preocuparse más de la verdad que de
+lo que piensa la gente.</li>
+<li>El ignorante afirma, el sabio duda y reflexiona.</li>
+<li>El que no busca la felicidad es el que la encuentra.</li>
+<li>El sabio no dice todo lo que piensa, pero siempre piensa todo lo que
+dice.</li>
+<li>En primer lugar, tener un ideal definido, claro y práctico; una meta, un
+objetivo. En segundo lugar, acopiar los medios necesarios para alcanzar los
+fines: sabiduría, dinero, materiales y métodos. En tercer lugar, ajustar
+todos los medios a ese exclusivo fin.</li>
+<li>Mercaderes e industriales no deben ser admitidos a la ciudanía, porque su
+género de vida es abyecto y contrario a la virtud.</li>
+<li>No basta decir solamente la verdad, mas conviene mostrar la causa de la
+falsedad.</li>
+<li>Es ignorancia no saber distinguir entre lo que necesita demostración y lo
+que no la necesita.</li>
+<li>Sólo hay una manera de evitar la crítica: no hagas nada, no digas nada, y
+no seas nada.</li>
+<li>Somos lo que hacemos día a día. De modo que la excelencia no es un acto,
+sino un hábito.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Arthur_C._Clarke">Arthur C. Clarke</a>
+<ul class="org-ul">
+<li>Cualquier tecnología suficientemente avanzada es indistinguible de la magia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Arthur_Conan_Doyle">Arthur Conan Doyle</a>
+<ul class="org-ul">
+<li>Ha sido durante mucho tiempo mi axioma que las pequeñas cosas son
+infinitamente lo más importante.</li>
+<li>Una vez descartado lo imposible, lo que queda, por improbable que parezca,
+debe ser la verdad.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Arthur_Helps">Arthur Helps</a>
+<ul class="org-ul">
+<li>La lectura es a veces una estratagema para eludir pensar.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Arthur_Koestler">Arthur Koestler</a>
+<ul class="org-ul">
+<li>En cualquier lenguaje es difícil hacer una sentencia que diga exactamente lo
+que deseas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Arthur_Schopenhauer">Arthur Schopenhauer</a>
+<ul class="org-ul">
+<li>El alquimista, en su búsqueda del oro encontró muchas otras cosas de gran
+valor.</li>
+<li>El mundo en el cual cada uno vive depende de cómo lo conciba, y se ajusta, por
+ello, a las diferencias mentales: según sea cada mente, ese mundo resultará más
+pobre, anodino y superficial, o rico, interesante y lleno de sentido.</li>
+<li>La soledad concede al hombre dotado de grandes cualidades intelectuales una
+doble ventaja: primero, le proporciona la posibilidad de estar consigo
+mismo; y, segundo, la de no estar con los demás.</li>
+<li>Los alquimistas en su búsqueda de oro descubrieron muchas otras cosas de
+mayor valor.</li>
+<li>Los hombres han inventado la vida de sociedad porque les es más fácil
+soportar a los demás que soportarse a sí mismos.</li>
+<li>Querer es esencialmente sufrir, y como vivir es querer, toda vida es por
+esencia dolor.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Arturo_Graf">Arturo Graf</a>
+<ul class="org-ul">
+<li>El hombre comienza, en realidad, a ser viejo cuando deja de ser educable.</li>
+<li>El que en un arte ha llegado a maestro puede prescindir de las reglas.</li>
+<li>Si quieres oír cantar a tu alma, haz el silencio a tu alrededor.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n">Baltasar Gracián</a>
+<ul class="org-ul">
+<li>El primer paso de la ignorancia es presumir de saber.</li>
+<li>Lo bueno, si breve, dos veces bueno; lo malo, si poco, no tan malo.</li>
+<li>No te pongas en el lado malo de un argumento simplemente porque tu oponente
+se ha puesto en el lado correcto.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Baruch_Spinoza">Baruch Spinoza</a>
+<ul class="org-ul">
+<li>La actividad más importante que un ser humano puede lograr es aprender para
+entender, porque entender es ser libre.</li>
+<li>El hombre libre, el hombre de ánimo fuerte, no odia a nadie, no se irrita con
+nadie, a nadie envidia, contra nadie se indigna, no siente desprecio por nadie y
+no experimenta la menor soberbia.</li>
+<li>La actividad más importante que un ser humano puede lograr es aprender para
+entender, porque entender es ser libre.</li>
+<li>Si somos marionetas, nuestra mejor opción para dejar de serlo es tratar de
+averiguar la lógica del titiritero.</li>
+<li>Todos los prejuicios que intento indicar aquí dependen de uno solo, a
+saber: el hecho de que los hombres supongan, comúnmente, que todas las
+cosas de la naturaleza actúan, al igual que ellos mismos, por razón de un
+fin.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Benjamin_Disraeli">Benjamin Disraeli</a>
+<ul class="org-ul">
+<li>Darse cuenta de que se es ignorante es un gran paso hacia el saber.</li>
+<li>El hombre no es hijo de las circunstancias. Las circunstancias son hijas de
+los hombres.</li>
+<li>La juventud es un disparate; la madurez, una lucha; la vejez, un
+remordimiento.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Benjamin_Franklin">Benjamin Franklin</a>
+<ul class="org-ul">
+<li>Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.</li>
+<li>La llave que se usa constantemente reluce como plata: no usándola se llena de
+herrumbre. Lo mismo pasa con el entendimiento.</li>
+<li>Los hombres son criaturas muy raras: la mitad censura lo que practica, la
+otra mitad practica lo que censura, el resto siempre dice y hace lo que
+debe.</li>
+<li>Si deseas persuadir, apela al interés y no a la razón.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle">Bernard Le Bovier de Fontenelle</a>
+<ul class="org-ul">
+<li>Solemos llamar inútiles a las cosas que no comprendemos.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3oRRBiL">Bernard Shaw</a>
+<ul class="org-ul">
+<li>Cuando un hombre estúpido hace algo que le avergüenza, siempre dice que cumple
+con su deber.</li>
+<li>Dichoso es el que tiene una profesión que coincide con su afición.</li>
+<li>El hombre con dolor de muelas piensa que todos los que tienen dientes sanos
+son felices. El hombre pobre comete el mismo error con el rico.</li>
+<li>El hombre razonable se adapta al mundo: el irracional persiste en intentar
+adaptar el mundo a sí mismo. Por lo tanto, todo progreso depende del hombre
+irrazonable.</li>
+<li>El secreto de ser desdichado estriba en tener tiempo de pensar si se es, o
+no, feliz. La cura es la ocupación, porque ocupación significa preocupación;
+y la persona preocupada no es ni feliz ni infeliz, sino simplemente viva y
+activa, lo que es más agradable que cualquier felicidad hasta que uno se cansa
+de ella.</li>
+<li>Es difícil, si no imposible, para la mayoría de la gente pensar de otra
+manera que no sea en la moda de su propia época.</li>
+<li>La actividad es el único camino que lleva al conocimiento.</li>
+<li>La gente siempre culpa a las circunstancias por lo que son. No creo en las
+circunstancias. Las personas que se llevan bien en este mundo son las personas
+que se levantan y buscan las circunstancias que quieren y, si no las
+encuentran, las hacen.</li>
+<li>Los perros no molestan hasta que ladran y los necios hasta que hablan.</li>
+<li>Los que son capaces, crean; los que no son capaces, enseñan.</li>
+<li>Mi forma de bromear es decir la verdad. Es la broma más divertida del mundo.</li>
+<li>Mientras tenemos un deseo, tenemos una razón de vivir. La satisfacción es la
+muerte.</li>
+<li>No hagas a los demás como esperarías que te hicieran a ti. Puede que sus
+gustos no sean los mismos.</li>
+<li>Si comienzas por sacrificarte por tus seres queridos, terminarás odiando a
+aquellos por quienes te has sacrificado.</li>
+<li>Siempre hay peligro para aquellos que lo temen.</li>
+<li>Soy tan partidario de la disciplina del silencio, que podría hablar hora
+enteras sobre ella.</li>
+<li>Todo necio cree lo que le dicen sus maestros y llama a su credulidad ciencia o
+moralidad con tanta seguridad como su padre la llamaba revelación divina.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Bertrand_Russell">Bertrand Russell</a>
+<ul class="org-ul">
+<li>Al contrario del esquema habitual me he hecho gradualmente más rebelde a medida
+que envejezco.</li>
+<li>Aunque esto pueda parecer una paradoja, toda la ciencia exacta está dominada
+por la idea de aproximación. Cuando un hombre te dice que sabe la verdad
+exacta sobre cualquier cosa, puedes deducir que es un hombre inexacto.</li>
+<li>Cuando se quiere enseñar a los niños a pensar, se empieza por tratarlos
+seriamente cuando son pequeños, darles responsabilidades, hablarles con
+franqueza, darles privacidad y soledad, y hacerlos lectores y pensadores de
+pensamientos significativos desde el principio. Eso es si quieres enseñarles a
+pensar.</li>
+<li>El mayor desafío para cualquier pensador es plantear el problema de una
+manera que permita una solución.</li>
+<li>El método de establecer como postulado lo que queramos tiene muchas
+ventajas. Las mismas que tiene el robo sobre el trabajo honrado.</li>
+<li>El tiempo que disfrutes desperdiciándolo no es tiempo desperdiciado.</li>
+<li>El verdadero espíritu del deleite, la exaltación que es la piedra de toque
+de la más alta excelencia, se encuentra en las matemáticas tanto como en la
+poesía.</li>
+<li>Gran parte de las dificultades por las que atraviesa el mundo se deben a
+que los ignorantes están completamente seguros y los instruidos llenos de
+dudas.</li>
+<li>La ciencia es lo que sabes, la filosofía es lo que no sabes.</li>
+<li>La matemática, correctamente vista, posee no sólo la verdad, sino la belleza
+suprema - una belleza fría y austera, como la de la escultura, sin apelar a
+ninguna parte de nuestra naturaleza más débil, sin los hermosos adornos de la
+pintura o la música, pero sublimemente pura, y capaz de una perfección severa
+como sólo el arte más grande puede mostrar.</li>
+<li>La mayoría de los grandes males que los hombres han infligido a los hombres
+han llegado a través de gente que se sentía completamente segura de algo
+que, en realidad era falso.</li>
+<li>Los hombres nacen ignorantes, no estúpidos. Es la educación lo que puede
+hacerles estúpidos.</li>
+<li>Una vida feliz tiene que ser, en gran medida, una vida tranquila, pues solo
+en un ambiente tranquilo puede vivir la auténtica alegría.</li>
+<li>Decálogo:
+<ol class="org-ol">
+<li>No estés absolutamente seguro de nada.</li>
+<li>No creas conveniente actuar ocultando pruebas, pues las pruebas terminan
+por salir a la luz.</li>
+<li>Nunca intentes oponerte al raciocino, pues seguramente lo conseguirás.</li>
+<li>Cuando encuentres oposición, aunque provenga de tu esposo o de tus hijos,
+trata de superarla por medio de la razón y no de la autoridad, pues una
+victoria que dependa de la autoridad es irreal e ilusoria.</li>
+<li>No respetes la autoridad de los demás, pues siempre se encuentran
+autoridades enfrentadas.</li>
+<li>No utilices la fuerza para suprimir las ideas que crees perniciosas, pues
+si lo haces, ellas te suprimirán a ti.</li>
+<li>No temas ser extravagante en tus ideas, pues todas la ideas ahora
+aceptadas fueron en su día extravagantes.</li>
+<li>Disfruta más con la discrepancia inteligente que con la conformidad
+pasiva, pues si valoras la inteligencia como debieras, aquélla significa
+un acuerdo más profundo que ésta.</li>
+<li>Muéstrate escrupuloso en la verdad, aunque la verdad sea incómoda, pues
+más incómoda es cuando tratas de ocultarla.</li>
+<li>No sientas envidia de la felicidad de los que viven en el paraíso de los
+necios, pues sólo un necio pensará que eso es la felicidad.</li>
+</ol></li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Blaise_Pascal">Blaise Pascal</a>
+<ul class="org-ul">
+<li>El hombre está dispuesto siempre a negar todo aquello que no comprende.</li>
+<li>Es mucho mejor conocer algo acerca de todo, que acerca de una sola cosa. Lo
+universal es siempre mejor.</li>
+<li>He descubierto que toda la maldad humana proviene de la incapacidad del ser
+humano de sentarse en calma en una habitación.</li>
+<li>He redactado esta carta más extensa de lo usual porque carezco de tiempo para
+escribirla más breve.</li>
+<li>La mayoría de los males les vienen a los hombres por no quedarse en casa.</li>
+<li>La verdadera función de la razón es mostrar al hombre que algunas cosas
+están más allá de la razón</li>
+<li>Ni la contradicción es indicio de falsedad, ni la falta de contradicción es
+indicio de verdad.</li>
+<li>No se muestra la grandeza por estar en un extremo, sino tocando los dos a
+la vez y llenando el espacio intermedio.</li>
+<li>Toda la miseria de los hombres proviene de una única cosa, que es no saber
+permanecer en reposo en una habitación.</li>
+<li>Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/B%C3%ADas">Bías de Priene</a>
+<ul class="org-ul">
+<li>Pon manos a la obra con lentitud, pero, una vez comenzada, sé constante.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Brian_Kernighan">Brian Kernighan</a>
+<ul class="org-ul">
+<li>El control de la complejidad es la esencia de la programación informática.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Buckminster_Fuller">Buckminster Fuller</a>
+<ul class="org-ul">
+<li>Cuando estoy trabajando en un problema, nunca pienso en la belleza. Sólo
+pienso en cómo resolver el problema. Pero cuando he terminado, si la solución
+no es bella, sé que está mal.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Buda_Gautama">Buda Gautama</a>
+<ul class="org-ul">
+<li>Duda de todo. Encuentra tu propia luz.</li>
+<li>Si tiene solución, ¿por qué lloras? Si no tiene solución, ¿por qué lloras?</li>
+<li>Todo lo que somos es el resultado de lo que hemos pensado.</li>
+<li>Buda reducía su visión del mundo a cuatro puntos:
+<ol class="org-ol">
+<li>la vida es sufrimiento;</li>
+<li>el sufrimiento nace del deseo;</li>
+<li>elimina el deseo y habrás eliminado el sufrimiento, y</li>
+<li>vive una vida decente y medita para que ello te ayude a eliminar el
+deseo.</li>
+</ol></li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Burrhus_Frederic_Skinner">Burrhus Frederic Skinner</a>
+<ul class="org-ul">
+<li>El auténtico problema no es si las máquinas piensan, sino si lo hacen los
+hombres.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3o1l5tc">C.S. Lewis</a>
+<ul class="org-ul">
+<li>Lo que ves y escuchas depende de qué tipo de persona eres y desde qué punto
+estás mirando.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Calvin_Coolidge">Calvin Coolidge</a>
+<ul class="org-ul">
+<li>La educación consiste en enseñar a los hombres, no lo que deben pensar,
+sino a pensar.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Carl_Benjamin_Boyer">Carl B. Boyer</a> y <a href="https://en.wikipedia.org/wiki/Uta_Merzbach">Uta C. Merzbach</a>
+<ul class="org-ul">
+<li>Una de las lecciones que la historia de las matemáticas nos enseña claramente
+es que la búsqueda de soluciones a problemas no resueltos, ya sean
+solucionables o no, conduce invariablemente a importantes descubrimientos en
+el camino.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss">Carl Friedrich Gauss</a>
+<ul class="org-ul">
+<li>El verdadero objetivo de la ciencia es el honor de la mente humana.</li>
+<li>Las matemáticas son la reina de las ciencias y la teoría de los números es la
+reina de las matemáticas.</li>
+<li>Los encantos de esta ciencia sublime, las matemáticas, sólo se le revelan a
+aquellos que tienen el valor de profundizar en ella.</li>
+<li>No es el conocimiento, sino el acto de aprendizaje, y no la posesión, sino
+el acto de llegar allí, que concede el mayor disfrute.</li>
+<li>Sabe que escribo lentamente. Esto se debe sobre todo a que no quedo satisfecho
+hasta que no consigo decir todo cuanto me sea posible en unas pocas palabras, y
+escribir de modo conciso lleva mucho más tiempo que hacerlo en extensión.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Carl_Gustav_Jung">Carl Gustav Jung</a>
+<ul class="org-ul">
+<li>El zapato que le ajusta a un hombre le aprieta a otro; no hay receta para
+la vida que funcione en todos los casos.</li>
+<li>Eres lo que haces, no lo que dices que vas a hacer.</li>
+<li>La soledad no llega por no tener personas a tu alrededor, sino por no poder
+comunicar las cosas que te parecen importantes a ti.</li>
+<li>Pensar es difícil. Por eso la mayoría de la gente prefiere juzgar.</li>
+<li>Queremos tener certezas y no tener dudas - resultados y no experimentos - sin
+ver que las certezas sólo pueden surgir a través de la duda y los resultados
+sólo a través del experimento.</li>
+<li>Todo lo que nos irrita de los demás, nos puede ayudar a entendernos mejor a
+nosotros mismos.</li>
+<li>Uno recuerda con aprecio a sus maestros brillantes, pero con gratitud a
+aquellos que tocaron nuestros sentimientos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Carl_Gustav_Jakob_Jacobi">Carl Gustav Jakob Jacobi</a>
+<ul class="org-ul">
+<li>M Fourier opinaba que la finalidad primordial de las matemáticas consistía
+en su utilidad pública y en la explicación de los fenómenos naturales; pero un
+filósofo como él debería haber sabido que la finalidad única de la ciencia es la
+de rendir honor al espíritu humano y que por ello una cuestión sobre números
+vale tanto como una cuestión sobre el sistema del mundo.</li>
+<li>Siempre se debe generalizar.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2ZX47lo">Carl Sagan</a>
+<ul class="org-ul">
+<li>En la ciencia suele ocurrir que un científico diga: Es un buen argumento, yo
+estaba equivocado ́, cambie de opinión y desde ese momento no se vuelva a
+mencionar la antigua posición. Realmente pasa. Aunque no lo frecuentemente que
+debería ya que los científicos son humanos y el cambio es a veces doloroso. Pero
+ocurre cada día. No recuerdo la última vez que algo así pasó en política o
+religión.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Carlos_Fuentes">Carlos Fuentes</a>
+<ul class="org-ul">
+<li>Sólo pueden disipar el horror tres consejos: no admires el poder, no
+detestes al enemigo y no desprecies a los que sufren.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Charles_Chaplin">Charles Chaplin</a>
+<ul class="org-ul">
+<li>Aprende como si fueras a vivir toda la vida y vive como si fueras a morir
+mañana.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Charles_Dickens">Charles Dickens</a>
+<ul class="org-ul">
+<li>Cada fracaso nos enseña algo que necesitamos aprender.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Charles_Dudley_Warner">Charles Dudley Warner</a>
+<ul class="org-ul">
+<li>Nadie puede tratar sinceramente de ayudar a otro sin ayudarse a sí mismo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Zhuangzi">Chuang Tse (o Zhuangzi)</a>
+<ul class="org-ul">
+<li>El gran saber todo lo abarca. El pequeño todo lo divide.</li>
+<li>Lo fácil es lo correcto.
+Empieza correctamente y te resultará fácil.
+Continúa con facilidad y estarás en lo correcto.
+El modo correcto de ir con facilidad es olvidarse del modo correcto.
+Y olvidarse de que el ir es fácil.</li>
+<li>Caminando se hace el camino, y a las cosas dándoles un nombre.</li>
+<li>Saber que hay cosas que no se pueden saber es la cumbre del saber.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Claudio_Ptolomeo">Claudio Ptolomeo</a>
+<ul class="org-ul">
+<li>Consideramos que es un buen principio para explicar los fenómenos la hipótesis
+más simple posible.</li>
+<li>Todo lo que es difícil de alcanzar es atacado fácilmente por la generalidad de
+los hombres.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Cicer%C3%B3n">Cicerón</a>
+<ul class="org-ul">
+<li>Hay que atender no sólo a lo que cada cual dice, sino a lo que siente y al
+motivo porque lo siente.</li>
+<li>Humano es errar; pero sólo los estúpidos perseveran en el error.</li>
+<li>La necedad es la madre de todos los males.</li>
+<li>Mi conciencia tiene para mí más peso que la opinión de todo el mundo.</li>
+<li>No hay ventaja alguna en conocer el futuro; al contrario, es doloroso
+atormentarse sin provecho.</li>
+<li>Pensar es como vivir dos veces.</li>
+<li>¿Qué cosa más grande que tener a alguien con quien te atrevas a hablar como
+contigo mismo?</li>
+<li>Si cerca de la biblioteca tienes un jardín ya no te faltará de nada.</li>
+<li>Si quieres aprender, enseña.</li>
+<li>Si quieres ser viejo mucho tiempo, hazte viejo pronto.</li>
+<li>Una cosa es saber y otra saber enseñar.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2CRi1xN">Clorindo Testa</a>,
+<ul class="org-ul">
+<li>Creo que para un pintor, para un arquitecto, la jubilación no existe. Uno sigue
+haciendo cosas mientras le salen. No las va a cortar así por una decisión de su
+voluntad; no va a quedarse con la mente en blanco.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Confucio">Confucio</a>
+<ul class="org-ul">
+<li>Aprender sin pensar es inútil. Pensar sin aprender, peligroso.</li>
+<li>El hombre que mueve una montaña empieza por arrastrar una pequeña piedra.</li>
+<li>El que por la mañana ha conseguido conocer la verdad, ya puede morir por la
+tarde.</li>
+<li>El silencio es el único amigo que jamás traiciona.</li>
+<li>Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu
+vida.</li>
+<li>Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un sólo día de
+tu vida.</li>
+<li>Exígete mucho a ti mismo y espera poco de los demás. Así te ahorraras
+disgustos.</li>
+<li>Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en los
+demás.</li>
+<li>Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.</li>
+<li>¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir y flores
+para tener algo por lo que vivir.</li>
+<li>No importa lo lento que vayas, siempre y cuando no te detengas.</li>
+<li>Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he
+aquí el verdadero saber.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Constantino_Cavafis">Constantino Cavafis</a>
+<ul class="org-ul">
+<li>Tu llegada allí es tu destino. Mas no apresures nunca el viaje. Mejor que dure
+muchos años y atracar, viejo ya, en la isla, enriquecido de cuanto ganaste en el
+camino.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Dale_Carnegie">Dale Carnegie</a>
+<ul class="org-ul">
+<li>Recuerda, hoy es el mañana por el que te preocupabas ayer.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3fmrElv">Dan Brown</a>
+<ul class="org-ul">
+<li>Solo hay un agente infeccioso que viaje más rápido que un virus. El miedo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Daniel_Kahneman">Daniel Kahneman</a>
+<ul class="org-ul">
+<li>A menudo nuestro cerebro racionaliza los pensamientos automáticos y los
+presenta como el fruto de un razonamiento elaborado. Pero son historias que nos
+inventamos para justificar decisiones que en realidad son fruto de nuestros
+prejuicios. Es una forma de engañarnos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/David_Hilbert">David Hilbert</a>
+<ul class="org-ul">
+<li>Es un error creer que el rigor es enemigo de la sencillez. Al contrario,
+encontramos confirmado por numerosos ejemplos que el método riguroso es al
+mismo tiempo el más simple y el más fácil de comprender. El propio esfuerzo
+por el rigor nos obliga a descubrir métodos de prueba más sencillos.</li>
+<li>Las matemáticas no son como un juego cuyas tareas están determinadas por reglas
+estipuladas arbitrariamente. Más bien, es un sistema conceptual que posee una
+necesidad interna que solo puede ser así y de ninguna manera de otra manera.</li>
+<li>Un problema matemático debería ser difícil para seducirnos, pero no
+completamente inaccesible, para que no se burle de nuestros esfuerzos. Debería
+ser para nosotros una guía en el laberíntico camino hacia las verdades ocultas
+y, en última instancia, un recordatorio de nuestro placer en la solución
+exitosa.</li>
+<li>Una teoría matemática no debe considerarse completa hasta que la hayas dejado
+tan clara que puedas explicársela al primer hombre con el que te encuentres en
+la calle.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/David_Hume">David Hume</a>
+<ul class="org-ul">
+<li>Cada solución da pie a una nueva pregunta.</li>
+<li>Estoy convencido de que cuando los hombres están más seguros y son más
+arrogantes están normalmente más equivocados, y han dado riendas a la
+pasión sin esa adecuada deliberación y duda, que son las únicas que pueden
+librarles de los absurdos más burdos.</li>
+<li>La belleza de las cosas existe en el espíritu de quien las contempla.</li>
+<li>La rutina es la gran guía de la vida humana.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Denis_Diderot">Denis Diderot</a>
+<ul class="org-ul">
+<li>Cuidado con el hombre que habla de poner las cosas en orden. Poner las
+cosas en orden siempre significa poner las cosas bajo su control.</li>
+<li>Las frases concisas son como clavos afilados que clavan la verdad en nuestra
+memoria.</li>
+<li>No arrepentirse ni hacer reproches a los demás, son los pasos de la
+sabiduría.</li>
+<li>Una idiotez común es creer que el que tiene más clientes es el más
+hábil.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Desmond_Tutu">Desmond Tutu</a>
+<ul class="org-ul">
+<li>Si eres neutral en situaciones de injusticia, has elegido el lado del
+opresor.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Di%C3%B3genes_de_Sinope">Diógenes de Sínope</a>
+<ul class="org-ul">
+<li>Callando es como se aprende a oír; oyendo es como se aprende a hablar; y
+luego, hablando se aprende a callar.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Donald_Knuth">Donald Knuth</a>
+<ul class="org-ul">
+<li>Cambiemos nuestra actitud tradicional en la construcción de programas. En
+lugar de imaginar que nuestra tarea principal es indicarle a una computadora
+lo que debe hacer, concentrémonos más bien en explicarle a los seres humanos
+lo que queremos que haga una computadora.</li>
+<li>El proceso de preparación de programas para una computadora digital es
+especialmente atractivo, no solo porque puede ser gratificante económica y
+científicamente, sino también porque puede ser una experiencia estética muy
+parecida a la composición de poesía o música.</li>
+<li>El verdadero problema es que los programadores han pasado demasiado tiempo
+preocupándose por la eficiencia en los lugares equivocados y en los momentos
+equivocados; la optimización prematura es la raíz de todo mal (o al menos la
+mayor parte) en la programación.</li>
+<li>Hemos visto que la programación de computadoras es un arte, porque aplica el
+conocimiento acumulado al mundo, porque requiere habilidad e ingenio, y
+especialmente porque produce objetos de belleza. Un programador que se vea
+inconscientemente como un artista disfrutará de lo que hace y lo haremos
+mejor.</li>
+<li>La ciencia es lo que entendemos lo suficientemente bien como para explicarle
+a una computadora. El arte es todo lo demás que hacemos.</li>
+<li>La diferencia entre el arte y la ciencia es que la ciencia es lo que la gente
+entiende lo suficientemente bien como para explicarle a una computadora. Todo
+lo demás es arte.</li>
+<li>La mejor teoría está inspirada en la práctica. La mejor práctica está
+inspirada en la teoría.</li>
+<li>La programación de computadoras es un arte, porque aplica el conocimiento
+acumulado al mundo, porque requiere habilidad e ingenio, y especialmente
+porque produce objetos de belleza. Un programador que subconscientemente se ve
+a sí mismo como un artista disfrutará lo que hace y lo hará mejor.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/34kwQ72">Doris Lessing</a>
+<ul class="org-ul">
+<li>Reconsideras tu vida conforme la vas viviendo, de la misma forma que si
+estuvieras escalando una montaña y continuamente vieras los mismos paisajes
+desde distintos puntos de vista.</li>
+<li>Todos los movimientos políticos son así: nosotros tenemos razón, todos los
+demás están equivocados. Las personas de nuestro lado que no están de acuerdo
+con nosotros son herejes y comienzan a convertirse en enemigos. Con ello viene
+una absoluta convicción de su propia superioridad moral. Hay una simplificación
+excesiva en todo y un terror a la flexibilidad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Libro_del_Eclesiast%C3%A9s">Eclesiastés</a>
+<ul class="org-ul">
+<li>Mantente en tu quehacer y conságrate a él, en tu tarea envejece.</li>
+<li>En todo lo que hagas, sé moderado.</li>
+<li>En todas tus acciones ten presente tu fin.</li>
+<li>Dios hizo sencillo al hombre, pero él se complicó con muchas razones.</li>
+<li>Nada nuevo hay bajo el sol. Una cosa de la que dicen "Mira esto, esto es
+nuevo", aún ésa fue ya en los siglos anteriores a nosotros.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Edgar_Allan_Poe">Edgar Allan Poe</a>
+<ul class="org-ul">
+<li>El mismo acto de escribir fuerza al pensamiento a hacerse lógico.</li>
+<li>Hay muchas personas que no saben perder a solas el tiempo y son el azote de
+las que tienen ocupaciones.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a>
+<ul class="org-ul">
+<li>El arte de la programación es el arte de organizar la complejidad, de dominar
+la multitud y evitar su caos bastardo.</li>
+<li>Es imposible afinar un lápiz con una cuchilla desafilada. Es igualmente inútil
+tratar de hacerlo con diez.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Edmund_Burke">Edmund Burke</a>
+<ul class="org-ul">
+<li>Hay un momento límite en el que la paciencia deja de ser una virtud.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Eduardo_Galeano">Eduardo Galeano</a>
+<ul class="org-ul">
+<li>Al fin y al cabo, somos lo que hacemos para cambiar lo que somos.</li>
+<li>Estamos en plena cultura del envase. El contrato de matrimonio importa más
+que el amor, el funeral más que el muerto, la ropa más que el cuerpo y la
+misa más que Dios.</li>
+<li>Sólo los tontos creen que el silencio es un vacío. No está vacío nunca. Y a
+veces la mejor manera de comunicarse es callando.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Edward_Kasner">Edward Kasner</a> y <a href="https://en.wikipedia.org/wiki/James_R._Newman">James R. Newman</a>
+<ul class="org-ul">
+<li>Las matemáticas son la ciencia que utiliza palabras fáciles para las ideas
+difíciles.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Elbert_Hubbard">Elbert Hubbard</a>
+<ul class="org-ul">
+<li>Cultiva solo aquellos hábitos que quisieras que dominaran tu vida.</li>
+<li>Cuando la vida te de limones, haz limonada.</li>
+<li>El conocimiento es la esencia destilada de nuestras intuiciones, corroborada
+por la experiencia.</li>
+<li>El mayor error que puedes cometer en la vida es temer continuamente que
+cometerás uno.</li>
+<li>Hacer que los hombres vivan en tres mundos a la vez - pasado, presente y
+futuro - ha sido el principal daño que ha hecho la religión organizada.</li>
+<li>La educación académica es el acto de memorizar cosas leídas en libros, y
+cosas contadas por profesores universitarios que obtuvieron su educación
+principalmente memorizando cosas leídas en libros.</li>
+<li>La experiencia es el nombre que todos le dan a sus errores.</li>
+<li>Las inteligencias poco capaces se interesan en lo extraordinario; las
+inteligencias poderosas en las cosas ordinarias.</li>
+<li>Nadie necesita más unas vacaciones que el que acaba de tenerlas.</li>
+<li>No arrojes tus penas sobre las personas; guarda la triste historia de tu vida
+para ti. Los problemas crecen contándolos.</li>
+<li>No hagas nada, no digas nada y no seas nada, y nunca serás criticado.</li>
+<li>No te tomes la vida demasiado en serio, nunca saldrás vivo de ella.</li>
+<li>Nunca des explicaciones: tus amigos no lo necesitan y tus enemigos no te
+creerán de ninguna manera.</li>
+<li>Si desea un trabajo bien hecho, seleccione un hombre ocupado, el otro tipo no
+tiene tiempo.</li>
+<li>Suministrar un pensamiento es un masaje mental; pero desarrollar un
+pensamiento propio es un logro. Pensar es un ejercicio mental, y ninguna
+facultad crece, salvo cuando se ejercita.</li>
+<li>Todo hombre es un maldito tonto durante al menos cinco minutos al día. La
+sabiduría consiste en no exceder el límite.</li>
+<li>Un especialista es uno que se limita a sí mismo al tipo de ignorancia que ha
+elegido.</li>
+<li>Un fracasado es un hombre que ha cometido un error y no es capaz de
+convertirlo en experiencia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/%C3%89lie_Cartan">Elie Cartan</a>
+<ul class="org-ul">
+<li>Más que ninguna otra ciencia, las matemáticas se desarrollan a través de una
+secuencia de abstracciones sucesivas. El deseo de evitar errores obliga a
+los matemáticos a encontrar y aislar la esencia de los problemas y las
+entidades consideradas. Llevado al extremo, este procedimiento justifica la
+conocida broma de que un matemático es un científico que no sabe lo que dice
+ni si existe o no lo que dice.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Emil_Cioran">Emil Cioran</a>
+<ul class="org-ul">
+<li>Es menos por reacción de defensa que por pudor, por el deseo de esconder su
+irrealidad, que todos los humanos llevan una máscara. Arrancársela es
+perderlos y perderse.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/%C3%89mile_Durkheim">Emile Durkheim</a>
+<ul class="org-ul">
+<li>Una mente que cuestiona todo, a menos que sea lo suficientemente fuerte como
+para soportar el peso de su ignorancia, corre el riesgo de cuestionarse a sí
+misma y quedar envuelta en dudas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Emmy_Noether">Emmy Noether</a>
+<ul class="org-ul">
+<li>Si pudiéramos ser educados dejando al margen lo que la gente piense o deje de
+pensar, y teniendo en cuenta solo lo que en principio es bueno o malo, ¡qué
+diferente sería todo!</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Enrico_Bombieri">Enrico Bombieri</a>
+<ul class="org-ul">
+<li>Cuando las cosas se vuelven demasiado complicadas, a veces tiene sentido
+parar y preguntarse: ¿he planteado la pregunta correcta?</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Epicteto">Epicteto</a>
+<ul class="org-ul">
+<li>Complace a todos y no complacerás a nadie.</li>
+<li>Dos cosas hay que quitarles a los hombres: la vanidad y la desconfianza.</li>
+<li>El error del anciano es que pretende enjuiciar el hoy con el criterio del
+ayer.</li>
+<li>Lo que perturba a los hombres no son las cosas, sino su manera de
+enjuiciarlas.</li>
+<li>No nos perturban las cosas sino las opiniones que de ellas tenemos.</li>
+<li>Si no quieres ver tus deseos frustrados, no desees jamás sino aquéllo que
+sólo de ti depende.</li>
+<li>También en la moderación hay un término medio, y quien no da con él es
+víctima de un error parecido al de quien se excede por desenfreno.</li>
+<li>Todos los asuntos tienen dos asas: por una son manejables, por la otra no.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Epicuro">Epicuro</a>
+<ul class="org-ul">
+<li>Nada es suficiente para quien lo suficiente es poco.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Erasmo_de_R%C3%B3terdam">Erasmo de Róterdam</a>
+<ul class="org-ul">
+<li>El que conoce el arte de vivir consigo mismo ignora el aburrimiento.</li>
+<li>La esencia de la felicidad consiste en que aceptes ser el que eres.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Eric_Temple_Bell">Eric Temple Bell</a>
+<ul class="org-ul">
+<li>La abstracción, a veces lanzada como un reproche a las matemáticas, es su
+principal gloria y su título más seguro de utilidad práctica. También es la
+fuente de la belleza que puede surgir de las matemáticas.</li>
+<li>"Obvio" es la palabra más peligrosa en matemáticas.</li>
+<li>Uno de los aspectos más atractivos de las matemáticas es que sus paradojas
+más complejas se convierten en hermosas teorías.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ernest_Hemingway">Ernest Hemingway</a>
+<ul class="org-ul">
+<li>Se necesitan dos años para aprender a hablar y sesenta para aprender a
+callar.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ernesto_Sabato">Ernesto Sábato</a>
+<ul class="org-ul">
+<li>Como dice Whitehead, la naturaleza es una triste cosa, sin colores ni
+sonidos ni fragancias: todos esos atributos son puramente humanos. Radical
+e inevitablemente (pero ¿por qué evitarlo?) nuestra visión del mundo es
+subjetiva, y cada uno de nosotros está creando colores y músicas, groseros
+o delicados, complejos o simples, según nuestra sensibilidad, nuestra
+imaginación y nuestro talento.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ernst_Fischer">Ernst Fischer</a>
+<ul class="org-ul">
+<li>Es más fácil creer que pensar con espíritu crítico.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Errico_Malatesta">Errico Malatesta</a>
+<ul class="org-ul">
+<li>A los anarquistas les compete la especial misión de ser custodios celosos de la
+libertad, contra los aspirantes al poder y contra la posible tiranía de las
+mayorías.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Esquilo">Esquilo de Eleusis</a>
+<ul class="org-ul">
+<li>Las palabras son una medicina para el alma que sufre.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco">Eugène Ionesco</a>
+<ul class="org-ul">
+<li>No es la respuesta lo que nos ilumina, sino la pregunta.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Eugene_O'Neill">Eugene O'Neill</a>
+<ul class="org-ul">
+<li>Esperar sentido común en la gente es una prueba de no tener sentido común.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Evan_Esar">Evan Esar</a>
+<ul class="org-ul">
+<li>Las vacaciones son como el amor: las anticipamos con placer, las
+experimentamos con incomodidad y las recordamos con nostalgia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Facundo_Cabral">Facundo Cabral</a>
+<ul class="org-ul">
+<li>De mi madre aprendí que nunca es tarde, que siempre se puede empezar de
+nuevo; ahora mismo le puedes decir basta a los hábitos que te destruyen, a
+las cosas que te encadenan, a la tarjeta de crédito, a los noticieros que
+te envenenan desde la mañana, a los que quieren dirigir tu vida por el
+camino perdido.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Friedrich_Ludwig_Jahn">Federico Luis Jahn</a>
+<ul class="org-ul">
+<li>El secreto para vivir en paz con todos consiste en el arte de comprender a
+cada uno según su individualidad.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Felix_Klein">Felix Klein</a>
+<ul class="org-ul">
+<li>Todo el mundo sabe lo que es una curva, hasta que ha estudiado suficientes
+matemáticas para confundirse a través del incontable número de posibles
+excepciones.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Francis_Bacon">Francis Bacon</a>
+<ul class="org-ul">
+<li>La amistad duplica las alegrías y divide las angustias por la mitad.</li>
+<li>La lectura hace al hombre completo; la conversación lo hace ágil, el
+escribir lo hace preciso.</li>
+<li>Los primeros y más antiguos investigadores de la verdad solían arrojar su
+conocimiento en aforismos, o en frases cortas, dispersas y no metódicas.</li>
+<li>Un hombre está dispuesto a creer aquello que le gustaría que fuera cierto.</li>
+<li>Quien no quiere pensar es un fanático; quien no puede pensar, es un idiota;
+quien no osa pensar es un cobarde.</li>
+<li>Vieja madera para arder, viejo vino para beber, viejos amigos en quien
+confiar, y viejos autores para leer.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/F._Scott_Fitzgerald">Francis Scott Fitzgerald</a>
+<ul class="org-ul">
+<li>Es preferible fiarse del hombre que se equivoca a menudo, que de quien no
+duda nunca.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Francisco_de_Quevedo">Francisco de Quevedo</a>
+<ul class="org-ul">
+<li>El que quiere de esta vida todas las cosas a su gusto, tendrá muchos
+disgustos.</li>
+<li>Lo mucho se vuelve poco con desear otro poco más.</li>
+<li>Las palabras son como las monedas, que una vale por muchas como muchas no
+valen por una.</li>
+<li>Nadie ofrece tanto como el que no va a cumplir.</li>
+<li>¿No ha de haber un espíritu valiente? ¿Siempre se ha de sentir lo que se
+dice? ¿Nunca se ha de decir lo que se siente?</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld">François de La Rochefoucauld</a>
+<ul class="org-ul">
+<li>Ponemos más interés en hacer creer a los demás que somos felices que en
+tratar de serlo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Fran%C3%A7ois_F%C3%A9nelon">François Fénelon</a>
+<ul class="org-ul">
+<li>Si queréis formar juicio acerca de un hombre, observad quienes son sus
+amigos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Fran%C3%A7oise_Sagan">Françoise Sagan</a>
+<ul class="org-ul">
+<li>Sólo cerrando las puertas detrás de uno se abren ventanas hacia el
+porvenir.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Franz_Schubert">Franz Schubert</a>
+<ul class="org-ul">
+<li>Cuando uno se inspira en algo bueno, la música nace con fluidez, las
+melodías brotan; realmente esto es una gran satisfacción.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Frederick_Brooks">Frederick Brooks</a>
+<ul class="org-ul">
+<li>Las buenas decisiones se adquieren con la experiencia, y la experiencia se
+adquiere con las malas decisiones.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Friedrich_Engels">Friedrich Engels</a>
+<ul class="org-ul">
+<li>Lo que no se sabe expresar es que no se sabe.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Friedrich_Nietzsche">Friedrich Nietzsche</a>
+<ul class="org-ul">
+<li>Aquel que tiene un por qué para vivir se puede enfrentar a todos los cómos.</li>
+<li>Desde que me cansé de buscar he aprendido a hallar.</li>
+<li>Digan lo que digan, los espíritus grandes son escépticos. Zaratustra es un
+escéptico. La fuerza, la libertad nacida en la fuerza y plenitud del
+espíritu, se prueba por el escepticismo. Los hombres de convicción no
+cuentan para las cuestiones fundamentales de valor. Las convicciones son
+cárceles.</li>
+<li>El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo
+intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es
+demasiado alto por el privilegio de ser uno mismo.</li>
+<li>Es más cómodo obedecer a la conciencia que a la razón; la conciencia halla
+en sí misma una excusa y un aliento. Por eso hay aún tantas personas
+concienzudas y tan pocas personas razonables.</li>
+<li>La ventaja de tener mala memoria es que se goza muchas veces con las mismas
+cosas.</li>
+<li>Lo que mucho ocupa termina por preocupar.</li>
+<li>Quien se sabe profundo, se esfuerza por ser claro; quien desea parecer profundo
+a la gran masa, se esfuerza por ser oscuro.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Friedrich_Schlegel">Friedrich Schlegel</a>
+<ul class="org-ul">
+<li>Cuanto más se sabe, más se desea aprender. Con la sabiduría crece
+paralelamente la sensación de no saber o, mejor dicho, de saber que no se
+sabe.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/G._H._Hardy">G. H. Hardy</a>
+<ul class="org-ul">
+<li>Los jóvenes deben probar los teoremas, los viejos deben escribir libros.</li>
+<li>Los patrones del matemático, como los del pintor o el poeta deben ser
+hermosos; las ideas, como los colores o las palabras deben encajar de manera
+armoniosa. La belleza es la primera prueba: no hay lugar permanente en este
+mundo para las matemáticas feas.</li>
+<li>Un matemático, como un pintor o un poeta, es un creador de patrones. Si sus
+patrones son más permanentes que los de ellos, es porque están hechos con
+ideas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/G._K._Chesterton">G.K. Chesterton</a>
+<ul class="org-ul">
+<li>La única educación posible es esta: estar lo bastante seguro de una cosa
+para atreverse a decírsela a un niño.</li>
+<li>Las cosas que vemos todos los días son las cosas que nunca vemos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez">Gabriel García Márquez</a>
+<ul class="org-ul">
+<li>El secreto de una buena vejez no es otra cosa que un pacto honrado con la
+soledad.</li>
+<li>Lo más importante que aprendí a hacer después de los cuarenta años fue a
+decir no cuando es no.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Galileo_Galilei">Galileo Galilei</a>
+<ul class="org-ul">
+<li>En lo tocante a la ciencia, la autoridad de un millar no es superior al
+humilde razonamiento de una sola persona.</li>
+<li>Las matemáticas son el alfabeto con el cual Dios ha escrito el Universo.</li>
+<li>No podemos enseñar nada a nadie. Tan sólo podemos ayudar a que descubran
+por sí mismos.</li>
+<li>Nunca me he encontrado con alguien tan ignorante de quien no pudiese aprender
+algo.</li>
+<li>Todas las verdades son fáciles de entender, una vez descubiertas. El caso
+es descubrirlas.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Georg_Cantor">Georg Cantor</a>
+<ul class="org-ul">
+<li>En matemáticas, el arte de hacer preguntas es más valioso que la resolución
+de problemas.</li>
+<li>La esencia de las matemáticas es su libertad.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Georg_Gottlob">Georg Gottlob</a>
+<ul class="org-ul">
+<li>La ciencia de la computación es la continuación de la lógica por otros
+medios.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/George_Bernard_Shaw">George Bernard Shaw</a>
+<ul class="org-ul">
+<li>Aprendemos de la experiencia que los hombres nunca aprenden nada de la
+experiencia.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/George_Boole">George Boole</a>
+<ul class="org-ul">
+<li>Por muy correcto que parezca un teorema matemático, nunca hay que conformarse
+con que no haya algo imperfecto en él hasta que también dé la impresión de ser
+bello.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/George_Eliot">George Eliot</a>
+<ul class="org-ul">
+<li>Bendito sea el hombre que no teniendo nada que decir, se abstiene de
+demostrárnoslo con sus palabras.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/31dDTvO">George Lakoff</a>
+<ul class="org-ul">
+<li>La idea de que la gente abandonará sus creencias irracionales ante la solidez
+de la evidencia presentada ante ella es en sí misma una creencia irracional,
+no apoyada por la evidencia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/George_Orwell">George Orwell</a>
+<ul class="org-ul">
+<li>Ver lo que tenemos delante de nuestras narices requiere una lucha
+constante.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/George_P%C3%B3lya">George Pólya</a>
+<ul class="org-ul">
+<li>Corremos menos peligro de equivocarnos si no perdemos de vista nuestra meta.</li>
+<li>Debemos hacer lo que podemos si no podemos hacer lo que queremos.</li>
+<li>El fin sugiere los medios.</li>
+<li>El necio ve el principio, el sabio el final.</li>
+<li>El objeto de la pesca no es tirar el anzuelo sino sacar el pez.</li>
+<li>El sabio empieza por el final, el necio termina en el principio.</li>
+<li>Es mejor resolver un problema de cinco maneras diferentes, que resolver cinco
+problemas de una sola manera.</li>
+<li>Hay que conjeturar el teorema matemático antes de probarlo: hay que planificar
+la idea de la prueba antes de completar los detalles. Hay que combinar las
+observaciones y seguir analogías: hay que intentarlo y volverlo a intentar. El
+resultado del trabajo creativo del matemático es el razonamiento demostrativo,
+una prueba; pero la prueba es descubierta por el razonamiento plausible, por la
+suposición.</li>
+<li>La belleza en las matemáticas es ver la verdad sin esfuerzo.</li>
+<li>La elegancia de un teorema es directamente proporcional al número de ideas
+que puedes ver en él e inversamente proporcional al esfuerzo que requiere
+verlas.</li>
+<li>La primera regla del descubrimiento es tener inteligencia y buena suerte. La
+segunda regla del descubrimiento es sentarse y esperar hasta que se tenga una
+idea brillante.</li>
+<li>La resolución de problemas es una habilidad práctica como, digamos, la
+natación. Adquirimos cualquier habilidad práctica por imitación y
+práctica. Tratando de nadar, imitas lo que otras personas hacen con sus manos
+y pies para mantener sus cabezas sobre el agua, y, finalmente, aprendes a
+nadar practicando la natación. Al intentar resolver problemas, hay que
+observar e imitar lo que hacen otras personas al resolver problemas y,
+finalmente, se aprende a resolver problemas haciéndolos.</li>
+<li>Las matemáticas consisten en contenido y conocimiento. ¿Qué es el conocimiento
+en matemáticas? La capacidad de resolver problemas.</li>
+<li>Las matemáticas tienen dos caras: son la ciencia rigurosa de Euclides, pero
+también son algo más. La matemática presentada a la manera euclidiana aparece
+como una ciencia sistemática y deductiva; pero la matemática en ciernes
+aparece como una ciencia experimental e inductiva. Ambos aspectos son tan
+antiguos como la propia ciencia de las matemáticas.</li>
+<li>Mire alrededor suyo cuando encuentre la primera seta: las setas como los
+descubrimientos no crecen nunca solas.</li>
+<li>No crea nada, pero reserve sus dudas para las cosas importantes.</li>
+<li>No piensa bien quien no piensa dos veces.</li>
+<li>Para enseñar de manera efectiva, un profesor debe desarrollar un sentimiento
+por su asignatura; no puede hacer que sus alumnos sientan su vitalidad si no
+la siente él mismo. No puede compartir su entusiasmo cuando no tiene
+entusiasmo que compartir. La forma en que expone su tema puede ser tan
+importante como el tema que expone; debe sentir personalmente que es
+importante.</li>
+<li>Quien mal comprende, mal responde.</li>
+<li>Resolver problemas es una habilidad práctica como, digamos, nadar. Adquirimos
+cualquier habilidad práctica por imitación y práctica.</li>
+<li>Resolver problemas se puede considerar como la actividad humana más
+característica.</li>
+<li>Según el viento, la vela. Según la tela, el traje.</li>
+<li>Si el fin perseguido no está claro en nuestra mente, perderemos fácilmente
+el camino y abandonaremos el problema.</li>
+<li>Sus cinco mejores amigos son qué, por qué, dónde, cuándo y cómo.</li>
+<li>Un gran descubrimiento resuelve un gran problema pero hay un grano de
+descubrimiento en la solución de cualquier problema. Su problema puede ser
+modesto; pero si desafía su curiosidad y pone en juego sus facultades
+inventivas, y si lo resuelve por sus propios medios, puede experimentar la
+tensión y disfrutar del triunfo del descubrimiento.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Georges_Clemenceau">Georges Clemenceau</a>
+<ul class="org-ul">
+<li>La vida de un hombre es interesante cuando ha cometido errores; es una muestra
+de que intentó superarse.</li>
+<li>Los tontos no gustan de admirar las cosas sino cuando llevan una etiqueta.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2ZnMPit">Gian-Carlo Rota</a>
+<ul class="org-ul">
+<li>El avance de las matemáticas puede ser visto como un progreso de lo infinito
+a lo finito.</li>
+<li>El ejemplo más común de belleza en matemáticas es un paso brillante en una
+prueba que de otra manera no sería distinguida. Un teorema hermoso puede no
+ser bendecido con una prueba igualmente hermosa; con frecuencia aparecen
+teoremas hermosos con pruebas feas. Cuando a un teorema hermoso le falta una
+prueba hermosa, los matemáticos intentan proporcionar nuevas pruebas que
+coincidan con la belleza del teorema, con éxito variable. Sin embargo, es
+imposible encontrar pruebas hermosas de teoremas que no sean
+hermosos.</li>
+<li>La lógica matemática no trata de la verdad, sino del juego de la verdad.</li>
+<li>Un buen maestro no enseña hechos, enseña entusiasmo, apertura de mente y
+valores.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran">Gibran Jalil Gibran</a>
+<ul class="org-ul">
+<li>El olvido es una forma de libertad.</li>
+<li>En el corazón de todos los inviernos vive una primavera palpitante, y
+detrás de cada noche, viene una aurora sonriente.</li>
+<li>Por muy larga que sea la tormenta, el sol siempre vuelve a brillar entre las
+nubes.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3debxWY">Giovanni Sartori</a>
+<ul class="org-ul">
+<li>El único modo de resolver los problemas es conociéndolos, saber que existen. El
+simplismo los cancela y, así, los agrava.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/G%C3%B6sta_Mittag-Leffler">Gösta Mittag-Leffler</a>
+<ul class="org-ul">
+<li>La mejor obra del matemático es el arte, un arte altamente perfecto, tan audaz
+como los más secretos sueños de la imaginación, claro y límpido. El genio
+matemático y el genio artístico se tocan mutuamente.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3jDqKDW">Gottfried Leibniz</a>
+<ul class="org-ul">
+<li>Dos cosas son idénticas si una puede ser sustituida por la otra sin afectar
+la verdad.</li>
+<li>El placer que obtenemos de la música proviene de contar, pero contando
+inconscientemente. La música no es más que aritmética inconsciente.</li>
+<li>En el ámbito del espíritu, busca la claridad; en el mundo material, busca la
+utilidad.</li>
+<li>Es indigno que hombres notables pierdan su tiempo como esclavos del cálculo
+cuando podrían dejar ese trabajo en manos de cualquiera si se usaran las
+máquinas.</li>
+<li>Incluso en los juegos de niños hay cosas para interesar al matemático más
+grande.</li>
+<li>La música es el placer que experimenta la mente humana al contar sin darse
+cuenta de que está contando.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Gottlob_Frege">Gottlob Frege</a>
+<ul class="org-ul">
+<li>El objetivo de la prueba es, de hecho, no sólo poner la verdad de una
+proposición más allá de toda duda, sino también darnos una idea de la
+dependencia de una verdad con respecto a otra. Después de habernos convencido
+de que una roca es inamovible, al intentar moverla sin éxito, queda la siguiente
+pregunta, ¿qué es lo que lo sostiene de forma tan segura?</li>
+<li>Realmente vale la pena inventar un nuevo símbolo si podemos eliminar no pocas
+dificultades lógicas y asegurar el rigor de las pruebas. Pero muchos
+matemáticos parecen tener tan poca sensación de pureza lógica y precisión que
+usarán una palabra que significa tres o cuatro cosas diferentes, antes de
+tomar la terrible decisión de inventar una nueva palabra.</li>
+<li>Todo buen matemático es al menos medio filósofo, y todo buen filósofo es al
+menos medio matemático.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Gregory_Chaitin">Gregory Chaitin</a>
+<ul class="org-ul">
+<li>En cierto modo, las matemáticas no son el arte de responder preguntas
+matemáticas, es el arte de hacer las preguntas correctas, las preguntas que te
+dan una idea, las que te guían en direcciones interesantes, las que se
+conectan con muchas otras preguntas interesantes, las que tienen hermosas
+respuestas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Groucho_Marx">Groucho Marx</a>
+<ul class="org-ul">
+<li>La política es el arte de buscar problemas, encontrarlos, hacer un
+diagnóstico falso y aplicar después los remedios equivocados.</li>
+<li>Todavía no sé qué me vas a preguntar, pero me opongo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Gustav_Meyrink">Gustav Meyrink</a>
+<ul class="org-ul">
+<li>La vida toda no es nada más que preguntas materializadas, las cuales llevan
+en sí el germen de la respuesta y respuestas que van preñadas de
+preguntas. Quien vea en ella cualquier otra cosa es un loco.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Gustave_Flaubert">Gustave Flaubert</a>
+<ul class="org-ul">
+<li>El futuro nos tortura y el pasado nos encadena. He aquí por qué se nos
+escapa el presente.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/H._L._Mencken">H.L. Mencken</a>
+<ul class="org-ul">
+<li>Para cada problema complejo y difícil, siempre hay una respuesta simple,
+fácil y equivocada.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2D9hgQt">Haemin Sunim</a>
+<ul class="org-ul">
+<li>Si no cambiamos por nosotros mismos, entonces el mundo nos obligará a
+cambiar, lo cual es más doloroso. El cambio es necesario para nuestro
+crecimiento espiritual.</li>
+<li>Si quiero convencer a alguien, primero escucho con atención. Incluso si
+tengo razón, no se convencerá hasta que se sienta escuchado y respetado.</li>
+<li>¿Quieres sentirte joven de nuevo? Aprende algo nuevo. Ser estudiante hace que
+tu mente esté fresca y curiosa como un niño pequeño otra vez.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Haim_Ginott">Haim Ginott</a>
+<ul class="org-ul">
+<li>Los niños son como cemento fresco, cualquier cosa que caiga sobre ellos
+deja una huella.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Hans_Reichenbach">Hans Reichenbach</a>
+<ul class="org-ul">
+<li>La esencia del conocimiento es la generalización. Que el fuego se puede
+producir frotando la madera de cierta manera es un conocimiento derivado de la
+generalización de las experiencias individuales; la afirmación significa que
+frotar la madera de esta manera siempre producirá fuego. Por lo tanto, el arte
+del descubrimiento es el arte de la correcta generalización.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Hecato_de_Rodas">Hecato de Rodas</a>
+<ul class="org-ul">
+<li>Si dejas de esperar, dejarás de temer.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Heinrich_Heine">Heinrich Heine</a>
+<ul class="org-ul">
+<li>La verdadera locura quizá no sea otra cosa que la sabiduría misma que,
+cansada de descubrir las vergüenzas del mundo, ha tomado la inteligente
+resolución de volverse loca.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henri_Bergson">Henri Bergson</a>
+<ul class="org-ul">
+<li>El ojo ve sólo lo que la mente está preparada para comprender.</li>
+<li>Lo que hacemos depende de lo que somos; pero debe añadirse que somos, en
+cierta medida, lo que hacemos y que nos creamos continuamente a nosotros
+mismos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henri_L%C3%A9on_Lebesgue">Henri Lebesgue</a>
+<ul class="org-ul">
+<li>La única enseñanza que un profesor puede dar, en mi opinión, es la de pensar
+delante de sus alumnos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henri_Poincar%C3%A9">Henri Poincaré</a>
+<ul class="org-ul">
+<li>Duda de los datos hasta que los datos no dejen lugar a dudas.</li>
+<li>Dudar de todo o creerlo todo son dos opciones igualmente cómodas, pues
+tanto una como otra nos eximen de reflexionar.</li>
+<li>El sentimiento de la belleza matemática, de la armonía de los números y de
+las formas, de la elegancia geométrica. Es un sentimiento genuinamente
+estético, que todos los matemáticos conocen. Y esto es sensibilidad.</li>
+<li>El verdadero método para prever el futuro de las matemáticas es estudiar su
+historia y su estado actual.</li>
+<li>La ciencia son hechos; de la misma manera que las casas están hechas de
+piedras, la ciencia está hecha de hechos; pero un montón de piedras no es
+una casa y una colección de hechos no es necesariamente ciencia.</li>
+<li>Las matemáticas son el arte de dar el mismo nombre a cosas diferentes.</li>
+<li>Los descubrimientos matemáticos, pequeños o grandes, nunca se generan
+espontáneamente. Presuponen siempre una sólida base de conocimientos
+preliminares bien madurados por el trabajo consciente y subconsciente.</li>
+<li>Los matemáticos dan mucha importancia a la elegancia de sus métodos y a sus
+resultados. Esto no es puro diletantismo. ¿Qué es lo que en verdad nos da la
+sensación de elegancia en una solución, en una demostración? Es la armonía de
+las diversas partes, su la simetría, su feliz equilibrio; en una palabra, es
+todo lo que introduce orden, todo lo que da unidad, lo que nos permite ver con
+claridad y comprender a la vez tanto el conjunto como los detalles.</li>
+<li>Todos creen firmemente en ello porque los matemáticos se imaginan que es un
+hecho de observación, y los observadores que es una teoría matemática.</li>
+<li>Una palabra bien elegida puede economizar no sólo cien palabras, sino cien
+pensamientos.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2Yv5qZI">Henry Brougham</a>
+<ul class="org-ul">
+<li>Procura buscar el conocimiento en las dificultades.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>
+<ul class="org-ul">
+<li>No importa lo pequeño pueda parecer el comienzo: lo que se hace bien, bien
+hecho queda para siempre.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel">Henri-Frédéric Amiel</a>
+<ul class="org-ul">
+<li>Dime lo que crees ser y te diré lo que no eres.</li>
+<li>El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
+cumplimiento de nuestros deseos y cumplirlos plenamente.</li>
+<li>El hombre que pretende verlo todo con claridad antes de decidir nunca
+decide.</li>
+<li>Hacer con soltura lo que es difícil a los demás, he ahí la señal del
+talento; hacer lo que es imposible al talento, he ahí el signo del genio.</li>
+<li>La vida es un aprendizaje de renunciamiento progresivo, de continua
+limitación de nuestras pretensiones, de nuestras esperanzas, de nuestra
+fuerza, de nuestra libertad.</li>
+<li>No creo que ningún placer que podamos obtener de nuestras emociones llegue
+a igualar esos momentos de paz silenciosa que son atisbos de los gozos del
+paraíso &#x2026; Se siente una armonía interior libre de la más mínima agitación
+o tensión. En esos momentos el estado del alma es solemne, semejante quizá
+a su condición más allá de la tumba. Se trata de felicidad, según entienden
+los orientales, la felicidad del eremita que se halla libre de deseo y
+conflicto, y que sencillamente adora en plenitud de dicha.</li>
+<li>Vivimos mientras nos renovamos.</li>
+<li>¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde muchos
+puntos de vista.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henrik_Ibsen">Henrik Ibsen</a>
+<ul class="org-ul">
+<li>La belleza es el acuerdo entre el contenido y la forma.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>
+<ul class="org-ul">
+<li>No hay nadie tan equivocado como aquel que pasa la mayor parte de su vida
+ganándose la vida.</li>
+<li>Nuestra vida siempre se malgasta en los detalles &#x2026; simplifiquemos,
+simplifiquemos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henry_Ford">Henry Ford</a>
+<ul class="org-ul">
+<li>La mayoría de las personas gastan más tiempo y energías en hablar de los
+problemas que en afrontarlos.</li>
+<li>Pensar es el trabajo más difícil que existe. Quizá sea ésta la razón por la
+que haya tan pocas personas que lo practiquen.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Henry_Miller">Henry Miller</a>
+<ul class="org-ul">
+<li>Hay que darle un sentido a la vida, por el hecho mismo de que carece de
+sentido.</li>
+<li>Llama experiencias a tus dificultades y recuerda que cada una de ellas te
+ayuda a madurar.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3fSs4RM">Henry Moore</a>
+<ul class="org-ul">
+<li>No hay jubilación para un artista; el arte es una forma de vida y como tal no
+tiene fin.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Herbert_Alexander_Simon">Herbert A. Simon</a>
+<ul class="org-ul">
+<li>En el mundo de los computadores, el momento de la verdad es el de ejecutar
+el programa; los demás es profecía.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Herbert_von_Karajan">Herbert von Karajan</a>
+<ul class="org-ul">
+<li>El arte de dirigir consiste en saber cuando hay que abandonar la batuta para
+no molestar a la orquesta.</li>
+<li>Esta también es la razón por la que admiro tanto a los artesanos, personas
+que hacen su trabajo con un gran conocimiento y habilidad. Conocí a un
+carpintero fabuloso especializado en madera vieja que trabajaba en mi casa
+de Saint Moritz. El modo en que tocaba y acariciaba cada pieza denotaba que
+era un hombre extraordinario. Amaba profundamente lo que hacía. Amar lo que
+uno hace es requisito necesario para ser artista.</li>
+<li>Las influencias aparecen al principio, pero llegados a un cierto punto,
+terminan.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Hermann_Hesse">Hermann Hesse</a>
+<ul class="org-ul">
+<li>Hacer versos malos depara mucha más felicidad que leer los más bellos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Hermann_Weyl">Hermann Weyl</a>
+<ul class="org-ul">
+<li>La investigación matemática eleva la mente humana a una proximidad más
+cercana a lo divino de la que se puede alcanzar a través de cualquier otro
+medio.</li>
+<li>Mi trabajo siempre trató de unir lo verdadero con lo bello; pero cuando tuve
+que elegir uno u otro, generalmente elegí lo bello.</li>
+<li>Una prueba matemática moderna no es tan diferente de una máquina moderna:
+simples principios fundamentales están ocultos bajo una masa de detalles
+técnicos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Her%C3%B3doto">Heródoto</a>
+<ul class="org-ul">
+<li>Es más fácil embaucar a muchos juntos que a uno solo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Her%C3%A1clito">Heráclito de Éfeso</a>
+<ul class="org-ul">
+<li>Todo cambia, nada es.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Hes%C3%ADodo">Hesíodo</a>
+<ul class="org-ul">
+<li>Sé prudente. Lo mejor en todo es escoger la ocasión.</li>
+<li>Si añades un poco a lo poco y lo haces así con frecuencia, pronto llegará a
+ser mucho.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Hipatia">Hipatia</a>
+<ul class="org-ul">
+<li>Defiende tu derecho a pensar, incluso pensar de manera errónea es mejor que
+no pensar.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Hippolyte_Taine">Hippolyte Taine</a>
+<ul class="org-ul">
+<li>Para conseguir algún resultado en la vida es preciso tener paciencia,
+aburrirse, hacer y deshacer, volver a empezar y seguir de nuevo, sin que un
+impulso de cólera o un arrebato de la imaginación vengan a detener o desviar
+el trabajo diario.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Hip%C3%B3crates">Hipócrates</a>
+<ul class="org-ul">
+<li>Hay, de hecho, dos cosas, ciencia y opinión; la primera engendra
+conocimiento, la segunda ignorancia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Honor%C3%A9_de_Balzac">Honoré de Balzac</a>
+<ul class="org-ul">
+<li>Aunque nada cambie, si yo cambio, todo cambia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Horace_Walpole">Horace Walpole</a>
+<ul class="org-ul">
+<li>Todo el secreto de la vida es estar interesado en una cosa profundamente y en
+otras tantas un poco.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Horacio">Horacio</a>
+<ul class="org-ul">
+<li>A los que mucho desean les falta mucho.</li>
+<li>A la gente triste le disgusta la feliz, tanto como la feliz aborrece la
+triste; los que son rápidos de pensamiento se ponen nerviosos con los
+calmados, así como los desocupados no pueden soportar a los que siempre
+están ocupados.</li>
+<li>Apodérate del día; no confíes en el mañana.</li>
+<li>Borra muchas veces, si quieres escribir cosas que sean dignas de ser
+leídas.</li>
+<li>Lo que hace falta es someter a las circunstancias, no someterse a ellas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Howard_Eves">Howard Eves</a>
+<ul class="org-ul">
+<li>Existe una distinción entre lo que se puede llamar un problema y lo que puede
+considerar un ejercicio. Este último sirve para entrenar al en alguna técnica o
+procedimiento, y requiere poco o ningún original. A diferencia de un ejercicio,
+un problema, si es apropiado para nivel, debe requerir pensamiento por parte del
+estudiante. Es imposible exagerar la importancia de los problemas en las
+matemáticas. Es por medio de los problemas que las matemáticas se desarrollan y
+se levantan por sí mismas. Cada nuevo descubrimiento en matemáticas es el
+resultado de un intento de resolver algún problema.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ian_Stewart">Ian Stewart</a>
+<ul class="org-ul">
+<li>A menudo, la contribución clave de la intuición es hacernos conscientes de
+los puntos débiles de un problema, los lugares donde puede ser vulnerable a un
+ataque. Una demostración matemática es como una batalla, o si prefiere una
+metáfora menos bélica, una partida de ajedrez. Una vez que se ha identificado
+un punto débil potencial, la comprensión técnica del matemático de la
+maquinaria de las matemáticas puede utilizarse para explotarlo.</li>
+<li>Criticar a las matemáticas por su abstracción es perder el punto por
+completo. La abstracción es lo que hace que las matemáticas funcionen. Si te
+concentras demasiado en una aplicación demasiado limitada de una idea
+matemática, le robas al matemático sus herramientas más importantes: analogía,
+generalidad, y simplicidad.</li>
+<li>La intuición matemática es la capacidad de la mente para sentir la forma y la
+estructura, para detectar patrones que no podemos percibir conscientemente. La
+intuición carece de la claridad cristalina de la lógica consciente, pero lo
+compensa al llamar la atención sobre cosas que nunca hubiéramos considerado
+conscientemente.</li>
+<li>La tendencia del empresario es explotar el mundo natural. La tendencia del
+ingeniero es cambiarlo. La tendencia del científico es tratar de entenderlo, de
+averiguar qué es lo que realmente está sucediendo. La tendencia del matemático
+es estructurar ese proceso de comprensión buscando generalidades que
+atraviesen las subdivisiones obvias.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Immanuel_Kant">Immanuel Kant</a>
+<ul class="org-ul">
+<li>La ciencia es la organización del conocimiento, pero la sabiduría es la
+organización de la vida</li>
+<li>Nunca discutas con un idiota. La gente podría no notar la diferencia.</li>
+<li>Ser es hacer.</li>
+<li>Tan solo por la educación puede el hombre llegar a ser hombre. El hombre no es
+más que lo que la educación hace de él.</li>
+<li>Vemos las cosas, no como son, sino como somos nosotros.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3bJNr6w">Imre Lakatos</a>
+<ul class="org-ul">
+<li>El compromiso ciego con una teoría no es una virtud intelectual: es un crimen
+intelectual.</li>
+<li>Hay una regresión infinita en las pruebas; por lo tanto, las pruebas no
+prueban. Debes darte cuenta de que probar es un juego, que se juega mientras
+lo disfrutas y que se detiene cuando te cansas.</li>
+<li>La formación científica, atomizada de acuerdo con técnicas distintas y
+separada, ha degenerado en entrenamiento científico. No hay que sorprenderse
+de que ello desanime a las mentes críticas.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/34FxvAi">Indira Gandhi</a>
+<ul class="org-ul">
+<li>Un día mi abuelo me dijo que hay dos tipos de personas: las que trabajan, y las
+que buscan el mérito. Me dijo que tratara de estar en el primer grupo: hay menos
+competencia ahí.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Isaac_Asimov">Isaac Asimov</a>
+<ul class="org-ul">
+<li>Las normas establecidas con razón y con justicia, pueden dejar de ser
+útiles al cambiar las circunstancias, pero al permitir que continuen
+vigentes por la fuerza de la inercia, entonces, no sólo es justo, sino
+también útil, quebrantar aquellas que nos anuncian el hecho de que son
+inútiles, o incluso realmente perjudiciales.</li>
+<li>Nunca permitas que el sentido de la moral te impida hacer lo que está bien.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a>
+<ul class="org-ul">
+<li>La verdad siempre se halla en la simplicidad y no en la multiplicidad y
+confusión de las cosas.</li>
+<li>Lo que sabemos es una gota de agua; lo que ignoramos es el océano.</li>
+<li>Los hombres construimos demasiados muros y no suficientes puentes.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Is%C3%B3crates">Isócrates</a>
+<ul class="org-ul">
+<li>Una colección de bellas máximas es un tesoro más apreciable que las
+riquezas.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Israel_Nathan_Herstein">Israel Nathan Herstein</a>
+<ul class="org-ul">
+<li>El valor de un problema no es tanto el de encontrar la respuesta como el de
+las ideas e intentos que obliga su resolución.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2RHtRyr">Italo Calvino</a>
+<ul class="org-ul">
+<li>Renunciar a las cosas es menos difícil de lo que se cree: todo estriba en
+empezar. Una vez que has logrado prescindir de algo que creías esencial,
+adviertes que puedes pasarte también sin alguna otra cosa, y luego aún sin otras
+muchas cosas.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Ivars_Peterson">Ivars Peterson</a>
+<ul class="org-ul">
+<li>El misterio es un ingrediente ineludible de las matemáticas. Las matemáticas
+están llenas de preguntas sin respuesta, que superan con creces el número de
+teoremas y resultados conocidos. Está en la naturaleza de las matemáticas el
+plantear más problemas de los que puede resolver. De hecho, la matemática en
+sí misma puede estar construida sobre pequeñas islas de verdad que comprenden
+las piezas de la matemática que pueden ser validadas por pruebas relativamente
+cortas. Todo lo demás es especulación.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jacinto_Benavente">Jacinto Benavente</a>
+<ul class="org-ul">
+<li>La vida es como un viaje por la mar: hay días de calma y días de borrasca;
+lo importante es ser un buen capitán de nuestro barco.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jacques_Lacan">Jacques Lacan</a>
+<ul class="org-ul">
+<li>He aquí el gran error de siempre: imaginar que los seres humanos piensan lo
+que dicen.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jaime_Balmes">Jaime Balmes</a>
+<ul class="org-ul">
+<li>La lectura es como el alimento; el provecho no está en proporción de lo que
+se come, sino de los que se digiere.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/James_Joseph_Sylvester">James Joseph Sylvester</a>
+<ul class="org-ul">
+<li>El objetivo constante del matemático es reducir todas sus expresiones a sus
+términos más elementales, reducir cada palabra y frase superflua, y condensar
+el máximo de significado en el mínimo de lenguaje.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/James_Joyce">James Joyce</a>
+<ul class="org-ul">
+<li>Los errores son los umbrales del descubrimiento.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jean_Cocteau">Jean Cocteau</a>
+<ul class="org-ul">
+<li>No se debe confundir la verdad con la opinión de la mayoría.</li>
+<li>Un egoísta es aquel que se empeña en hablarte de sí mismo cuando tú te
+estas muriendo de ganas de hablarle de tí.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jean_Dieudonn%C3%A9">Jean Dieudonné</a>
+<ul class="org-ul">
+<li>La vida de un matemático está dominada por una insaciable curiosidad, un deseo
+que raya en la pasión por resolver los problemas que estudia.</li>
+<li>No existe un criterio de apreciación que no varíe de una época a otra y de un
+matemático a otro. [&#x2026;] Estas divergencias en el gusto recuerdan las disputas
+que suscitan las obras de arte, y es un hecho de que los matemáticos a menudo
+discuten entre sí si un teorema es más o menos hermoso. Esto nunca deja de
+sorprender a los profesionales de otras ciencias: para ellos, el único
+criterio es la verdad de una teoría o fórmula.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jean_Piaget">Jean Piaget</a>
+<ul class="org-ul">
+<li>El objetivo principal de la educación es crear hombres capaces de hacer cosas
+nuevas, no simplemente repetir lo que han hecho otras generaciones, hombres
+creativos, inventivos y descubridores.</li>
+<li>Inteligencia es lo que usas cuando no sabes qué hacer.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jean_de_La_Fontaine">Jean de La Fontaine</a>
+<ul class="org-ul">
+<li>A menudo encontramos nuestro destino por los caminos que tomamos para
+evitarlo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jean-Jacques_Rousseau">Jean-Jacques Rousseau</a>
+<ul class="org-ul">
+<li>Todas las pasiones son buenas cuando uno es dueño de ellas, y todas son
+malas cuando nos esclavizan.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jean-Paul_Sartre">Jean-Paul Sartre</a>
+<ul class="org-ul">
+<li>Aquello que cada uno de nosotros es, en cada momento de su vida, es la suma
+de sus elecciones previas.</li>
+<li>Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jeff_Lindsay">Jeff Lindsay</a>
+<ul class="org-ul">
+<li>La clave de una vida feliz es alcanzar metas de las que te sientas
+orgulloso y un propósito que cumplir.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Johann_Caspar_Lavater">Johann Kaspar Lavater</a>
+<ul class="org-ul">
+<li>Si quieres ser sabio, aprende a interrogar razonablemente, a escuchar con
+atención, a responder serenamente y a callar cuando no tengas nada que
+decir.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Johann_Sebastian_Bach">Johann Sebastian Bach</a>
+<ul class="org-ul">
+<li>Es fácil tocar un instrumento musical: todo lo que tienes que hacer es
+tocar la tecla correcta en el momento adecuado y el instrumento suena.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe">Johann Wolfgang von Goethe</a>
+<ul class="org-ul">
+<li>Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
+difícil.</li>
+<li>Con el conocimiento se acrecientan las dudas.</li>
+<li>El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
+viejo, místico.</li>
+<li>Hablar es una necesidad, escuchar es un arte.</li>
+<li>El único hombre que no se equivoca es el que nunca hace nada.</li>
+<li>Lo importante no es donde se está, sino la dirección en que se camina.</li>
+<li>Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
+las hubiera hecho antes.</li>
+<li>Los perezosos siempre hablan de lo que piensan hacer, de lo que harán; los que
+de veras hacen algo no tienen tiempo de hablar ni de lo que hacen.</li>
+<li>Muchos odian la soledad porque no se soportan a sí mismos.</li>
+<li>Nadie es más esclavo que el que se tiene por libre sin serlo.</li>
+<li>No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
+regresará al camino que en su día la naturaleza predeterminó para él.</li>
+<li>Quien produce con alegría y se alegra de lo producido es feliz.</li>
+<li>Se tiende a poner palabras allí donde faltan las ideas.</li>
+<li>Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El atrevimiento
+posee genio, poder y magia. Comiénzalo ahora.</li>
+<li>Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra
+parte, si tacho de malo a lo que es bueno, acabaré causando un gran
+perjuicio. Quien quiera obrar adecuadamente, no deberá criticar nunca nada
+ni preocuparse de lo que esté mal, sino limitarse a hacer bien las
+cosas. De lo que se trata no es de destrozar, sino de construir algo que le
+procure un gozo intachable a la humanidad.</li>
+<li>Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
+mejor las cosas.</li>
+<li>Todos los días deberíamos oír un poco de música, leer una buena poesía,
+contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_Archibald_Wheeler">John Archibald Wheeler</a>
+<ul class="org-ul">
+<li>Vivimos en una isla rodeada de un mar de ignorancia. A medida que nuestra
+isla del conocimiento crece, también crece la costa de nuestra ignorancia.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3g17HS0">John H. Newman</a>
+<ul class="org-ul">
+<li>En un mundo superior puede ser de otra manera, pero aquí abajo, vivir es
+cambiar y ser perfecto es haber cambiado muchas veces.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_Lennon">John Lennon</a>
+<ul class="org-ul">
+<li>La vida es aquello que te va sucediendo mientras estás ocupado haciendo otros
+planes.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2WwYbPF">John Stillwell</a>
+<ul class="org-ul">
+<li>Imposibilidades aparentes que son nuevas verdades [&#x2026;] números
+irracionales, números imaginarios, puntos en el infinito, espacio curvo,
+ideales y varios tipos de infinito. Estas ideas parecen imposibles al
+principio porque nuestra intuición no puede comprenderlas, pero pueden ser
+capturadas con la ayuda del simbolismo matemático, que es una especie de
+extensión tecnológica de nuestros sentidos.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann</a>
+<ul class="org-ul">
+<li>Se espera que un teorema matemático o una teoría matemática no sólo describa
+y clasifique de manera sencilla y elegante numerosos y a priori dispares casos
+especiales. También se espera elegancia en su estructura arquitectónica.</li>
+<li>Si la gente no cree que las matemáticas son simples, es sólo porque no se dan
+cuenta de lo complicada que es la vida.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_C._Maxwell">John C. Maxwell</a>
+<ul class="org-ul">
+<li>La clave del problema reside en identificar el problema.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_Holt_(pedagogo)">John Holt</a>
+<ul class="org-ul">
+<li>Aprendemos a hacer algo haciéndolo. No existe otra manera.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_Lennon">John Lennon</a>
+<ul class="org-ul">
+<li>Es tan ciego porque sólo ve lo que quiere ver.</li>
+<li>La vida es lo que te pasa mientras estás ocupado haciendo otros planes.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_Locke">John Locke</a>
+<ul class="org-ul">
+<li>El trabajo del maestro no consiste tanto en enseñar todo lo aprendible,
+como en producir en el alumno amor y estima por el conocimiento.</li>
+<li>Los hombres olvidan siempre que la felicidad humana es una disposición de
+la mente y no una condición de las circunstancias.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_Maynard_Keynes">John Maynard Keynes</a>
+<ul class="org-ul">
+<li>Cuando las circunstancias cambian, yo cambio de opinión.</li>
+<li>La dificultad no reside en las nuevas ideas, sino en escapar de las viejas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_Milton">John Milton</a>
+<ul class="org-ul">
+<li>La soledad es a veces la mejor compañía, y un corto retiro trae un dulce
+retorno.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/John_Stuart_Mill">John Stuart Mill</a>
+<ul class="org-ul">
+<li>La tendencia general del mundo es convertir a la mediocridad en el poder
+dominante sobre la humanidad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jonathan_Swift">Jonathan Swift</a>
+<ul class="org-ul">
+<li>¡Ojalá vivas todos los días de tu vida!</li>
+<li>Un hombre nunca debe avergonzarse por reconocer que se equivocó, que es
+tanto como decir que hoy es más sabio de lo que fue ayer.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jorge_Luis_Borges">Jorge Luis Borges</a>
+<ul class="org-ul">
+<li>La duda es uno de los nombres de la inteligencia.</li>
+<li>En cuanto al fracaso y la fama, me parecen irrelevantes y no me
+preocupan. Lo que quiero ahora es la paz, el placer del pensamiento
+y de la amistad. Y aunque parezca demasiado ambicioso, la sensación
+de amar y ser amado.</li>
+<li>Los españoles siempre están pensando en la envídia. Para decir que algo es
+bueno dicen: "Es envidiable".</li>
+<li>Maestro no es el que se aplica a la tarea de enseñar cosas, porque
+una enciclopedia, en tal caso, sería mejor. El maestro no enseña
+cosas sino una manera de tratar con las cosas, una manera de tratar
+con el incesante universo.</li>
+<li>Nuestra cobardía y nuestra desidia tienen la culpa de que el mañana y el ayer
+sean iguales.</li>
+<li>Nuestro vivir es una serie de adaptaciones, vale decir, una educación del
+olvido.</li>
+<li>Que otros se jacten de las páginas que han escrito; a mi me enorgullecen
+las que he leído.</li>
+<li>Uno no es lo que es por lo que escribe, sino por lo que ha leído.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_de_Letamendi">José de Letamendi</a>
+<ul class="org-ul">
+<li>Si un loco se obstinara durante mucho tiempo en lanzar piedras a la Luna,
+no alcanzaría, naturalmente, el blanco apetecido, pero acabaría por ser un
+hondero excepcional.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Sampedro">José Luis Sampedro</a>
+<ul class="org-ul">
+<li>Mi pedagogía siempre se reducía a dos palabras: amor y provocación.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Joseph_Joubert">Joseph Joubert</a>
+<ul class="org-ul">
+<li>Enseñar es aprender dos veces.</li>
+<li>El motivo no existe siempre para ser alcanzado, sino para servir de punto de
+mira.</li>
+<li>Las palabras son como el vidrio; oscurecen todo aquello que no ayudan a ver
+mejor.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Narosky">José Narosky</a>
+<ul class="org-ul">
+<li>Quien cambia felicidad por dinero no podrá cambiar dinero por felicidad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset">José Ortega y Gasset</a>
+<ul class="org-ul">
+<li>La técnica es el esfuerzo para ahorrar esfuerzo.</li>
+<li>Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar
+cuando se mira lejos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Saramago">José Saramago</a>
+<ul class="org-ul">
+<li>El mundo se está convirtiendo en una caverna igual que la de Platón: todos
+mirando imágenes y creyendo que son la realidad.</li>
+<li>En la comunicación directa intervienen la mirada, el olor. En una carta puede
+caer una lágrima, pero el correo electrónico no puede ir acompañado de
+emociones. Los hombres terminarán encerrados en una habitación con pantalla,
+comunicando con todo el mundo pero solos-</li>
+<li>Escribo para intentar comprender, y porque no tengo nada mejor que hacer.</li>
+<li>La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria
+tiene algo negativo, jamás es definitiva.</li>
+<li>La esperanza nunca ha sido de fiar.</li>
+<li>Las tres enfermedades del hombre actual son la incomunicación, la revolución
+tecnológica y su vida centrada en su triunfo personal.</li>
+<li>Lo difícil no es vivir con las personas, lo difícil es comprenderlas.</li>
+<li>Lo malo no es tener opinión; lo malo es tenerla sin saber de qué se habla.</li>
+<li>Lo peor es que se está armando un sistema en el que las pequeñas cosas son
+las que ocupan los espacios, la información y la preocupación de la
+gente. Los grandes temas aparecen entonces diluidos, por detrás, y no los
+vemos.</li>
+<li>Los cerebros están llenos de palabras que viven en paz y en armonía con sus
+contrarias y enemigas. Por eso la gente hace lo contrario de lo que piensa
+creyendo pensar lo que hace.</li>
+<li>Los únicos interesados en cambiar el mundo son los pesimistas, porque los
+optimistas están encantados con lo que hay.</li>
+<li>Nuestra mayor tragedia es no saber qué hacer con nuestras vidas.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Joshua_Bloch">Joshua Bloch</a>
+<ul class="org-ul">
+<li>Cuanto más claro y bonito sea el programa, más rápido se ejecutará. Y si no
+lo hace, será fácil hacerlo rápido.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Juan_XXIII">Juan XXIII</a>
+<ul class="org-ul">
+<li>Sólo por hoy trataré de vivir exclusivamente el día, sin querer resolver el
+problema de mi vida todo de una vez.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jules_Renard">Jules Renard</a>
+<ul class="org-ul">
+<li>Las personas que quieren seguir reglas me divierten, puesto que en la vida
+únicamente existe la excepción.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Julio_Verne">Julio Verne</a>
+<ul class="org-ul">
+<li>La ciencia, muchacho, está hecha de errores; pero de errores que conviene
+cometer, porque conducen poco a poco a la verdad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Karl_Marx">Karl Marx</a>
+<ul class="org-ul">
+<li>Las ideas dominantes de una época siempre fueron sólo las ideas de una clase
+dominante.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Karl_Pearson">Karl Pearson</a>
+<ul class="org-ul">
+<li>El verdadero objetivo del maestro debe ser impartir una apreciación del
+método y no un conocimiento de los hechos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Karl_Popper">Karl Popper</a>
+<ul class="org-ul">
+<li>Es imposible hablar de tal manera que no se pueda ser mal interpretado.</li>
+<li>La ignorancia no consiste en la ausencia de conocimientos sino en rehusar
+adquirirlos.</li>
+<li>Nuestro conocimiento es necesariamente finito, mientras que nuestra
+ignorancia es necesariamente infinita.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Karl_Weierstrass">Karl Weierstrass</a>
+<ul class="org-ul">
+<li>Un matemático que no sea también algo de poeta nunca será un matemático
+perfecto.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3dUHggj">Katherine Mansfield</a>
+<ul class="org-ul">
+<li>¿Qué es lo que más quiero hacer? Esto es lo que no debo dejar de preguntarme
+ante las dificultades.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Kurt_G%C3%B6del">Kurt Gödel</a>
+<ul class="org-ul">
+<li>El desarrollo de las matemáticas hacia una mayor precisión ha llevado, como
+es bien sabido, a la formalización de grandes partes de las mismas, de modo
+que se puede probar cualquier teorema usando nada más que unas pocas reglas
+mecánicas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Kurt_Tucholsky">Kurt Tucholsky</a>
+<ul class="org-ul">
+<li>La ventaja de ser inteligente es que así resulta más fácil pasar por
+tonto. Lo contrario es mucho más difícil.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Lao-Tse">Lao-Tse</a>
+<ul class="org-ul">
+<li>El Sabio actúa sin hacer nada.</li>
+<li>El sabio brega todo el día sin dejar el trabajo duro. No obstante, haciendo
+esto, permanece en el estado de tranquilidad perfecta.</li>
+<li>No valores las cosas difíciles de obtener, verás que nadie se entregará a la
+codicia.</li>
+<li>Proyecta lo difícil partiendo de donde aún es fácil.</li>
+<li>Saber que no se sabe, eso es humildad. Pensar que uno sabe lo que no sabe,
+eso es enfermedad.</li>
+<li>Sin salir más allá de tu puerta, puedes conocer los asuntos del mundo.
+Sin espiar a través de las ventanas, puedes ver el Camino del Cielo.
+Cuanto más lejos vas, menos conoces.
+Así pues, el Sabio conoce sin viajar, ve sin mirar, y logra sin Actuar.</li>
+<li>Sólo quien sabe cuándo es suficiente tendrá siempre bastante.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Laurence_J._Peter">Laurence J. Peter</a>
+<ul class="org-ul">
+<li>Sólo una cosa es más dolorosa que aprender de la experiencia, y es, no aprender
+de la experiencia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a>
+<ul class="org-ul">
+<li>Así como el hierro se oxida por falta de uso, también la inactividad
+destruye el intelecto.</li>
+<li>De vez en cuando desaparece, tómate un pequeño descanso, para que cuando
+vuelvas a tu trabajo tu juicio sea más acertado. Toma cierta distancia,
+porque así el trabajo parece más pequeño, la mayor parte se puede asimilar
+en un abrir y cerrar de ojos, y la falta de armonía y la proporción es más
+fácil de ver.</li>
+<li>La simplicidad es la máxima sofisticación.</li>
+<li>Quien de verdad sabe de qué habla, no encuentra razones para levantar la
+voz.</li>
+<li>Quien piensa poco, se equivoca mucho.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Leonhard_Euler">Leonhard Euler</a>
+<ul class="org-ul">
+<li>Algunos hechos se pueden ver más claramente con el ejemplo que con pruebas.</li>
+<li>Las propiedades de los números conocidos hoy en día han sido descubiertas en
+su mayoría por la observación, y descubiertas mucho antes de que su verdad
+haya sido confirmada por rígidas demostraciones. Hay incluso muchas
+propiedades de los números que conocemos bien, pero que todavía no podemos
+probar; sólo las observaciones nos han llevado a su conocimiento. Por lo
+tanto, vemos que en la teoría de los números, que todavía es muy imperfecta,
+podemos poner nuestras mayores esperanzas en las observaciones.</li>
+<li>Mejor que de nuestro juicio, debemos fiarnos del cálculo algebraico.</li>
+<li>Nada ocurre en el mundo cuyo significado no sea el de un máximo o un mínimo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i">León Tolstói</a>
+<ul class="org-ul">
+<li>Hay quien cruza el bosque y sólo ve leña para el fuego.</li>
+<li>Un hombre es como una fracción cuyo numerador corresponde a lo que él es, en
+tanto que el denominador es lo que cree ser.</li>
+<li>La felicidad no está en hacer lo que se quiere, sino en querer lo que se
+hace.</li>
+<li>Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con exceso
+lo que no tengo.</li>
+<li>Un hombre es como una fracción cuyo numerador corresponde a lo que él es,
+en tanto que el denominador es lo que cree ser. Cuanto más grande es el
+denominador, más pequeña es la fracción.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3l7SeTp">León Trotski</a>
+<ul class="org-ul">
+<li>Exponer a los oprimidos la verdad sobre la situación es abrirles el camino de
+la revolución.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Leonardo_da_Vinci">Leonardo da Vinci</a>
+<ul class="org-ul">
+<li>El mayor placer es la alegría de entender.</li>
+<li>El que ama la práctica sin teoría es como el marinero que se embarca sin
+timón ni brújula y nunca sabe dónde puede ir.</li>
+<li>La simplicidad es la máxima sofisticación.</li>
+<li>Los que se enamoran de la práctica sin la teoría son como los pilotos sin timón
+ni brújula, que nunca podrán saber a dónde van.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Leopold_Kronecker">Leopold Kronecker</a>
+<ul class="org-ul">
+<li>Dios creó el número natural, y todo el resto es obra del hombre.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Lewis_Carroll">Lewis Carroll</a>
+<ul class="org-ul">
+<li>Alicia se daba por lo general muy buenos consejos a sí misma, aunque rara
+vez los seguía.</li>
+<li>"Alicia a través del espejo" (Alianza, 1983) p. 116
+<ul class="org-ul">
+<li>La cuestión, insistió Alicia, es si se puede hacer que las palabras
+signifiquen tantas cosas diferentes.</li>
+<li>La cuestión, zanjó Zanco Panco, es saber quién es el que manda,&#x2026;, eso
+es todo.</li>
+</ul></li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Li_Bai">Li Bai</a>
+<ul class="org-ul">
+<li>El mundo está lleno de pequeñas alegrías. El arte consiste en saber
+distinguirlas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Lin_Yutang">Lin Yutang</a>
+<ul class="org-ul">
+<li>A veces es más importante descubrir lo que uno no puede hacer, que lo que
+sí puede.</li>
+<li>El hombre superior ama su alma; el hombre inferior ama su propiedad.</li>
+<li>La sabiduría de la vida consiste en la eliminación de lo no esencial. En
+reducir los problemas de la filosofía a unos pocos solamente: el goce del
+hogar, de la vida, de la naturaleza, de la cultura.</li>
+<li>Un placer como el de una conversación perfecta es necesariamente raro,
+porque los sabios rara vez hablan y los que hablan rara vez son sabios.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Linus_Pauling">Linus Pauling</a>
+<ul class="org-ul">
+<li>La mejor forma de tener una buena idea es &#x2026; tener un montón de ideas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Lope_de_Vega">Lope de Vega</a>
+<ul class="org-ul">
+<li>A mis soledades voy, de mis soledades vengo, porque para andar conmigo me
+bastan los pensamientos.</li>
+</ul></li>
+
+<li><a href="https://fr.wikipedia.org/wiki/Louis_Dumur">Louis Dumur</a>
+<ul class="org-ul">
+<li>La política es el arte de servirse de los hombres haciéndoles creer que se
+les sirve a ellos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Louis_Pasteur">Louis Pasteur</a>
+<ul class="org-ul">
+<li>Desgraciados los hombres que tienen todas las ideas claras.</li>
+<li>Sorprendernos por algo es el primer paso de la mente hacia el
+descubrimiento.</li>
+</ul></li>
+
+<li><a href="https://twitter.com/ramalhoorg?lang=es">Luciano Ramalho</a>
+<ul class="org-ul">
+<li>La abstracción prematura es tan mala como la optimización prematura.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Lucien_Szpiro">Lucien Szpiro</a>
+<ul class="org-ul">
+<li>La diferencia entre los matemáticos y los físicos es que después de que los
+físicos prueban un gran resultado piensan que es fantástico, pero después de
+que los matemáticos prueban un gran resultado piensan que es trivial.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/S%C3%A9neca">Lucio Anneo Séneca</a>
+<ul class="org-ul">
+<li>Atribuimos al lugar y al tiempo algunos de nuestros defectos, mas éstos a
+cualquier sitio que nos traslademos nos han de acompañar.</li>
+<li>Brevísima y agitadísima es la vida de aquellos que olvidan el pasado,
+descuidan el presente y temen el futuro.</li>
+<li>Como el suelo, por rico que sea, no puede dar fruto si no se cultiva,
+la mente sin cultivo tampoco puede producir.</li>
+<li>El lenguaje de la verdad debe ser, sin duda alguna, simple y sin
+artificios.</li>
+<li>El mayor impedimento al vivir es la espera, que, por estar pendiente al día
+de mañana, pierde el de hoy.</li>
+<li>Elige por maestro aquél a quien admires, más por lo que en él vieres
+que por lo que escuchares de sus labios.</li>
+<li>Enseñando aprendemos.</li>
+<li>Es propio de un alma grande menospreciar lo grandioso y preferir la
+moderación a la desmesura.</li>
+<li>¡Estudia! No para saber una cosa más, sino para saberla mejor.</li>
+<li>Importa mucho más lo que tú piensas de ti mismo que lo que los otros opinen
+de ti.</li>
+<li>La vida es como una leyenda, no importa que sea larga, sino que esté bien
+narrada.</li>
+<li>Largo es el camino de la enseñanza por medio de teorías; breve y eficaz por
+medio de ejemplos.</li>
+<li>Lee siempre autores reconocidos y, si en alguna ocasión te agradare
+recurrir a otros, vuelve luego a los primeros.</li>
+<li>Los hombres aprenden mientras enseñan.</li>
+<li>Muchas veces lo que no se halla cuando se busca, sale al encuentro cuando
+no se busca.</li>
+<li>Muy pocos aciertan antes de errar.</li>
+<li>Nada impide tanto la curación como el cambio frecuente de remedios.</li>
+<li>No es pobre el que tiene poco, sino el que ambiciona más.</li>
+<li>No está en ningún lugar quien está en todas partes.</li>
+<li>Pesa las opiniones, no las cuentes.</li>
+<li>Sin estudiar enferma el alma.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ludwig_van_Beethoven">Ludwig van Beethoven</a>
+<ul class="org-ul">
+<li>Nunca rompas el silencio si no es para mejorarlo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ludwig_Wittgenstein">Ludwig Wittgenstein</a>
+<ul class="org-ul">
+<li>De lo que no se puede hablar hay que callar.</li>
+<li>El que hoy en día enseña filosofía da al otro alimentos no para complacerle,
+sino para modificar su gusto.</li>
+<li>La solución a los problemas que ves en tu vida es vivir en tal forma que
+desaparezca lo problemático.</li>
+<li>Los límites de mi lenguaje son los límites de mi mundo.</li>
+<li>No busquéis el significado, buscad el uso.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Madame_Roland">Madame Roland</a>
+<ul class="org-ul">
+<li>El mundo llama locos a quienes no afecta la locura colectiva.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Mahatma_Gandhi">Mahatma Gandhi</a>
+<ul class="org-ul">
+<li>Casi todo lo que realice será insignificante, pero es muy importante que lo
+haga.</li>
+<li>En cuanto alguien comprende que obedecer leyes injustas es contrario a su
+dignidad de hombre, ninguna tiranía puede dominarle.</li>
+<li>La verdad es totalmente interior. No hay que buscarla fuera de nosotros ni
+querer realizarla luchando con violencia con enemigos exteriores.</li>
+<li>Nuestra recompensa se encuentra en el esfuerzo y no en el resultado. Un
+esfuerzo total es una victoria completa.</li>
+<li>El hombre es producto de sus pensamientos: se convierte en lo que piensa.</li>
+<li>Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Maim%C3%B3nides">Maimónides</a>
+<ul class="org-ul">
+<li>Quien quiera alcanzar la perfección humana, debe estudiar primero la
+Lógica, después las distintas ramas de las Matemáticas en su orden correcto,
+luego la Física, y por último la Metafísica.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Manuel_Aza%C3%B1a">Manuel Azaña</a>
+<ul class="org-ul">
+<li>Si los españoles hablásemos sólo de lo que sabemos, se generaría un inmenso
+silencio, que podríamos aprovechar para el estudio.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/38WP93b">Marcel Proust</a>
+<ul class="org-ul">
+<li>A veces estamos demasiado dispuestos a creer que el presente es el único estado
+posible de las cosas.</li>
+<li>El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes
+sino en tener nuevos ojos.</li>
+<li>El instinto dicta el deber y la inteligencia da pretextos para eludirlo.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2LqGY3P">Marco Aurelio</a>
+<ul class="org-ul">
+<li>El talento, si no nacemos con él, se vuelve algo imposible de obtener.</li>
+<li>El universo es cambio; nuestra vida es lo que hacen nuestros pensamientos.</li>
+<li>La sabiduría es el arte de aceptar aquello que no puede ser cambiado, de
+cambiar aquello que puede ser cambiado y, sobre todo, de conocer la
+diferencia.</li>
+<li>La vida de un hombre es lo que sus pensamientos hacen de ella.</li>
+<li>Si logras separar, de lo que al parecer te aflige, la opinión que te haces
+de ello evitarás muchos sufrimientos.</li>
+<li>Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una
+perspectiva, no la verdad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Marguerite_Duras">Marguerite Duras</a>
+<ul class="org-ul">
+<li>Muy pronto en la vida es demasiado tarde.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Maria_Montessori">María Montessori</a>
+<ul class="org-ul">
+<li>Cualquier ayuda innecesaria es un obstáculo para el desarrollo.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3mEFnbU">Marie Curie</a>
+<ul class="org-ul">
+<li>Dejamos de temer aquello que se ha aprendido a entender.</li>
+<li>Nada en la vida debe ser temido, solamente comprendido. Ahora es el momento de
+comprender más, para temer menos.</li>
+<li>Siento menos curiosidad por la gente y más curiosidad por las ideas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Mario_Benedetti">Mario Benedetti</a>
+<ul class="org-ul">
+<li>No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo
+muerda, aunque el sol se esconda, y se calle el viento, aún hay fuego en tu
+alma, aún hay vida en tus sueños. Porque la vida es tuya y tuyo también el
+deseo, porque cada día es un comienzo nuevo, porque esta es la hora y el
+mejor momento.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Mario_Bunge">Mario Bunge</a>
+<ul class="org-ul">
+<li>De todos los enemigos de la educación, uno de los peores es el pedagogo que
+asegura que el modo de enseñar es más importante que lo que se enseña.</li>
+<li>Hay que educar a la gente. No basta saber que a la tía María le fue bien con
+el acupunturista o con el homeópata, porque el efecto placebo siempre está en
+la cabecera de los enfermos. Y no sólo de los enfermos, sino también de los
+votantes.</li>
+<li>Hay que formar cerebros porque solamente el cerebro bien formado puede, no
+solamente usar la técnica existente, sino mejorarla con ideas nuevas y
+originales gracias a su curiosidad y a que está investigando. Si se insiste
+con la misma información a la gente, en lugar de cultivar su curiosidad,
+terminará por aburrirse.</li>
+<li>Para poder aprender algo nuevo y útil debemos usar filtros; es decir,
+debemos ignorar la mayor parte de la información que recibimos. O sea, hay
+que ignorar mucho para llegar a saber algo. Paradójico pero cierto.</li>
+<li>Si bien uno está contento de pertenecer a una red cultural, llega un momento
+en que se necesita más tiempo para la reflexión. De lo contrario, ésta es
+superficial, demasiado rápida, sin tiempo para asimilar, criticar,
+sopesar. Hace falta más tiempo para ensimismarse, para reflexionar en silencio
+y soledad.</li>
+<li>Sólo los fanáticos odian a las personas tanto como las doctrinas. Uno puede
+ser intolerante con las teorías falsas, pero tolerante con quienes las
+sustentan, a condición de que no medren con ellas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Mario_Vargas_Llosa">Mario Vargas Llosa</a>
+<ul class="org-ul">
+<li>Sólo un idiota puede ser totalmente feliz.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Mark_Twain">Mark Twain</a>
+<ul class="org-ul">
+<li>Cada vez que se encuentre usted del lado de la mayoría, es tiempo de</li>
+<li>Nunca discutas con un ignorante, te hará descender a su nivel y ahí te
+vencerá por experiencia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Martin_Fowler">Martin Fowler</a>
+<ul class="org-ul">
+<li>Cualquier ignorante puede escribir un programa que un ordenador puede
+entender. Los buenos programadores escriben programas que los humanos pueden
+entender.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Martin_Luther_King">Martin Luther King</a>
+<ul class="org-ul">
+<li>Nada en el mundo es más peligroso que la ignorancia sincera y la estupidez
+concienzuda.</li>
+<li>Nuestras vidas empiezan a terminar el día que guardamos silencio sobre las
+cosas que importan.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3iLww67">Marvin Minsky</a>
+<ul class="org-ul">
+<li>La inteligencia artificial es la ciencia de hacer que las máquinas hagan cosas
+que requerirían inteligencia si las hicieran los hombres.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Mary_Shelley">Mary Shelley</a>
+<ul class="org-ul">
+<li>Hablar con la gente constituye ahora mismo una molestia que me alegra mucho
+poder evitar. La soledad es el único agarradero que tengo, mi mejor recurso,
+mi refugio. La soledad me beneficia: me da momentos espaciosos.</li>
+<li>Nada contribuye a tranquilizar la mente como un propósito firme,un punto en
+el que pueda el alma fijar sus ojos intelectuales.</li>
+</ul></li>
+
+<li><a href="https://it.wikipedia.org/wiki/Massimo_Recalcati">Massimo Recalcati</a>
+<ul class="org-ul">
+<li>El malestar actual de la juventud no estriba en la oposición entre sueño y
+realidad, sino en la ausencia de sueños.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Mateo_Alem%C3%A1n">Mateo Alemán</a>
+<ul class="org-ul">
+<li>No hay maestro como el ejercicio.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Maurice_Maeterlinck">Maurice Maeterlinck</a>
+<ul class="org-ul">
+<li>El silencio es el sol que madura los frutos del alma.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Max_Planck">Max Planck</a>
+<ul class="org-ul">
+<li>No es la posesión de la verdad, sino el éxito que acompaña a la búsqueda de
+ella, lo que enriquece al buscador y le trae la felicidad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/M%C3%A1ximo_Gorki">Máximo Gorki</a>
+<ul class="org-ul">
+<li>Cuando el trabajo es un placer la vida es bella. Pero cuando nos es
+impuesto la vida es una esclavitud.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Maya_Angelou">Maya Angelou</a>
+<ul class="org-ul">
+<li>La gente olvidará lo que dijiste, también olvidará lo que hiciste, pero
+jamás olvidará cómo les hiciste sentir.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Michael_Atiyah">Michael Atiyah</a>
+<ul class="org-ul">
+<li>Cualquier buen teorema debe tener varias pruebas, cuanto más mejor. Por dos
+razones: generalmente, las diferentes pruebas tienen diferentes fortalezas y
+debilidades, y se generalizan en diferentes direcciones: no son solo
+repeticiones entre sí.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Michel_de_Montaigne">Michel de Montaigne</a>
+<ul class="org-ul">
+<li>A quienes me preguntan la razón de mis viajes les contesto que sé bien de
+qué huyo pero ignoro lo que busco.</li>
+<li>Cuando me llevan la contraria, despiertan mi atención, no mi cólera; me
+ofrezco a quien me contradice, que me instruye. La causa de la verdad
+debería ser la causa común de uno y otro.</li>
+<li>El signo más cierto de la sabiduría es la serenidad constante.</li>
+<li>La señal más clara de la sabiduría es el gozo constante. Ama la vida, ama la
+belleza y la salud. Su tarea propia es saber usar esos bienes de manera
+mesurada, y saberlos perder con entereza. El alma, en efecto, se ensancha a
+medida que se llena.</li>
+<li>Mi vida ha estado llena de terribles desgracias, la mayoría de las cuales
+nunca sucedieron.</li>
+<li>Nuestra opinión pone precio a las cosas.</li>
+<li>Yo no cito a otros más que para expresar mejor mi pensamiento.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Michel_Onfray">Michel Onfray</a>
+<ul class="org-ul">
+<li>No desprecio a los creyentes, no me parecen ni ridículos ni dignos de
+lástima, pero me parece desolador que prefieran las ficciones
+tranquilizadoras de los niños a las crueles certidumbres de los
+adultos. Prefieren la fe que calma a la razón que intranquiliza, aun al
+precio de un perpetuo infantilismo mental.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez">Miguel Hernández</a>
+<ul class="org-ul">
+<li>Yo sólo soy yo cuando estoy solo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Miguel_de_Cervantes">Miguel de Cervantes</a>
+<ul class="org-ul">
+<li>Confía en el tiempo, que suele dar dulces salidas a muchas amargas
+dificultades.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Miguel_de_Unamuno">Miguel de Unamuno</a>
+<ul class="org-ul">
+<li>Hay que sentir el pensamiento y pensar el sentimiento.</li>
+<li>Se viaja no para buscar el destino sino para huir de donde se parte.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3lcJ0F3">Milton Friedman</a>
+<ul class="org-ul">
+<li>Si no puedes formular una proposición de forma clara y sin ambigüedades, no
+la comprendes.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Moli%C3%A8re">Molière</a>
+<ul class="org-ul">
+<li>Las cosas no valen sino lo que se las hace valer.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Montesquieu">Montesquieu</a>
+<ul class="org-ul">
+<li>El que teme padecer padece ya lo que teme.</li>
+<li>Nunca he tenido una tristeza que una hora de lectura no haya conseguido
+disipar.</li>
+<li>Una cosa no es justa por el hecho de ser ley. Debe ser ley porque es justa.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Morris_Kline">Morris Kline</a>
+<ul class="org-ul">
+<li>Aunque los conceptos y operaciones matemáticas están formulados para
+representar aspectos del mundo físico, las matemáticas no deben identificarse
+con el mundo físico. Sin embargo, nos dice mucho sobre ese mundo si tenemos
+cuidado de aplicarlo e interpretarlo correctamente.</li>
+<li>La introducción y la aceptación gradual de conceptos que no tienen
+contrapartes inmediatas en el mundo real ciertamente forzó el reconocimiento
+de que las matemáticas son una creación humana, algo arbitraria, en lugar de
+una idealización de las realidades de la naturaleza, derivadas únicamente de
+la naturaleza. Pero acompañar este reconocimiento y, de hecho, impulsar su
+aceptación fue un descubrimiento más profundo: las matemáticas no son un
+cuerpo de verdades sobre la naturaleza.</li>
+<li>Las matemáticas no representan leyes inherentes al diseño del universo, sino que
+simplemente proporciona esquemas o modelos hechos por el hombre que podemos
+usar para deducir conclusiones sobre nuestro mundo sólo en la medida en que el
+modelo es una buena idealización.</li>
+<li>Una prueba nos dice dónde concentrar nuestras dudas. [&#x2026;] Una prueba
+elegantemente ejecutada es un poema en todo menos en la forma en que está
+escrito.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Napole%C3%B3n_Bonaparte">Napoleón Bonaparte</a>
+<ul class="org-ul">
+<li>Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
+encontrado.</li>
+<li>Nunca emprenderíamos nada si quisiéramos asegurar por anticipado el éxito
+de nuestra empresa.</li>
+<li>Nunca interrumpas a tu enemigo mientras está cometiendo un error.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Nelson_Mandela">Nelson Mandela</a>
+<ul class="org-ul">
+<li>Después de escalar una montaña muy alta, descubrimos que hay muchas otras
+montañas por escalar.</li>
+<li>La educación es el arma más poderosa que puedes usar para cambiar el mundo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Nicolas_Chamfort">Nicolas Chamfort</a>
+<ul class="org-ul">
+<li>En los grandes asuntos, los hombres se muestran como les conviene, en los
+pequeños, tal como son en realidad.</li>
+<li>Casi todos los hombres son esclavos, por la razón que los espartanos daban
+de la servidumbre de los persas, por no saber pronunciar la sílaba
+‘no’. Saber pronunciar esa palabra y saber vivir solo son los dos únicos
+medios de conservar la libertad y el carácter.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Nicol%C3%A1s_Cop%C3%A9rnico">Nicolás Copérnico</a>
+<ul class="org-ul">
+<li>Las matemáticas se escriben para los matemáticos.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/30APxBP">Nicolas Malebranche</a>
+<ul class="org-ul">
+<li>Todas las ideas tienen alguna realidad mientras estoy pensando en ellas. (&#x2026;)
+Ellas iluminan el espíritu, o se le dan a conocer; algunas incluso lo asombran,
+o hacen que él las sienta, y todo ello de mil maneras distintas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo">Nicolás Maquiavelo</a>
+<ul class="org-ul">
+<li>La experiencia siempre ha demostrado que jamás suceden bien las cosas
+cuando dependen de muchos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Niels_Bohr">Niels Bohr</a>
+<ul class="org-ul">
+<li>Un experto es una persona que ha cometido todos los errores que se pueden
+cometer en un determinado campo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Octavio_Paz">Octavio Paz</a>
+<ul class="org-ul">
+<li>Cuidemos las palabras y cuidémonos de ellas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Oliver_Heaviside">Oliver Heaviside</a>
+<ul class="org-ul">
+<li>Las matemáticas son una ciencia experimental, y las definiciones no son lo
+primero, sino lo último.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Oscar_Wilde">Oscar Wilde</a>
+<ul class="org-ul">
+<li>Cuanto más conservadoras son las ideas, más revolucionarios los discursos.</li>
+<li>El trabajo es el refugio de los que no tienen nada que hacer.</li>
+<li>La educación es una cosa admirable, pero es bueno recordar de vez en cuando,
+que nada que valga la pena saber puede ser enseñado.</li>
+<li>No soy tan joven como para saberlo todo.</li>
+<li>Nunca des explicaciones. Tus amigos no las necesitan. Tus enemigos no las
+creen.</li>
+<li>Para la mayoría de nosotros la verdadera vida es la vida que no llevamos.</li>
+<li>Ser natural es la más difícil de las poses.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ovidio">Ovidio</a>
+<ul class="org-ul">
+<li>En los campos ajenos, la cosecha siempre es más abundante.</li>
+<li>La gota horada la roca, no por su fuerza sino por su constancia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Pablo_Neruda">Pablo Neruda</a>
+<ul class="org-ul">
+<li>La felicidad es interior, no exterior; por lo tanto, no depende de lo que
+tenemos sino de lo que somos.</li>
+<li>Queda prohibido no sonreír a los problemas, no luchar por lo que quieres,
+abandonarlo todo por miedo, no convertir en realidad tus sueños.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Pablo_Picasso">Pablo Picasso</a>
+<ul class="org-ul">
+<li>Yo no busco, encuentro.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Paul_Cohen">Paul Cohen</a>
+<ul class="org-ul">
+<li>Para el matemático medio que simplemente quiere saber que su trabajo tiene
+una base segura, la opción más atractiva es evitar dificultades por medio del
+programa de Hilbert. Aquí uno considera las matemáticas como un juego formal y
+solo se preocupa por la cuestión de la coherencia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Paul_Dirac">Paul Dirac</a>
+<ul class="org-ul">
+<li>Una teoría con belleza matemática es más probable que sea correcta que una
+fea que se ajuste a algunos datos experimentales.</li>
+<li>Buena parte de mi investigación en física ha consistido en no proponerse
+resolver un problema en particular, sino simplemente examinar las cantidades
+matemáticas de un tipo que los físicos utilizan y tratar de combinarlas de
+una manera interesante.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Paul_Erd%C5%91s">Paul Erdős</a>
+<ul class="org-ul">
+<li>¿Por qué son hermosos los números? Es como preguntar por qué es bella la
+Novena Sinfonía de Beethoven. Si no ves por qué, alguien no puede
+decírtelo. Yo sé que los números son hermosos. Si no son hermosos, nada lo
+es.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Paul_Halmos">Paul Halmos</a>
+<ul class="org-ul">
+<li>Es el deber de todos los profesores, y de los profesores de matemáticas en
+particular, exponer a sus alumnos a problemas mucho más que a hechos.</li>
+<li>La alegría de aprender repentinamente un secreto anterior y la alegría de
+descubrir repentinamente una verdad desconocida hasta ahora son las mismas
+para mí. Ambas tienen el destello de la iluminación, la visión casi
+increíblemente mejorada, y el éxtasis y la euforia de la tensión liberada.</li>
+<li>Las matemáticas no son una ciencia deductiva, eso es un cliché. Cuando tratas
+de probar un teorema, no te limitas a enumerar las hipótesis y luego empiezas
+a razonar. Lo que haces es prueba y error, experimentación, conjetura.</li>
+<li>No sólo lo leas; ¡lucha! Haz tus propias preguntas, busca tus propios
+ejemplos, descubre tus propias pruebas.</li>
+<li>Un profesor que no siempre está pensando en resolver problemas -de los que no
+conoce la respuesta- simplemente no está psicológicamente preparado para
+enseñarles a sus alumnos a resolver problemas.</li>
+<li>Una buena cantidad de ejemplos, tan grande como sea posible, es indispensable
+para una comprensión completa de cualquier concepto, y cuando quiero aprender
+algo nuevo, mi primer trabajo es construir uno.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/A_Mathematician%27s_Lament">Paul Lockhart</a>
+<ul class="org-ul">
+<li>Hacer matemáticas siempre debe significar encontrar patrones y crear
+explicaciones hermosas y significativas.</li>
+<li>La agudeza mental de cualquier tipo proviene de resolver problemas por ti
+mismo, no de que te digan cómo resolverlos.</li>
+<li>La enseñanza no se limita a la información. Se trata de tener una relación
+intelectual honesta con tus alumnos.</li>
+<li>Las matemáticas son el arte de la explicación. Si les niega a los estudiantes
+la oportunidad de participar en esta actividad, de plantear sus propios
+problemas, de hacer sus propias conjeturas y descubrimientos, de equivocarse,
+de frustrarse creativamente, de inspirarse y de preparar sus propias
+explicaciones y pruebas, les niega la matemática misma.</li>
+<li>Si hay algo así como un principio estético unificador en matemáticas, es
+este: lo simple es hermoso. Los matemáticos disfrutan pensando en las cosas
+más simples posibles, y las más simples son fantásticas.</li>
+<li>Un buen problema es algo que no sabes cómo resolver. Eso es lo que lo hace un
+buen rompecabezas y una buena oportunidad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry">Paul Valéry</a>
+<ul class="org-ul">
+<li>El problema de nuestros tiempos es que el futuro ya no es lo que era.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Paul_Tillich">Paul Tillich</a>
+<ul class="org-ul">
+<li>Un error pedagógico fatal es lanzar respuestas, como piedras, a las cabezas
+de aquellos que todavía no han formulado las preguntas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Paulo_Freire">Paulo Freire</a>
+<ul class="org-ul">
+<li>No habría creatividad sin la curiosidad que nos mueve y que nos pone
+pacientemente impacientes ante el mundo que no hicimos, al que acrecentamos con
+algo que hacemos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca">Pedro Calderón de la Barca</a>
+<ul class="org-ul">
+<li>¿Qué es la vida? Un frenesí. ¿Qué es la vida? Una ilusión, una sombra, una
+ficción; y el mayor bien es pequeño; que toda la vida es sueño, y los
+sueños, sueños son.</li>
+<li>Tanto gusto había
+en quejarse, un filósofo decía,
+que, a trueco de quejarse,
+habían las desdichas de buscarse.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Philip_K._Dick">Philip K. Dick</a>
+<ul class="org-ul">
+<li>La herramienta básica para la manipulación de la realidad es la manipulación
+de las palabras. Si puedes controlar el significado de las palabras, puedes
+controlar a la gente que debe usar las palabras.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Pierre_Boutroux">Pierre Boutroux</a>
+<ul class="org-ul">
+<li>La lógica es invencible, porque para combatir la lógica es necesario usar la
+lógica.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/P%C3%ADo_Baroja">Pío Baroja</a>
+<ul class="org-ul">
+<li>A una colectividad se le engaña siempre mejor que a un hombre.</li>
+<li>Cuando el hombre se mira mucho a sí mismo, llega a no saber cuál es su cara y
+cuál es su careta.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Piotr_Kropotkin">Piotr Kropotkin</a>
+<ul class="org-ul">
+<li>Pocos placeres hay en la vida humana que igualen al producido por la
+aparición repentina de una generalización que ilumina el entendimiento,
+después de un largo período de paciente investigación.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Pit%C3%A1goras">Pitágoras</a>
+<ul class="org-ul">
+<li>Con orden y tiempo se encuentra el secreto de hacerlo todo, y de hacerlo
+bien.</li>
+<li>Elige lo mejor; la costumbre lo hará suave y fácil.</li>
+<li>La sabiduría comienza escuchando &#x2026; escucha y serás sabio.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Plat%C3%B3n">Platón</a>
+<ul class="org-ul">
+<li>El hombre es un ser en busca de significado.</li>
+<li>El matemático es perfecto sólo en la medida en que es un hombre perfecto, en
+la medida en que siente en sí mismo la belleza de la verdad; sólo entonces su
+trabajo será minucioso, transparente, prudente, puro, claro y elegante.</li>
+<li>La belleza es el esplendor de la verdad.</li>
+<li>La justicia no es otra cosa que la conveniencia del más fuerte.</li>
+<li>La pobreza no viene por la disminución de las riquezas, sino por la
+multiplicación de los deseos.</li>
+<li>Lo que se busca se encuentra, lo que se descuida se pierde.</li>
+<li>Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
+encontrado.</li>
+<li>Nada sucede por casualidad, en el fondo las cosas tienen su plan secreto,
+aunque nosotros no lo entendamos.</li>
+<li>Los sabios hablan porque tienen algo que decir, los tontos hablan porque
+tienen que decir algo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Plutarco">Plutarco</a>
+<ul class="org-ul">
+<li>El cerebro no es un vaso por llenar, sino una lámpara por encender.</li>
+<li>En modo alguno hemos de enfadarnos con las cosas; nada les importa nuestras
+iras.</li>
+</ul></li>
+
+<li>Proverbio árabe
+<ul class="org-ul">
+<li>No hables si lo que vas a decir no es más hermoso que el silencio.</li>
+</ul></li>
+
+<li>Proverbio chino
+<ul class="org-ul">
+<li>Aquel que pregunta es un tonto por cinco minutos, pero el que no pregunta
+permanece tonto por siempre.</li>
+<li>Cuando mi corazón está en paz, el mundo está en paz.</li>
+<li>Cuando soplan vientos de cambio, algunos construyen muros. Otros, molinos.</li>
+<li>El trabajo del pensamiento se parece a la perforación de un pozo: el agua
+es turbia al principio, mas luego se clarifica.</li>
+<li>Quien quiere hacer algo encuentra un medio; quien no quiere hacer nada
+encuentra una excusa.</li>
+<li>Si el problema tiene solución, ¿por qué te preocupas?. Y si no la tiene,
+¿por qué te sigues preocupando?</li>
+<li>Si te caes siete veces, levántate ocho.</li>
+</ul></li>
+
+<li>Proverbio hindú
+<ul class="org-ul">
+<li>Cuando hables, procura que tus palabras sean mejores que el silencio.</li>
+</ul></li>
+
+<li>Proverbio holandés
+<ul class="org-ul">
+<li>No puede impedirse el viento. Pero pueden construirse molinos.</li>
+</ul></li>
+
+<li>Proverbio japonés
+<ul class="org-ul">
+<li>Es mejor viajar lleno de esperanza que llegar.</li>
+<li>Las palabras no pronunciadas son las flores del silencio.</li>
+</ul></li>
+
+<li>Proverbio persa
+<ul class="org-ul">
+<li>Aprende lo que te parezca difícil: todo lo difícil se vuelve fácil gracias
+al aprendizaje.</li>
+</ul></li>
+
+<li>Proverbio romano
+<ul class="org-ul">
+<li>Por la ignorancia nos equivocamos, y por las equivocaciones aprendemos.</li>
+</ul></li>
+
+<li>Proverbio suizo
+<ul class="org-ul">
+<li>Las palabras son enanos, los ejemplos son gigantes.</li>
+</ul></li>
+
+<li>Proverbio Zen
+<ul class="org-ul">
+<li>Acepta lo que no puedas cambiar y
+cambia lo que no puedas aceptar.</li>
+<li>Come cuando tengas hambre, duerme cuando estés cansado.</li>
+<li>Con cada paso que das alcanzas tu meta.</li>
+<li>Cualquier estúpido puede complicar las cosas, el truco está en
+simplificarlas.</li>
+<li>Deberías sentarte a meditar veinte minutos al día, a menos que estés
+demasiado ocupado. Entonces debes meditar una hora.</li>
+<li>Descubro las enseñanzas de los sabios en las puntas de las hierbas.</li>
+<li>El trabajo de un maestro zen no consiste en impartir información, sino
+hacerte ver qué no sabes.</li>
+<li>Eres lo que piensas.</li>
+<li>La primavera llega,
+la hierba crece por sí sola.</li>
+<li>Mientras distingas, arriba de abajo, izquierda de derecha, antes de
+después, serás esclavo del convencionalismo.</li>
+<li>No confundáis la luna con el dedo que la señala.</li>
+<li>Ser feliz es muy sencillo. Lo que es difícil es ser sencillo.</li>
+<li>Si entiendes, las cosas son así. Si no entiendes, las cosas son así.</li>
+<li>¿Cuál es el problema? Yo soy el problema. Deshazte del "yo" y de repente no
+hay problema.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Rabindranath_Tagore">Rabindranath Tagore</a>
+<ul class="org-ul">
+<li>El canal se complace pensando que los ríos no existen sino para traerle
+agua.</li>
+<li>Ese que habla tanto está completamente hueco, ya sabes que el cántaro vacío es
+el que más suena.</li>
+<li>Hacer preguntas es prueba de que se piensa.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2BNCfYs">Rafael Chirbes</a>
+<ul class="org-ul">
+<li>A veces cargamos las cosas con una importancia que sólo existe en nuestra
+cabeza.</li>
+<li>Cinismo y amargura son los dos frutos que te da el árbol de la vida.</li>
+<li>Cuando las ideas no te dejan ver la realidad, no son ideas, son mentiras.</li>
+<li>La misión del hombre en el corto espacio que le toca vagabundear sobre la
+tierra es precisamente evitar el desorden, corregir el desorden.</li>
+<li>Si no sabes adónde vas ningún camino es bueno.</li>
+<li>Sólo sobreviven quienes consiguen creerse que son lo que no son.</li>
+<li>Todas las juventudes se parecen, es en la madurez cuando empieza la
+diferencia, nos diferenciamos en cómo resolvemos esa desazón originaria, en
+cómo abordamos el cruce de caminos que se nos presenta a la salida de la
+juventud. El tiempo que perdimos. La imposibilidad de recuperarlo. No tener
+claro si lo que hicimos fue perder o ganar.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson">Ralph Waldo Emerson</a>
+<ul class="org-ul">
+<li>El hombre grande es aquel que en medio de las muchedumbres mantiene, con
+perfecta dulzura, la independencia de la soledad.</li>
+<li>Grabad esto en vuestro corazón; cada día comienza en nosotros un año nuevo,
+una nueva vida.</li>
+<li>Más podemos conocer de una persona por lo que ella dice de los demás que
+por lo que los demás dicen de ella.</li>
+<li>Nunca se ha logrado nada sin entusiasmo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ram%C3%B3n_de_Campoamor">Ramón de Campoamor</a>
+<ul class="org-ul">
+<li>No rechaces tus sueños. ¿Sin la ilusión el mundo que sería?</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ramon_Llull">Ramón Llull</a>
+<ul class="org-ul">
+<li>Hombre paciente no es vencido.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2JlTtA7">Ray Bradbury</a>
+<ul class="org-ul">
+<li>No hace falta quemar libros si el mundo empieza a llenarse de gente que no lee,
+que no aprende, que no sabe &#x2026;</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Raymond_S._Nickerson">Raymond S. Nickerson</a>
+<ul class="org-ul">
+<li>Además de considerar las matemáticas como el estudio de patrones, las
+matemáticas pueden ser vistas, pragmáticamente, como una vasta colección de
+problemas de ciertos tipos y de enfoques que han demostrado ser efectivos para
+resolverlos.</li>
+<li>Sin negar la utilidad de la distinción entre intuición y prueba, creo que se
+puede hacer con demasiada agudeza; la intuición desempeña un papel esencial en
+la elaboración y evaluación de las pruebas y a veces se modifica como
+consecuencia de estos procesos. En este sentido, la distinción es como la del
+pensamiento creativo y el pensamiento crítico; aunque esta distinción también
+es útil, no es posible tenerla en un sentido muy satisfactorio sin el
+otro.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Raymond_Smullyan">Raymond Smullyan</a>
+<ul class="org-ul">
+<li>Sople como sople el viento,
+vaya como vaya el mundo,
+¡a mí me va bien!.</li>
+<li>El Sabio no duerme porque deba,
+ni siquiera porque quiera,
+sino porque tiene sueño.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Reinhold_Niebuhr">Reinhold Niebuhr</a>
+<ul class="org-ul">
+<li>Señor, dame la serenidad para aceptar las cosas que no puedo cambiar, valor
+para cambiar las cosas que puedo y sabiduría para poder diferenciarlas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Rembrandt">Rembrandt</a>
+<ul class="org-ul">
+<li>Practica lo que sabes y esto te ayudará a ver lo que todavía no sabes.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Remy_de_Gourmont">Remy de Gourmont</a>
+<ul class="org-ul">
+<li>La lógica es buena para razonar, pero mala para vivir.</li>
+<li>El hombre no asocia ideas de acuerdo a la lógica o verificable exactitud, sino
+de acuerdo a su gusto e intereses. Es por esta razón que la mayoría de las
+verdades no son nada más que prejuicios.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes">René Descartes</a>
+<ul class="org-ul">
+<li>Cada problema que resolví se convirtió en una regla que sirvió después para
+resolver otros problemas. Así, cada verdad descubierta era una regla
+disponible en el descubrimiento de las siguientes.</li>
+<li>Cuando surge un problema, deberíamos ser capaces de ver pronto si será rentable
+examinar otros problemas primero, y qué otros, y en qué orden.</li>
+<li>Daría todo lo que sé por la mitad de lo que ignoro.</li>
+<li>El buen sentido es lo que mejor repartido está entre todo el mundo, pues cada
+cual piensa que posee buena provisión de él.</li>
+<li>Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no
+desespero en aprender.</li>
+<li>No hay nada repartido de modo más equitativo en el mundo que la razón: todo
+el mundo está convencido de tener suficiente.</li>
+<li>Para buscar la verdad, es necesario, una vez en el curso de nuestra vida,
+dudar, en la medida de lo posible, de todas las cosas.</li>
+<li>Pensad antes de obrar y no comencéis nada sin haber consultado las
+circunstancias bien a fondo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Richard_Bach">Richard Bach</a>
+<ul class="org-ul">
+<li>Si tu felicidad depende de lo que hagan los demás, supongo que estarás en
+aprietos.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Richard_Courant">Richard Courant</a> y <a href="https://en.wikipedia.org/wiki/Herbert_Robbins">Herbert Robbins</a>
+<ul class="org-ul">
+<li>El hecho de que la prueba de un teorema consista en la aplicación de ciertas
+reglas simples de lógica no elimina el elemento creativo en las matemáticas,
+que radica en la elección de las posibilidades a examinar.</li>
+<li>Las matemáticas como expresión de la mente humana reflejan la voluntad
+activa, la razón contemplativa y el deseo de perfección estética. Sus
+elementos básicos son la lógica y la intuición, el análisis y la construcción,
+la generalidad y la individualidad.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/33Oi7jg">Richard Feynman</a>
+<ul class="org-ul">
+<li>La mejor enseñanza sólo puede hacerse cuando hay una relación individual
+directa entre un estudiante y un buen profesor: una situación en la que el
+estudiante discute las ideas, piensa sobre las cosas y habla sobre las cosas. Es
+imposible aprender mucho asistiendo simplemente a una lección, o incluso
+haciendo simplemente los problemas que se proponen.</li>
+<li>Necesitamos enseñar a que la duda no sea temida, sino bienvenida y
+debatida. No hay problema en decir: 'No lo sé'.</li>
+<li>Para aquellos que no conocen las matemáticas, es difícil sentir la belleza, la
+profunda belleza de la naturaleza&#x2026; Si quieres aprender sobre la naturaleza,
+apreciar la naturaleza, es necesario aprender el lenguaje en el que habla.</li>
+<li>Una medida de nuestro entendimiento es el número de formas independientes de
+llegar al mismo resultado.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Richard_Hamming">Richard Hamming</a>
+<ul class="org-ul">
+<li>El propósito de la computación es la comprensión, no los números.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Richard_Whately">Richard Whately</a>
+<ul class="org-ul">
+<li>Enseñar a quien no tiene curiosidad por aprender es sembrar un campo sin
+ararlo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Rita_Levi-Montalcini">Rita Levi-Montalcini</a>
+<ul class="org-ul">
+<li>El cuerpo hace lo que quiere. Yo no soy mi cuerpo: soy mi mente.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Robert_A._Heinlein">Robert A. Heinlein</a>
+<ul class="org-ul">
+<li>Puedes convencer a mil hombres apelando a sus prejuicios más rápidamente que
+a uno solo utilizando la lógica.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Robert_B._Laughlin">Robert B. Laughlin</a>
+<ul class="org-ul">
+<li>Todos tenemos la tendencia a no ver el mundo como es en realidad sino como
+queremos que sea; es parte de nuestra naturaleza, pero no debemos perder de
+vista que se trata de un defecto en el diseño de la mente humana y que hay
+que luchar contra él.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Robert_Bolt">Robert Bolt</a>
+<ul class="org-ul">
+<li>Una creencia no es simplemente una idea que la mente posee, es una idea que
+posee a la mente.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Robert_Burns">Robert Burns</a>
+<ul class="org-ul">
+<li>Si nos fuera dado el poder de vernos como nos ven los demás, de cuantos
+disparates y necedades nos veríamos libres.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Robert_Frost">Robert Frost</a>
+<ul class="org-ul">
+<li>En dos palabras puedo resumir cuanto he aprendido acerca de la vida: sigue
+adelante.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Robert_G._Ingersoll">Robert G. Ingersoll</a>
+<ul class="org-ul">
+<li>En la vida no hay premios ni castigos, sino consecuencias.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Robert_Louis_Stevenson">Robert Louis Stevenson</a>
+<ul class="org-ul">
+<li>No juzgues el día por la cosecha que has recogido, sino por las semillas
+que has plantado.</li>
+<li>Saber lo que prefieres, en lugar de decir sumisamente amén a lo que el
+mundo te dice que debieras preferir, significa que has mantenido tu alma con
+vida.</li>
+<li>Viajar esperanzadamente es mejor que llegar.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Robert_Orben">Robert Orben</a>
+<ul class="org-ul">
+<li>Errar es humano. Y echarle la culpa al ordenador es más humano todavía.</li>
+<li>Las vacaciones consisten en no tener nada que hacer y disponer de todo el
+día para hacerlo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Roger_Penrose">Roger Penrose</a>
+<ul class="org-ul">
+<li>La comprensión es, después de todo, de lo que se trata la ciencia, y la
+ciencia es mucho más que la computación sin sentido.</li>
+<li>Una idea hermosa tiene muchas más posibilidades de ser una idea correcta que
+una fea.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ronald_David_Laing">Ronald David Laing</a>
+<ul class="org-ul">
+<li>Deberíamos dedicarnos a desaprender gran parte de lo aprendido y aprender lo
+que no se nos ha enseñado.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo">Rubén Darío</a>
+<ul class="org-ul">
+<li>No dejes apagar el entusiasmo, virtud tan valiosa como necesaria; trabaja,
+aspira, tiende siempre hacia la altura.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Sa%27di">Sa'di</a>
+<ul class="org-ul">
+<li>Si discutes mucho para probar tu sabiduría, pronto probarás tu ignorancia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Salom%C3%B3n">Salomón</a>
+<ul class="org-ul">
+<li>El corazón alegre hace tanto bien como el mejor medicamento.</li>
+<li>La mejor medicina es un ánimo gozoso.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Salvador_Jacinto_Polo_de_Medina">Salvador Jacinto Polo de Medina</a>
+<ul class="org-ul">
+<li>Educar es cultivar a un tiempo el conocimiento de lo verdadero, la voluntad
+de lo bueno y la sensibilidad de lo bello.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Samuel_Butler_(novelista)">Samuel Butler</a>
+<ul class="org-ul">
+<li>La vida es el arte de sacar conclusiones suficientes a partir de datos
+insuficientes.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/33lHVDe">Samuel Johnson</a>
+<ul class="org-ul">
+<li>No deseo conversar con un hombre que haya escrito más de lo que ha leído.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona">San Agustín</a>
+<ul class="org-ul">
+<li>Los hombres están siempre dispuestos a curiosear y averiguar sobre las vidas
+ajenas, pero les da pereza conocerse a sí mismos y corregir su propia vida.</li>
+<li>Quien roba con un barco es un pirata, quien roba con una flota es
+almirante.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3dyloX0">San Juan de la Cruz</a>
+<ul class="org-ul">
+<li>Buscad leyendo y hallaréis meditando.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal">Santiago Ramón y Cajal</a>
+<ul class="org-ul">
+<li>Lo peor no es cometer un error, sino tratar de justificarlo, en vez de
+aprovecharlo como aviso providencial de nuestra ligereza o ignorancia.</li>
+<li>¿No tienes enemigos? ¿Es que jamás dijiste la verdad o jamás amaste la
+justicia?</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Sexto_Pomponio">Sexto Pomponio</a>
+<ul class="org-ul">
+<li>Algunos hasta tal punto se refugian en la oscuridad que consideran confuso
+cuanto es luminoso</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Sigmund_Freud">Sigmund Freud</a>
+<ul class="org-ul">
+<li>¡Estudia! No para saber una cosa más, sino para saberla mejor.</li>
+<li>Existen dos maneras de ser feliz en esta vida, una es hacerse el idiota y
+la otra serlo.</li>
+<li>La prueba más clara de que existe vida inteligente en otros planetas es que
+todavía no nos han visitado.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Sim%C3%A9on_Denis_Poisson">Siméon Denis Poisson</a>
+<ul class="org-ul">
+<li>La vida merece la pena sólo por dos cosas: por descubrir las matemáticas y
+por enseñarlas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Simone_de_Beauvoir">Simone de Beauvoir</a>
+<ul class="org-ul">
+<li>La representación del mundo, como el mundo mismo, es obra de los hombres; la
+describen desde su propio punto de vista, que confunden con la verdad
+absoluta.</li>
+<li>Entre dos individuos, la armonía nunca viene dada, sino que debe
+conquistarse indefinidamente.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/S%C3%B3crates">Sócrates</a>
+<ul class="org-ul">
+<li>El grado sumo del saber es contemplar el porqué.</li>
+<li>El verdadero viaje no es el que nos lleva lejos, sino el que conduce a
+nuestro interior.</li>
+<li>La ciencia humana consiste más en destruir errores que en descubrir
+verdades.</li>
+<li>Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Sor_Juana_In%C3%A9s_de_la_Cruz">Sor Juana Inés de la Cruz</a>
+<ul class="org-ul">
+<li>Para todo se halla prueba y razón en qué fundarlo; y no hay razón para
+nada, de haber razón para tanto.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard">Søren Kierkegaard</a>
+<ul class="org-ul">
+<li>La tarea se debe plantear difícil, pues sólo la dificultad inspira a los
+nobles de corazón.</li>
+<li>La vida sólo puede ser comprendida hacia atrás, pero únicamente puede ser
+vivida hacia adelante.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Stanis%C5%82aw_Ulam">Stanislaw M Ulam</a>
+<ul class="org-ul">
+<li>El lado estético de las matemáticas ha sido de una importancia abrumadora a
+lo largo de su desarrollo. Lo que importa no es si un teorema es útil, sino lo
+elegante que es.</li>
+<li>En muchos casos, las matemáticas son un escape de la realidad. El matemático
+encuentra su propio nicho monástico y felicidad en actividades que están
+desconectadas de los asuntos externos. Algunos lo practican como si usaran una
+droga. El ajedrez a veces juega un papel similar. En su descontento por los
+acontecimientos de este mundo, algunos se sumergen en una especie de autarquía
+en matemáticas.</li>
+<li>¿Qué es exactamente la matemática? Muchos lo han intentado, pero nadie ha
+logrado definir las matemáticas; siempre es otra cosa.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Stephen_Hawking">Stephen Hawking</a>
+<ul class="org-ul">
+<li>El desorden aumenta con el tiempo porque nosotros medimos el tiempo en el
+sentido en el que aumenta el desorden.</li>
+<li>La inteligencia es la habilidad de adaptarse a los cambios.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/30zR1eU">Stephen J. Gould</a>
+<ul class="org-ul">
+<li>Nuestras formas de aprender sobre el mundo están fuertemente influenciadas
+por las ideas preconcebidas sociales y los modos de pensar sesgados que todo
+científico debe aplicar a cualquier problema. El estereotipo de un 'método
+científico' totalmente racional y objetivo, con científicos individuales como
+robots lógicos (e intercambiables), es una mitología egoísta.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a>
+<ul class="org-ul">
+<li>Learning to program teaches you how to think. Computer science is a liberal
+art.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Susanna_Tamaro">Susanna Tamaro</a>‬
+<ul class="org-ul">
+<li>Sin constancia, sin dedicación no se logra nada en ningún campo. No se
+puede estudiar una lengua ni plantar un huerto ni cultivar una amistad ni
+construir una casa. La perseverancia y la atención no son dones innatos
+sino un camino que se aprende a recorrer.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/38qowDp">Swami Vivekananda</a>
+<ul class="org-ul">
+<li>Cada uno es responsable de lo que le sucede y tiene el poder de decidir lo que
+quiere ser. Lo que eres hoy es el resultado de tus decisiones y elecciones en el
+pasado. Lo que seas mañana será consecuencia de tus actos de hoy.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/T%C3%A1cito">Tácito</a>
+<ul class="org-ul">
+<li>Todo lo que se ignora tiende a magnificarse.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Tales_de_Mileto">Tales de Mileto</a>
+<ul class="org-ul">
+<li>De todo lo que es posible aprender, elige y aprende lo mejor; y de todo lo
+que hayas aprendido, elige lo mejor y enséñalo a los demás.</li>
+<li>La cosa más difícil es conocernos a nosotros mismos; la más fácil es hablar
+mal de los demás.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Terencio">Terencio</a>
+<ul class="org-ul">
+<li>Hombre soy y nada humano me es ajeno (<i>Homo sum; humani nihil a me alterum
+puto</i>).</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Terry_Pratchett">Terry Pratchett</a>
+<ul class="org-ul">
+<li>El tiempo es una droga. En cantidades excesivas, mata.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2E7OKPL">Thich Nhat Hanh</a>
+<ul class="org-ul">
+<li>La mayor parte de nuestro sufrimiento surge de nuestras ideas y conceptos. Si
+eres capaz de liberarte de estos conceptos, la ansiedad y el miedo
+desaparecerán.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Thomas_Alva_Edison">Thomas Alva Edison</a>
+<ul class="org-ul">
+<li>No he fracasado, he encontrado diez mil fórmulas que no funcionan.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Thomas_Carlyle">Thomas Carlyle</a>
+<ul class="org-ul">
+<li>No hables, en manera alguna, hasta que tengas algo que decir.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Thomas_Jefferson">Thomas Jefferson</a>
+<ul class="org-ul">
+<li>Yo creo bastante en la suerte. Y he constatado que, cuanto más duro
+trabajo, más suerte tengo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Thomas_Kuhn">Thomas Kuhn</a>
+<ul class="org-ul">
+<li>Lo que ve un hombre depende tanto de lo que mira como de lo que su
+experiencia visual y conceptual previa lo ha preparado a ver.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Thomas_Merton">Thomas Merton</a>
+<ul class="org-ul">
+<li>La felicidad no es una cuestión de intensidad, sino de equilibrio, ritmo y
+armonía.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Thomas_Shadwell">Thomas Shadwell</a>
+<ul class="org-ul">
+<li>Ningún hombre es feliz sino por comparación.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Thornton_Wilder">Thornton Wilder</a>
+<ul class="org-ul">
+<li>Es difícil dejar de convertirse en la persona que los demás creen que uno
+es.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Tom_Clancy">Tom Clancy</a>
+<ul class="org-ul">
+<li>La vida es aprendizaje, cuando dejes de aprender, mueres.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Tom%C3%A1s_de_Kempis">Tomás de Kempis</a>
+<ul class="org-ul">
+<li>He buscado el sosiego en todas partes, y sólo lo he encontrado sentado en
+un rincón apartado, con un libro en las manos.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Tony_Hoare">Tony Hoare</a>
+<ul class="org-ul">
+<li>¿Cuál es el núcleo central de la ciencia de la computación? ¿Qué es lo que lo
+diferencia de los otros temas con los que se relaciona? ¿Qué es lo que el hilo
+de unión que reúne estas ramas dispares en una sola disciplina? Mi respuesta a
+estas preguntas es simple - es el arte de programar un ordenador. Es el arte
+de diseñar métodos eficientes y elegantes para conseguir que un ordenador
+resuelva problemas, teóricos o prácticos,  pequeños o grandes, simples o
+complejos. Es el arte de traducir estos diseños programas correctos y
+eficientes.</li>
+<li>En el desarrollo de la comprensión de los fenómenos complejos, la herramienta
+más poderosa de que dispone el intelecto humano es la abstracción. La
+abstracción surge del reconocimiento de las similitudes entre ciertos objetos,
+situaciones o procesos en el mundo real y de la decisión de concentrarse en
+estas similitudes e ignorar, por el momento, sus diferencias.</li>
+<li>Hay dos maneras de diseñar un software. Una forma es hacerlo tan simple que
+obviamente no haya deficiencias. Y la otra forma es hacerlo tan complicado que
+no haya deficiencias obvias.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Truman_Capote">Truman Capote</a>
+<ul class="org-ul">
+<li>Para mí, el mayor placer de la escritura no es el tema que se trate, sino
+la música que hacen las palabras.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Umberto_Eco">Umberto Eco</a>
+<ul class="org-ul">
+<li>Cuando se dispone de poco tiempo lo peor es perder la calma. Debemos actuar
+como si tuviésemos la eternidad por delante.</li>
+<li>El mundo está lleno de libros preciosos que nadie lee.</li>
+<li>No todas las verdades son para todos los oídos.</li>
+<li>Una de las primeras cosas que se han de hacer para empezar a trabajar con una
+tesis es escribir el título, la introducción y el índice final; esto es,
+precisamente las cosas que todos los autores hacen al final.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Victor_Hugo">Victor Hugo</a>
+<ul class="org-ul">
+<li>El agua que no corre hace un pantano; la mente que no trabaja hace un tonto.</li>
+<li>El éxito es una cosa bastante repugnante. Su falsa semejanza con el mérito
+engaña a los hombres.</li>
+<li>Lo que bien se piensa, bien se expresa.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Viktor_Frankl">Viktor Frankl</a>
+<ul class="org-ul">
+<li>Si no está en tus manos cambiar una situación que te produce dolor, siempre
+podrás escoger la actitud con la que afrontes ese sufrimiento.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Vincent_van_Gogh">Vincent van Gogh</a>
+<ul class="org-ul">
+<li>Si nos perfeccionamos en una sola cosa y la comprendemos bien, adquirimos
+por añadidura la comprensión y el conocimiento de muchas otras cosas.</li>
+<li>Trato cada vez más de ser yo mismo, importándome relativamente poco si la
+gente me aprueba o no.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Virgilio">Virgilio</a>
+<ul class="org-ul">
+<li>Pueden los que creen que pueden.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Voltaire">Voltaire</a>
+<ul class="org-ul">
+<li>A los tontos todo les maravilla en un autor apreciado; pero yo, que leo para
+mí, sólo apruebo lo que me gusta.</li>
+<li>Algunos están destinados a razonar erróneamente, otros a no razonar en
+absoluto, y otros a perseguir a los que razonan.</li>
+<li>Cuando uno no vive como piensa, acaba pensando como vive.</li>
+<li>Cuanto más lee uno, más se instruye; cuanto más medita, más se halla en
+situación de afirmar que no sabe nada.</li>
+<li>Decimos una tontería y a fuerza de repetirla acabamos creyéndola.</li>
+<li>El arte de la medicina consiste en mantener al paciente en buen estado de</li>
+<li>El cerebro humano es un órgano complejo con el maravilloso poder de
+permitirle al hombre encontrar razones para seguir creyendo lo que sea que
+quiera creer.</li>
+<li>En geometría, como en la mayoría de las ciencias, es muy raro que una
+proposición aislada sea de utilidad inmediata. Pero las teorías más poderosas
+en la práctica están formadas por proposiciones que sólo la curiosidad sacó a
+la luz, y que durante mucho tiempo permanecieron inútiles sin poder adivinar
+de qué manera deberían dejar de serlo un día. En este sentido, se puede decir
+que en la ciencia real, ninguna teoría, ninguna investigación, es en efecto
+inútil.</li>
+<li>El secreto de aburrir a la gente consiste en decirlo todo.</li>
+<li>Es peligroso tener razón cuando el Gobierno está equivocado.</li>
+<li>He decidido hacer lo que me gusta porque es bueno para la salud.</li>
+<li>La estupidez es una enfermedad extraordinaria, no es el enfermo el que
+sufre por ella, sino los demás.</li>
+<li>La más feliz de todas las vidas es una soledad atareada.</li>
+<li>Los prejuicios son la razón de los tontos.</li>
+<li>Pensad por cuenta propia y dejad que los demás disfruten del derecho a
+hacer lo mismo.</li>
+<li>Una colección de pensamientos debe ser una farmacia donde se encuentra
+remedio a todos los males.</li>
+<li>Quienes creen que el dinero lo hace todo, terminan haciendo todo por
+dinero.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Walter_Scott">Walter Scott</a>
+<ul class="org-ul">
+<li>Descansar demasiado es oxidarse.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2Y60TMJ">Wernher von Braun</a>
+<ul class="org-ul">
+<li>Investigación es lo que hago cuando no sé lo que estoy haciendo.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Wilhelm_von_Humboldt">Wilhelm von Humboldt</a>
+<ul class="org-ul">
+<li>La interdependencia entre el pensamiento y la palabra ilumina claramente la
+verdad de que las lenguas no son realmente un medio para representar verdades
+ya conocidas, sino más bien un instrumento para descubrir verdades no
+reconocidas anteriormente. Las diferencias entre los lenguajes no son las de
+los sonidos y los signos, sino las de las diferentes cosmovisiones.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/William_Arthur_Ward">William A. Ward</a>
+<ul class="org-ul">
+<li>El pesimista se queja del viento;
+el optimista espera que este cambie;
+el realista ajusta las velas.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/William_Blake">William Blake</a>
+<ul class="org-ul">
+<li>El loco que persiste en su locura se tornará sabio.</li>
+<li>El ver un mundo en un grano de arena
+y un cielo en una flor silvestre,
+sostener el infinito en la palma de la mano
+y la eternidad en una hora.</li>
+<li>Una misma ley para el león y para el buey es opresión.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/William_Faulkner">William Faulkner</a>
+<ul class="org-ul">
+<li>La sabiduría suprema es tener sueños bastante grandes para no perderlos de
+vista mientras se persiguen.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/William_James">William James</a>
+<ul class="org-ul">
+<li>Cuando debemos hacer una elección y no la haces, esto ya es una elección.</li>
+<li>Dejad pensar al pueblo que gobierna y se dejará gobernar.</li>
+<li>El arte de ser sabio es el arte de saber qué pasar por alto.</li>
+<li>El camino voluntario y soberano hacia la alegría, si perdemos la alegría,
+consiste en proceder con alegría, actuar y hablar con alegría, como si esa
+alegría estuviera ya con nosotros.</li>
+<li>El objetivo de la ciencia es siempre reducir la complejidad a la
+simplicidad.</li>
+<li>El pájaro no canta porque sea feliz, sino que es feliz porque canta.</li>
+<li>El principio más profundo del carácter humano es el anhelo de ser apreciado.</li>
+<li>La unión del matemático con el poeta, el fervor con la medida, la pasión con
+la corrección, este seguramente es el ideal.</li>
+<li>Muchas personas creen que piensan, pero están reordenando sus prejuicios.</li>
+<li>No hay mentira peor que una verdad mal entendida por los que la oyen.</li>
+<li>No temas a la vida. Cree que la vida es digna de ser vivida, y tu creencia
+ayudará a crear el hecho.</li>
+<li>Primero una nueva teoría es tachada de absurda; luego se admite que es
+cierta, pero obvia e insignificante; finalmente, se ve tan importante que sus
+adversarios afirman que ellos mismos la descubrieron.</li>
+<li>Un gran número de personas piensan que están pensando cuando no hacen más que
+reordenar sus prejuicios.</li>
+<li>Una cosa es importante si alguien la cree importante.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2X1l7Gu">William Penn</a>
+<ul class="org-ul">
+<li>Dejad pensar al pueblo que gobierna y se dejará gobernar.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/William_Shakespeare">William Shakespeare</a>
+<ul class="org-ul">
+<li>En nuestros locos intentos, renunciamos a lo que somos por lo que esperamos
+ser.</li>
+<li>La brevedad es el alma del ingenio.</li>
+<li>Los viejos desconfían de la juventud porque han sido jóvenes.</li>
+<li>Un hombre que no se alimenta de sus sueños envejece pronto.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/3itzT1w">William Somerset Maugham</a>
+<ul class="org-ul">
+<li>Como todos los hombres débiles, puso un énfasis exagerado en no cambiar de
+opinión.</li>
+<li>La vejez está lista para emprender tareas que la juventud eludió porque
+tomaría demasiado tiempo.</li>
+<li>Si la gente sólo hablara cuando tuviera algo que decir, el ser humano perdería
+muy pronto el uso del lenguaje.</li>
+<li>Solo avanzada ya mi vida me di cuenta de cuán fácil es decir: no lo sé.</li>
+<li>Sólo hay una cosa de la que estoy seguro, y es que hay muy poco de lo que uno
+pueda estar seguro.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/William_Thurston">William Thurston</a>
+<ul class="org-ul">
+<li>Las matemáticas son increíblemente comprimibles: puede que tenga que luchar
+mucho tiempo, paso a paso, para trabajar en algún proceso o idea desde varios
+enfoques. Pero una vez que realmente lo entiendes y tienes la perspectiva
+mental para verlo como un todo, hay una tremenda compresión mental. Puedes
+archivarlo, recuperarlo rápida y completamente cuando lo necesites, y usarlo
+como un solo paso en algún otro proceso mental. La idea que acompaña a esta
+compresión es una de las verdaderas alegrías de las matemáticas.</li>
+<li>Las matemáticas no tratan de números, ecuaciones, cálculos o algoritmos: se
+trata de entender.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Winston_Churchill">Winston Churchill</a>
+<ul class="org-ul">
+<li>El éxito es aprender a ir de fracaso en fracaso sin desesperarse.</li>
+<li>El político debe ser capaz de predecir lo que va a pasar mañana, el mes
+próximo y el año que viene; y de explicar después por qué fue que no
+ocurrió lo que el predijo.</li>
+<li>Las actitudes son más importantes que las aptitudes.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Woody_Allen">Woody Allen</a>
+<ul class="org-ul">
+<li>La vocación del político de carrera es hacer de cada solución un problema.</li>
+<li>Las cosas no se dicen, se hacen, porque al hacerlas se dicen solas.</li>
+</ul></li>
+
+<li><a href="https://bit.ly/2YZrXh7">Yoritomo Tashi</a>
+<ul class="org-ul">
+<li>El sentido común es el arte de resolver los problemas, no de plantearlos.</li>
+</ul></li>
+
+<li><a href="https://en.wikipedia.org/wiki/Yunmen_Wenyan">Yunmen Wenyan</a>
+<ul class="org-ul">
+<li>Si tu mente no está nublada por cosas innecesarias, esta es la mejor estación
+de tu vida.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Zen%C3%B3n_de_Citio">Zenón de Citio</a>
+<ul class="org-ul">
+<li>Recordad que la naturaleza nos ha dado dos oídos y una sola boca, para
+enseñarnos que más vale escuchar que hablar.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Zhuangzi">Zhuangzi</a>
+<ul class="org-ul">
+<li>El buen orden resulta espontáneamente cuando se dejan las cosas a sí mismas.</li>
+<li>Los pies pisan el suelo; pero es aquello que no pisan lo que permite
+caminar. Aquello que se conoce es poco; pero, apoyado en lo poco que se conoce
+es posible conocer mucho.</li>
+<li>Un camino se hace caminando sobre él.</li>
+<li>Un pequeño saber no puede equipararse a uno grande. Ni una corta vida a una
+larga existencia. ¿Cómo se sabe que esto es así? El hongo que sólo vive una
+mañana desconoce el ciclo de la luna. La cigarra de verano nada sabe de
+primaveras ni de otoños. Así son las pequeñas existencias.</li>
+<li>Una rana en un pozo no puede concebir el océano.</li>
+</ul></li>
+</ul>
+</div>
+<div id="postamble" class="status">
+<p class="author">José A. Alonso</p>
+
+                        <p class="date">2020-12-19 sáb 21:30</p>
+</div>
+</body>
+</html>
