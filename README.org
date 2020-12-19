@@ -171,6 +171,10 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Alejandro_Dumas][Alejandro Dumas]] ::
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
 
++ [[https://es.wikipedia.org/wiki/Aleksandr_Solzhenitsyn][Aleksandr Solzhenitsin]] ::
+  + La precipitación y la superficialidad son las enfermedades crónicas del
+    siglo.
+
 + [[https://es.wikipedia.org/wiki/Alexander_Fleming][Alexander Fleming]] ::
   + A veces uno realiza un hallazgo cuando no lo está buscando.
   + El investigador sufre las decepciones, los largos meses pasados en una
@@ -306,6 +310,8 @@ encontrando.
   + La felicidad es darse cuenta que nada es demasiado importante.
 
 + [[https://es.wikipedia.org/wiki/Antonio_Gramsci][Antonio Gramsci]] ::
+  + El viejo mundo se muere. El nuevo tarda en aparecer. Y en ese claroscuro
+    surgen los monstruos.
   + Quiero que cada mañana sea para mi año nuevo. Cada día quiero echar
     cuentas conmigo mismo, y renovarme cada día.
 
@@ -416,6 +422,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Arthur_Conan_Doyle][Arthur Conan Doyle]] ::
   + Ha sido durante mucho tiempo mi axioma que las pequeñas cosas son
     infinitamente lo más importante.
+  + Una vez descartado lo imposible, lo que queda, por improbable que parezca,
+    debe ser la verdad.
 
 + [[https://en.wikipedia.org/wiki/Arthur_Helps][Arthur Helps]] ::
   + La lectura es a veces una estratagema para eludir pensar.
@@ -425,6 +433,8 @@ encontrando.
     que deseas.
 
 + [[https://es.wikipedia.org/wiki/Arthur_Schopenhauer][Arthur Schopenhauer]] ::
+  + El alquimista, en su búsqueda del oro encontró muchas otras cosas de gran
+    valor.
   + El mundo en el cual cada uno vive depende de cómo lo conciba, y se ajusta, por
     ello, a las diferencias mentales: según sea cada mente, ese mundo resultará más
     pobre, anodino y superficial, o rico, interesante y lleno de sentido.
@@ -595,17 +605,6 @@ encontrando.
     permanecer en reposo en una habitación.
   + Vale más saber alguna cosa de todo, que saberlo todo de una sola cosa.
 
-+ [[https://es.wikipedia.org/wiki/Buda_Gautama][Buda Gautama]] ::
-  + Duda de todo. Encuentra tu propia luz.
-  + Si tiene solución, ¿por qué lloras? Si no tiene solución, ¿por qué lloras?
-  + Todo lo que somos es el resultado de lo que hemos pensado.
-  + Buda reducía su visión del mundo a cuatro puntos:
-    1. la vida es sufrimiento;
-    2. el sufrimiento nace del deseo;
-    3. elimina el deseo y habrás eliminado el sufrimiento, y
-    4. vive una vida decente y medita para que ello te ayude a eliminar el
-       deseo.
-
 + [[https://es.wikipedia.org/wiki/B%C3%ADas][Bías de Priene]] ::
   + Pon manos a la obra con lentitud, pero, una vez comenzada, sé constante.
 
@@ -617,12 +616,24 @@ encontrando.
     pienso en cómo resolver el problema. Pero cuando he terminado, si la solución
     no es bella, sé que está mal.
 
++ [[https://es.wikipedia.org/wiki/Buda_Gautama][Buda Gautama]] ::
+  + Duda de todo. Encuentra tu propia luz.
+  + Si tiene solución, ¿por qué lloras? Si no tiene solución, ¿por qué lloras?
+  + Todo lo que somos es el resultado de lo que hemos pensado.
+  + Buda reducía su visión del mundo a cuatro puntos:
+    1. la vida es sufrimiento;
+    2. el sufrimiento nace del deseo;
+    3. elimina el deseo y habrás eliminado el sufrimiento, y
+    4. vive una vida decente y medita para que ello te ayude a eliminar el
+       deseo.
+
 + [[https://es.wikipedia.org/wiki/Burrhus_Frederic_Skinner][Burrhus Frederic Skinner]] ::
   + El auténtico problema no es si las máquinas piensan, sino si lo hacen los
     hombres.
 
 + [[https://bit.ly/3o1l5tc][C.S. Lewis]] ::
-  + Lo que ves y escuchas depende de qué tipo de persona eres y desde qué punto estás mirando.
+  + Lo que ves y escuchas depende de qué tipo de persona eres y desde qué punto
+    estás mirando.
 
 + [[https://es.wikipedia.org/wiki/Calvin_Coolidge][Calvin Coolidge]] ::
   + La educación consiste en enseñar a los hombres, no lo que deben pensar,
@@ -720,6 +731,7 @@ encontrando.
     contigo mismo?
   + Si cerca de la biblioteca tienes un jardín ya no te faltará de nada.
   + Si quieres aprender, enseña.
+  + Si quieres ser viejo mucho tiempo, hazte viejo pronto.
   + Una cosa es saber y otra saber enseñar.
 
 + [[https://bit.ly/2CRi1xN][Clorindo Testa]], ::
@@ -729,7 +741,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Confucio][Confucio]] ::
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
-  + Desplaza la montaña quien comienza por retirar las pequeñas piedras.
+  + El hombre que mueve una montaña empieza por arrastrar una pequeña piedra.
   + El que por la mañana ha conseguido conocer la verdad, ya puede morir por la
     tarde.
   + El silencio es el único amigo que jamás traiciona.
@@ -1333,6 +1345,11 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Hecato_de_Rodas][Hecato de Rodas]] ::
   + Si dejas de esperar, dejarás de temer.
 
++ [[https://es.wikipedia.org/wiki/Heinrich_Heine][Heinrich Heine]] ::
+  + La verdadera locura quizá no sea otra cosa que la sabiduría misma que,
+    cansada de descubrir las vergüenzas del mundo, ha tomado la inteligente
+    resolución de volverse loca.
+
 + [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson]] ::
   + El ojo ve sólo lo que la mente está preparada para comprender.
   + Lo que hacemos depende de lo que somos; pero debe añadirse que somos, en
@@ -1648,6 +1665,47 @@ encontrando.
   + La clave de una vida feliz es alcanzar metas de las que te sientas
     orgulloso y un propósito que cumplir.
 
++ [[https://es.wikipedia.org/wiki/Johann_Caspar_Lavater][Johann Kaspar Lavater]] ::
+  + Si quieres ser sabio, aprende a interrogar razonablemente, a escuchar con
+    atención, a responder serenamente y a callar cuando no tengas nada que
+    decir.
+
++ [[https://es.wikipedia.org/wiki/Johann_Sebastian_Bach][Johann Sebastian Bach]] ::
+  + Es fácil tocar un instrumento musical: todo lo que tienes que hacer es
+    tocar la tecla correcta en el momento adecuado y el instrumento suena.
+
++ [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]] ::
+  + Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
+    difícil.
+  + Con el conocimiento se acrecientan las dudas.
+  + El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
+    viejo, místico.
+  + Hablar es una necesidad, escuchar es un arte.
+  + El único hombre que no se equivoca es el que nunca hace nada.
+  + Lo importante no es donde se está, sino la dirección en que se camina.
+  + Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
+    las hubiera hecho antes.
+  + Los perezosos siempre hablan de lo que piensan hacer, de lo que harán; los que
+    de veras hacen algo no tienen tiempo de hablar ni de lo que hacen.
+  + Muchos odian la soledad porque no se soportan a sí mismos.
+  + Nadie es más esclavo que el que se tiene por libre sin serlo.
+  + No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
+    regresará al camino que en su día la naturaleza predeterminó para él.
+  + Quien produce con alegría y se alegra de lo producido es feliz.
+  + Se tiende a poner palabras allí donde faltan las ideas.
+  + Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El atrevimiento
+    posee genio, poder y magia. Comiénzalo ahora.
+  + Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra
+    parte, si tacho de malo a lo que es bueno, acabaré causando un gran
+    perjuicio. Quien quiera obrar adecuadamente, no deberá criticar nunca nada
+    ni preocuparse de lo que esté mal, sino limitarse a hacer bien las
+    cosas. De lo que se trata no es de destrozar, sino de construir algo que le
+    procure un gozo intachable a la humanidad.
+  + Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
+    mejor las cosas.
+  + Todos los días deberíamos oír un poco de música, leer una buena poesía,
+    contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.
+
 + [[https://es.wikipedia.org/wiki/John_Archibald_Wheeler][John Archibald Wheeler]] ::
   + Vivimos en una isla rodeada de un mar de ignorancia. A medida que nuestra
     isla del conocimiento crece, también crece la costa de nuestra ignorancia.
@@ -1674,45 +1732,6 @@ encontrando.
     especiales. También se espera elegancia en su estructura arquitectónica.
   + Si la gente no cree que las matemáticas son simples, es sólo porque no se dan
     cuenta de lo complicada que es la vida.
-
-+ [[https://es.wikipedia.org/wiki/Johann_Caspar_Lavater][Johann Kaspar Lavater]] ::
-  + Si quieres ser sabio, aprende a interrogar razonablemente, a escuchar con
-    atención, a responder serenamente y a callar cuando no tengas nada que decir.
-
-+ [[https://es.wikipedia.org/wiki/Johann_Sebastian_Bach][Johann Sebastian Bach]] ::
-  + Es fácil tocar un instrumento musical: todo lo que tienes que hacer es
-    tocar la tecla correcta en el momento adecuado y el instrumento suena.
-
-+ [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]] ::
-  + Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
-    difícil.
-  + Con el conocimiento se acrecientan las dudas.
-  + El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
-    viejo, místico.
-  + Hablar es una necesidad, escuchar es un arte.
-  + El único hombre que no se equivoca es el que nunca hace nada.
-  + Lo importante no es donde se está, sino la dirección en que se camina.
-  + Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
-    las hubiera hecho antes.
-  + Los perezosos siempre hablan de lo que piensan hacer, de lo que harán; los que
-    de veras hacen algo no tienen tiempo de hablar ni de lo que hacen.
-  + Nadie es más esclavo que el que se tiene por libre sin serlo.
-  + No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
-    regresará al camino que en su día la naturaleza predeterminó para él.
-  + Quien produce con alegría y se alegra de lo producido es feliz.
-  + Se tiende a poner palabras allí donde faltan las ideas.
-  + Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El atrevimiento
-    posee genio, poder y magia. Comiénzalo ahora.
-  + Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra
-    parte, si tacho de malo a lo que es bueno, acabaré causando un gran
-    perjuicio. Quien quiera obrar adecuadamente, no deberá criticar nunca nada
-    ni preocuparse de lo que esté mal, sino limitarse a hacer bien las
-    cosas. De lo que se trata no es de destrozar, sino de construir algo que le
-    procure un gozo intachable a la humanidad.
-  + Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
-    mejor las cosas.
-  + Todos los días deberíamos oír un poco de música, leer una buena poesía,
-    contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.
 
 + [[https://es.wikipedia.org/wiki/John_C._Maxwell][John C. Maxwell]] ::
   + La clave del problema reside en identificar el problema.
@@ -1984,6 +2003,8 @@ encontrando.
     que los matemáticos prueban un gran resultado piensan que es trivial.
 
 + [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca]] ::
+  + Atribuimos al lugar y al tiempo algunos de nuestros defectos, mas éstos a
+    cualquier sitio que nos traslademos nos han de acompañar.
   + Brevísima y agitadísima es la vida de aquellos que olvidan el pasado,
     descuidan el presente y temen el futuro.
   + Como el suelo, por rico que sea, no puede dar fruto si no se cultiva,
@@ -2081,6 +2102,7 @@ encontrando.
   + Dejamos de temer aquello que se ha aprendido a entender.
   + Nada en la vida debe ser temido, solamente comprendido. Ahora es el momento de
     comprender más, para temer menos.
+  + Siento menos curiosidad por la gente y más curiosidad por las ideas.
 
 + [[https://es.wikipedia.org/wiki/Mario_Benedetti][Mario Benedetti]] ::
   + No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo
@@ -2120,7 +2142,6 @@ encontrando.
   + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
   + Nunca discutas con un ignorante, te hará descender a su nivel y ahí te
     vencerá por experiencia.
-    hacer una pausa y reflexionar.
 
 + [[https://es.wikipedia.org/wiki/Martin_Fowler][Martin Fowler]] ::
   + Cualquier ignorante puede escribir un programa que un ordenador puede
@@ -2179,6 +2200,10 @@ encontrando.
     ofrezco a quien me contradice, que me instruye. La causa de la verdad
     debería ser la causa común de uno y otro.
   + El signo más cierto de la sabiduría es la serenidad constante.
+  + La señal más clara de la sabiduría es el gozo constante. Ama la vida, ama la
+    belleza y la salud. Su tarea propia es saber usar esos bienes de manera
+    mesurada, y saberlos perder con entereza. El alma, en efecto, se ensancha a
+    medida que se llena.
   + Mi vida ha estado llena de terribles desgracias, la mayoría de las cuales
     nunca sucedieron.
   + Nuestra opinión pone precio a las cosas.
@@ -2296,6 +2321,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Pablo_Neruda][Pablo Neruda]] ::
   + La felicidad es interior, no exterior; por lo tanto, no depende de lo que
     tenemos sino de lo que somos.
+  + Queda prohibido no sonreír a los problemas, no luchar por lo que quieres,
+    abandonarlo todo por miedo, no convertir en realidad tus sueños.
 
 + [[https://es.wikipedia.org/wiki/Pablo_Picasso][Pablo Picasso]] ::
   + Yo no busco, encuentro.
@@ -2370,6 +2397,9 @@ encontrando.
     algo que hacemos.
 
 + [[https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca][Pedro Calderón de la Barca]] ::
+  + ¿Qué es la vida? Un frenesí. ¿Qué es la vida? Una ilusión, una sombra, una
+    ficción; y el mayor bien es pequeño; que toda la vida es sueño, y los
+    sueños, sueños son.
   + Tanto gusto había
     en quejarse, un filósofo decía,
     que, a trueco de quejarse,
@@ -2642,6 +2672,7 @@ encontrando.
   + Saber lo que prefieres, en lugar de decir sumisamente amén a lo que el
     mundo te dice que debieras preferir, significa que has mantenido tu alma con
     vida.
+  + Viajar esperanzadamente es mejor que llegar.
 
 + [[https://en.wikipedia.org/wiki/Robert_Orben][Robert Orben]] ::
   + Errar es humano. Y echarle la culpa al ordenador es más humano todavía.
@@ -2661,6 +2692,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo][Rubén Darío]] ::
   + No dejes apagar el entusiasmo, virtud tan valiosa como necesaria; trabaja,
     aspira, tiende siempre hacia la altura.
+
++ [[https://es.wikipedia.org/wiki/Sa%27di][Sa'di]] ::
+  + Si discutes mucho para probar tu sabiduría, pronto probarás tu ignorancia.
 
 + [[https://es.wikipedia.org/wiki/Salom%C3%B3n][Salomón]] ::
   + El corazón alegre hace tanto bien como el mejor medicamento.
@@ -2869,6 +2903,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Vincent_van_Gogh][Vincent van Gogh]] ::
   + Si nos perfeccionamos en una sola cosa y la comprendemos bien, adquirimos
     por añadidura la comprensión y el conocimiento de muchas otras cosas.
+  + Trato cada vez más de ser yo mismo, importándome relativamente poco si la
+    gente me aprueba o no.
 
 + [[https://es.wikipedia.org/wiki/Virgilio][Virgilio]] ::
   + Pueden los que creen que pueden.
@@ -2931,6 +2967,7 @@ encontrando.
     y un cielo en una flor silvestre,
     sostener el infinito en la palma de la mano
     y la eternidad en una hora.
+  + Una misma ley para el león y para el buey es opresión.
 
 + [[https://es.wikipedia.org/wiki/William_Faulkner][William Faulkner]] ::
   + La sabiduría suprema es tener sueños bastante grandes para no perderlos de
@@ -2938,6 +2975,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/William_James][William James]] ::
   + Cuando debemos hacer una elección y no la haces, esto ya es una elección.
+  + Dejad pensar al pueblo que gobierna y se dejará gobernar.
   + El arte de ser sabio es el arte de saber qué pasar por alto.
   + El camino voluntario y soberano hacia la alegría, si perdemos la alegría,
     consiste en proceder con alegría, actuar y hablar con alegría, como si esa
