@@ -1665,6 +1665,8 @@ encontrando.
     evitarlo.
 
 + [[https://es.wikipedia.org/wiki/Jean-Jacques_Rousseau][Jean-Jacques Rousseau]]
+  + Cada día veo más claro que todo lo que no aporta nada al alma no es digno de
+    ocupar el tiempo.
   + Todas las pasiones son buenas cuando uno es dueño de ellas, y todas son
     malas cuando nos esclavizan.
 
