@@ -1473,6 +1473,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Hermann_Hesse][Hermann Hesse]]
   + Hacer versos malos depara mucha más felicidad que leer los más bellos.
+  + ¿Y de qué sirve hablar, si ya sabes que los demás no sienten lo que sientes?
 
 + [[https://es.wikipedia.org/wiki/Hermann_Weyl][Hermann Weyl]]
   + La investigación matemática eleva la mente humana a una proximidad más
