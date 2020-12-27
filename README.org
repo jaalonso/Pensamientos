@@ -1359,6 +1359,10 @@ encontrando.
     frotar la madera de esta manera siempre producirá fuego. Por lo tanto, el arte
     del descubrimiento es el arte de la correcta generalización.
 
++ [[https://es.wikipedia.org/wiki/Haruki_Murakami][Haruki Murakami]]
+  + Cuando uno se acostumbra a no conseguir nunca lo que desea, ¿Sabes qué pasa?
+    Que acaba por no saber incluso lo que quiere.
+
 + [[https://es.wikipedia.org/wiki/Hecato_de_Rodas][Hecato de Rodas]]
   + Si dejas de esperar, dejarás de temer.
 
