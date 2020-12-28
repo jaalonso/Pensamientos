@@ -1276,6 +1276,10 @@ encontrando.
   + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar entre las
     nubes.
 
++ [[https://es.wikipedia.org/wiki/Giovanni_Boccaccio][Giovanni Boccaccio]]
+  + Vale más actuar exponiéndose a arrepentirse de ello, que arrepentirse de no
+    haber hecho nada.
+
 + [[https://bit.ly/3debxWY][Giovanni Sartori]]
   + El único modo de resolver los problemas es conociéndolos, saber que existen. El
     simplismo los cancela y, así, los agrava.
