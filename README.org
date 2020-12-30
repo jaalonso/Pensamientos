@@ -2446,6 +2446,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/P%C3%ADo_Baroja][Pío Baroja]]
   + A una colectividad se le engaña siempre mejor que a un hombre.
+  + Así en la vida, muchas veces, no se sabe si es uno el que empuja los
+    acontecimientos o si son los acontecimientos los que le arrastran a uno.
   + Cuando el hombre se mira mucho a sí mismo, llega a no saber cuál es su cara y
     cuál es su careta.
 
