@@ -1653,6 +1653,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/James_Joyce][James Joyce]]
   + Los errores son los umbrales del descubrimiento.
 
++ [[https://es.wikipedia.org/wiki/Javier_Krahe][Javier Krahe]]
+  + Prefiero caminar con una duda que con un mal axioma.
+
 + [[https://es.wikipedia.org/wiki/Jean_Cocteau][Jean Cocteau]]
   + No se debe confundir la verdad con la opinión de la mayoría.
   + Un egoísta es aquel que se empeña en hablarte de sí mismo cuando tú te
