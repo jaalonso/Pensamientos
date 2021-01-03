@@ -1120,6 +1120,10 @@ encontrando.
   + Quien se sabe profundo, se esfuerza por ser claro; quien desea parecer profundo
     a la gran masa, se esfuerza por ser oscuro.
 
++ [[https://es.wikipedia.org/wiki/Friedrich_Schiller][Friedrich Schiller]]
+  + La utilidad es el gran ídolo de nuestra época [...]. Pero es el camino de la
+    belleza el que conduce a la libertad.
+
 + [[https://es.wikipedia.org/wiki/Friedrich_Schlegel][Friedrich Schlegel]]
   + Cuanto más se sabe, más se desea aprender. Con la sabiduría crece
     paralelamente la sensación de no saber o, mejor dicho, de saber que no se
