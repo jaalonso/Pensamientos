@@ -1123,6 +1123,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Friedrich_Schiller][Friedrich Schiller]]
   + La utilidad es el gran ídolo de nuestra época [...]. Pero es el camino de la
     belleza el que conduce a la libertad.
+  + Solo aquellos que tengan la paciencia de hacer a la perfección lo trivial,
+    podrán adquirir el hábito de ejecutar lo difícil con facilidad.
 
 + [[https://es.wikipedia.org/wiki/Friedrich_Schlegel][Friedrich Schlegel]]
   + Cuanto más se sabe, más se desea aprender. Con la sabiduría crece
