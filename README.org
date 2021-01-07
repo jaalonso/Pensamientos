@@ -1101,6 +1101,8 @@ encontrando.
   + Lo que no se sabe expresar es que no se sabe.
 
 + [[https://es.wikipedia.org/wiki/Friedrich_Nietzsche][Friedrich Nietzsche]]
+  + A veces la gente no quiere oír la verdad porque no quiere que sus ilusiones
+    sean destruidas.
   + Aquel que tiene un por qué para vivir se puede enfrentar a todos los cómos.
   + Desde que me cansé de buscar he aprendido a hallar.
   + Digan lo que digan, los espíritus grandes son escépticos. Zaratustra es un
