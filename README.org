@@ -1589,7 +1589,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant]]
   + La ciencia es la organización del conocimiento, pero la sabiduría es la
-    organización de la vida
+    organización de la vida.
+  + El sabio puede cambiar de opinión. El necio, nunca.
   + Nunca discutas con un idiota. La gente podría no notar la diferencia.
   + Ser es hacer.
   + Tan solo por la educación puede el hombre llegar a ser hombre. El hombre no es
