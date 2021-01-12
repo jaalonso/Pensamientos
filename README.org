@@ -1094,6 +1094,9 @@ encontrando.
   + Sólo cerrando las puertas detrás de uno se abren ventanas hacia el
     porvenir.
 
++ [[https://es.wikipedia.org/wiki/Franz_Kafka][Franz Kafka]]
+  + La alegría es nuestro deber diario.
+
 + [[https://es.wikipedia.org/wiki/Franz_Schubert][Franz Schubert]]
   + Cuando uno se inspira en algo bueno, la música nace con fluidez, las
     melodías brotan; realmente esto es una gran satisfacción.
