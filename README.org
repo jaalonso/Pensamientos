@@ -1095,6 +1095,8 @@ encontrando.
     porvenir.
 
 + [[https://es.wikipedia.org/wiki/Franz_Kafka][Franz Kafka]]
+  + Es sólo a causa de su estupidez que son capaces de estar tan seguros de sí
+    mismos.
   + La alegría es nuestro deber diario.
 
 + [[https://es.wikipedia.org/wiki/Franz_Schubert][Franz Schubert]]
