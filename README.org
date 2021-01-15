@@ -1618,6 +1618,8 @@ encontrando.
     competencia ahí.
 
 + [[https://es.wikipedia.org/wiki/Isaac_Asimov][Isaac Asimov]]
+  + El aspecto más triste de la vida actual es que la ciencia gana en
+    conocimiento más rápidamente que la sociedad en sabiduría.
   + Las normas establecidas con razón y con justicia, pueden dejar de ser
     útiles al cambiar las circunstancias, pero al permitir que continuen
     vigentes por la fuerza de la inercia, entonces, no sólo es justo, sino
