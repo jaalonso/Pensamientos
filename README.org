@@ -2798,6 +2798,8 @@ encontrando.
   + Buscad leyendo y hallaréis meditando.
 
 + [[https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Santiago Ramón y Cajal]]
+  + La desdicha de nuestro país consiste, como se ha dicho hartas veces, en que
+    el interés individual ignora el interés colectivo.
   + Lo peor no es cometer un error, sino tratar de justificarlo, en vez de
     aprovecharlo como aviso providencial de nuestra ligereza o ignorancia.
   + ¿No tienes enemigos? ¿Es que jamás dijiste la verdad o jamás amaste la
