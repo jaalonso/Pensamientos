@@ -2752,6 +2752,10 @@ encontrando.
   + Las vacaciones consisten en no tener nada que hacer y disponer de todo el
     día para hacerlo.
 
++ [[https://es.wikipedia.org/wiki/Roberto_Bola%C3%B1o][Roberto Bolaño]]
+  + A estas alturas, enojarse es perder el tiempo. Y lamentablemente, a mi edad,
+    el tiempo cuenta.
+
 + [[https://es.wikipedia.org/wiki/Roger_Penrose][Roger Penrose]]
   + La comprensión es, después de todo, de lo que se trata la ciencia, y la
     ciencia es mucho más que la computación sin sentido.
