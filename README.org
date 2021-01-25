@@ -2121,6 +2121,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Madame_Roland][Madame Roland]]
   + El mundo llama locos a quienes no afecta la locura colectiva.
 
++ [[https://es.wikipedia.org/wiki/Maestro_Eckhart][Maestro Eckhart]]
+  + Debes de estar dispuesto a ser un principiante cada una de tus mañanas.
+
 + [[https://es.wikipedia.org/wiki/Mahatma_Gandhi][Mahatma Gandhi]]
   + Casi todo lo que realice será insignificante, pero es muy importante que lo
     haga.
