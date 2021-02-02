@@ -2811,6 +2811,10 @@ encontrando.
 + [[https://bit.ly/33lHVDe][Samuel Johnson]]
   + No deseo conversar con un hombre que haya escrito más de lo que ha leído.
 
++ [[https://es.wikipedia.org/wiki/Samuel_Smiles][Samuel Smiles]]
+  + Los pequeños hechos revelan mejor que los grandes el carácter de una
+    persona.
+
 + [[https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona][San Agustín]]
   + Los hombres están siempre dispuestos a curiosear y averiguar sobre las vidas
     ajenas, pero les da pereza conocerse a sí mismos y corregir su propia vida.
