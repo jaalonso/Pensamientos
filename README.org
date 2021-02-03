@@ -2812,6 +2812,9 @@ encontrando.
   + No deseo conversar con un hombre que haya escrito más de lo que ha leído.
 
 + [[https://es.wikipedia.org/wiki/Samuel_Smiles][Samuel Smiles]]
+  + Aprendemos sabiduría del fracaso mucho más que del éxito. A menudo
+    descubrimos lo que sirve, al descubrir lo que no sirve; y probablemente el que
+    nunca cometió un error, nunca hizo un descubrimiento.
   + Los pequeños hechos revelan mejor que los grandes el carácter de una
     persona.
 
