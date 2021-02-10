@@ -1106,8 +1106,8 @@ encontrando.
     dice? ¿Nunca se ha de decir lo que se siente?
 
 + [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld][François de La Rochefoucauld]]
-  + Ponemos más interés en hacer creer a los demás que somos felices que en
-    tratar de serlo.
+  + No hay personas que se equivoquen con más frecuencia que las que no admiten
+    que se equivocan.
 
 + [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_F%C3%A9nelon][François Fénelon]]
   + Si queréis formar juicio acerca de un hombre, observad quienes son sus
