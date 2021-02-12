@@ -730,6 +730,10 @@ encontrando.
   + No puedes convencer a un creyente de nada porque sus creencias no están
     basadas en evidencia, están basadas en una enraizada necesidad de creer.
 
++ [[https://es.wikipedia.org/wiki/Carl_Schurz][Carl Schurz]]
+  + Los ideales son como las estrellas. Nunca los alcanzamos, pero, como los
+    marineros en el mar, trazamos nuestro rumbo por medio de ellos.
+
 + [[https://es.wikipedia.org/wiki/Carlos_Fuentes][Carlos Fuentes]]
   + Sólo pueden disipar el horror tres consejos: no admires el poder, no
     detestes al enemigo y no desprecies a los que sufren.
@@ -2814,7 +2818,7 @@ encontrando.
   + El corazón alegre hace tanto bien como el mejor medicamento.
   + La mejor medicina es un ánimo gozoso.
 
-+ [[https://es.wikipedia.org/wiki/Salvador_Dal%C3%AD][Salvador Dali]]
++ [[https://es.wikipedia.org/wiki/Salvador_Dal%C3%AD][Salvador Dalí]]
   + No temas a la perfección. Nunca la alcanzarás.
 
 + [[https://es.wikipedia.org/wiki/Salvador_Jacinto_Polo_de_Medina][Salvador Jacinto Polo de Medina]]
