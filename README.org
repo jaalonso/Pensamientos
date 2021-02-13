@@ -744,6 +744,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Charles_Dickens][Charles Dickens]]
   + Cada fracaso nos enseña algo que necesitamos aprender.
+  + Concéntrate en lo bueno que te pasa, que a todos nos pasa mucho; y no en las
+    desgracias, que a todos nos pasa alguna.
 
 + [[https://en.wikipedia.org/wiki/Charles_Dudley_Warner][Charles Dudley Warner]]
   + Nadie puede tratar sinceramente de ayudar a otro sin ayudarse a sí mismo.
