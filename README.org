@@ -1033,6 +1033,10 @@ encontrando.
   + Uno de los aspectos más atractivos de las matemáticas es que sus paradojas
     más complejas se convierten en hermosas teorías.
 
++ [[https://es.wikipedia.org/wiki/Erich_Fromm][Erich Fromm]]
+  + En el amor se da la paradoja de dos seres que se convierten en uno y, no
+    obstante, siguen siendo dos.
+
 + [[https://es.wikipedia.org/wiki/Ernest_Hemingway][Ernest Hemingway]]
   + Se necesitan dos años para aprender a hablar y sesenta para aprender a
     callar.
