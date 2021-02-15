@@ -738,6 +738,9 @@ encontrando.
   + Sólo pueden disipar el horror tres consejos: no admires el poder, no
     detestes al enemigo y no desprecies a los que sufren.
 
++ [[https://es.wikipedia.org/wiki/Charles_Bukowski][Charles Bukowski]]
+  + ¿Recuerdas quién eras antes de que el mundo te dijera quién debías ser?
+
 + [[https://es.wikipedia.org/wiki/Charles_Chaplin][Charles Chaplin]]
   + Aprende como si fueras a vivir toda la vida y vive como si fueras a morir
     mañana.
