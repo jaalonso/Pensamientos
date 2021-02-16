@@ -231,6 +231,9 @@ encontrando.
   + Los logros del hombre descansan sobre el uso de símbolos. Nos gobiernan los
     símbolos.
 
++ [[https://es.wikipedia.org/wiki/Alfred_de_Musset][Alfred de Musset]]
+  + Sólo lo hermoso es cierto, nada es cierto sin belleza.
+
 + [[https://es.wikipedia.org/wiki/Alfred_North_Whitehead][Alfred North Whitehead]]
   + Desde los primeros pasos de su educación el niño debe experimentar el placer
     del descubrimiento.
