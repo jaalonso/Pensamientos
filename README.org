@@ -1792,8 +1792,6 @@ encontrando.
     tocar la tecla correcta en el momento adecuado y el instrumento suena.
 
 + [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]]
-  + Actuar es fácil, pensar es difícil; actuar según se piensa es aún más
-    difícil.
   + Con el conocimiento se acrecientan las dudas.
   + El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
     viejo, místico.
@@ -1808,6 +1806,8 @@ encontrando.
   + Nadie es más esclavo que el que se tiene por libre sin serlo.
   + No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
     regresará al camino que en su día la naturaleza predeterminó para él.
+  + Pensar es fácil. Actuar es difícil. Pero actuar de acuerdo con lo que piensas
+    es lo más difícil del mundo.
   + Quien produce con alegría y se alegra de lo producido es feliz.
   + Se tiende a poner palabras allí donde faltan las ideas.
   + Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El atrevimiento
