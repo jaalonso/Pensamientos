@@ -783,6 +783,10 @@ encontrando.
   + Caminando se hace el camino, y a las cosas dándoles un nombre.
   + Saber que hay cosas que no se pueden saber es la cumbre del saber.
 
++ [[https://es.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss][Claude Lévi-Strauss]]
+  + El científico no es una persona que da las respuestas correctas, es el que
+    hace las preguntas correctas.
+
 + [[https://es.wikipedia.org/wiki/Claudio_Ptolomeo][Claudio Ptolomeo]]
   + Consideramos que es un buen principio para explicar los fenómenos la hipótesis
     más simple posible.
