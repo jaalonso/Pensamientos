@@ -1195,8 +1195,10 @@ encontrando.
     a la gran masa, se esfuerza por ser oscuro.
 
 + [[https://es.wikipedia.org/wiki/Friedrich_Schiller][Friedrich Schiller]]
-  + La utilidad es el gran ídolo de nuestra época [...]. Pero es el camino de la
-    belleza el que conduce a la libertad.
+  + Hoy impera un yugo tiránico. La utilidad es el gran ídolo de nuestra época, y
+    a él deben complacer todos los poderes y rendir homenaje todos los
+    talentos. En esta vil balanza, las virtudes espirituales no tienen ningún
+    peso.
   + Solo aquellos que tengan la paciencia de hacer a la perfección lo trivial,
     podrán adquirir el hábito de ejecutar lo difícil con facilidad.
 
