@@ -1402,6 +1402,9 @@ encontrando.
   + Todo buen matemático es al menos medio filósofo, y todo buen filósofo es al
     menos medio matemático.
 
++ [[https://es.wikipedia.org/wiki/Grace_Murray_Hopper][Grace Hopper]]
+  + La frase más dañina del lenguaje es: "Siempre se ha hecho así".
+
 + [[https://es.wikipedia.org/wiki/Gregory_Chaitin][Gregory Chaitin]]
   + En cierto modo, las matemáticas no son el arte de responder preguntas
     matemáticas, es el arte de hacer las preguntas correctas, las preguntas que te
