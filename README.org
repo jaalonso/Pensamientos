@@ -1895,6 +1895,8 @@ encontrando.
     tanto como decir que hoy es más sabio de lo que fue ayer.
 
 + [[https://es.wikipedia.org/wiki/Jorge_Luis_Borges][Jorge Luis Borges]]
+  + Buscar la serenidad me parece una ambición más razonable que buscar la
+    felicidad. Y quizás la serenidad sea una forma de felicidad.
   + La duda es uno de los nombres de la inteligencia.
   + En cuanto al fracaso y la fama, me parecen irrelevantes y no me
     preocupan. Lo que quiero ahora es la paz, el placer del pensamiento
