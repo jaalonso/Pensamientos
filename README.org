@@ -1616,6 +1616,10 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Honor%C3%A9_de_Balzac][Honoré de Balzac]]
   + Aunque nada cambie, si yo cambio, todo cambia.
 
++ [[https://es.wikipedia.org/wiki/Horace_Mann][Horace Mann]]
+  + El maestro que intenta enseñar sin inspirar en el alumno el deseo de aprender
+    está tratando de forjar un hierro frío.
+
 + [[https://es.wikipedia.org/wiki/Horace_Walpole][Horace Walpole]]
   + Todo el secreto de la vida es estar interesado en una cosa profundamente y en
     otras tantas un poco.
