@@ -2463,6 +2463,9 @@ encontrando.
   + Las matemáticas son una ciencia experimental, y las definiciones no son lo
     primero, sino lo último.
 
++ [[https://es.wikipedia.org/wiki/Omar_Jayam][Omar Jayyam]]
+  + Sé feliz durante este momento. Este momento es tu vida.
+
 + [[https://es.wikipedia.org/wiki/Oscar_Wilde][Oscar Wilde]]
   + Cuanto más conservadoras son las ideas, más revolucionarios los discursos.
   + El trabajo es el refugio de los que no tienen nada que hacer.
