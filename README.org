@@ -2013,6 +2013,9 @@ encontrando.
     adquirirlos.
   + Nuestro conocimiento es necesariamente finito, mientras que nuestra
     ignorancia es necesariamente infinita.
+  + Si somos absolutamente tolerantes, incluso con los intolerantes, y no
+    defendemos la sociedad tolerante contra sus asaltos, los tolerantes serán
+    aniquilados y junto con ellos la tolerancia.
 
 + [[https://en.wikipedia.org/wiki/Karl_Weierstrass][Karl Weierstrass]]
   + Un matemático que no sea también algo de poeta nunca será un matemático
