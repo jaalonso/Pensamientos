@@ -2922,6 +2922,9 @@ encontrando.
   + ¿No tienes enemigos? ¿Es que jamás dijiste la verdad o jamás amaste la
     justicia?
 
++ [[https://es.wikipedia.org/wiki/Tom%C3%A1s_de_Aquino][Santo Tomás de Aquino]]
+  + Teme al hombre de un solo libro.
+
 + [[https://es.wikipedia.org/wiki/Sexto_Pomponio][Sexto Pomponio]]
   + Algunos hasta tal punto se refugian en la oscuridad que consideran confuso
     cuanto es luminoso
