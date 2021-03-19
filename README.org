@@ -2856,6 +2856,10 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Robert_G._Ingersoll][Robert G. Ingersoll]]
   + En la vida no hay premios ni castigos, sino consecuencias.
 
++ [[https://es.wikipedia.org/wiki/Robert_Langlands][Robert Langlands]]
+  + Ciertamente, los mejores momentos fueron cuando estaba solo con las
+    matemáticas, libre de ambiciones y pretensiones, e indiferente al mundo.
+
 + [[https://es.wikipedia.org/wiki/Robert_Louis_Stevenson][Robert Louis Stevenson]]
   + No juzgues el día por la cosecha que has recogido, sino por las semillas
     que has plantado.
