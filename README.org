@@ -3281,6 +3281,10 @@ encontrando.
   + Si tu mente no está nublada por cosas innecesarias, esta es la mejor estación
     de tu vida.
 
++ [[https://es.wikipedia.org/wiki/Yuval_Noah_Harari][Yuval Noah Harari]]
+  + La gente lleva vidas cada vez más solitarias en un planeta cada vez más
+    conectado.
+
 + [[https://es.wikipedia.org/wiki/Zen%C3%B3n_de_Citio][Zenón de Citio]]
   + Recordad que la naturaleza nos ha dado dos oídos y una sola boca, para
     enseñarnos que más vale escuchar que hablar.
