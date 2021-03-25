@@ -167,6 +167,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]]
   + El bien de la humanidad debe consistir en que cada uno goce al máximo de la
     felicidad que pueda, sin disminuir la felicidad de los demás.
+  + El problema con la ficción es que tiene mucho sentido mientras que la
+    realidad nunca tiene sentido.
   + El secreto de la genialidad es el de conservar el espíritu del niño hasta
     la vejez, lo cual quiere decir nunca perder el entusiasmo.
   + La cultura no deriva de la lectura de libros, sino de la lectura exhaustiva
