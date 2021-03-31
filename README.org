@@ -594,6 +594,10 @@ encontrando.
   + Todo necio cree lo que le dicen sus maestros y llama a su credulidad ciencia o
     moralidad con tanta seguridad como su padre la llamaba revelación divina.
 
++ [[https://en.wikipedia.org/wiki/Bertolt_Brecht][Bertolt Brecht]]
+  + ¡No temas preguntar, compañero!/ ¡No te dejes convencer!/ ¡Compruébalo tú
+    mismo!/ lo que no sabes por ti,/ no lo sabes.
+
 + [[https://es.wikipedia.org/wiki/Bertrand_Russell][Bertrand Russell]]
   + Al contrario del esquema habitual me he hecho gradualmente más rebelde a medida
     que envejezco.
