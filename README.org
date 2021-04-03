@@ -2813,6 +2813,8 @@ encontrando.
   + Cuando surge un problema, deberíamos ser capaces de ver pronto si será rentable
     examinar otros problemas primero, y qué otros, y en qué orden.
   + Daría todo lo que sé por la mitad de lo que ignoro.
+  + Divide las dificultades que examinas en tantas partes como sea posible para
+    su mejor solución.
   + El buen sentido es lo que mejor repartido está entre todo el mundo, pues cada
     cual piensa que posee buena provisión de él.
   + Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no
