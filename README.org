@@ -2435,6 +2435,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Miguel_de_Unamuno][Miguel de Unamuno]]
   + Hay que sentir el pensamiento y pensar el sentimiento.
+  + El que tiene fe en sí mismo no necesita que los demás crean en él.
   + Se viaja no para buscar el destino sino para huir de donde se parte.
 
 + [[https://bit.ly/3lcJ0F3][Milton Friedman]]
