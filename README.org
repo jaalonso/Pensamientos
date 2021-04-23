@@ -3086,6 +3086,10 @@ encontrando.
   + Learning to program teaches you how to think. Computer science is a liberal
     art.
 
++ [[https://es.wikipedia.org/wiki/Sun_Tzu][Sun Tzu]]
+  + Cuando las órdenes son razonables, justas, sencillas, claras y consecuentes,
+    existe una satisfacción recíproca entre el líder y el grupo.
+
 + [[https://es.wikipedia.org/wiki/Susanna_Tamaro][Susanna Tamaro]]‬
   + Sin constancia, sin dedicación no se logra nada en ningún campo. No se
     puede estudiar una lengua ni plantar un huerto ni cultivar una amistad ni
