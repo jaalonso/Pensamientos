@@ -1148,6 +1148,12 @@ encontrando.
     matemáticas para confundirse a través del incontable número de posibles
     excepciones.
 
++ [[https://es.wikipedia.org/wiki/Fernando_Pessoa][Fernando Pessoa]]
+  + Hoy el mundo pertenece a los estúpidos, a los insensibles y a los
+    agitados. El derecho a vivir y a triunfar se conquista con los mismos
+    procedimientos con que se conquista el internamiento en un manicomio: la
+    incapacidad de pensar, la amoralidad y la hiperexcitación.
+
 + [[https://es.wikipedia.org/wiki/Francis_Bacon][Francis Bacon]]
   + La amistad duplica las alegrías y divide las angustias por la mitad.
   + La lectura hace al hombre completo; la conversación lo hace ágil, el
