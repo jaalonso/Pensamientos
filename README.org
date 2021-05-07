@@ -2401,6 +2401,7 @@ encontrando.
   + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
   + Nunca discutas con un ignorante, te hará descender a su nivel y ahí te
     vencerá por experiencia.
+  + Un pesimista es un optimista bien informado.
 
 + [[https://es.wikipedia.org/wiki/Martin_Fowler][Martin Fowler]]
   + Cualquier ignorante puede escribir un programa que un ordenador puede
