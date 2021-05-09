@@ -2551,6 +2551,8 @@ encontrando.
     o hacen que él las sienta, y todo ello de mil maneras distintas.
 
 + [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo][Nicolás Maquiavelo]]
+  + En general, los hombres juzgan más por los ojos que por la inteligencia, pues
+    todos pueden ver, pero pocos comprenden lo que ven.
   + La experiencia siempre ha demostrado que jamás suceden bien las cosas
     cuando dependen de muchos.
 
