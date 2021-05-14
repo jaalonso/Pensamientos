@@ -1654,6 +1654,7 @@ encontrando.
   + Es más fácil embaucar a muchos juntos que a uno solo.
 
 + [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso]]
+  + No hay nada permanente excepto el cambio.
   + Todo cambia, nada es.
 
 + [[https://es.wikipedia.org/wiki/Hes%C3%ADodo][Hesíodo]]
