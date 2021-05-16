@@ -1323,6 +1323,8 @@ encontrando.
     no apoyada por la evidencia.
 
 + [[https://es.wikipedia.org/wiki/George_Orwell][George Orwell]]
+  + Cuanto más se aleja una sociedad de la verdad, más odiará a quienes la
+    dicen.
   + Ver lo que tenemos delante de nuestras narices requiere una lucha
     constante.
 
