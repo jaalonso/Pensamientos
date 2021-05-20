@@ -1467,6 +1467,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Grace_Murray_Hopper][Grace Hopper]]
   + La frase más dañina del lenguaje es: "Siempre se ha hecho así".
 
++ [[https://es.wikipedia.org/wiki/Gregorio_Mara%C3%B1%C3%B3n][Gregorio Marañón]]
+  + El trabajo sin prisa es el mayor descanso para el organismo.
+
 + [[https://es.wikipedia.org/wiki/Gregory_Chaitin][Gregory Chaitin]]
   + En cierto modo, las matemáticas no son el arte de responder preguntas
     matemáticas, es el arte de hacer las preguntas correctas, las preguntas que te
