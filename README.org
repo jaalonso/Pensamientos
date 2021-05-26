@@ -3270,6 +3270,10 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Virgilio][Virgilio]]
   + Pueden los que creen que pueden.
 
++ [[https://en.wikipedia.org/wiki/Virginia_Woolf][Virginia Woolf]]
+  + No hay necesidad de apresurarse. No hay necesidad de brillar. No es
+    necesario ser nadie más que uno mismo.
+
 + [[https://es.wikipedia.org/wiki/Voltaire][Voltaire]]
   + A los tontos todo les maravilla en un autor apreciado; pero yo, que leo para
     mí, sólo apruebo lo que me gusta.
