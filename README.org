@@ -2435,6 +2435,9 @@ encontrando.
     entender. Los buenos programadores escriben programas que los humanos pueden
     entender.
 
++ [[https://es.wikipedia.org/wiki/Martin_Heidegger][Martin Heidegger]]
+  + Sólo hay mundo donde hay lenguaje.
+
 + [[https://es.wikipedia.org/wiki/Martin_Luther_King][Martin Luther King]]
   + Nada en el mundo es más peligroso que la ignorancia sincera y la estupidez
     concienzuda.
