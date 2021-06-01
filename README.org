@@ -1584,6 +1584,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
   + No importa lo pequeño pueda parecer el comienzo: lo que se hace bien, bien
     hecho queda para siempre.
+  + Lo que un hombre piensa de sí mismo, esto es lo que determina, o más bien
+    indica, su destino.
 
 + [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]]
   + Dime lo que crees ser y te diré lo que no eres.
