@@ -2067,6 +2067,9 @@ encontrando.
   + Cuanto más claro y bonito sea el programa, más rápido se ejecutará. Y si no
     lo hace, será fácil hacerlo rápido.
 
++ [[https://es.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez][Juan Ramón Jiménez]]
+  + Mis únicas dos armas: tiempo y silencio.
+
 + [[https://es.wikipedia.org/wiki/Juan_XXIII][Juan XXIII]]
   + Sólo por hoy trataré de vivir exclusivamente el día, sin querer resolver el
     problema de mi vida todo de una vez.
