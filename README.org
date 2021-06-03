@@ -2068,6 +2068,7 @@ encontrando.
     lo hace, será fácil hacerlo rápido.
 
 + [[https://es.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez][Juan Ramón Jiménez]]
+  + En la soledad no se encuentra más que lo que a la soledad se lleva.
   + Mis únicas dos armas: tiempo y silencio.
 
 + [[https://es.wikipedia.org/wiki/Juan_XXIII][Juan XXIII]]
