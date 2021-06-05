@@ -261,6 +261,8 @@ encontrando.
 + [[https://en.wikipedia.org/wiki/Anatole_France][Anatole France]]
   + La vida nos enseña que no podemos ser felices sino al precio de cierta
     ignorancia.
+  + Si cincuenta millones de personas dicen una tontería, sigue siendo una
+    tontería.
 
 + [[https://bit.ly/37bBjJJ][André Gide]]
   + El hombre no puede descubrir nuevos océanos a menos que tenga el coraje de
