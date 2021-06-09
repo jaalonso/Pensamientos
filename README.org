@@ -1560,6 +1560,28 @@ encontrando.
     cierta medida, lo que hacemos y que nos creamos continuamente a nosotros
     mismos.
 
++ [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]]
+  + Dime lo que crees ser y te diré lo que no eres.
+  + El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
+    cumplimiento de nuestros deseos y cumplirlos plenamente.
+  + El hombre que pretende verlo todo con claridad antes de decidir nunca
+    decide.
+  + Hacer con soltura lo que es difícil a los demás, he ahí la señal del
+    talento; hacer lo que es imposible al talento, he ahí el signo del genio.
+  + La vida es un aprendizaje de renunciamiento progresivo, de continua
+    limitación de nuestras pretensiones, de nuestras esperanzas, de nuestra
+    fuerza, de nuestra libertad.
+  + No creo que ningún placer que podamos obtener de nuestras emociones llegue
+    a igualar esos momentos de paz silenciosa que son atisbos de los gozos del
+    paraíso ... Se siente una armonía interior libre de la más mínima agitación
+    o tensión. En esos momentos el estado del alma es solemne, semejante quizá
+    a su condición más allá de la tumba. Se trata de felicidad, según entienden
+    los orientales, la felicidad del eremita que se halla libre de deseo y
+    conflicto, y que sencillamente adora en plenitud de dicha.
+  + Vivimos mientras nos renovamos.
+  + ¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde muchos
+    puntos de vista.
+
 + [[https://es.wikipedia.org/wiki/Henri_L%C3%A9on_Lebesgue][Henri Lebesgue]]
   + La única enseñanza que un profesor puede dar, en mi opinión, es la de pensar
     delante de sus alumnos.
@@ -1591,43 +1613,19 @@ encontrando.
   + Una palabra bien elegida puede economizar no sólo cien palabras, sino cien
     pensamientos.
 
++ [[https://es.wikipedia.org/wiki/Henrik_Ibsen][Henrik Ibsen]]
+  + La belleza es el acuerdo entre el contenido y la forma.
+
 + [[https://bit.ly/2Yv5qZI][Henry Brougham]]
   + Procura buscar el conocimiento en las dificultades.
 
 + [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
-  + No importa lo pequeño pueda parecer el comienzo: lo que se hace bien, bien
-    hecho queda para siempre.
   + Lo que un hombre piensa de sí mismo, esto es lo que determina, o más bien
     indica, su destino.
-
-+ [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]]
-  + Dime lo que crees ser y te diré lo que no eres.
-  + El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
-    cumplimiento de nuestros deseos y cumplirlos plenamente.
-  + El hombre que pretende verlo todo con claridad antes de decidir nunca
-    decide.
-  + Hacer con soltura lo que es difícil a los demás, he ahí la señal del
-    talento; hacer lo que es imposible al talento, he ahí el signo del genio.
-  + La vida es un aprendizaje de renunciamiento progresivo, de continua
-    limitación de nuestras pretensiones, de nuestras esperanzas, de nuestra
-    fuerza, de nuestra libertad.
-  + No creo que ningún placer que podamos obtener de nuestras emociones llegue
-    a igualar esos momentos de paz silenciosa que son atisbos de los gozos del
-    paraíso ... Se siente una armonía interior libre de la más mínima agitación
-    o tensión. En esos momentos el estado del alma es solemne, semejante quizá
-    a su condición más allá de la tumba. Se trata de felicidad, según entienden
-    los orientales, la felicidad del eremita que se halla libre de deseo y
-    conflicto, y que sencillamente adora en plenitud de dicha.
-  + Vivimos mientras nos renovamos.
-  + ¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde muchos
-    puntos de vista.
-
-+ [[https://es.wikipedia.org/wiki/Henrik_Ibsen][Henrik Ibsen]]
-  + La belleza es el acuerdo entre el contenido y la forma.
-
-+ [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
   + No hay nadie tan equivocado como aquel que pasa la mayor parte de su vida
     ganándose la vida.
+  + No importa lo pequeño pueda parecer el comienzo: lo que se hace bien, bien
+    hecho queda para siempre.
   + Nuestra vida siempre se malgasta en los detalles ... simplifiquemos,
     simplifiquemos.
 
@@ -3211,6 +3209,7 @@ encontrando.
   + No he fracasado, he encontrado diez mil fórmulas que no funcionan.
 
 + [[https://es.wikipedia.org/wiki/Thomas_Carlyle][Thomas Carlyle]]
+  + La contemplación es un lujo, mientras que la acción es una necesidad.
   + No hables, en manera alguna, hasta que tengas algo que decir.
 
 + [[https://es.wikipedia.org/wiki/Thomas_Jefferson][Thomas Jefferson]]
