@@ -2458,6 +2458,8 @@ encontrando.
     entender.
 
 + [[https://es.wikipedia.org/wiki/Martin_Heidegger][Martin Heidegger]]
+  + La gente me agota. Paso días y días por mi cuenta sin ningún contacto
+    humano. Por eso abrazo el silencio y la soledad.
   + Sólo hay mundo donde hay lenguaje.
 
 + [[https://es.wikipedia.org/wiki/Martin_Luther_King][Martin Luther King]]
