@@ -567,6 +567,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Benjamin_Franklin][Benjamin Franklin]]
   + Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.
+  + El hombre descontento no encuentra silla cómoda.
   + La llave que se usa constantemente reluce como plata: no usándola se llena de
     herrumbre. Lo mismo pasa con el entendimiento.
   + La peor decisión es la indecisión.
