@@ -1654,6 +1654,11 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Herbert_Alexander_Simon][Herbert A. Simon]]
   + En el mundo de los computadores, el momento de la verdad es el de ejecutar
     el programa; los demás es profecía.
+  + ¿Qué consume la información? Consume la atención de sus destinatarios. En
+    consecuencia, una riqueza de información crea pobreza de atención, y la
+    necesidad de asignar de manera eficiente la atención que entre la
+    sobreabundancia de fuentes de información que se pueda consumir es
+    primordial.
 
 + [[https://es.wikipedia.org/wiki/Herbert_von_Karajan][Herbert von Karajan]]
   + El arte de dirigir consiste en saber cuando hay que abandonar la batuta para
