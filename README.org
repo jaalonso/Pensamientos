@@ -2103,6 +2103,10 @@ encontrando.
   + Las personas que quieren seguir reglas me divierten, puesto que en la vida
     únicamente existe la excepción.
 
++ [[https://es.wikipedia.org/wiki/Juli%C3%A1n_Mar%C3%ADas][Julián Marías]]
+  + Lo que más me inquieta es que en España todos se preguntan: ¿qué va a pasar?
+    Casi nadie se pregunta: ¿qué vamos a hacer?
+
 + [[https://es.wikipedia.org/wiki/Julio_Verne][Julio Verne]]
   + La ciencia, muchacho, está hecha de errores; pero de errores que conviene
     cometer, porque conducen poco a poco a la verdad.
