@@ -2478,6 +2478,10 @@ encontrando.
     humano. Por eso abrazo el silencio y la soledad.
   + Sólo hay mundo donde hay lenguaje.
 
++ [[https://es.wikipedia.org/wiki/Mart%C3%ADn_Lutero][Martín Lutero]]
+  + Aunque mañana fuera el día del fin del mundo, yo plantaría manzanos en el
+    día de hoy.
+
 + [[https://es.wikipedia.org/wiki/Martin_Luther_King][Martin Luther King]]
   + Nada en el mundo es más peligroso que la ignorancia sincera y la estupidez
     concienzuda.
