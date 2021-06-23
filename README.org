@@ -1967,6 +1967,10 @@ encontrando.
   + La vida es aquello que te va sucediendo mientras estás ocupado haciendo otros
     planes.
 
++ [[https://es.wikipedia.org/wiki/John_Steinbeck][John Steinbeck]]
+  + De todos los animales la creación, el hombre el único que bebe sin tener
+    sed, come sin tener hambre y habla sin tener nada que decir.
+
 + [[https://bit.ly/2WwYbPF][John Stillwell]]
   + Imposibilidades aparentes que son nuevas verdades [...] números
     irracionales, números imaginarios, puntos en el infinito, espacio curvo,
