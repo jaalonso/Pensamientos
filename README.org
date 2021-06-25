@@ -541,6 +541,7 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n][Baltasar Gracián]]
   + El primer paso de la ignorancia es presumir de saber.
   + Lo bueno, si breve, dos veces bueno; lo malo, si poco, no tan malo.
+  + Más daña el decaimiento del ánimo que el del cuerpo.
   + No te pongas en el lado malo de un argumento simplemente porque tu oponente
     se ha puesto en el lado correcto.
   + Saber y saberlo demostrar es saber dos veces.
