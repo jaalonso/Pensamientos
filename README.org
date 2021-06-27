@@ -1920,6 +1920,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]]
   + Con el conocimiento se acrecientan las dudas.
+  + El hombre siempre aspira a lo que no es.
   + El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
     viejo, místico.
   + El único hombre que no se equivoca es el que nunca hace nada.
