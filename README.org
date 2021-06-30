@@ -3323,6 +3323,10 @@ encontrando.
     utopía es el porvenir que se esfuerza en nacer. La rutina es el pasado que se
     obstina en seguir.
 
++ [[https://es.wikipedia.org/wiki/Victoria_Ocampo][Victoria Ocampo]]
+  + Cuando no se tiene el coraje de vivir como se piensa, se termina por pensar
+    como se vive.
+
 + [[https://es.wikipedia.org/wiki/Viktor_Frankl][Viktor Frankl]]
   + La felicidad es como una mariposa. Cuanto más la persigues, más huye. Pero si
     vuelves la atención hacia otras cosas, ella viene y suavemente se  posa en tu
