@@ -191,6 +191,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Alejandro_Dumas][Alejandro Dumas]]
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
+  + Todas las generalizaciones son peligrosas, incluso ésta.
 
 + [[https://es.wikipedia.org/wiki/Aleksandr_Solzhenitsyn][Aleksandr Solzhenitsin]]
   + La precipitación y la superficialidad son las enfermedades crónicas del
