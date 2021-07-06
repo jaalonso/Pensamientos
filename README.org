@@ -1234,6 +1234,10 @@ encontrando.
   + Sólo cerrando las puertas detrás de uno se abren ventanas hacia el
     porvenir.
 
++ [[https://es.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand][François-René de Chateaubriand]]
+  + Las instituciones pasan por tres períodos: el del servicio, el de los
+    privilegios y el del abuso.
+
 + [[https://es.wikipedia.org/wiki/Franz_Kafka][Franz Kafka]]
   + Es sólo a causa de su estupidez que son capaces de estar tan seguros de sí
     mismos.
