@@ -1180,6 +1180,10 @@ encontrando.
   + El secreto para vivir en paz con todos consiste en el arte de comprender a
     cada uno según su individualidad.
 
++ [[https://es.wikipedia.org/wiki/Fi%C3%B3dor_Dostoyevski][Fiódor Dostoyevski]]
+  + La tolerancia llegará a tal nivel que las personas inteligentes tendrán
+    prohibido pensar para no ofender a los imbéciles.
+
 + [[https://en.wikipedia.org/wiki/Felix_Klein][Felix Klein]]
   + Todo el mundo sabe lo que es una curva, hasta que ha estudiado suficientes
     matemáticas para confundirse a través del incontable número de posibles
