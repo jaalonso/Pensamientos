@@ -2003,6 +2003,8 @@ encontrando.
     extensión tecnológica de nuestros sentidos.
 
 + [[https://en.wikipedia.org/wiki/John_von_Neumann][John von Neumann]]
+  + La verdad es demasiado complicada para admitir otra cosa que no sean
+    aproximaciones.
   + Se espera que un teorema matemático o una teoría matemática no sólo describa
     y clasifique de manera sencilla y elegante numerosos y a priori dispares casos
     especiales. También se espera elegancia en su estructura arquitectónica.
