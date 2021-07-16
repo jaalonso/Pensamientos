@@ -1850,6 +1850,8 @@ encontrando.
     las ideas e intentos que obliga su resolución.
 
 + [[https://bit.ly/2RHtRyr][Italo Calvino]]
+  + Cada elección tiene su anverso, es decir, una renuncia, por lo que no hay
+    diferencia entre el acto de elegir y el acto de renunciar.
   + Renunciar a las cosas es menos difícil de lo que se cree: todo estriba en
     empezar. Una vez que has logrado prescindir de algo que creías esencial,
     adviertes que puedes pasarte también sin alguna otra cosa, y luego aún sin otras
