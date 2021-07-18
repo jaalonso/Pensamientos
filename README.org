@@ -258,6 +258,10 @@ encontrando.
   + Pensamos en generalidades, pero vivimos en detalles.
   + Se requiere una mente muy inusual para llevar a cabo el análisis de lo obvio.
 
++ [[https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Matute][Ana María Matute]]
+  + El mundo hay que fabricárselo uno mismo, hay que crear peldaños que te suban,
+    que te saquen del pozo. Hay que inventar la vida porque acaba siendo verdad.
+
 + [[https://es.wikipedia.org/wiki/Ana%C3%AFs_Nin][Anais Nin]]
   + No vemos jamás las cosas tal cual son, las vemos tal cual somos.
 
