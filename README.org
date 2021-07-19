@@ -2655,7 +2655,6 @@ encontrando.
   + Me gustan los amigos que tienen pensamientos independientes, porque suelen
     hacerte ver los problemas desde todos los ángulos.
 
-
 + [[https://es.wikipedia.org/wiki/Nicolas_Chamfort][Nicolas Chamfort]]
   + En los grandes asuntos, los hombres se muestran como les conviene, en los
     pequeños, tal como son en realidad.
