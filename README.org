@@ -2941,6 +2941,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson]]
   + El hombre grande es aquel que en medio de las muchedumbres mantiene, con
     perfecta dulzura, la independencia de la soledad.
+  + Es fácil en el mundo vivir según la opinión del mundo; es fácil en la soledad
+    vivir según la nuestra; pero el gran hombre es aquel que en medio de la
+    multitud mantiene con perfecta sencillez la independencia de la soledad.
   + Grabad esto en vuestro corazón; cada día comienza en nosotros un año nuevo,
     una nueva vida.
   + Más podemos conocer de una persona por lo que ella dice de los demás que
