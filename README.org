@@ -1894,6 +1894,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/James_Joyce][James Joyce]]
   + Los errores son los umbrales del descubrimiento.
 
++ [[https://es.wikipedia.org/wiki/Jane_Austen][Jane Austen]]
+  + La mitad del mundo no puede comprender los placeres de la otra mitad.
+
 + [[https://es.wikipedia.org/wiki/Javier_Krahe][Javier Krahe]]
   + Prefiero caminar con una duda que con un mal axioma.
 
