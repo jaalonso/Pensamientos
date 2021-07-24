@@ -934,6 +934,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/David_Hume][David Hume]]
   + Cada solución da pie a una nueva pregunta.
+  + Cuando los hombres son más seguros y arrogantes suelen equivocarse más.
   + Estoy convencido de que cuando los hombres están más seguros y son más
     arrogantes están normalmente más equivocados, y han dado riendas a la
     pasión sin esa adecuada deliberación y duda, que son las únicas que pueden
