@@ -877,7 +877,7 @@ encontrando.
     haciendo cosas mientras le salen. No las va a cortar así por una decisión de su
     voluntad; no va a quedarse con la mente en blanco.
 
-+ [[https://es.wikipedia.org/wiki/Confucio][Confucio]]
++ [[https://es.wikipedia.org/wiki/ConfVcio][Confucio]]
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
   + El hombre que mueve una montaña empieza por arrastrar una pequeña piedra.
   + El que por la mañana ha conseguido conocer la verdad, ya puede morir por la
@@ -2792,6 +2792,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry][Paul Valéry]]
   + El problema de nuestros tiempos es que el futuro ya no es lo que era.
+  + La política es el arte de impedir que la gente se entrometa en lo que le
+    atañe.
 
 + [[https://es.wikipedia.org/wiki/Paul_Tillich][Paul Tillich]]
   + Un error pedagógico fatal es lanzar respuestas, como piedras, a las cabezas
