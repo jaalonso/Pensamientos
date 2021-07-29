@@ -1853,6 +1853,10 @@ encontrando.
   + Lo que sabemos es una gota de agua; lo que ignoramos es el océano.
   + Los hombres construimos demasiados muros y no suficientes puentes.
 
++ [[https://es.wikipedia.org/wiki/Isabel_Allende][Isabel Allende]]
+  + Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar
+    el presente, y optimismo desafiante para encarar el futuro.
+
 + [[https://es.wikipedia.org/wiki/Is%C3%B3crates][Isócrates]]
   + Una colección de bellas máximas es un tesoro más apreciable que las
     riquezas.
