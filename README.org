@@ -1018,6 +1018,8 @@ encontrando.
   + El mismo acto de escribir fuerza al pensamiento a hacerse lógico.
   + Hay muchas personas que no saben perder a solas el tiempo y son el azote de
     las que tienen ocupaciones.
+  + Si un hombre me engaña una vez, me avergüenzo de él; si me engaña dos veces,
+    siento lástima de mí.
 
 + [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]]
   + El arte de la programación es el arte de organizar la complejidad, de dominar
