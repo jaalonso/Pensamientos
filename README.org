@@ -2716,6 +2716,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Oscar_Wilde][Oscar Wilde]]
   + Cuanto más conservadoras son las ideas, más revolucionarios los discursos.
   + El trabajo es el refugio de los que no tienen nada que hacer.
+  + El único amor consecuente, fiel, comprensivo, que todo perdona, que nunca nos
+    defrauda y que nos acompaña hasta la muerte es el amor propio.
   + La educación es una cosa admirable, pero es bueno recordar de vez en cuando,
     que nada que valga la pena saber puede ser enseñado.
   + No soy tan joven como para saberlo todo.
