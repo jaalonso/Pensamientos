@@ -2718,6 +2718,7 @@ encontrando.
   + Sé feliz durante este momento. Este momento es tu vida.
 
 + [[https://es.wikipedia.org/wiki/Oscar_Wilde][Oscar Wilde]]
+  + Cuando estoy de acuerdo con todos sospecho que estoy equivocado.
   + Cuanto más conservadoras son las ideas, más revolucionarios los discursos.
   + El trabajo es el refugio de los que no tienen nada que hacer.
   + El único amor consecuente, fiel, comprensivo, que todo perdona, que nunca nos
