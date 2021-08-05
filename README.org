@@ -1851,6 +1851,8 @@ encontrando.
     también útil, quebrantar aquellas que nos anuncian el hecho de que son
     inútiles, o incluso realmente perjudiciales.
   + Nunca permitas que el sentido de la moral te impida hacer lo que está bien.
+  + Tal vez la felicidad sea esto: no sentir que debes estar en otro lado,
+    haciendo otra cosa, siendo alguien distinto.
 
 + [[https://es.wikipedia.org/wiki/Isaac_Newton][Isaac Newton]]
   + La verdad siempre se halla en la simplicidad y no en la multiplicidad y
