@@ -3063,10 +3063,13 @@ encontrando.
   + El hecho de que la prueba de un teorema consista en la aplicación de ciertas
     reglas simples de lógica no elimina el elemento creativo en las matemáticas,
     que radica en la elección de las posibilidades a examinar.
-  + Las matemáticas como expresión de la mente humana reflejan la voluntad
+  + Las matemáticas, como expresión de la mente humana, reflejan la voluntad
     activa, la razón contemplativa y el deseo de perfección estética. Sus
     elementos básicos son la lógica y la intuición, el análisis y la construcción,
-    la generalidad y la individualidad.
+    la generalidad y la individualidad. Aunque las diferentes tradiciones pueden
+    enfatizar diferentes aspectos, es sólo la interacción de estas fuerzas
+    antitéticas y la lucha por su síntesis lo que constituye la vida, la utilidad
+    y el valor supremo de la ciencia matemática.
 
 + [[https://bit.ly/33Oi7jg][Richard Feynman]]
   + La mejor enseñanza sólo puede hacerse cuando hay una relación individual
