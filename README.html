@@ -3,7 +3,7 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
 <head>
-<!-- 2021-06-08 mar 08:16 -->
+<!-- 2021-08-06 vie 07:37 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Pensamientos</title>
@@ -40,7 +40,7 @@
   }
   pre.src {
     position: relative;
-    overflow: visible;
+    overflow: auto;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -52,7 +52,7 @@
     padding: 3px;
     border: 1px solid black;
   }
-  pre.src:hover:before { display: inline;}
+  pre.src:hover:before { display: inline; margin-top: 14px;}
   /* Languages per Org manual */
   pre.src-asymptote:before { content: 'Asymptote'; }
   pre.src-awk:before { content: 'Awk'; }
@@ -195,50 +195,26 @@
 </style>
 <link rel="stylesheet" type="text/css" href="./estilo.css" />
 <script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
-
-Copyright (C) 2012-2019 Free Software Foundation, Inc.
-
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
+// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&amp;dn=gpl-3.0.txt GPL-v3-or-Later
 <!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
+     function CodeHighlightOn(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.add("code-highlighted");
+         target.classList.add("code-highlighted");
+       }
+     }
+     function CodeHighlightOff(elem, id)
+     {
+       var target = document.getElementById(id);
+       if(null != target) {
+         elem.classList.remove("code-highlighted");
+         target.classList.remove("code-highlighted");
+       }
+     }
+    /*]]>*///-->
+// @license-end
 </script>
 </head>
 <body>
@@ -360,8 +336,12 @@ justamente en pelar patatas.</li>
 
 <li><a href="https://es.wikipedia.org/wiki/Albert_Camus">Albert Camus</a>
 <ul class="org-ul">
+<li>A pesar de todos mis esfuerzos y razonamientos, me es imposible sacudirme
+esta tristeza que ya ni siquiera comprendo.</li>
 <li>Envejecer es pasar de la pasión a la compasión.</li>
 <li>Inocente es quien no necesita explicarse.</li>
+<li>La gente nunca está convencida de tus razones, de tu sinceridad, de tu
+seriedad o tus sufrimientos, salvo si te mueres.</li>
 <li>Todas las desgracias de los hombres provienen de no hablar claro.</li>
 </ul></li>
 
@@ -459,6 +439,8 @@ sucede.</li>
 difícil encontrar a alguien que esté completamente sano.</li>
 <li>Las personas debemos el progreso a los insatisfechos.</li>
 <li>Los hechos no dejan de existir porque se ignoren.</li>
+<li>Mientras más poderosa y original sea una mente, más se inclinará hacia la
+religión de la soledad.</li>
 <li>Quizá la única lección que nos enseña la historia es que los seres humanos
 no aprendemos nada de las lecciones de la historia.</li>
 <li>Todo está en todo. Todo es realmente cada cosa.</li>
@@ -466,7 +448,10 @@ no aprendemos nada de las lecciones de la historia.</li>
 
 <li><a href="https://es.wikipedia.org/wiki/Alejandro_Dumas">Alejandro Dumas</a>
 <ul class="org-ul">
+<li>La vida es tan incierta, que la felicidad debe aprovecharse en el momento en
+que se presenta.</li>
 <li>Para todos los males, hay dos remedios: el tiempo y el silencio.</li>
+<li>Todas las generalizaciones son peligrosas, incluso ésta.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Aleksandr_Solzhenitsyn">Aleksandr Solzhenitsin</a>
@@ -552,6 +537,12 @@ surge de quererlas tratar como verdades absolutas.</li>
 conocimiento.</li>
 <li>Pensamos en generalidades, pero vivimos en detalles.</li>
 <li>Se requiere una mente muy inusual para llevar a cabo el análisis de lo obvio.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Ana_Mar%C3%ADa_Matute">Ana María Matute</a>
+<ul class="org-ul">
+<li>El mundo hay que fabricárselo uno mismo, hay que crear peldaños que te suban,
+que te saquen del pozo. Hay que inventar la vida porque acaba siendo verdad.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Ana%C3%AFs_Nin">Anais Nin</a>
@@ -782,16 +773,17 @@ dice.</li>
 objetivo. En segundo lugar, acopiar los medios necesarios para alcanzar los
 fines: sabiduría, dinero, materiales y métodos. En tercer lugar, ajustar
 todos los medios a ese exclusivo fin.</li>
+<li>Es ignorancia no saber distinguir entre lo que necesita demostración y lo
+que no la necesita.</li>
+<li>La habilidad de exponer una idea es tan importante como la idea en sí misma.</li>
 <li>Mercaderes e industriales no deben ser admitidos a la ciudanía, porque su
 género de vida es abyecto y contrario a la virtud.</li>
 <li>No basta decir solamente la verdad, mas conviene mostrar la causa de la
 falsedad.</li>
-<li>Es ignorancia no saber distinguir entre lo que necesita demostración y lo
-que no la necesita.</li>
 <li>Sólo hay una manera de evitar la crítica: no hagas nada, no digas nada, y
 no seas nada.</li>
-<li>"Sólo una mente educada puede comprender un pensamiento diferente al suyo sin
-necesidad de aceptarlo".</li>
+<li>Sólo una mente educada puede comprender un pensamiento diferente al suyo sin
+necesidad de aceptarlo.</li>
 <li>Somos lo que hacemos día a día. De modo que la excelencia no es un acto,
 sino un hábito.</li>
 </ul></li>
@@ -889,6 +881,7 @@ fruto.</li>
 <ul class="org-ul">
 <li>El primer paso de la ignorancia es presumir de saber.</li>
 <li>Lo bueno, si breve, dos veces bueno; lo malo, si poco, no tan malo.</li>
+<li>Más daña el decaimiento del ánimo que el del cuerpo.</li>
 <li>No te pongas en el lado malo de un argumento simplemente porque tu oponente
 se ha puesto en el lado correcto.</li>
 <li>Saber y saberlo demostrar es saber dos veces.</li>
@@ -922,16 +915,21 @@ remordimiento.</li>
 
 <li><a href="https://es.wikipedia.org/wiki/Benjamin_Franklin">Benjamin Franklin</a>
 <ul class="org-ul">
+<li>Bienaventurado el que no espera nada, porque nunca será decepcionado.</li>
 <li>Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.</li>
+<li>El hombre descontento no encuentra silla cómoda.</li>
 <li>La llave que se usa constantemente reluce como plata: no usándola se llena de
 herrumbre. Lo mismo pasa con el entendimiento.</li>
 <li>La peor decisión es la indecisión.</li>
+<li>La vida es un diez por ciento de lo que haces y un noventa por ciento de
+cómo la tomas.</li>
 <li>Los hombres son criaturas muy raras: la mitad censura lo que practica, la
 otra mitad practica lo que censura, el resto siempre dice y hace lo que
 debe.</li>
 <li>No anticipéis las tribulaciones ni temáis lo que seguramente no os puede
 suceder. Vivid siempre en un ambiente de optimismo.</li>
 <li>Si deseas persuadir, apela al interés y no a la razón.</li>
+<li>Tres podrían guardar un secreto si dos de ellos hubieran muerto.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle">Bernard Le Bovier de Fontenelle</a>
@@ -944,6 +942,7 @@ suceder. Vivid siempre en un ambiente de optimismo.</li>
 <li>Cuando un hombre estúpido hace algo que le avergüenza, siempre dice que cumple
 con su deber.</li>
 <li>Dichoso es el que tiene una profesión que coincide con su afición.</li>
+<li>Dos tragedias hay en la vida: no lograr lo que el corazón ansía y lograrlo.</li>
 <li>El hombre con dolor de muelas piensa que todos los que tienen dientes sanos
 son felices. El hombre pobre comete el mismo error con el rico.</li>
 <li>El hombre razonable se adapta al mundo: el irracional persiste en intentar
@@ -968,6 +967,8 @@ encuentran, las hacen.</li>
 muerte.</li>
 <li>No hagas a los demás como esperarías que te hicieran a ti. Puede que sus
 gustos no sean los mismos.</li>
+<li>No sabe nada y cree que lo sabe todo: todo apunta claramente a una carrera
+política.</li>
 <li>Si comienzas por sacrificarte por tus seres queridos, terminarás odiando a
 aquellos por quienes te has sacrificado.</li>
 <li>Siempre hay peligro para aquellos que lo temen.</li>
@@ -1095,6 +1096,7 @@ no es bella, sé que está mal.</li>
 <li>vive una vida decente y medita para que ello te ayude a eliminar el
 deseo.</li>
 </ol></li>
+<li>Ni tu peor enemigo puede hacerte tanto daño como tus propios pensamientos.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Burrhus_Frederic_Skinner">Burrhus Frederic Skinner</a>
@@ -1142,6 +1144,8 @@ escribir de modo conciso lleva mucho más tiempo que hacerlo en extensión.</li>
 <li>El zapato que le ajusta a un hombre le aprieta a otro; no hay receta para
 la vida que funcione en todos los casos.</li>
 <li>Eres lo que haces, no lo que dices que vas a hacer.</li>
+<li>La soledad es peligrosa. Es adictiva. Una vez que te das cuenta de cuánta
+paz hay en ella, no quieres lidiar con la gente&#x2026;</li>
 <li>La soledad no consiste en no tener personas alrededor, sino en no poder
 comunicar las cosas que a uno le parecen importantes, o callar ciertos
 puntos de vista.</li>
@@ -1209,6 +1213,8 @@ mañana.</li>
 <li>Cada fracaso nos enseña algo que necesitamos aprender.</li>
 <li>Concéntrate en lo bueno que te pasa, que a todos nos pasa mucho; y no en las
 desgracias, que a todos nos pasa alguna.</li>
+<li>Hay hombres que parecen tener sólo una idea y es una lástima que sea
+equivocada.</li>
 </ul></li>
 
 <li><a href="https://en.wikipedia.org/wiki/Charles_Dudley_Warner">Charles Dudley Warner</a>
@@ -1219,6 +1225,7 @@ desgracias, que a todos nos pasa alguna.</li>
 <li><a href="https://es.wikipedia.org/wiki/Zhuangzi">Chuang Tse (o Zhuangzi)</a>
 <ul class="org-ul">
 <li>El gran saber todo lo abarca. El pequeño todo lo divide.</li>
+<li>El sabio es alguien cuyo corazón anda siempre de excursión.</li>
 <li>La perfección está en adaptarse a todo con ligero corazón y en fortalecer tu
 interior acogiendo lo inevitable. Aunque nada hay más arduo, cierto, que
 aceptar el destino.</li>
@@ -1270,7 +1277,7 @@ haciendo cosas mientras le salen. No las va a cortar así por una decisión de s
 voluntad; no va a quedarse con la mente en blanco.</li>
 </ul></li>
 
-<li><a href="https://es.wikipedia.org/wiki/Confucio">Confucio</a>
+<li><a href="https://es.wikipedia.org/wiki/ConfVcio">Confucio</a>
 <ul class="org-ul">
 <li>Aprender sin pensar es inútil. Pensar sin aprender, peligroso.</li>
 <li>El hombre que mueve una montaña empieza por arrastrar una pequeña piedra.</li>
@@ -1289,6 +1296,9 @@ demás.</li>
 <li>¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir y flores
 para tener algo por lo que vivir.</li>
 <li>No importa lo lento que vayas, siempre y cuando no te detengas.</li>
+<li>Podemos aprender la sabiduría por tres métodos: primero, por la reflexión,
+que es el más noble; segundo, por la imitación, que es el más fácil; y tercero
+por la experiencia, que es el más difícil.</li>
 <li>Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he
 aquí el verdadero saber.</li>
 </ul></li>
@@ -1340,6 +1350,7 @@ la calle.</li>
 <li><a href="https://es.wikipedia.org/wiki/David_Hume">David Hume</a>
 <ul class="org-ul">
 <li>Cada solución da pie a una nueva pregunta.</li>
+<li>Cuando los hombres son más seguros y arrogantes suelen equivocarse más.</li>
 <li>Estoy convencido de que cuando los hombres están más seguros y son más
 arrogantes están normalmente más equivocados, y han dado riendas a la
 pasión sin esa adecuada deliberación y duda, que son las únicas que pueden
@@ -1436,6 +1447,8 @@ nuevo", aún ésa fue ya en los siglos anteriores a nosotros.</li>
 <li>El mismo acto de escribir fuerza al pensamiento a hacerse lógico.</li>
 <li>Hay muchas personas que no saben perder a solas el tiempo y son el azote de
 las que tienen ocupaciones.</li>
+<li>Si un hombre me engaña una vez, me avergüenzo de él; si me engaña dos veces,
+siento lástima de mí.</li>
 </ul></li>
 
 <li><a href="https://en.wikipedia.org/wiki/Edsger_W._Dijkstra">Edsger W. Dijkstra</a>
@@ -1598,6 +1611,9 @@ propaganda.</li>
 
 <li><a href="https://es.wikipedia.org/wiki/Ernest_Hemingway">Ernest Hemingway</a>
 <ul class="org-ul">
+<li>Lo tienes ahora, y ese ahora es toda tu vida. No existe nada más que el
+momento presente. No existen ni el ayer ni el mañana. ¿A qué edad tienes que
+llegar para poder comprenderlo?</li>
 <li>Se necesitan dos años para aprender a hablar y sesenta para aprender a
 callar.</li>
 </ul></li>
@@ -1658,6 +1674,12 @@ camino perdido.</li>
 <ul class="org-ul">
 <li>El secreto para vivir en paz con todos consiste en el arte de comprender a
 cada uno según su individualidad.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Fi%C3%B3dor_Dostoyevski">Fiódor Dostoyevski</a>
+<ul class="org-ul">
+<li>La tolerancia llegará a tal nivel que las personas inteligentes tendrán
+prohibido pensar para no ofender a los imbéciles.</li>
 </ul></li>
 
 <li><a href="https://en.wikipedia.org/wiki/Felix_Klein">Felix Klein</a>
@@ -1730,11 +1752,20 @@ amigos.</li>
 porvenir.</li>
 </ul></li>
 
+<li><a href="https://es.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand">François-René de Chateaubriand</a>
+<ul class="org-ul">
+<li>Las instituciones pasan por tres períodos: el del servicio, el de los
+privilegios y el del abuso.</li>
+</ul></li>
+
 <li><a href="https://es.wikipedia.org/wiki/Franz_Kafka">Franz Kafka</a>
 <ul class="org-ul">
 <li>Es sólo a causa de su estupidez que son capaces de estar tan seguros de sí
 mismos.</li>
 <li>La alegría es nuestro deber diario.</li>
+<li>La juventud es feliz porque tiene la capacidad de ver la belleza. Cualquiera
+que conserve la capacidad de ver la belleza jamás envejece.</li>
+<li>Prefiero la calma de la soledad, que la decepción de una mala compañía.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Franz_Schubert">Franz Schubert</a>
@@ -2157,6 +2188,30 @@ cierta medida, lo que hacemos y que nos creamos continuamente a nosotros
 mismos.</li>
 </ul></li>
 
+<li><a href="https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel">Henri-Frédéric Amiel</a>
+<ul class="org-ul">
+<li>Dime lo que crees ser y te diré lo que no eres.</li>
+<li>El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
+cumplimiento de nuestros deseos y cumplirlos plenamente.</li>
+<li>El hombre que pretende verlo todo con claridad antes de decidir nunca
+decide.</li>
+<li>Hacer con soltura lo que es difícil a los demás, he ahí la señal del
+talento; hacer lo que es imposible al talento, he ahí el signo del genio.</li>
+<li>La vida es un aprendizaje de renunciamiento progresivo, de continua
+limitación de nuestras pretensiones, de nuestras esperanzas, de nuestra
+fuerza, de nuestra libertad.</li>
+<li>No creo que ningún placer que podamos obtener de nuestras emociones llegue
+a igualar esos momentos de paz silenciosa que son atisbos de los gozos del
+paraíso &#x2026; Se siente una armonía interior libre de la más mínima agitación
+o tensión. En esos momentos el estado del alma es solemne, semejante quizá
+a su condición más allá de la tumba. Se trata de felicidad, según entienden
+los orientales, la felicidad del eremita que se halla libre de deseo y
+conflicto, y que sencillamente adora en plenitud de dicha.</li>
+<li>Vivimos mientras nos renovamos.</li>
+<li>¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde muchos
+puntos de vista.</li>
+</ul></li>
+
 <li><a href="https://es.wikipedia.org/wiki/Henri_L%C3%A9on_Lebesgue">Henri Lebesgue</a>
 <ul class="org-ul">
 <li>La única enseñanza que un profesor puede dar, en mi opinión, es la de pensar
@@ -2192,6 +2247,11 @@ hecho de observación, y los observadores que es una teoría matemática.</li>
 pensamientos.</li>
 </ul></li>
 
+<li><a href="https://es.wikipedia.org/wiki/Henrik_Ibsen">Henrik Ibsen</a>
+<ul class="org-ul">
+<li>La belleza es el acuerdo entre el contenido y la forma.</li>
+</ul></li>
+
 <li><a href="https://bit.ly/2Yv5qZI">Henry Brougham</a>
 <ul class="org-ul">
 <li>Procura buscar el conocimiento en las dificultades.</li>
@@ -2199,45 +2259,12 @@ pensamientos.</li>
 
 <li><a href="https://es.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>
 <ul class="org-ul">
-<li>No importa lo pequeño pueda parecer el comienzo: lo que se hace bien, bien
-hecho queda para siempre.</li>
 <li>Lo que un hombre piensa de sí mismo, esto es lo que determina, o más bien
 indica, su destino.</li>
-</ul></li>
-
-<li><a href="https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel">Henri-Frédéric Amiel</a>
-<ul class="org-ul">
-<li>Dime lo que crees ser y te diré lo que no eres.</li>
-<li>El destino puede seguir dos caminos para causarnos la ruina: rehusarnos el
-cumplimiento de nuestros deseos y cumplirlos plenamente.</li>
-<li>El hombre que pretende verlo todo con claridad antes de decidir nunca
-decide.</li>
-<li>Hacer con soltura lo que es difícil a los demás, he ahí la señal del
-talento; hacer lo que es imposible al talento, he ahí el signo del genio.</li>
-<li>La vida es un aprendizaje de renunciamiento progresivo, de continua
-limitación de nuestras pretensiones, de nuestras esperanzas, de nuestra
-fuerza, de nuestra libertad.</li>
-<li>No creo que ningún placer que podamos obtener de nuestras emociones llegue
-a igualar esos momentos de paz silenciosa que son atisbos de los gozos del
-paraíso &#x2026; Se siente una armonía interior libre de la más mínima agitación
-o tensión. En esos momentos el estado del alma es solemne, semejante quizá
-a su condición más allá de la tumba. Se trata de felicidad, según entienden
-los orientales, la felicidad del eremita que se halla libre de deseo y
-conflicto, y que sencillamente adora en plenitud de dicha.</li>
-<li>Vivimos mientras nos renovamos.</li>
-<li>¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde muchos
-puntos de vista.</li>
-</ul></li>
-
-<li><a href="https://es.wikipedia.org/wiki/Henrik_Ibsen">Henrik Ibsen</a>
-<ul class="org-ul">
-<li>La belleza es el acuerdo entre el contenido y la forma.</li>
-</ul></li>
-
-<li><a href="https://es.wikipedia.org/wiki/Henry_David_Thoreau">Henry David Thoreau</a>
-<ul class="org-ul">
 <li>No hay nadie tan equivocado como aquel que pasa la mayor parte de su vida
 ganándose la vida.</li>
+<li>No importa lo pequeño pueda parecer el comienzo: lo que se hace bien, bien
+hecho queda para siempre.</li>
 <li>Nuestra vida siempre se malgasta en los detalles &#x2026; simplifiquemos,
 simplifiquemos.</li>
 </ul></li>
@@ -2268,6 +2295,11 @@ tiene fin.</li>
 <ul class="org-ul">
 <li>En el mundo de los computadores, el momento de la verdad es el de ejecutar
 el programa; los demás es profecía.</li>
+<li>¿Qué consume la información? Consume la atención de sus destinatarios. En
+consecuencia, una riqueza de información crea pobreza de atención, y la
+necesidad de asignar de manera eficiente la atención que entre la
+sobreabundancia de fuentes de información que se pueda consumir es
+primordial.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Herbert_von_Karajan">Herbert von Karajan</a>
@@ -2293,6 +2325,9 @@ soltarnos lo que nos fortalece.</li>
 por meternos desde la más tierna infancia en una situación de forzoso trajín y
 sin una pausa de respiro, se ha producido una decadencia y una falta de
 ejercicio de la ociosidad.</li>
+<li>Para que pueda surgir lo posible es preciso intentar una y otra vez lo
+imposible.</li>
+<li>Si quieres ser fuerte es importante aprender a estar solo.</li>
 <li>¿Y de qué sirve hablar, si ya sabes que los demás no sienten lo que sientes?</li>
 </ul></li>
 
@@ -2454,6 +2489,8 @@ vigentes por la fuerza de la inercia, entonces, no sólo es justo, sino
 también útil, quebrantar aquellas que nos anuncian el hecho de que son
 inútiles, o incluso realmente perjudiciales.</li>
 <li>Nunca permitas que el sentido de la moral te impida hacer lo que está bien.</li>
+<li>Tal vez la felicidad sea esto: no sentir que debes estar en otro lado,
+haciendo otra cosa, siendo alguien distinto.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a>
@@ -2462,6 +2499,12 @@ inútiles, o incluso realmente perjudiciales.</li>
 confusión de las cosas.</li>
 <li>Lo que sabemos es una gota de agua; lo que ignoramos es el océano.</li>
 <li>Los hombres construimos demasiados muros y no suficientes puentes.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Isabel_Allende">Isabel Allende</a>
+<ul class="org-ul">
+<li>Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar
+el presente, y optimismo desafiante para encarar el futuro.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Is%C3%B3crates">Isócrates</a>
@@ -2478,6 +2521,8 @@ las ideas e intentos que obliga su resolución.</li>
 
 <li><a href="https://bit.ly/2RHtRyr">Italo Calvino</a>
 <ul class="org-ul">
+<li>Cada elección tiene su anverso, es decir, una renuncia, por lo que no hay
+diferencia entre el acto de elegir y el acto de renunciar.</li>
 <li>Renunciar a las cosas es menos difícil de lo que se cree: todo estriba en
 empezar. Una vez que has logrado prescindir de algo que creías esencial,
 adviertes que puedes pasarte también sin alguna otra cosa, y luego aún sin otras
@@ -2523,6 +2568,11 @@ el máximo de significado en el mínimo de lenguaje.</li>
 <li><a href="https://es.wikipedia.org/wiki/James_Joyce">James Joyce</a>
 <ul class="org-ul">
 <li>Los errores son los umbrales del descubrimiento.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jane_Austen">Jane Austen</a>
+<ul class="org-ul">
+<li>La mitad del mundo no puede comprender los placeres de la otra mitad.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Javier_Krahe">Javier Krahe</a>
@@ -2602,11 +2652,13 @@ tocar la tecla correcta en el momento adecuado y el instrumento suena.</li>
 <li><a href="https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe">Johann Wolfgang von Goethe</a>
 <ul class="org-ul">
 <li>Con el conocimiento se acrecientan las dudas.</li>
+<li>El hombre siempre aspira a lo que no es.</li>
 <li>El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
 viejo, místico.</li>
 <li>El único hombre que no se equivoca es el que nunca hace nada.</li>
 <li>En cuanto confíes en ti mismo, sabrás cómo vivir.</li>
 <li>Hablar es una necesidad, escuchar es un arte.</li>
+<li>Hay quien porque golpea la pared con un martillo, se cree que clava clavos.</li>
 <li>El único hombre que no se equivoca es el que nunca hace nada.</li>
 <li>Lo importante no es donde se está, sino la dirección en que se camina.</li>
 <li>Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
@@ -2657,6 +2709,14 @@ cambiar y ser perfecto es haber cambiado muchas veces.</li>
 planes.</li>
 </ul></li>
 
+<li><a href="https://es.wikipedia.org/wiki/John_Steinbeck">John Steinbeck</a>
+<ul class="org-ul">
+<li>Cuando un hombre dice que no quiere hablar de algo suele significar
+generalmente que no puede pensar en nada más.</li>
+<li>De todos los animales la creación, el hombre el único que bebe sin tener
+sed, come sin tener hambre y habla sin tener nada que decir.</li>
+</ul></li>
+
 <li><a href="https://bit.ly/2WwYbPF">John Stillwell</a>
 <ul class="org-ul">
 <li>Imposibilidades aparentes que son nuevas verdades [&#x2026;] números
@@ -2669,6 +2729,8 @@ extensión tecnológica de nuestros sentidos.</li>
 
 <li><a href="https://en.wikipedia.org/wiki/John_von_Neumann">John von Neumann</a>
 <ul class="org-ul">
+<li>La verdad es demasiado complicada para admitir otra cosa que no sean
+aproximaciones.</li>
 <li>Se espera que un teorema matemático o una teoría matemática no sólo describa
 y clasifique de manera sencilla y elegante numerosos y a priori dispares casos
 especiales. También se espera elegancia en su estructura arquitectónica.</li>
@@ -2746,6 +2808,7 @@ sean iguales.</li>
 olvido.</li>
 <li>Que otros se jacten de las páginas que han escrito; a mi me enorgullecen
 las que he leído.</li>
+<li>Siempre imaginé que el Paraíso sería algún tipo de biblioteca.</li>
 <li>Uno no es lo que es por lo que escribe, sino por lo que ha leído.</li>
 </ul></li>
 
@@ -2754,6 +2817,11 @@ las que he leído.</li>
 <li>Si un loco se obstinara durante mucho tiempo en lanzar piedras a la Luna,
 no alcanzaría, naturalmente, el blanco apetecido, pero acabaría por ser un
 hondero excepcional.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Jorge_Sempr%C3%BAn">Jorge Semprún</a>
+<ul class="org-ul">
+<li>He perdido mis certidumbres pero conservo mis ilusiones.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Luis_Sampedro">José Luis Sampedro</a>
@@ -2799,6 +2867,8 @@ falta de respeto, es un intento de colonización del otro.</li>
 <li>La derrota tiene algo positivo, nunca es definitiva. En cambio la victoria
 tiene algo negativo, jamás es definitiva.</li>
 <li>La esperanza nunca ha sido de fiar.</li>
+<li>La peor ceguera es la mental, que hace que no reconozcamos lo que tenemos
+delante.</li>
 <li>Las tres enfermedades del hombre actual son la incomunicación, la revolución
 tecnológica y su vida centrada en su triunfo personal.</li>
 <li>Lo difícil no es vivir con las personas, lo difícil es comprenderlas.</li>
@@ -2838,6 +2908,12 @@ problema de mi vida todo de una vez.</li>
 <li>La pereza no es más que el hábito de descansar antes de estar cansado.</li>
 <li>Las personas que quieren seguir reglas me divierten, puesto que en la vida
 únicamente existe la excepción.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Juli%C3%A1n_Mar%C3%ADas">Julián Marías</a>
+<ul class="org-ul">
+<li>Lo que más me inquieta es que en España todos se preguntan: ¿qué va a pasar?
+Casi nadie se pregunta: ¿qué vamos a hacer?</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Julio_Verne">Julio Verne</a>
@@ -2962,6 +3038,8 @@ podemos poner nuestras mayores esperanzas en las observaciones.</li>
 tanto que el denominador es lo que cree ser.</li>
 <li>La felicidad no está en hacer lo que se quiere, sino en querer lo que se
 hace.</li>
+<li>La palabra es la expresión del pensamiento y puede servir para unir o para
+separar a las personas; por eso hay que ser prudente con su uso.</li>
 <li>Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con exceso
 lo que no tengo.</li>
 <li>Un hombre es como una fracción cuyo numerador corresponde a lo que él es,
@@ -3190,6 +3268,8 @@ lo posible, procura entrar en su mente. Por lo general, primero hay que
 aprender muchas cosas antes de poder juzgar la acción de otro con
 conocimiento.</li>
 <li>Acuérdate de esto siempre: para vivir felizmente basta con muy poco.</li>
+<li>Cuando te levantes por la mañana, piensa en el privilegio de vivir:
+respirar, pensar, disfrutar, amar.</li>
 <li>El talento, si no nacemos con él, se vuelve algo imposible de obtener.</li>
 <li>El universo es cambio; nuestra vida es lo que hacen nuestros pensamientos.</li>
 <li>El verdadero modo de vengarse de un enemigo es no parecérsele.</li>
@@ -3295,7 +3375,15 @@ entender.</li>
 
 <li><a href="https://es.wikipedia.org/wiki/Martin_Heidegger">Martin Heidegger</a>
 <ul class="org-ul">
+<li>La gente me agota. Paso días y días por mi cuenta sin ningún contacto
+humano. Por eso abrazo el silencio y la soledad.</li>
 <li>Sólo hay mundo donde hay lenguaje.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Mart%C3%ADn_Lutero">Martín Lutero</a>
+<ul class="org-ul">
+<li>Aunque mañana fuera el día del fin del mundo, yo plantaría manzanos en el
+día de hoy.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Martin_Luther_King">Martin Luther King</a>
@@ -3464,6 +3552,8 @@ de nuestra empresa.</li>
 <li>Después de escalar una montaña muy alta, descubrimos que hay muchas otras
 montañas por escalar.</li>
 <li>La educación es el arma más poderosa que puedes usar para cambiar el mundo.</li>
+<li>Me gustan los amigos que tienen pensamientos independientes, porque suelen
+hacerte ver los problemas desde todos los ángulos.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Nicolas_Chamfort">Nicolas Chamfort</a>
@@ -3522,8 +3612,11 @@ primero, sino lo último.</li>
 
 <li><a href="https://es.wikipedia.org/wiki/Oscar_Wilde">Oscar Wilde</a>
 <ul class="org-ul">
+<li>Cuando estoy de acuerdo con todos sospecho que estoy equivocado.</li>
 <li>Cuanto más conservadoras son las ideas, más revolucionarios los discursos.</li>
 <li>El trabajo es el refugio de los que no tienen nada que hacer.</li>
+<li>El único amor consecuente, fiel, comprensivo, que todo perdona, que nunca nos
+defrauda y que nos acompaña hasta la muerte es el amor propio.</li>
 <li>La educación es una cosa admirable, pero es bueno recordar de vez en cuando,
 que nada que valga la pena saber puede ser enseñado.</li>
 <li>No soy tan joven como para saberlo todo.</li>
@@ -3627,6 +3720,8 @@ buen rompecabezas y una buena oportunidad.</li>
 <li><a href="https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry">Paul Valéry</a>
 <ul class="org-ul">
 <li>El problema de nuestros tiempos es que el futuro ya no es lo que era.</li>
+<li>La política es el arte de impedir que la gente se entrometa en lo que le
+atañe.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Paul_Tillich">Paul Tillich</a>
@@ -3833,6 +3928,9 @@ claro si lo que hicimos fue perder o ganar.</li>
 <ul class="org-ul">
 <li>El hombre grande es aquel que en medio de las muchedumbres mantiene, con
 perfecta dulzura, la independencia de la soledad.</li>
+<li>Es fácil en el mundo vivir según la opinión del mundo; es fácil en la soledad
+vivir según la nuestra; pero el gran hombre es aquel que en medio de la
+multitud mantiene con perfecta sencillez la independencia de la soledad.</li>
 <li>Grabad esto en vuestro corazón; cada día comienza en nosotros un año nuevo,
 una nueva vida.</li>
 <li>Más podemos conocer de una persona por lo que ella dice de los demás que
@@ -3916,6 +4014,7 @@ su mejor solución.</li>
 buen camino.</li>
 <li>El buen sentido es lo que mejor repartido está entre todo el mundo, pues cada
 cual piensa que posee buena provisión de él.</li>
+<li>Leer buenos libros es como conversar con las mejores mentes del pasado.</li>
 <li>Lo poco que he aprendido carece de valor, comparado con lo que ignoro y no
 desespero en aprender.</li>
 <li>No hay nada repartido de modo más equitativo en el mundo que la razón: todo
@@ -3923,6 +4022,8 @@ el mundo está convencido de tener suficiente.</li>
 <li>Para buscar la verdad, es necesario, una vez en el curso de nuestra vida,
 dudar, en la medida de lo posible, de todas las cosas.</li>
 <li>Para mejorar nuestro conocimiento debemos aprender menos y contemplar más.</li>
+<li>Para saber lo que la gente piensa realmente, hay que fijarse en lo que hace,
+más que en lo que dicen.</li>
 <li>Pensad antes de obrar y no comencéis nada sin haber consultado las
 circunstancias bien a fondo.</li>
 </ul></li>
@@ -4295,11 +4396,14 @@ desaparecerán.</li>
 
 <li><a href="https://es.wikipedia.org/wiki/Thomas_Carlyle">Thomas Carlyle</a>
 <ul class="org-ul">
+<li>La contemplación es un lujo, mientras que la acción es una necesidad.</li>
 <li>No hables, en manera alguna, hasta que tengas algo que decir.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Thomas_Jefferson">Thomas Jefferson</a>
 <ul class="org-ul">
+<li>Si me encuentro con una decepción, cuanto antes lo sepa, más vida tendré
+para superarla.</li>
 <li>Yo creo bastante en la suerte. Y he constatado que, cuanto más duro
 trabajo, más suerte tengo.</li>
 </ul></li>
@@ -4325,6 +4429,12 @@ armonía.</li>
 <ul class="org-ul">
 <li>Es difícil dejar de convertirse en la persona que los demás creen que uno
 es.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Tito_Livio">Tito Livio</a>
+<ul class="org-ul">
+<li>Conserva el mismo ánimo en cualquier circunstancia de la fortuna; que las
+cosas favorables no te exciten ni las adversas te depriman.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Tom_Clancy">Tom Clancy</a>
@@ -4385,6 +4495,12 @@ engaña a los hombres.</li>
 <li>¿Sabe cuál es mi enfermedad? La utopía. ¿Sabe cuál es la suya? La rutina. La
 utopía es el porvenir que se esfuerza en nacer. La rutina es el pasado que se
 obstina en seguir.</li>
+</ul></li>
+
+<li><a href="https://es.wikipedia.org/wiki/Victoria_Ocampo">Victoria Ocampo</a>
+<ul class="org-ul">
+<li>Cuando no se tiene el coraje de vivir como se piensa, se termina por pensar
+como se vive.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/Viktor_Frankl">Viktor Frankl</a>
@@ -4495,6 +4611,8 @@ y la eternidad en una hora.</li>
 <ul class="org-ul">
 <li>La sabiduría suprema es tener sueños bastante grandes para no perderlos de
 vista mientras se persiguen.</li>
+<li>Lo más triste es que la única cosa que se puede hacer durante ocho horas al
+día es trabajar.</li>
 </ul></li>
 
 <li><a href="https://es.wikipedia.org/wiki/William_James">William James</a>
@@ -4619,8 +4737,8 @@ primaveras ni de otoños. Así son las pequeñas existencias.</li>
 </div>
 <div id="postamble" class="status">
 <p class="author">Autor: José A. Alonso</p>
-<p class="date">Created: 2021-06-08 mar 08:16</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2021-08-06 vie 07:37</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>
