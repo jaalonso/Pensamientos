@@ -2551,6 +2551,8 @@ encontrando.
   + El secreto para salir adelante es empezar.
   + Nunca discutas con un ignorante, te hará descender a su nivel y ahí te
     vencerá por experiencia.
+  + Nunca intentes enseñar a un cerdo a cantar. Te hará perder el tiempo y
+    molestará al cerdo.
   + Un pesimista es un optimista bien informado.
 
 + [[https://es.wikipedia.org/wiki/Martin_Fowler][Martin Fowler]]
