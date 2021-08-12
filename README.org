@@ -1579,6 +1579,11 @@ encontrando.
   + Para cada problema complejo y difícil, siempre hay una respuesta simple,
     fácil y equivocada.
 
++ [[https://es.wikipedia.org/wiki/H._P._Lovecraft][H. P. Lovecraft]]
+  + Nunca le pregunto a un hombre a qué se dedica, porque no me interesa. Le
+    pregunto acerca de sus pensamientos y sus sueños. Más allá de nuestras
+    iniciativas hechas para sobrevivir está lo que nos hace vivir.
+
 + [[https://bit.ly/2D9hgQt][Haemin Sunim]]
   + Si no cambiamos por nosotros mismos, entonces el mundo nos obligará a
     cambiar, lo cual es más doloroso. El cambio es necesario para nuestro
