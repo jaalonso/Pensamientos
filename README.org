@@ -2563,6 +2563,8 @@ encontrando.
     vencerá por experiencia.
   + Nunca intentes enseñar a un cerdo a cantar. Te hará perder el tiempo y
     molestará al cerdo.
+  + Todo lo que necesitas en esta vida es ignorancia y confianza, y entonces el
+    éxito es seguro.
   + Un pesimista es un optimista bien informado.
 
 + [[https://es.wikipedia.org/wiki/Martin_Fowler][Martin Fowler]]
