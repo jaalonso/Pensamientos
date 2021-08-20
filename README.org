@@ -2218,6 +2218,9 @@ encontrando.
     método y no un conocimiento de los hechos.
 
 + [[https://es.wikipedia.org/wiki/Karl_Popper][Karl Popper]]
+  + El futuro está abierto. Todos somos responsables de lo que el futuro nos
+    depare. Por tanto, nuestro deber no es profetizar el mal, sino más bien luchar
+    por un mundo mejor.
   + Es imposible hablar de tal manera que no se pueda ser mal interpretado.
   + La ignorancia no consiste en la ausencia de conocimientos sino en rehusar
     adquirirlos.
