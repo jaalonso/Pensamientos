@@ -2648,6 +2648,9 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne]]
   + A quienes me preguntan la razón de mis viajes les contesto que sé bien de
     qué huyo pero ignoro lo que busco.
+  + Cuando soy atacado por pensamientos sombríos, nada me ayuda tanto como correr
+    hacia mis libros. Rápidamente me absorben y hacen desaparecer las nubes de mi
+    mente.
   + Cuando me llevan la contraria, despiertan mi atención, no mi cólera; me
     ofrezco a quien me contradice, que me instruye. La causa de la verdad
     debería ser la causa común de uno y otro.
