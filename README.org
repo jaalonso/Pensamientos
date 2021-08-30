@@ -1953,6 +1953,10 @@ encontrando.
   + Un egoísta es aquel que se empeña en hablarte de sí mismo cuando tú te
     estas muriendo de ganas de hablarle de tí.
 
++ [[https://es.wikipedia.org/wiki/Jean_de_La_Bruy%C3%A8re][Jean de La Bruyère]]
+  + Es una enorme desgracia no tener talento para hablar bien, ni la sabiduría
+    necesaria para cerrar la boca.
+
 + [[https://es.wikipedia.org/wiki/Jean_Dieudonn%C3%A9][Jean Dieudonné]]
   + La vida de un matemático está dominada por una insaciable curiosidad, un deseo
     que raya en la pasión por resolver los problemas que estudia.
