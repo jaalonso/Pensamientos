@@ -3391,6 +3391,9 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Thomas_Carlyle][Thomas Carlyle]]
   + La contemplación es un lujo, mientras que la acción es una necesidad.
+  + Lo que nos convertimos depende de lo que leamos después de que todos los
+    profesores hayan terminado con nosotros. La universidad más grande de todas
+    es una colección de libros.
   + No hables, en manera alguna, hasta que tengas algo que decir.
 
 + [[https://es.wikipedia.org/wiki/Thomas_Jefferson][Thomas Jefferson]]
