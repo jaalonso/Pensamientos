@@ -3062,6 +3062,7 @@ encontrando.
     que no aprende, que no sabe ...
   + Uno debe inventarse a sí mismo todos los días y no sentarse a ver cómo el
     mundo pasa allí adelante, sin que uno participe.
+  + Si escondes tu ignorancia, nadie te herirá y nunca aprenderás.
 
 + [[https://en.wikipedia.org/wiki/Raymond_S._Nickerson][Raymond S. Nickerson]]
   + Además de considerar las matemáticas como el estudio de patrones, las
