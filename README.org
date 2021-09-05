@@ -2254,6 +2254,10 @@ encontrando.
   + ¿Qué es lo que más quiero hacer? Esto es lo que no debo dejar de preguntarme
     ante las dificultades.
 
++ [[https://en.wikipedia.org/wiki/Konrad_Lorenz][Konrad Lorenz]]
+  + Es un buen ejercicio matutino para los científicos descartar una hipótesis
+    cada día antes del desayuno. Le mantiene joven.
+
 + [[https://en.wikipedia.org/wiki/Kurt_G%C3%B6del][Kurt Gödel]]
   + El desarrollo de las matemáticas hacia una mayor precisión ha llevado, como
     es bien sabido, a la formalización de grandes partes de las mismas, de modo
