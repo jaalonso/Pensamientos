@@ -3453,6 +3453,8 @@ encontrando.
     no haya deficiencias obvias.
 
 + [[https://es.wikipedia.org/wiki/Truman_Capote][Truman Capote]]
+  + Hay que aprender tanto, y de tantas fuentes: no sólo de los libros, sino de
+    la música, de la pintura y hasta de la simple observación de todos los días.
   + Para mí, el mayor placer de la escritura no es el tema que se trate, sino
     la música que hacen las palabras.
 
