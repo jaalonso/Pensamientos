@@ -1253,6 +1253,8 @@ encontrando.
     confiar, y viejos autores para leer.
 
 + [[https://es.wikipedia.org/wiki/F._Scott_Fitzgerald][Francis Scott Fitzgerald]]
+  + El momento más solitario en la vida de alguien es cuando está viendo cómo su
+    mundo se desmorona, y lo único que puede hacer, es mirar fijamente.
   + Es preferible fiarse del hombre que se equivoca a menudo, que de quien no
     duda nunca.
   + Nunca es tarde para ser quienes queremos ser. No hay límite en el tiempo,
