@@ -2785,6 +2785,8 @@ encontrando.
     todos pueden ver, pero pocos comprenden lo que ven.
   + La experiencia siempre ha demostrado que jamás suceden bien las cosas
     cuando dependen de muchos.
+  + Todos los hombres verán lo que pareces ser; sólo unos pocos sabrán quién
+    eres.
 
 + [[https://es.wikipedia.org/wiki/Niels_Bohr][Niels Bohr]]
   + Un experto es una persona que ha cometido todos los errores que se pueden
