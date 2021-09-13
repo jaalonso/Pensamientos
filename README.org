@@ -838,6 +838,10 @@ encontrando.
   + Sólo pueden disipar el horror tres consejos: no admires el poder, no
     detestes al enemigo y no desprecies a los que sufren.
 
++ [[https://en.wikipedia.org/wiki/Charles_Baudelaire][Charles Baudelaire]]
+  + Hay personas que sólo se divierten en manada. El verdadero héroe se divierte
+    solo.
+
 + [[https://es.wikipedia.org/wiki/Charles_Bukowski][Charles Bukowski]]
   + ¿Recuerdas quién eras antes de que el mundo te dijera quién debías ser?
 
