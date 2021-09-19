@@ -2216,6 +2216,8 @@ encontrando.
   + Los únicos interesados en cambiar el mundo son los pesimistas, porque los
     optimistas están encantados con lo que hay.
   + Nuestra mayor tragedia es no saber qué hacer con nuestras vidas.
+  + Para qué sirve el arrepentimiento, si eso no borra nada de lo que ha
+    pasado. El mejor arrepentimiento es sencillamente cambiar.
 
 + [[https://en.wikipedia.org/wiki/Joshua_Bloch][Joshua Bloch]]
   + Cuanto más claro y bonito sea el programa, más rápido se ejecutará. Y si no
