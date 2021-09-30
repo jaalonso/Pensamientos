@@ -1419,6 +1419,10 @@ encontrando.
   + La ciencia de la computación es la continuación de la lógica por otros
     medios.
 
++ [[https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel][Georg Wilhelm Friedrich Hegel]]
+  + La verdad no se encuentra ni en la tesis ni en la antítesis, sino en una
+    síntesis emergente que reconcilia ambas.
+
 + [[https://es.wikipedia.org/wiki/George_Bernard_Shaw][George Bernard Shaw]]
   + Aprendemos de la experiencia que los hombres nunca aprenden nada de la
     experiencia.
