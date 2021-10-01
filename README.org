@@ -1420,6 +1420,7 @@ encontrando.
     medios.
 
 + [[https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel][Georg Wilhelm Friedrich Hegel]]
+  + Aprendemos de la historia que no aprendemos de la historia.
   + La verdad no se encuentra ni en la tesis ni en la antítesis, sino en una
     síntesis emergente que reconcilia ambas.
 
