@@ -1608,6 +1608,10 @@ encontrando.
     escapa el presente.
 
 + [[https://es.wikipedia.org/wiki/H._L._Mencken][H.L. Mencken]]
+  + El hombre más peligroso para cualquier gobierno es el que es capaz de
+    reflexionar ... sin tener en cuenta las supersticiones y los tabúes
+    imperantes. Casi inevitablemente llega a la conclusión de que el gobierno
+    bajo el que vive es deshonesto, loco, intolerable.
   + Para cada problema complejo y difícil, siempre hay una respuesta simple,
     fácil y equivocada.
 
