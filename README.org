@@ -1661,6 +1661,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson]]
   + El ojo ve sólo lo que la mente está preparada para comprender.
+  + Existir es cambiar, cambiar es madurar, madurar es seguir creciendo sin
+    parar.
   + Lo que hacemos depende de lo que somos; pero debe añadirse que somos, en
     cierta medida, lo que hacemos y que nos creamos continuamente a nosotros
     mismos.
