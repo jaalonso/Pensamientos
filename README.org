@@ -2152,6 +2152,8 @@ encontrando.
     tanto como decir que hoy es más sabio de lo que fue ayer.
 
 + [[https://es.wikipedia.org/wiki/Jorge_Luis_Borges][Jorge Luis Borges]]
+  + Aristóteles ha escrito que el origen de la filosofía era el asombro. Usted
+    mira algo y no comprende, entonces comienza a hacer filosofía.
   + Buscar la serenidad me parece una ambición más razonable que buscar la
     felicidad. Y quizás la serenidad sea una forma de felicidad.
   + La duda es uno de los nombres de la inteligencia.
