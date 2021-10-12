@@ -584,6 +584,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n][Baltasar Gracián]]
   + El primer paso de la ignorancia es presumir de saber.
+
   + Lo bueno, si breve, dos veces bueno; lo malo, si poco, no tan malo.
   + Más daña el decaimiento del ánimo que el del cuerpo.
   + No te pongas en el lado malo de un argumento simplemente porque tu oponente
@@ -2775,6 +2776,10 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Miguel_de_Unamuno][Miguel de Unamuno]]
   + Hay que sentir el pensamiento y pensar el sentimiento.
   + El que tiene fe en sí mismo no necesita que los demás crean en él.
+  + La libertad no es un estado sino un proceso. Sólo el que sabe es libre. Sólo
+    la cultura da libertad. No proclaméis la libertad de volar, sino dad alas;
+    no la de pensar, sino dad pensamientos. La libertad que hay que dar al
+    pueblo es la cultura.
   + La locura, la verdadera locura, nos está haciendo mucha falta, a ver si nos
     cura de esta peste del sentido común que nos tiene a cada uno ahogado el
     propio.
