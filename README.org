@@ -584,7 +584,9 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n][Baltasar Gracián]]
   + El primer paso de la ignorancia es presumir de saber.
-
+  + Hay dos tipos de personas que son buenas para prevenir el peligro: los que
+    han aprendido a su costa, y los inteligentes que aprenden en gran parte a
+    costa de los demás.
   + Lo bueno, si breve, dos veces bueno; lo malo, si poco, no tan malo.
   + Más daña el decaimiento del ánimo que el del cuerpo.
   + No te pongas en el lado malo de un argumento simplemente porque tu oponente
