@@ -2227,6 +2227,7 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset][José Ortega y Gasset]]
   + La técnica es el esfuerzo para ahorrar esfuerzo.
+  + No sabemos lo que nos pasa y eso es precisamente lo que nos pasa.
   + Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar
     cuando se mira lejos.
 
