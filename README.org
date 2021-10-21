@@ -2625,6 +2625,9 @@ encontrando.
   + Hay tres líneas en la biografía de todo ser humano. Son tres líneas sinuosas,
     perdidas al infinito, constantemente próximas y divergentes: ... lo que un
     hombre ha creído ser, lo que ha querido ser y lo que fue.
+  + Sabía que tanto el bien como el mal son cosas rutinarias, que lo temporal se
+    prolonga, que lo interior se filtra al exterior y que a la larga la máscara
+    se convierte en rostro.
 
 + [[https://es.wikipedia.org/wiki/Maria_Montessori][María Montessori]]
   + Cualquier ayuda innecesaria es un obstáculo para el desarrollo.
