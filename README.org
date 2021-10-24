@@ -2108,6 +2108,11 @@ encontrando.
   + Vivimos en una isla rodeada de un mar de ignorancia. A medida que nuestra
     isla del conocimiento crece, también crece la costa de nuestra ignorancia.
 
++ [[https://es.wikipedia.org/wiki/John_Dewey][John Dewey]]
+  + El hombre vive en un mundo en el que cada ocurrencia está cargada con ecos y
+    reminiscencias de lo que ha ocurrido antes. Cada acontecimiento es un
+    recordatorio.
+
 + [[https://bit.ly/3g17HS0][John H. Newman]]
   + En un mundo superior puede ser de otra manera, pero aquí abajo, vivir es
     cambiar y ser perfecto es haber cambiado muchas veces.
