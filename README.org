@@ -1445,6 +1445,9 @@ encontrando.
   + La verdad no se encuentra ni en la tesis ni en la antítesis, sino en una
     síntesis emergente que reconcilia ambas.
 
++ [[https://es.wikipedia.org/wiki/George_Berkeley][George Berkeley]]
+  + Pocos hombres piensan, pero todos tienen opiniones.
+
 + [[https://es.wikipedia.org/wiki/George_Bernard_Shaw][George Bernard Shaw]]
   + Aprendemos de la experiencia que los hombres nunca aprenden nada de la
     experiencia.
