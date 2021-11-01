@@ -321,6 +321,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Andr%C3%A9s_Neuman][Andrés Neuman]]
   + Cada vez que nace un héroe muere un ciudadano.
+  + Darle sentido a lo inevitable: esa es la diferencia entre la depresión y el
+    arte.
   + Permanecer indiferente es comprometedor.
 
 + [[https://es.wikipedia.org/wiki/Angela_Davis][Angela Davis]]
