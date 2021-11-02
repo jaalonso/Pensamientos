@@ -321,6 +321,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Andr%C3%A9s_Neuman][Andrés Neuman]]
   + Cada vez que nace un héroe muere un ciudadano.
+  + Corregir es el aprendizaje más terrible: ¿cómo es posible que, para escribir
+    apenas un poco mejor, tengamos que entender que escribimos tan mal?
   + Darle sentido a lo inevitable: esa es la diferencia entre la depresión y el
     arte.
   + Permanecer indiferente es comprometedor.
