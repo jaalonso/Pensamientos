@@ -2175,6 +2175,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/John_Locke][John Locke]]
   + El trabajo del maestro no consiste tanto en enseñar todo lo aprendible,
     como en producir en el alumno amor y estima por el conocimiento.
+  + La lectura proporciona a la mente sólo materiales de conocimiento; es pensar
+    lo que hace que lo que leemos sea nuestro.
   + Los hombres olvidan siempre que la felicidad humana es una disposición de
     la mente y no una condición de las circunstancias.
 
