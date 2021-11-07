@@ -2897,6 +2897,8 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_G%C3%B3mez_D%C3%A1vila][Nicolás Gómez Dávila]]
   + La serenidad es el fruto de la incertidumbre aceptada.
+  + Para que la idea más sutil se vuelva tonta, no es necesario que un tonto la
+    exponga, basta que la escuche.
 
 + [[https://bit.ly/30APxBP][Nicolas Malebranche]]
   + Todas las ideas tienen alguna realidad mientras estoy pensando en ellas. (...)
