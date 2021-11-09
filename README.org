@@ -1335,6 +1335,9 @@ encontrando.
   + Las instituciones pasan por tres períodos: el del servicio, el de los
     privilegios y el del abuso.
 
++ [[https://es.wikipedia.org/wiki/Frank_Zappa][Frank Zappa]]
+  + Sin desviación de la norma, `el progreso` no es posible.
+
 + [[https://es.wikipedia.org/wiki/Franz_Kafka][Franz Kafka]]
   + Es sólo a causa de su estupidez que son capaces de estar tan seguros de sí
     mismos.
