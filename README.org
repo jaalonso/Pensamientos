@@ -875,6 +875,7 @@ encontrando.
 + [[https://en.wikipedia.org/wiki/Charles_Baudelaire][Charles Baudelaire]]
   + Hay personas que sólo se divierten en manada. El verdadero héroe se divierte
     solo.
+  + Todo hombre sano puede pasarse dos días sin comer, pero nunca sin poesía.
 
 + [[https://es.wikipedia.org/wiki/Charles_Bukowski][Charles Bukowski]]
   + ¿Recuerdas quién eras antes de que el mundo te dijera quién debías ser?
