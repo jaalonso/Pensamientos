@@ -2062,6 +2062,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Jean_de_La_Fontaine][Jean de La Fontaine]]
   + A menudo encontramos nuestro destino por los caminos que tomamos para
     evitarlo.
+  + Todos los cerebros del mundo son impotentes contra cualquier estupidez que
+    esté de moda.
 
 + [[https://es.wikipedia.org/wiki/Jean-Jacques_Rousseau][Jean-Jacques Rousseau]]
   + Cada día veo más claro que todo lo que no aporta nada al alma no es digno de
