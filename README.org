@@ -1713,6 +1713,8 @@ encontrando.
   + Lo que hacemos depende de lo que somos; pero debe añadirse que somos, en
     cierta medida, lo que hacemos y que nos creamos continuamente a nosotros
     mismos.
+  + No vemos las mismas cosas, sino que nos limitamos a leer las etiquetas que
+    llevan enganchadas.
 
 + [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel]]
   + Dime lo que crees ser y te diré lo que no eres.
