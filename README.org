@@ -2513,6 +2513,10 @@ encontrando.
   + Sorprendernos por algo es el primer paso de la mente hacia el
     descubrimiento.
 
++ [[https://en.wikipedia.org/wiki/Luciano_Pavarotti][Luciano Pavarotti]]
+  + Quien sabe hacer música la hace, quien sabe menos la enseña, quien sabe menos
+    todavía la organiza, y quien no sabe la critica.
+
 + [[https://twitter.com/ramalhoorg?lang=es][Luciano Ramalho]]
   + La abstracción prematura es tan mala como la optimización prematura.
 
