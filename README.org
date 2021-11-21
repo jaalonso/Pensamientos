@@ -1489,6 +1489,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/George_Orwell][George Orwell]]
   + Cuanto más se aleja una sociedad de la verdad, más odiará a quienes la
     dicen.
+  + En tiempos de engaño universal, decir la verdad se convierte en un acto
+    revolucionario.
   + Ver lo que tenemos delante de nuestras narices requiere una lucha
     constante.
 
