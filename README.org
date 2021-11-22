@@ -975,6 +975,10 @@ encontrando.
 + [[https://bit.ly/3fmrElv][Dan Brown]]
   + Solo hay un agente infeccioso que viaje más rápido que un virus. El miedo.
 
++ [[https://es.wikipedia.org/wiki/Daniel_Goleman][Daniel Goleman]]
+  + En un mundo tan cambiante encontramos que la flexibilidad, la posibilidad de
+    adaptarse al cambio es más importante que la experiencia.
+
 + [[https://es.wikipedia.org/wiki/Daniel_Kahneman][Daniel Kahneman]]
   + A menudo nuestro cerebro racionaliza los pensamientos automáticos y los
     presenta como el fruto de un razonamiento elaborado. Pero son historias que nos
