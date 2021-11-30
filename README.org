@@ -1793,6 +1793,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
   + Es extraño que los hombres se afanen tanto por conseguir fama como maestros
     en vez de conocimiento como alumnos.
+  + Es rico y goza de los frutos de la riqueza quien puede deleitarse con sus
+    propios pensamientos siempre, en invierno y en verano.
   + Las cosas no cambian; nosotros cambiamos.
   + Lo que un hombre piensa de sí mismo, esto es lo que determina, o más bien
     indica, su destino.
