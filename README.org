@@ -1791,6 +1791,8 @@ encontrando.
   + Procura buscar el conocimiento en las dificultades.
 
 + [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
+  + El mayor cumplido que me han hecho en toda la vida fue cuando una persona me
+    preguntó qué pensaba yo y escuchó la respuesta.
   + Es extraño que los hombres se afanen tanto por conseguir fama como maestros
     en vez de conocimiento como alumnos.
   + Es rico y goza de los frutos de la riqueza quien puede deleitarse con sus
