@@ -1791,6 +1791,9 @@ encontrando.
   + Procura buscar el conocimiento en las dificultades.
 
 + [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
+  + El hombre capta sólo lo que está preparado para captar, ya sea física,
+    intelectual o moralmente, lo mismo que los animales sólo conciben a los
+    suyos en ciertas estaciones. Oímos y captamos sólo lo que ya casi sabemos.
   + El mayor cumplido que me han hecho en toda la vida fue cuando una persona me
     preguntó qué pensaba yo y escuchó la respuesta.
   + Es extraño que los hombres se afanen tanto por conseguir fama como maestros
