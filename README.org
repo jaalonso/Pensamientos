@@ -2957,6 +2957,8 @@ encontrando.
     pequeños, tal como son en realidad.
   + La sociedad está integrada por dos grandes clases: los que tienen más cenas
     que apetito y aquellos que tienen más apetito que cenas.
+  + ¿Qué es un filósofo? Un hombre que opone la naturaleza a la ley, la razón a
+    la costumbre, su conciencia a la opinión y su juicio al error.
 
 + [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Cop%C3%A9rnico][Nicolás Copérnico]]
   + Las matemáticas se escriben para los matemáticos.
