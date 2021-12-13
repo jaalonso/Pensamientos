@@ -983,9 +983,13 @@ encontrando.
 
 + [[https://es.wikipedia.org/wiki/Daniel_Kahneman][Daniel Kahneman]]
   + A menudo nuestro cerebro racionaliza los pensamientos automáticos y los
-    presenta como el fruto de un razonamiento elaborado. Pero son historias que nos
-    inventamos para justificar decisiones que en realidad son fruto de nuestros
-    prejuicios. Es una forma de engañarnos.
+    presenta como el fruto de un razonamiento elaborado. Pero son historias que
+    nos inventamos para justificar decisiones que en realidad son fruto de
+    nuestros prejuicios. Es una forma de engañarnos.
+
++ [[https://es.wikipedia.org/wiki/David_Gross][David Gross]]
+  + Por la razón que fuere, en el nivel fundamental, la naturaleza prefiere la
+    belleza.
 
 + [[https://es.wikipedia.org/wiki/David_Hilbert][David Hilbert]]
   + Es un error creer que el rigor es enemigo de la sencillez. Al contrario,
