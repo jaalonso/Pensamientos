@@ -1699,6 +1699,7 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Hannah_Arendt][Hannah Arendt]]
   + Hay un precepto bajo el cual he vivido: prepárate para lo peor, espera lo
     mejor y acepta lo que venga.
+  + La vida está hecha para comenzar de nuevo.
 
 + [[https://es.wikipedia.org/wiki/Hans_Reichenbach][Hans Reichenbach]]
   + La esencia del conocimiento es la generalización. Que el fuego se puede
