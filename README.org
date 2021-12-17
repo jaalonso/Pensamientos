@@ -3899,4 +3899,8 @@ encontrando.
     primaveras ni de otoños. Así son las pequeñas existencias.
   + Una rana en un pozo no puede concebir el océano.
 
++ [[https://es.wikipedia.org/wiki/Zhuge_Liang][Zhuge Liang]]
+  + El estudio requiere calma, el talento requiere estudio. Sin estudio no hay
+    forma de desarrollar el talento; sin calma no hay forma de lograr el estudio.
+
 #+LATEX: \end{document}
