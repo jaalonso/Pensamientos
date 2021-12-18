@@ -3902,5 +3902,7 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Zhuge_Liang][Zhuge Liang]]
   + El estudio requiere calma, el talento requiere estudio. Sin estudio no hay
     forma de desarrollar el talento; sin calma no hay forma de lograr el estudio.
+  + Los sabios ganan antes de luchar, mientras que los ignorantes luchan para
+    ganar.
 
 #+LATEX: \end{document}
