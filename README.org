@@ -1801,6 +1801,8 @@ encontrando.
   + Procura buscar el conocimiento en las dificultades.
 
 + [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
+  + Cada generación se ríe de las viejas modas, pero sigue religiosamente las
+    nuevas.
   + El hombre capta sólo lo que está preparado para captar, ya sea física,
     intelectual o moralmente, lo mismo que los animales sólo conciben a los
     suyos en ciertas estaciones. Oímos y captamos sólo lo que ya casi sabemos.
