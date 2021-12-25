@@ -3883,6 +3883,10 @@ encontrando.
     ocurrió lo que el predijo.
   + Las actitudes son más importantes que las aptitudes.
 
++ [[https://es.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart][Wolfgang Amadeus Mozart]]
+  + No presto ninguna atención a los elogios o reproches de nadie. Simplemente
+    sigo mis propios sentimientos.
+
 + [[https://es.wikipedia.org/wiki/Woody_Allen][Woody Allen]]
   + La vocación del político de carrera es hacer de cada solución un problema.
   + Las cosas no se dicen, se hacen, porque al hacerlas se dicen solas.
