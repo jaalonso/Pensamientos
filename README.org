@@ -1816,6 +1816,10 @@ encontrando.
   + Procura buscar el conocimiento en las dificultades.
 
 + [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
+  + Aunque no haya nada nuevo sobre la tierra, siempre hay algo nuevo en los
+    cielos. […] El viento cambia constantemente la tipografía de esa página
+    azul, y la persona inquisitiva, en cualquier momento, puede encontrarse allí
+    una nueva verdad.
   + Cada generación se ríe de las viejas modas, pero sigue religiosamente las
     nuevas.
   + El hombre capta sólo lo que está preparado para captar, ya sea física,
