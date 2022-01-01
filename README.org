@@ -2809,6 +2809,7 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]]
   + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
   + El secreto para salir adelante es empezar.
+  + Es más fácil engañar a la gente que convencerlos de que han sido engañados.
   + He tenido muchas preocupaciones en mi vida, la mayoría de las cuales nunca
     han ocurrido.
   + Nunca discutas con un ignorante, te hará descender a su nivel y ahí te
