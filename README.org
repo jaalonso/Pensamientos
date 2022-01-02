@@ -1351,6 +1351,8 @@ encontrando.
     dice? ¿Nunca se ha de decir lo que se siente?
 
 + [[https://es.wikipedia.org/wiki/Francisco_de_Sales][Francisco de Sales]]
+  + Lo que se hace con precipitación nunca se hace bien; obrad siempre con
+    tranquilidad y calma.
   + Ten paciencia con todas las cosas, pero sobre todo contigo mismo.
 
 + [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld][François de La Rochefoucauld]]
