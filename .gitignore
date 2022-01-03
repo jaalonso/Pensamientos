@@ -7,3 +7,4 @@ Makefile
 *.toc
 *.tex
 *.css
+/auto/
