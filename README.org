@@ -3781,6 +3781,8 @@ encontrando.
 + [[https://es.wikipedia.org/wiki/Voltaire][Voltaire]]
   + A los tontos todo les maravilla en un autor apreciado; pero yo, que leo para
     mí, sólo apruebo lo que me gusta.
+  + Al ser incapaz de hacer que la gente sea más razonable, he preferido ser
+    feliz lejos de ellos.
   + Algunos están destinados a razonar erróneamente, otros a no razonar en
     absoluto, y otros a perseguir a los que razonan.
   + Cuando uno no vive como piensa, acaba pensando como vive.
