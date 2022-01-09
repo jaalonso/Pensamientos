@@ -1,7 +1,6 @@
 #+TITLE: Pensamientos matemáticos
 
-* Ordenados
-
+* Ordenados por autor
 ** [[https://es.wikipedia.org/wiki/Alain_Badiou][Alain Badiou]]
 
 + Las matemáticas fueron y siguen siendo muy importantes para la filosofía,
@@ -162,10 +161,14 @@
 
 ** [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]]
 
-+ Cambiemos nuestra actitud tradicional en la construcción de programas. En
-  lugar de imaginar que nuestra tarea principal es indicarle a una computadora
-  lo que debe hacer, concentrémonos más bien en explicarle a los seres humanos
-  lo que queremos que haga una computadora.
++ Let us change our traditional attitude to the construction of programs:
+  Instead of imagining that our main task is to instruct a computer what to do,
+  let us concentrate rather on explaining to human beings what we want a
+  computer to do. (tw 8-Jan-22)
+  + Cambiemos nuestra actitud tradicional en la construcción de programas. En
+    lugar de imaginar que nuestra tarea principal es indicarle a una computadora
+    lo que debe hacer, concentrémonos más bien en explicarle a los seres humanos
+    lo que queremos que haga una computadora.
 
 + Computer programming is an art, because it applies accumulated knowledge to
   the world, because it requires skill and ingenuity, and especially because it
@@ -190,8 +193,10 @@
   entiende lo suficientemente bien como para explicarle a una computadora. Todo
   lo demás es arte.
 
-+ La mejor teoría está inspirada en la práctica. La mejor práctica está
-  inspirada en la teoría.
++ The best theory is inspired by practice. The best practice is inspired by
+  theory.
+  + La mejor teoría está inspirada en la práctica. La mejor práctica está
+    inspirada en la teoría.
 
 + Science is what we understand well enough to explain to a computer. Art is
   everything else we do.
@@ -309,7 +314,8 @@
 
 ** [[https://en.wikipedia.org/wiki/Georg_Gottlob][Georg Gottlob]]
 
-+ La ciencia de la computación es la continuación de la lógica por otros medios.
++ Computer Science as the continuation of Logic by other means. (tw 9-Jan-22)
+  + La ciencia de la computación es la continuación de la lógica por otros medios.
 
 ** [[https://en.wikipedia.org/wiki/George_Boole][George Boole]]
 
@@ -1294,6 +1300,16 @@
 + Most likely, logic is capable of justifying mathematics to no greater extent
   than biology is capable of justifying life.
 
+
+* Publicados en Twitter
+
++ "Let us change our traditional attitude to the construction of programs:
+  Instead of imagining that our main task is to instruct a computer what to do,
+  let us concentrate rather on explaining to human beings what we want a
+  computer to do." ~ Donald E. Knuth #Quote #CompSci
+
++ "Computer Science as the continuation of Logic by other means." ~ Georg
+  Gottlob #Quote #CompSci #Logic
 
 * Fuentes
 
