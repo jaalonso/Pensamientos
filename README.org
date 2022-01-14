@@ -422,7 +422,6 @@ encontrando.
     La tuya guárdatela.
   + Y nadie pregunta ni nadie contesta, todos hablan solos.
 
-
 ** [[https://es.wikipedia.org/wiki/Antonio_Porchia][Antonio Porchia]]
   + Las dificultades también pasan como todo pasa, sin dificultad.
 
@@ -1872,10 +1871,8 @@ encontrando.
 
 ** [[https://en.wikipedia.org/wiki/John_von_Neumann][John von Neumann]]
 
-
 ** [[https://es.wikipedia.org/wiki/John_C._Maxwell][John C. Maxwell]]
   + La clave del problema reside en identificar el problema.
-
 ** [[https://es.wikipedia.org/wiki/John_Holt_(pedagogo)][John Holt]]
   + Aprendemos a hacer algo haciéndolo. No existe otra manera.
 
@@ -1894,6 +1891,7 @@ encontrando.
 ** [[https://es.wikipedia.org/wiki/John_Maynard_Keynes][John Maynard Keynes]]
   + Cuando las circunstancias cambian, yo cambio de opinión.
   + La dificultad no reside en las nuevas ideas, sino en escapar de las viejas.
+  + Lo inevitable rara vez sucede, es lo inesperado lo que suele ocurrir.
 
 ** [[https://es.wikipedia.org/wiki/John_Milton][John Milton]]
   + La soledad es a veces la mejor compañía, y un corto retiro trae un dulce
@@ -2401,7 +2399,8 @@ encontrando.
   + Sólo un idiota puede ser totalmente feliz.
 
 ** [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]]
-  + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
+  + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de hacer
+    una pausa y reflexionar.
   + El secreto para salir adelante es empezar.
   + Es más fácil engañar a la gente que convencerlos de que han sido engañados.
   + He tenido muchas preocupaciones en mi vida, la mayoría de las cuales nunca
