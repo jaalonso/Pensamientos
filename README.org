@@ -494,11 +494,13 @@ encontrando.
     que deseas.
 
 ** [[https://es.wikipedia.org/wiki/Arthur_Schopenhauer][Arthur Schopenhauer]]
-  + El alquimista, en su búsqueda del oro encontró muchas otras cosas de gran
-    valor.
   + Cuanto más sea lo que tiene alguien en su interior, tanto menos requerirá de
     fuera y, por consiguiente, tanto menos significarán los otros para él. De ahí
     que la eminencia del espíritu conduzca a la misantropía.
+  + El alquimista, en su búsqueda del oro encontró muchas otras cosas de gran
+    valor.
+  + El joven debe, tempranamente, estar capacitado para soportar estar solo; ya
+    que es una fuente de felicidad y paz mental.
   + El mundo en el cual cada uno vive depende de cómo lo conciba, y se ajusta, por
     ello, a las diferencias mentales: según sea cada mente, ese mundo resultará más
     pobre, anodino y superficial, o rico, interesante y lleno de sentido.
