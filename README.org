@@ -1428,6 +1428,9 @@ encontrando.
     diagnóstico falso y aplicar después los remedios equivocados.
   + Todavía no sé qué me vas a preguntar, pero me opongo.
 
+** [[https://es.wikipedia.org/wiki/Guillermo_de_Ockham][Guillermo de Ockham]]
+   + No tiene sentido hacer con más lo que se puede hacer con menos.
+
 ** [[https://es.wikipedia.org/wiki/Gustav_Meyrink][Gustav Meyrink]]
   + La vida toda no es nada más que preguntas materializadas, las cuales llevan
     en sí el germen de la respuesta y respuestas que van preñadas de
