@@ -1429,6 +1429,8 @@ encontrando.
   + Todavía no sé qué me vas a preguntar, pero me opongo.
 
 ** [[https://es.wikipedia.org/wiki/Guillermo_de_Ockham][Guillermo de Ockham]]
+   + En igualdad de condiciones, la explicación más simple tiende a ser la
+     correcta.
    + No tiene sentido hacer con más lo que se puede hacer con menos.
 
 ** [[https://es.wikipedia.org/wiki/Gustav_Meyrink][Gustav Meyrink]]
