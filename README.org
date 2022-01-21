@@ -296,8 +296,6 @@ encontrando.
     el alma contesta.
   + Sólo hay una verdad absoluta: que la verdad es relativa.
 
-** [[https://es.wikipedia.org/wiki/Andr%C3%A9_Weil][André Weil]]
-
 ** [[https://es.wikipedia.org/wiki/Andr%C3%A9s_Neuman][Andrés Neuman]]
   + Cada vez que nace un héroe muere un ciudadano.
   + Corregir es el aprendizaje más terrible: ¿cómo es posible que, para escribir
@@ -3019,6 +3017,9 @@ encontrando.
   + La soledad es fortaleza; depender de la multitud es debilidad.
   + Entre dos individuos, la armonía nunca viene dada, sino que debe
     conquistarse indefinidamente.
+
+** [[https://es.wikipedia.org/wiki/Simone_Weil][Simone Weil]]
+   + La atención es la más rara y pura forma de generosidad.
 
 ** [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]]
   + El grado sumo del saber es contemplar el porqué.
