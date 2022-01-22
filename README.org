@@ -3019,7 +3019,9 @@ encontrando.
     conquistarse indefinidamente.
 
 ** [[https://es.wikipedia.org/wiki/Simone_Weil][Simone Weil]]
-   + La atención es la más rara y pura forma de generosidad.
+  + El apego es el gran fabricante de ilusiones; la realidad solo puede ser
+    alcanzada por alguien que está desapegado.
+  + La atención es la más rara y pura forma de generosidad.
 
 ** [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates]]
   + El grado sumo del saber es contemplar el porqué.
