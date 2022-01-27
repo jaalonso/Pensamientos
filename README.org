@@ -1347,6 +1347,8 @@ encontrando.
 ** [[https://es.wikipedia.org/wiki/George_Eliot][George Eliot]]
   + Bendito sea el hombre que no teniendo nada que decir, se abstiene de
     demostrárnoslo con sus palabras.
+  + Es una mente estrecha la que no puede observar un tema desde varios puntos
+    de vista.
 
 ** [[https://bit.ly/31dDTvO][George Lakoff]]
   + La idea de que la gente abandonará sus creencias irracionales ante la solidez
