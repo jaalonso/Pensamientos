@@ -2959,6 +2959,10 @@ encontrando.
   + No dejes apagar el entusiasmo, virtud tan valiosa como necesaria; trabaja,
     aspira, tiende siempre hacia la altura.
 
+** [[https://es.wikipedia.org/wiki/Ryszard_Kapu%C5%9Bci%C5%84ski][Ryszard Kapuscinski]]
+   + Cuando se descubrió que la información era un negocio, la verdad dejó de ser
+     importante.
+
 ** [[https://es.wikipedia.org/wiki/Sa%27di][Sa'di]]
   + Si discutes mucho para probar tu sabiduría, pronto probarás tu ignorancia.
 
