@@ -745,7 +745,7 @@ encontrando.
 ** [[https://es.wikipedia.org/wiki/B%C3%ADas][Bías de Priene]]
   + Pon manos a la obra con lentitud, pero, una vez comenzada, sé constante.
 
-** [[Bodhidharma][Bodhidharma]]
+** [[https://es.wikipedia.org/wiki/Bodhidharma][Bodhidharma]]
   + Buscar es sufrir. No buscar nada es felicidad.
 
 ** [[https://es.wikipedia.org/wiki/Buda_Gautama][Buda Gautama]]
@@ -3257,6 +3257,9 @@ encontrando.
 
 ** [[https://es.wikipedia.org/wiki/Walter_Scott][Walter Scott]]
   + Descansar demasiado es oxidarse.
+
+** [[https://en.wikipedia.org/wiki/Wei_Wu_Wei][Wei Wu Wei]]
+  + Los sabios no juzgan, buscan comprender.
 
 ** [[https://es.wikipedia.org/wiki/Wilhelm_von_Humboldt][Wilhelm von Humboldt]]
   + La interdependencia entre el pensamiento y la palabra ilumina claramente la
