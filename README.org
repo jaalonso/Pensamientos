@@ -991,6 +991,9 @@ encontrando.
 ** [[https://es.wikipedia.org/wiki/Dorothy_Parker][Dorothy Parker]]
   + El aburrimiento se cura con curiosidad. La curiosidad no se cura con nada.
 
+** [[https://es.wikipedia.org/wiki/Eckhart_Tolle][Eckhart Tolle]]
+  + Dondequiera que estés, quédate ahí totalmente.
+
 ** [[https://es.wikipedia.org/wiki/Libro_del_Eclesiast%C3%A9s][Eclesiastés]]
   + Mantente en tu quehacer y conságrate a él, en tu tarea envejece.
   + En todo lo que hagas, sé moderado.
