@@ -993,6 +993,10 @@ encontrando.
 
 ** [[https://es.wikipedia.org/wiki/Eckhart_Tolle][Eckhart Tolle]]
   + Dondequiera que estés, quédate ahí totalmente.
+  + Muchas personas viven habitualmente como si el momento presente fuera un
+    obstáculo que deben superar para llegar al siguiente momento, e imaginan
+    vivir toda su vida así. Siempre, este momento no es lo suficientemente bueno
+    porque necesitas llegar al siguiente.
 
 ** [[https://es.wikipedia.org/wiki/Libro_del_Eclesiast%C3%A9s][Eclesiastés]]
   + Mantente en tu quehacer y conságrate a él, en tu tarea envejece.
