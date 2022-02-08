@@ -2121,6 +2121,8 @@ encontrando.
     Cuanto más lejos vas, menos conoces.
     Así pues, el Sabio conoce sin viajar, ve sin mirar, y logra sin Actuar.
   + Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
+  + ¿Tienes la paciencia de esperar hasta que el lodo se asiente y el agua esté
+    clara?
 
 ** [[https://es.wikipedia.org/wiki/Laurence_J._Peter][Laurence J. Peter]]
   + Sólo una cosa es más dolorosa que aprender de la experiencia, y es, no aprender
