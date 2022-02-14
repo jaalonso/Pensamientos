@@ -2956,6 +2956,10 @@ encontrando.
     vida.
   + Viajar esperanzadamente es mejor que llegar.
 
+** [[https://es.wikipedia.org/wiki/Robert_M._Pirsig][Robert M. Pirsig]]
+  + Miras hacia dónde vas y dónde estás y nunca tiene sentido, pero luego miras
+    hacia atrás a dónde has estado y parece surgir un patrón.
+
 ** [[https://en.wikipedia.org/wiki/Robert_Orben][Robert Orben]]
   + Errar es humano. Y echarle la culpa al ordenador es más humano todavía.
   + Las vacaciones consisten en no tener nada que hacer y disponer de todo el
