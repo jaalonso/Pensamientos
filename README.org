@@ -1095,6 +1095,8 @@ encontrando.
 
 ** [[https://es.wikipedia.org/wiki/Epicteto][Epicteto]]
   + Complace a todos y no complacerás a nadie.
+  + Cuando alguien está debidamente arraigado en la vida, no debería tener que
+    buscar aprobación fuera de sí mismo.
   + Dos cosas hay que quitarles a los hombres: la vanidad y la desconfianza.
   + El error del anciano es que pretende enjuiciar el hoy con el criterio del
     ayer.
