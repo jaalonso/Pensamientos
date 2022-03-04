@@ -85,6 +85,9 @@ encontrando.
 ** [[https://es.wikipedia.org/wiki/Albert_Camus][Albert Camus]]
   + A pesar de todos mis esfuerzos y razonamientos, me es imposible sacudirme
     esta tristeza que ya ni siquiera comprendo.
+  + Cada generación, sin duda, se cree destinada a rehacer el mundo. La mía sabe,
+    sin embargo, que no lo rehará. Pero su tarea acaso sea más grande. Consiste en
+    impedir que el mundo se deshaga.
   + Envejecer es pasar de la pasión a la compasión.
   + Inocente es quien no necesita explicarse.
   + La gente nunca está convencida de tus razones, de tu sinceridad, de tu
