@@ -3143,6 +3143,10 @@ encontrando.
   + La vida sólo puede ser comprendida hacia atrás, pero únicamente puede ser
     vivida hacia adelante, o sea hacia algo que no existe.
 
+** [[https://es.wikipedia.org/wiki/Stendhal][Stendhal]]
+  + Es indispensable, para que otros nos soporten a gusto, participar hasta
+    cierto punto en sus pasiones.
+
 ** [[https://es.wikipedia.org/wiki/Stephen_Hawking][Stephen Hawking]]
   + El desorden aumenta con el tiempo porque nosotros medimos el tiempo en el
     sentido en el que aumenta el desorden.
