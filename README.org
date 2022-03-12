@@ -2720,6 +2720,11 @@ encontrando.
     mismo. ¡Mantente vivo, hagas lo que hagas!.
   + Yo no busco, encuentro.
 
+** [[https://es.wikipedia.org/wiki/Paul_Auster][Paul Auster]]
+  + La literatura es esencialmente soledad. Se escribe en soledad, se lee en
+    soledad y, pese a todo, el acto de la lectura permite una comunicación
+    profunda entre dos seres humanos.
+
 ** [[https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry][Paul Valéry]]
   + El problema de nuestros tiempos es que el futuro ya no es lo que era.
   + La política es el arte de impedir que la gente se entrometa en lo que le
