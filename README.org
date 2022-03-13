@@ -2084,6 +2084,7 @@ encontrando.
 ** [[https://es.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez][Juan Ramón Jiménez]]
   + En la soledad no se encuentra más que lo que a la soledad se lleva.
   + Mis únicas dos armas: tiempo y silencio.
+  + Si te dan un papel pautado, escribe por detrás.
 
 ** [[https://es.wikipedia.org/wiki/Juan_XXIII][Juan XXIII]]
   + Sólo por hoy trataré de vivir exclusivamente el día, sin querer resolver el
