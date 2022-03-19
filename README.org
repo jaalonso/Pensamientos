@@ -3053,6 +3053,8 @@ encontrando.
 ** [[https://es.wikipedia.org/wiki/Ryszard_Kapu%C5%9Bci%C5%84ski][Ryszard Kapuscinski]]
    + Cuando se descubrió que la información era un negocio, la verdad dejó de ser
      importante.
+   + Si entre las muchas verdades eliges una sola y la persigues ciegamente, ella
+     se convertirá en falsedad, y tú en un fanático.
 
 ** [[https://es.wikipedia.org/wiki/Sa%27di][Sa'di]]
   + Si discutes mucho para probar tu sabiduría, pronto probarás tu ignorancia.
