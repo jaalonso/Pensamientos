@@ -378,17 +378,20 @@ encontrando.
   + Aprendió tantas cosas, que no tuvo tiempo para pensar en ninguna de
     ellas.
   + Ayudadme a comprender lo que os digo, y os lo explicaré más despacio.
-  + Caminante, no hay camino:
+  + Caminante, no hay camino: \\
     se hace camino al andar.
   + De cada diez novedades que pretenden descubrirnos, nueve son
     tonterías. La décima y última, que no es necedad, resulta a última
     hora que tampoco es nueva.
+  + Despacito y buena letra: \\
+    el hacer las cosas bien \\
+    importa más que el hacerlas.
   + El escepticismo es una posición vital, no lógica, que ni afirma ni niega, se
     limita a preguntar, y no se asusta de las contradicciones.
-  + Despacito y buena letra:
-    el hacer las cosas bien
-    importa más que el hacerlas.
   + Entre hacer las cosas bien y hacerlas mal está el no hacerlas, como término
+    medio, a veces aceptable, que consiste en no hacerlas.
+  + Es el mejor de los buenos quien sabe que en esta vida todo es cuestión de
+    medida: un poco más, algo menos...
   + Es propio de hombres de cabezas medianas embestir contra todo aquello que no
   + Hay que tener los ojos muy abiertos para ver las cosas como son; aún más
     abiertos para verlas otras de lo que son; más abiertos todavía para verlas
@@ -417,8 +420,8 @@ encontrando.
   + Preguntadlo todo, como hacen los niños. ¿Por qué esto? ¿Por qué lo otro? ¿Por
     qué lo de más allá? En España no se dialoga porque nadie pregunta, como no sea
     para responderse a sí mismo.
-  + Nunca traces tu frontera
-    ni cuides de tu perfil;
+  + Nunca traces tu frontera \\
+    ni cuides de tu perfil; \\
     todo eso es cosa de fuera.
   + Por mucho que un hombre valga, nunca tendrá valor más alto que el de ser
     hombre.
@@ -427,13 +430,13 @@ encontrando.
   + Sed hombres de mal gusto. Yo os aconsejo el mal gusto para combatir
     los excesos de la moda.
   + Si es bueno vivir, todavía es mejor soñar, y lo mejor de todo, despertar.
-  + Todo necio
+  + Todo necio \\
     confunde valor y precio.
-  + ¡Qué difícil es,
-    cuando todo baja,
+  + ¡Qué difícil es, \\
+    cuando todo baja, \\
     no bajar también!.
-  + ¿Tu verdad? No, la Verdad,
-    y ven conmigo a buscarla.
+  + ¿Tu verdad? No, la Verdad, \\
+    y ven conmigo a buscarla. \\
     La tuya guárdatela.
   + Y nadie pregunta ni nadie contesta, todos hablan solos.
 
