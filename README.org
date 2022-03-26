@@ -3088,6 +3088,10 @@ encontrando.
   + Educar es cultivar a un tiempo el conocimiento de lo verdadero, la voluntad
     de lo bueno y la sensibilidad de lo bello.
 
+* [[https://es.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek][Slavoj Zizek]]
+  + Estamos atrapados en una competición malsana, una red absurda de
+    comparaciones con los demás.
+
 * [[https://es.wikipedia.org/wiki/Samuel_Butler_(novelista)][Samuel Butler]]
   + La vida es el arte de sacar conclusiones suficientes a partir de datos
     insuficientes.
