@@ -1530,6 +1530,8 @@ encontrando.
     fácil y equivocada.
 
 * [[https://es.wikipedia.org/wiki/H._P._Lovecraft][H. P. Lovecraft]]
+  + La emoción más antigua y más intensa de la humanidad es el miedo, y el más
+    antiguo y más intenso de los miedos es el miedo a lo desconocido.
   + Nunca le pregunto a un hombre a qué se dedica, porque no me interesa. Le
     pregunto acerca de sus pensamientos y sus sueños. Más allá de nuestras
     iniciativas hechas para sobrevivir está lo que nos hace vivir.
