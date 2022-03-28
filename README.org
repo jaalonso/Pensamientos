@@ -2126,6 +2126,11 @@ encontrando.
   + Lo que más me inquieta es que en España todos se preguntan: ¿qué va a pasar?
     Casi nadie se pregunta: ¿qué vamos a hacer?
 
+* [[https://es.wikipedia.org/wiki/Julio_Llamazares][Julio Llamazares]]
+  + ¿Por qué desear que los minutos y los años vuelvan cuando sabemos que no lo
+    harán jamás? ¿Para qué sirve la melancolía? Nos pasamos la mitad de la vida
+    perdiendo el tiempo y la otra mitad queriendo recuperarlo.
+
 * [[https://es.wikipedia.org/wiki/Julio_Verne][Julio Verne]]
   + La ciencia, muchacho, está hecha de errores; pero de errores que conviene
     cometer, porque conducen poco a poco a la verdad.
