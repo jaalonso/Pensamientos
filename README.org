@@ -2673,6 +2673,9 @@ encontrando.
   + Me gustan los amigos que tienen pensamientos independientes, porque suelen
     hacerte ver los problemas desde todos los ángulos.
 
+* [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Boileau][Nicolas Boileau]]
+  + "Antes que escribir, aprended a pensar."
+
 * [[https://es.wikipedia.org/wiki/Nicolas_Chamfort][Nicolas Chamfort]]
   + Casi todos los hombres son esclavos, por la razón que los espartanos daban
     de la servidumbre de los persas, por no saber pronunciar la sílaba
