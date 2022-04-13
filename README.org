@@ -2145,6 +2145,7 @@ encontrando.
     cometer, porque conducen poco a poco a la verdad.
 
 * [[https://es.wikipedia.org/wiki/Karl_Marx][Karl Marx]]
+  + La opinión dominante es la opinión de la clase dominante.
   + Las ideas dominantes de una época siempre fueron sólo las ideas de una clase
     dominante.
 
