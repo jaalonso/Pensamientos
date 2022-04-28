@@ -3558,4 +3558,10 @@ encontrando.
   + Los sabios ganan antes de luchar, mientras que los ignorantes luchan para
     ganar.
 
+* [[https://es.wikipedia.org/wiki/Zygmunt_Bauman][Zygmunt Bauman]]
+  + La tolerancia absoluta de todo y para todo, es el valor dominante. Lo único
+    que no se tolera en tiempos posmodernos son las convicciones firmes, las que
+    no se sujetan a consenso, pues la época liquida, no tolera lo sólido y lo
+    vomita.
+
 #+LATEX: \end{document}
