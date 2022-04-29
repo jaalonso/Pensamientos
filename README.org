@@ -3353,6 +3353,10 @@ encontrando.
     tesis es escribir el título, la introducción y el índice final; esto es,
     precisamente las cosas que todos los autores hacen al final.
 
++ [[https://es.wikipedia.org/wiki/Vicente_Huidobro][Vicente Huidobro]]
+  + Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida,
+    mata.
+
 * [[https://es.wikipedia.org/wiki/Victor_Hugo][Victor Hugo]]
   + El agua que no corre hace un pantano; la mente que no trabaja hace un tonto.
   + El éxito es una cosa bastante repugnante. Su falsa semejanza con el mérito
