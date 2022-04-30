@@ -2544,7 +2544,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]]
   + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de hacer
     una pausa y reflexionar.
-  + Dale a cada día la oportunidad de convertirse en el mejor día de tu vida.a
+  + Dale a cada día la oportunidad de convertirse en el mejor día de tu vida.
+  + Dentro de veinte años, estarás más decepcionado por lo que no hiciste que por
+    lo que hiciste. Explora, sueña y descubre.
   + El secreto para salir adelante es empezar.
   + Es más fácil engañar a la gente que convencerlos de que han sido engañados.
   + He tenido muchas preocupaciones en mi vida, la mayoría de las cuales nunca
