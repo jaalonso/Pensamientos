@@ -3031,6 +3031,8 @@ encontrando.
   + Cuando surge un problema, deberíamos ser capaces de ver pronto si será rentable
     examinar otros problemas primero, y qué otros, y en qué orden.
   + Daría todo lo que sé por la mitad de lo que ignoro.
+  + Dicen que el mono es tan inteligente que no habla para que no lo hagan
+    trabajar.
   + Divide las dificultades que examinas en tantas partes como sea posible para
     su mejor solución.
   + Dos cosas contribuyen a avanzar: ir más deprisa que los otros o ir por el
