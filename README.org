@@ -1129,6 +1129,7 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Eleanor_Roosevelt][Eleanor Roosevelt]]
   + El futuro pertenece a quienes creen en la belleza de sus sueños.
+  + Es mejor encender una vela que maldecir la oscuridad.
 
 * [[https://es.wikipedia.org/wiki/Emil_Cioran][Emil Cioran]]
   + Es menos por reacción de defensa que por pudor, por el deseo de esconder su
