@@ -990,6 +990,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Daniel_Goleman][Daniel Goleman]]
   + En un mundo tan cambiante encontramos que la flexibilidad, la posibilidad de
     adaptarse al cambio es más importante que la experiencia.
+  + Las emociones fuera de control pueden transformar en estúpidas a personas
+    inteligentes.
 
 * [[https://es.wikipedia.org/wiki/Daniel_Kahneman][Daniel Kahneman]]
   + A menudo nuestro cerebro racionaliza los pensamientos automáticos y los
