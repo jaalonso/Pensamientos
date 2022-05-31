@@ -646,6 +646,7 @@ encontrando.
   + Bienaventurado el que no espera nada, porque nunca será decepcionado.
   + Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.
   + El hombre descontento no encuentra silla cómoda.
+  + La alegría es la piedra filosofal que todo lo convierte en oro.
   + La llave que se usa constantemente reluce como plata: no usándola se llena de
     herrumbre. Lo mismo pasa con el entendimiento.
   + La peor decisión es la indecisión.
@@ -3425,6 +3426,10 @@ encontrando.
     vuelves la atención hacia otras cosas, ella viene y suavemente se  posa en tu
     hombro. La felicidad no es una posada en el camino, sino una  forma de caminar
     por la vida.
+  + La vida no es principalmente una búsqueda del placer, como creía
+    Freud, ni una búsqueda de poder, como lo enseñó Alfred Adler, sino
+    una búsqueda de sentido. La mejor tarea para cualquier persona es
+    encontrarle sentido a su propia vida.
   + Si no está en tus manos cambiar una situación que te produce dolor, siempre
     podrás escoger la actitud con la que afrontes ese sufrimiento.
 
