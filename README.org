@@ -1285,7 +1285,9 @@ encontrando.
   + La lectura hace al hombre completo; la conversación lo hace ágil, el
     escribir lo hace preciso.
   + Los primeros y más antiguos investigadores de la verdad solían arrojar su
-    conocimiento en aforismos, o en frases cortas, dispersas y no metódicas.
+    conocimiento en aforismos, o en frases cortas, dispersas y no
+    metódicas.
+  + Nada induce al hombre a sospechar mucho como el saber poco. 
   + Un hombre está dispuesto a creer aquello que le gustaría que fuera cierto.
   + Quien no quiere pensar es un fanático; quien no puede pensar, es un idiota;
     quien no osa pensar es un cobarde.
