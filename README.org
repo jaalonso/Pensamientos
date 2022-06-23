@@ -12,7 +12,7 @@
 
 Este libro contiene una recopilación de pensamientos con los que me voy
 encontrando.
-
+  
 * [[ https://es.wikipedia.org/wiki/Aaron_Swartz][Aaron Swartz]]
   + Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que mucho de
     lo que la gente llama la inteligencia se reduce a la curiosidad.  
