@@ -7,7 +7,7 @@
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt,twoside]
 #+LATEX_HEADER:\usepackage{makeidx}
 #+LATEX_HEADER:\makeindex
-
+ 
 #+LATEX: \input preambulo
 
 Este libro contiene una recopilación de pensamientos con los que me voy
