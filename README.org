@@ -861,7 +861,7 @@ encontrando.
   + Damos el significado a nuestro mundo con el valor de nuestras preguntas y la
     profundidad de nuestras respuestas.
   + En la ciencia suele ocurrir que un científico diga: Es un buen argumento, yo
-    estaba equivocado ́, cambie de opinión y desde ese momento no se vuelva a
+    estaba equivocado; cambie de opinión y desde ese momento no se vuelva a
     mencionar la antigua posición. Realmente pasa. Aunque no lo frecuentemente que
     debería ya que los científicos son humanos y el cambio es a veces doloroso. Pero
     ocurre cada día. No recuerdo la última vez que algo así pasó en política o
@@ -1233,6 +1233,8 @@ encontrando.
   + La vida del espíritu es un diálogo, en el que la verdad va saliendo
     tortuosamente, a menudo con violencia, en una larga y complicada
     contraposición de opiniones.
+  + Nada hay tan pasajero como lo que está a la moda, ni tan grotesco
+    cuando ha pasado de moda.
   + ¿Qué se puede hacer con ochenta años? Probablemente, empezar a darse
     cuenta de cómo habría que vivir y cuáles son las tres o cuatro cosas
     que valen la pena.
