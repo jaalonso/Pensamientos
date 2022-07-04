@@ -160,6 +160,7 @@ encontrando.
   + Una teoría es más impresionante cuanto mayor es la simplicidad de sus
     premisas, más diferentes tipos de cosas se relacionan y más amplia es su área
     de aplicación.
+  + Una vez que dejas de aprender, empiezas a morir.  
 
 * [[https://en.wikipedia.org/wiki/Albert_Guinon][Albert Guinon]]
   + El verdadero secreto de la felicidad consiste en exigir mucho de sí mismo y
