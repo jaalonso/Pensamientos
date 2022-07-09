@@ -462,7 +462,6 @@ encontrando.
   + Conócete a tí mismo.
   + Cuando crees que sabes todas las respuestas, la vida te cambia todas las
     preguntas.
-  + En todo la medida.
   + Hay quienes cruzan el bosque y sólo ven leña para el fuego.
   + La palabra y la piedra suelta no tienen vuelta.
   + La vida crece en las orillas, no en las aguas turbulentas.
@@ -3324,6 +3323,9 @@ encontrando.
 * [[https://en.wikipedia.org/wiki/Sod%C5%8D_Yokoyama][Sodo Yokoyama]]
   + Decide que estés donde estés, es el mejor lugar que existe. Una vez que
     comienzas a comparar, no hay fin.
+
++ [[https://es.wikipedia.org/wiki/Sol%C3%B3n][Solón]]
+  + Nada con exceso, todo con medida.
 
 * [[https://es.wikipedia.org/wiki/Sor_Juana_In%C3%A9s_de_la_Cruz][Sor Juana Inés de la Cruz]]
   + Para todo se halla prueba y razón en qué fundarlo; y no hay razón para
