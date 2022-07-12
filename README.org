@@ -391,6 +391,9 @@ encontrando.
   + Ayudadme a comprender lo que os digo, y os lo explicaré más despacio.
   + Caminante, no hay camino: \\
     se hace camino al andar.
+  + Cuando el saber se especializa, crece el volumen total de la
+    cultura. Esta es la ilusión y el consuelo de los especialistas. ¡Lo
+    que sabemos entre todos! ¡Oh, eso es lo que no sabe nadie!
   + De cada diez novedades que pretenden descubrirnos, nueve son
     tonterías. La décima y última, que no es necedad, resulta a última
     hora que tampoco es nueva.
