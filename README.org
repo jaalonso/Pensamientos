@@ -2973,10 +2973,10 @@ encontrando.
     peligrosos. Más peligrosos son los hombres comunes, los funcionarios
     dispuestos a creer y actuar sin hacer preguntas.
 
-+ Proverbio árabe
+* Proverbio árabe
   + No hables si lo que vas a decir no es más hermoso que el silencio.
 
-+ Proverbio chino
+* Proverbio chino
   + Aquel que pregunta es un tonto por cinco minutos, pero el que no pregunta
     permanece tonto por siempre.
   + Cuando mi corazón está en paz, el mundo está en paz.
@@ -2990,27 +2990,29 @@ encontrando.
     ¿por qué te sigues preocupando?
   + Si te caes siete veces, levántate ocho.
 
-+ Proverbio hindú
+* Proverbio hindú
+  + Con mis maestros he aprendido mucho; con mis colegas, más; con mis
+    alumnos mucho más.
   + Cuando hables, procura que tus palabras sean mejores que el silencio.
 
-+ Proverbio holandés
+* Proverbio holandés
   + No puede impedirse el viento. Pero pueden construirse molinos.
 
-+ Proverbio japonés
+* Proverbio japonés
   + Es mejor viajar lleno de esperanza que llegar.
   + Las palabras no pronunciadas son las flores del silencio.
 
-+ Proverbio persa
+* Proverbio persa
   + Aprende lo que te parezca difícil: todo lo difícil se vuelve fácil gracias
     al aprendizaje.
 
-+ Proverbio romano
+* Proverbio romano
   + Por la ignorancia nos equivocamos, y por las equivocaciones aprendemos.
 
-+ Proverbio suizo
+* Proverbio suizo
   + Las palabras son enanos, los ejemplos son gigantes.
 
-+ Proverbio Zen
+* Proverbio Zen
   + Acepta lo que no puedas cambiar y
     cambia lo que no puedas aceptar.
   + Come cuando tengas hambre, duerme cuando estés cansado.
