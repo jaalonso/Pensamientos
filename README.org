@@ -7,15 +7,15 @@
 #+LATEX_CLASS_OPTIONS: [a4paper,12pt,twoside]
 #+LATEX_HEADER:\usepackage{makeidx}
 #+LATEX_HEADER:\makeindex
- 
+
 #+LATEX: \input preambulo
 
 Este libro contiene una recopilación de pensamientos con los que me voy
 encontrando.
-  
+
 * [[ https://es.wikipedia.org/wiki/Aaron_Swartz][Aaron Swartz]]
   + Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que mucho de
-    lo que la gente llama la inteligencia se reduce a la curiosidad.  
+    lo que la gente llama la inteligencia se reduce a la curiosidad.
 
 * [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]]
   + Es más fácil reprimir el primer capricho que satisfacer a todos los que le
@@ -160,7 +160,7 @@ encontrando.
   + Una teoría es más impresionante cuanto mayor es la simplicidad de sus
     premisas, más diferentes tipos de cosas se relacionan y más amplia es su área
     de aplicación.
-  + Una vez que dejas de aprender, empiezas a morir.  
+  + Una vez que dejas de aprender, empiezas a morir.
 
 * [[https://en.wikipedia.org/wiki/Albert_Guinon][Albert Guinon]]
   + El verdadero secreto de la felicidad consiste en exigir mucho de sí mismo y
@@ -618,7 +618,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Augusto_Roa_Bastos][Augusto Roa Bastos]]
   + No es creyendo sino dudando como se puede llegar a la verdad que
     siempre muda de forma y condición.
-  
+
 * [[https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n][Baltasar Gracián]]
   + El primer paso de la ignorancia es presumir de saber.
   + Hay dos tipos de personas que son buenas para prevenir el peligro: los que
@@ -654,7 +654,7 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Benjamin_Franklin][Benjamin Franklin]]
   + Amo la casa en la cual no veo nada superfluo y encuentro todo lo
-    necesario. 
+    necesario.
   + Bienaventurado el que no espera nada, porque nunca será decepcionado.
   + Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.
   + El hombre descontento no encuentra silla cómoda.
@@ -747,7 +747,7 @@ encontrando.
     poesía.
   + En todas las actividades es saludable, de vez en cuando, poner un
     signo de interrogación sobre aquellas cosas que por mucho tiempo se
-    han dado como seguras. 
+    han dado como seguras.
   + Gran parte de las dificultades por las que atraviesa el mundo se deben a
     que los ignorantes están completamente seguros y los instruidos llenos de
     dudas.
@@ -891,10 +891,10 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Carmen_Mart%C3%ADn_Gaite][Carmen Martín Gaite]]
   + El hombre es una multitud solitaria de gente, que busca la presencia
-    física de los demás para imaginarse que todos estamos juntos. 
+    física de los demás para imaginarse que todos estamos juntos.
   + Si algo he aprendido en la vida es a no perder el tiempo intentando
     cambiar el modo de ser del prójimo.
-  
+
 * [[https://es.wikipedia.org/wiki/Chantal_Maillard][Chantal Maillard]]
   + Las palabras no son inocentes, llevan un lastre. Cuando pensamos lo hacemos
     con las palabras que lo acarrean. Tal como hablamos, pensamos, y tal como
@@ -1196,7 +1196,7 @@ encontrando.
     enjuiciarlas.
   + No nos perturban las cosas sino las opiniones que de ellas tenemos.
   + Si alguna vez tienes la tentación de buscar la aprobación externa,
-    ten en cuenta que has comprometido tu integridad.  
+    ten en cuenta que has comprometido tu integridad.
   + Si no quieres ver tus deseos frustrados, no desees jamás sino aquéllo que
     sólo de ti depende.
   + Solo ten en cuenta que cuanto más valoramos las cosas que están fuera de
@@ -1247,7 +1247,7 @@ encontrando.
     irremediable se apodera del alma del hombre.
   + Es gracias a ese imposible que nos elevamos por encima de todo lo
     posible. Es el entusiasmo el que nos mantiene vivos.
-  + La vida debe ser sostenida y fecundada en la ilusión.  
+  + La vida debe ser sostenida y fecundada en la ilusión.
   + La vida del espíritu es un diálogo, en el que la verdad va saliendo
     tortuosamente, a menudo con violencia, en una larga y complicada
     contraposición de opiniones.
@@ -1313,7 +1313,7 @@ encontrando.
     agitados. El derecho a vivir y a triunfar se conquista con los mismos
     procedimientos con que se conquista el internamiento en un manicomio: la
     incapacidad de pensar, la amoralidad y la hiperexcitación.
-  + No hay normas. Todos los hombres son excepciones a una regla que no existe. 
+  + No hay normas. Todos los hombres son excepciones a una regla que no existe.
 
 * [[https://es.wikipedia.org/wiki/Francis_Bacon][Francis Bacon]]
   + La amistad duplica las alegrías y divide las angustias por la mitad.
@@ -1322,7 +1322,7 @@ encontrando.
   + Los primeros y más antiguos investigadores de la verdad solían arrojar su
     conocimiento en aforismos, o en frases cortas, dispersas y no
     metódicas.
-  + Nada induce al hombre a sospechar mucho como el saber poco. 
+  + Nada induce al hombre a sospechar mucho como el saber poco.
   + Un hombre está dispuesto a creer aquello que le gustaría que fuera cierto.
   + Quien no quiere pensar es un fanático; quien no puede pensar, es un idiota;
     quien no osa pensar es un cobarde.
@@ -2846,7 +2846,7 @@ encontrando.
   + En general, los hombres juzgan más por los ojos que por la inteligencia, pues
     todos pueden ver, pero pocos comprenden lo que ven.
   + En todos los asuntos humanos uno nota, si los examina de cerca, que es
-    imposible eliminar un inconveniente sin que surja otro.  
+    imposible eliminar un inconveniente sin que surja otro.
   + La experiencia siempre ha demostrado que jamás suceden bien las cosas
     cuando dependen de muchos.
   + Todos los hombres verán lo que pareces ser; sólo unos pocos sabrán quién
@@ -3399,13 +3399,17 @@ encontrando.
     sino un camino que se aprende a recorrer.
 
 * [[https://es.wikipedia.org/wiki/Swami_Sivananda][Swami Sivananda]]
+  + Con tus pensamientos de ahora estás creando tu futuro; si piensas
+    con nobleza tendrás una conducta noble. Si piensas con bajeza,
+    ningún ambiente te hará cambiar. Así pues, los pensamientos y las
+    acciones son interdependientes.
   + Cultiva la atención y tendrás buena concentración. Una mente serena
     es la más adecuada para la concentración. Mantén tu mente serena. Se
     siempre alegre. Solamente así podrás concentrarte.
   + La guerra interna con la mente es más terrible que las guerras
-    externas con armas.  
+    externas con armas.
   + Libérate de la esclavitud del prejuicio que embota el intelecto y
-    ofusca los pensamientos.  
+    ofusca los pensamientos.
   + Los pensamientos son los ladrillos con los que has de construir el
     edificio de tu personalidad. El pensamiento determina el destino. El
     mundo que te rodea es el reflejo de tus propios pensamientos.
@@ -3422,7 +3426,7 @@ encontrando.
     sus propias formas de entender las cosas y sus propias maneras de
     actuar.
   + Un pensamiento de alegría crea, por simpatía, otro pensamiento de
-    alegría en otros. 
+    alegría en otros.
 
 * [[https://bit.ly/38qowDp][Swami Vivekananda]]
   + Cada uno es responsable de lo que le sucede y tiene el poder de decidir lo que
