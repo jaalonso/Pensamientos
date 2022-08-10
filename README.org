@@ -2114,6 +2114,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Jonathan_Swift][Jonathan Swift]]
   + Cuando en el mundo aparece un verdadero genio puede reconocérsele por este
     signo: todos los necios se conjuran contra él.
+  + No hay nada constante en el mundo, salvo la inconstancia.
   + ¡Ojalá vivas todos los días de tu vida!
   + Un hombre nunca debe avergonzarse por reconocer que se equivocó, que es
     tanto como decir que hoy es más sabio de lo que fue ayer.
