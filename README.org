@@ -385,6 +385,8 @@ encontrando.
     surgen los monstruos.
   + Quiero que cada mañana sea para mi año nuevo. Cada día quiero echar
     cuentas conmigo mismo, y renovarme cada día.
+  + Soy un pesimista debido a mi inteligencia, pero un optimista debido
+    mi voluntad.
 
 * [[https://es.wikipedia.org/wiki/Antonio_Machado][Antonio Machado]]
   + Aprendió tantas cosas, que no tuvo tiempo para pensar en ninguna de
