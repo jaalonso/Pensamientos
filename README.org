@@ -2873,6 +2873,8 @@ encontrando.
   + Las cosas no valen sino lo que se las hace valer.
 
 * [[https://es.wikipedia.org/wiki/Montesquieu][Montesquieu]]
+  + El amor al estudio es la única pasión que dura tanto como la vida;
+    todas las demás se desvanecen a medida que la vejez avanza.
   + El que teme padecer padece ya lo que teme.
   + La literatura ha sido para mí el principal remedio contra las preocupaciones
     de la vida; no habiendo tenido nunca un disgusto que no se me haya pasado
