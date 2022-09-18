@@ -2862,19 +2862,21 @@ encontrando.
   + Hay personas que están tan llenas de sentido común que no les qqueda
     la más mínima grieta para su propio sentido.
   + Hay que sentir el pensamiento y pensar el sentimiento.
+  + El modo de dar una vez en el clavo es dar cien veces en la
+    herradura.
   + El que tiene fe en sí mismo no necesita que los demás crean en él.
-  + La libertad no es un estado sino un proceso. Sólo el que sabe es libre. Sólo
-    la cultura da libertad. No proclaméis la libertad de volar, sino dad alas;
-    no la de pensar, sino dad pensamientos. La libertad que hay que dar al
-    pueblo es la cultura.
-  + La locura, la verdadera locura, nos está haciendo mucha falta, a ver si nos
-    cura de esta peste del sentido común que nos tiene a cada uno ahogado el
-    propio.
+  + La libertad no es un estado sino un proceso. Sólo el que sabe es
+    libre. Sólo la cultura da libertad. No proclaméis la libertad de
+    volar, sino dad alas; no la de pensar, sino dad pensamientos. La
+    libertad que hay que dar al pueblo es la cultura.
+  + La locura, la verdadera locura, nos está haciendo mucha falta, a ver
+    si nos cura de esta peste del sentido común que nos tiene a cada uno
+    ahogado el propio.
   + Se viaja no para buscar el destino sino para huir de donde se parte.
 
 * [[https://bit.ly/3lcJ0F3][Milton Friedman]]
-  + Si no puedes formular una proposición de forma clara y sin ambigüedades, no
-    la comprendes.
+  + Si no puedes formular una proposición de forma clara y sin
+    ambigüedades, no la comprendes.
 
 * [[https://es.wikipedia.org/wiki/Moli%C3%A8re][Molière]]
   + Las cosas no valen sino lo que se las hace valer.
