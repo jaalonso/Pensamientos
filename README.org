@@ -2208,6 +2208,7 @@ encontrando.
     desarrollo no es ser tanto o mejor que los otros, sino todo lo que uno pueda
     llegar a ser. Casi nadie, yo el primero, llega a todo lo que pueda
     ser. Todavía soy aprendiz de mí mismo.
+  + La vida es una navegación difícil sin una buena brújula.
   + Mi pedagogía siempre se reducía a dos palabras: amor y provocación.
 
 * [[https://es.wikipedia.org/wiki/Joseph_Joubert][Joseph Joubert]]
