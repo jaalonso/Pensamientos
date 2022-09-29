@@ -3596,6 +3596,7 @@ encontrando.
     desaparecerán.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Alva_Edison][Thomas Alva Edison]]
+  + Hay una manera de hacerlo mejor, búscala.
   + No he fracasado, he encontrado diez mil fórmulas que no funcionan.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Carlyle][Thomas Carlyle]]
