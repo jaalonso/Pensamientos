@@ -3721,6 +3721,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Vincent_van_Gogh][Vincent van Gogh]]
   + Encuentra bello todo lo que puedas; la mayoría no encuentra nada
     suficientemente bello.
+  + Si escuchas una voz dentro de ti que dice 'no puedes pintar',
+    entonces pinta caiga quien caiga, y la voz será silenciada.
   + Si nos perfeccionamos en una sola cosa y la comprendemos bien,
     adquirimos por añadidura la comprensión y el conocimiento de muchas
     otras cosas.
