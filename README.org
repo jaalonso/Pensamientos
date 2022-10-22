@@ -2311,6 +2311,8 @@ encontrando.
     únicamente existe la excepción.
 
 * [[https://es.wikipedia.org/wiki/Juli%C3%A1n_Mar%C3%ADas][Julián Marías]]
+  + La discordia empieza siempre por una extrema simplificación de las
+    cosas.
   + Lo que más me inquieta es que en España todos se preguntan: ¿qué va a pasar?
     Casi nadie se pregunta: ¿qué vamos a hacer?
 
