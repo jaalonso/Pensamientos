@@ -3408,6 +3408,10 @@ encontrando.
   + Quiero cantar como cantan los pájaros, sin preocuparme de quién oye
     o de lo que piensan.
 
++ [[https://es.wikipedia.org/wiki/Ruth_Reichl][Ruth Reichl]]
+  + Uno de los secretos para mantenerse joven es hacer siempre cosas que
+    no sabes cómo hacer y seguir aprendiendo.
+
 * [[https://es.wikipedia.org/wiki/Ryszard_Kapu%C5%9Bci%C5%84ski][Ryszard Kapuscinski]]
    + Cuando se descubrió que la información era un negocio, la verdad dejó de ser
      importante.
