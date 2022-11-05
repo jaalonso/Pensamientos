@@ -2778,14 +2778,17 @@ encontrando.
   + Siento menos curiosidad por la gente y más curiosidad por las ideas.
 
 * [[https://es.wikipedia.org/wiki/Mario_Benedetti][Mario Benedetti]]
-  + Cuando por fin conocíamos las respuestas entonces cambiaron las preguntas.
-  + No, no sufro de amnesia, sólo me acuerdo de lo bonito y de lo que quiero
-    acodarme. Se llama memoria selectiva y es muy saludable tenerla.
-  + No te rindas, por favor no cedas, aunque el frío queme, aunque el miedo
-    muerda, aunque el sol se esconda, y se calle el viento, aún hay fuego en tu
-    alma, aún hay vida en tus sueños. Porque la vida es tuya y tuyo también el
-    deseo, porque cada día es un comienzo nuevo, porque esta es la hora y el
-    mejor momento.
+  + Cuando por fin conocíamos las respuestas entonces cambiaron las
+    preguntas.
+  + La perfección es una pulida colección de errores.
+  + No, no sufro de amnesia, sólo me acuerdo de lo bonito y de lo que
+    quiero acodarme. Se llama memoria selectiva y es muy saludable
+    tenerla.
+  + No te rindas, por favor no cedas, aunque el frío queme, aunque el
+    miedo muerda, aunque el sol se esconda, y se calle el viento, aún
+    hay fuego en tu alma, aún hay vida en tus sueños. Porque la vida es
+    tuya y tuyo también el deseo, porque cada día es un comienzo nuevo,
+    porque esta es la hora y el mejor momento.
 
 * [[https://es.wikipedia.org/wiki/Mario_Bunge][Mario Bunge]]
   + De todos los enemigos de la educación, uno de los peores es el pedagogo que
