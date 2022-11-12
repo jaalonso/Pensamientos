@@ -2483,16 +2483,21 @@ encontrando.
     distinguirlas.
 
 * [[https://es.wikipedia.org/wiki/Lin_Yutang][Lin Yutang]]
-  + A veces es más importante descubrir lo que uno no puede hacer, que lo que
-    sí puede.
-  + Bromear es una de las cosas amenas de la vida, pero cuesta muchos años de
-    aprendizaje.
+  + A veces es más importante descubrir lo que uno no puede hacer, que
+    lo que sí puede.
+  + Bromear es una de las cosas amenas de la vida, pero cuesta muchos
+    años de aprendizaje.
   + El hombre superior ama su alma; el hombre inferior ama su propiedad.
-  + La sabiduría de la vida consiste en la eliminación de lo no esencial. En
-    reducir los problemas de la filosofía a unos pocos solamente: el goce del
-    hogar, de la vida, de la naturaleza, de la cultura.
-  + Un placer como el de una conversación perfecta es necesariamente raro,
-    porque los sabios rara vez hablan y los que hablan rara vez son sabios.
+  + La sabiduría de la vida consiste en la eliminación de lo no
+    esencial. En reducir los problemas de la filosofía a unos pocos
+    solamente: el goce del hogar, de la vida, de la naturaleza, de la
+    cultura.
+  + La vida está compuesta de insignificancias; el año de instantes y
+    las montañas de granos de arena. Por lo tanto, no subestimes nada,
+    por pequeño que te parezca.
+  + Un placer como el de una conversación perfecta es necesariamente
+    raro, porque los sabios rara vez hablan y los que hablan rara vez
+    son sabios.
 
 * [[https://es.wikipedia.org/wiki/Lope_de_Vega][Lope de Vega]]
   + A mis soledades voy, de mis soledades vengo, porque para andar conmigo me
