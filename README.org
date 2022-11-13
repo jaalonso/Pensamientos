@@ -1962,6 +1962,11 @@ encontrando.
     se levantan por sí mismas. Cada nuevo descubrimiento en matemáticas es el
     resultado de un intento de resolver algún problema.
 
++ [[https://es.wikipedia.org/wiki/Humberto_Maturana][Humberto Maturana]]
+  + Nuestro problema como sociedad es que no conversamos. No conversamos
+    porque tenemos ideologías, estamos aferrados a cierto modo de pensar y
+    no reflexionamos.
+
 * [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant]]
   + La ciencia es la organización del conocimiento, pero la sabiduría es la
     organización de la vida.
