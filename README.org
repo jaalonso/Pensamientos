@@ -1021,14 +1021,17 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/ConfVcio][Confucio]]
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
-  + El hombre que hace una pregunta es un tonto por un minuto, el hombre que no
-    pregunta es un tonto de por vida.
-  + El hombre que mueve una montaña empieza por arrastrar una pequeña piedra.
-  + El que por la mañana ha conseguido conocer la verdad, ya puede morir por la
-    tarde.
+  + El hombre que hace una pregunta es un tonto por un minuto, el hombre
+    que no pregunta es un tonto de por vida.
+  + El hombre que mueve una montaña empieza por arrastrar una pequeña
+    piedra.
+  + El mayor error es sucumbir al abatimiento; todos los demás errores
+    pueden repararse, éste no.
+  + El que por la mañana ha conseguido conocer la verdad, ya puede morir
+    por la tarde.
   + El silencio es el único amigo que jamás traiciona.
-  + Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un sólo día de
-    tu vida.
+  + Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un
+    sólo día de tu vida.
   + Exígete mucho a ti mismo y espera poco de los demás. Así te ahorraras
     disgustos.
   + La vida es muy simple, pero insistimos en hacerla complicada.
