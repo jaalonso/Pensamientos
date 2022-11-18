@@ -361,9 +361,12 @@ encontrando.
   + La perfección se consigue, no cuando no haya más a añadir, sino cuando no
     hay nada más por quitar.
   + Lo importante no es llegar, es saber adónde se va.
-  + Si quieres construir un barco, no empieces por buscar madera, cortar tablas
-    o distribuir el trabajo. Inspira primero en los hombres y mujeres el anhelo
-    por el ancho y libre mar.
+  + Si quieres construir un barco, no empieces por buscar madera, cortar
+    tablas o distribuir el trabajo. Inspira primero en los hombres y
+    mujeres el anhelo por el ancho y libre mar.
+  + Una pila de piedras deja de ser una pila de piedras en el momento en
+    que un solo hombre la contempla, concibiendo por dentro la imagen de
+    una catedral.
 
 * [[https://es.wikipedia.org/wiki/Antoni_Gaud%C3%AD][Antoni Gaudí]]
   + La originalidad consiste en volver al origen; así pues, original es aquello que
