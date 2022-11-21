@@ -1857,6 +1857,10 @@ encontrando.
   + Pensar es el trabajo más difícil que existe. Quizá sea ésta la razón por la
     que haya tan pocas personas que lo practiquen.
 
+* [[https://es.wikipedia.org/wiki/Henry_James][Henry James]]
+  + Hay tres cosas importantes en la vida: la primera, ser amable; la
+    segunda, serlo siempre; y la tercera, nunca dejar de serlo.
+
 * [[https://es.wikipedia.org/wiki/Henry_Miller][Henry Miller]]
   + Hay que darle un sentido a la vida, por el hecho mismo de que carece de
     sentido.
