@@ -967,6 +967,7 @@ encontrando.
   + Cada fracaso nos enseña algo que necesitamos aprender.
   + Concéntrate en lo bueno que te pasa, que a todos nos pasa mucho; y no en las
     desgracias, que a todos nos pasa alguna.
+  + El hombre nunca sabe de lo que es capaz hasta que lo intenta.
   + Hay hombres que parecen tener sólo una idea y es una lástima que sea
     equivocada.
 
@@ -1892,34 +1893,37 @@ encontrando.
     terminan.
 
 * [[https://es.wikipedia.org/wiki/Hermann_Hesse][Hermann Hesse]]
-  + Algunos de nosotros pensamos que aferrarnos nos hace fuertes; pero a veces es
-    soltarnos lo que nos fortalece.
-  + Aprende a tomar en serio solo lo que es digno de ello, y ríete de todo
-    lo demás.
-  + Cuando realmente somos nosotros mismos, muchas personas se alejan, pero esto
-    crea el espacio necesario para que la gente adecuada llegue.
-  + El héroe no es el ciudadano obediente, apacible, cumplidor. Heroico sólo
-    puede ser el individuo que ha erigido su propio sentido, su noble y natural
-    obstinación, en su destino.
-  + Hacer versos malos depara mucha más felicidad que leer los más bellos.
-  + La educación se ha esforzado por arrebatarnos la libertad y la personalidad y
-    por meternos desde la más tierna infancia en una situación de forzoso trajín y
-    sin una pausa de respiro, se ha producido una decadencia y una falta de
-    ejercicio de la ociosidad.
-  + La mayoría de los hombres son como hojas que caen de los árboles, revolotean
-    en el aire, vacilan y caen al suelo. Pero otros, unos pocos, son como
-    estrellas que recorren un camino fijo, no les alcanza el viento y llevan en sí
-    su propia ley y su propio rumbo.
+  + Algunos de nosotros pensamos que aferrarnos nos hace fuertes; pero a
+    veces es soltarnos lo que nos fortalece.
+  + Aprende a tomar en serio solo lo que es digno de ello, y ríete de
+    todo lo demás.
+  + Cuando realmente somos nosotros mismos, muchas personas se alejan,
+    pero esto crea el espacio necesario para que la gente adecuada
+    llegue.
+  + El héroe no es el ciudadano obediente, apacible, cumplidor. Heroico
+    sólo puede ser el individuo que ha erigido su propio sentido, su
+    noble y natural obstinación, en su destino.
+  + Hacer versos malos depara mucha más felicidad que leer los más
+    bellos.
+  + La educación se ha esforzado por arrebatarnos la libertad y la
+    personalidad y por meternos desde la más tierna infancia en una
+    situación de forzoso trajín y sin una pausa de respiro, se ha
+    producido una decadencia y una falta de ejercicio de la ociosidad.
+  + La mayoría de los hombres son como hojas que caen de los árboles,
+    revolotean en el aire, vacilan y caen al suelo. Pero otros, unos
+    pocos, son como estrellas que recorren un camino fijo, no les
+    alcanza el viento y llevan en sí su propia ley y su propio rumbo.
   + La paciencia es la cosa más dura para el espíritu. Pero es lo más
     duro y lo único que merece la pena aprender. Todo lo que es
     naturaleza, desarrollo, paz, prosperidad y belleza en el mundo,
     descansa en la paciencia; requiere tiempo, silencio, confianza.
-  + Nunca he perdido el sentimiento de contradicción que hay detrás de todo
-    conocimiento.
-  + Para que pueda surgir lo posible es preciso intentar una y otra vez lo
-    imposible.
+  + Nunca he perdido el sentimiento de contradicción que hay detrás de
+    todo conocimiento.
+  + Para que pueda surgir lo posible es preciso intentar una y otra vez
+    lo imposible.
   + Si quieres ser fuerte es importante aprender a estar solo.
-  + ¿Y de qué sirve hablar, si ya sabes que los demás no sienten lo que sientes?
+  + ¿Y de qué sirve hablar, si ya sabes que los demás no sienten lo que
+    sientes?
 
 * [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Heródoto]]
   + Es más fácil embaucar a muchos juntos que a uno solo.
