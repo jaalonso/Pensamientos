@@ -3843,46 +3843,48 @@ encontrando.
     necesario ser nadie más que uno mismo.
 
 * [[https://es.wikipedia.org/wiki/Voltaire][Voltaire]]
-  + A los tontos todo les maravilla en un autor apreciado; pero yo, que leo para
-    mí, sólo apruebo lo que me gusta.
-  + Al ser incapaz de hacer que la gente sea más razonable, he preferido ser
-    feliz lejos de ellos.
-  + Algunos están destinados a razonar erróneamente, otros a no razonar en
-    absoluto, y otros a perseguir a los que razonan.
+  + A los tontos todo les maravilla en un autor apreciado; pero yo, que
+    leo para mí, sólo apruebo lo que me gusta.
+  + Al ser incapaz de hacer que la gente sea más razonable, he preferido
+    ser feliz lejos de ellos.
+  + Algunos están destinados a razonar erróneamente, otros a no razonar
+    en absoluto, y otros a perseguir a los que razonan.
   + Cuando uno no vive como piensa, acaba pensando como vive.
-  + Cuanto más lee uno, más se instruye; cuanto más medita, más se halla en
-    situación de afirmar que no sabe nada.
+  + Cuanto más lee uno, más se instruye; cuanto más medita, más se halla
+    en situación de afirmar que no sabe nada.
   + Decimos una tontería y a fuerza de repetirla acabamos creyéndola.
-  + El arte de la medicina consiste en mantener al paciente en buen estado de
+  + El arte de la medicina consiste en mantener al paciente en buen
+    estado de ánimo mientras la naturaleza le va curando.
   + El cerebro humano es un órgano complejo con el maravilloso poder de
-    permitirle al hombre encontrar razones para seguir creyendo lo que sea que
-    quiera creer.
+    permitirle al hombre encontrar razones para seguir creyendo lo que
+    sea que quiera creer.
   + El secreto de aburrir a la gente consiste en decirlo todo.
-  + En geometría, como en la mayoría de las ciencias, es muy raro que una
-    proposición aislada sea de utilidad inmediata. Pero las teorías más poderosas
-    en la práctica están formadas por proposiciones que sólo la curiosidad sacó a
-    la luz, y que durante mucho tiempo permanecieron inútiles sin poder adivinar
-    de qué manera deberían dejar de serlo un día. En este sentido, se puede decir
-    que en la ciencia real, ninguna teoría, ninguna investigación, es en efecto
+  + En geometría, como en la mayoría de las ciencias, es muy raro que
+    una proposición aislada sea de utilidad inmediata. Pero las teorías
+    más poderosas en la práctica están formadas por proposiciones que
+    sólo la curiosidad sacó a la luz, y que durante mucho tiempo
+    permanecieron inútiles sin poder adivinar de qué manera deberían
+    dejar de serlo un día. En este sentido, se puede decir que en la
+    ciencia real, ninguna teoría, ninguna investigación, es en efecto
     inútil.
   + El secreto de aburrir a la gente consiste en decirlo todo.
   + Es difícil liberar a los necios de las cadenas que veneran.
   + Es peligroso tener razón cuando el Gobierno está equivocado.
   + He decidido hacer lo que me gusta porque es bueno para la salud.
   + La decisión más importante que se toma es estar de buen humor.
-  + La estupidez es una enfermedad extraordinaria, no es el enfermo el que
-    sufre por ella, sino los demás.
+  + La estupidez es una enfermedad extraordinaria, no es el enfermo el
+    que sufre por ella, sino los demás.
   + La ignorancia afirma o niega rotundamente; la ciencia duda.
   + La ilusión es el primero de todos los placeres.
   + La más feliz de todas las vidas es una soledad atareada.
-  + La política es el camino para que los hombres sin principios puedan dirigir a
-    los hombres sin memoria.
+  + La política es el camino para que los hombres sin principios puedan
+    dirigir a los hombres sin memoria.
   + La Tierra está llena de gente con la que no vale la pena hablar.
   + Los prejuicios son la razón de los tontos.
   + Pensad por cuenta propia y dejad que los demás disfruten del derecho a
     hacer lo mismo.
-  + Una colección de pensamientos debe ser una farmacia donde se encuentra
-    remedio a todos los males.
+  + Una colección de pensamientos debe ser una farmacia donde se
+    encuentra remedio a todos los males.
   + Quienes creen que el dinero lo hace todo, terminan haciendo todo por
     dinero.
 
