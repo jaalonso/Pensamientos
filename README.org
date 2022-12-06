@@ -506,37 +506,39 @@ encontrando.
     comprende.
 
 * [[https://es.wikipedia.org/wiki/Arist%C3%B3teles][Aristóteles]]
-  + Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse con la
-    persona adecuada, en el grado exacto, en el momento oportuno, con el
-    propósito justo y del modo correcto, eso, ciertamente, no resulta tan
-    sencillo.
-  + El género humano tiene, para saber conducirse, el arte y el razonamiento.
-  + El hombre de mentalidad superior debe preocuparse más de la verdad que de
-    lo que piensa la gente.
+  + Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse
+    con la persona adecuada, en el grado exacto, en el momento oportuno,
+    con el propósito justo y del modo correcto, eso, ciertamente, no
+    resulta tan sencillo.
+  + El género humano tiene, para saber conducirse, el arte y el
+    razonamiento.
+  + El hombre de mentalidad superior debe preocuparse más de la verdad
+    que de lo que piensa la gente.
   + El ignorante afirma, el sabio duda y reflexiona.
   + El que no busca la felicidad es el que la encuentra.
   + El sabio no dice todo lo que piensa, pero siempre piensa todo lo que
     dice.
-  + En primer lugar, tener un ideal definido, claro y práctico; una meta, un
-    objetivo. En segundo lugar, acopiar los medios necesarios para alcanzar los
-    fines: sabiduría, dinero, materiales y métodos. En tercer lugar, ajustar
-    todos los medios a ese exclusivo fin.
-  + Es ignorancia no saber distinguir entre lo que necesita demostración y lo
-    que no la necesita.
+  + En primer lugar, tener un ideal definido, claro y práctico; una
+    meta, un objetivo. En segundo lugar, acopiar los medios necesarios
+    para alcanzar los fines: sabiduría, dinero, materiales y métodos. En
+    tercer lugar, ajustar todos los medios a ese exclusivo fin.
+  + Es ignorancia no saber distinguir entre lo que necesita demostración
+    y lo que no la necesita.
   + La felicidad es de quienes se bastan a sí mismos.
-  + La habilidad de exponer una idea es tan importante como la idea en sí misma.
-  + Mercaderes e industriales no deben ser admitidos a la ciudanía, porque su
-    género de vida es abyecto y contrario a la virtud.
-  + No basta decir solamente la verdad, mas conviene mostrar la causa de la
-    falsedad.
-  + Sé un libre pensador y no aceptes todo lo que oyes como verdad. Sé crítico y
-    evalúa lo que crees.
-  + Sólo hay una manera de evitar la crítica: no hagas nada, no digas nada, y
-    no seas nada.
-  + Sólo una mente educada puede comprender un pensamiento diferente al suyo sin
-    necesidad de aceptarlo.
-  + Somos lo que hacemos día a día. De modo que la excelencia no es un acto,
-    sino un hábito.
+  + La habilidad de exponer una idea es tan importante como la idea en
+    sí misma.
+  + Mercaderes e industriales no deben ser admitidos a la ciudadanía,
+    porque su género de vida es abyecto y contrario a la virtud.
+  + No basta decir solamente la verdad, mas conviene mostrar la causa de
+    la falsedad.
+  + Sé un libre pensador y no aceptes todo lo que oyes como verdad. Sé
+    crítico y evalúa lo que crees.
+  + Sólo hay una manera de evitar la crítica: no hagas nada, no digas
+    nada, y no seas nada.
+  + Sólo una mente educada puede comprender un pensamiento diferente al
+    suyo sin necesidad de aceptarlo.
+  + Somos lo que hacemos día a día. De modo que la excelencia no es un
+    acto, sino un hábito.
   + Uno no sabe lo que sabe hasta que puede enseñar a otro.
 
 * [[https://es.wikipedia.org/wiki/Arthur_Conan_Doyle][Arthur Conan Doyle]]
@@ -2999,6 +3001,9 @@ encontrando.
   + La locura, la verdadera locura, nos está haciendo mucha falta, a ver
     si nos cura de esta peste del sentido común que nos tiene a cada uno
     ahogado el propio.
+  + Nosotros somos los solitarios, y los solitarios todos se entienden
+    entre sí. Sin hablarse, ni verse, ni siquiera conocerse. Me acompañan
+    en mi soledad las soledades de los demás solitarios.
   + Se viaja no para buscar el destino sino para huir de donde se parte.
 
 * [[https://bit.ly/3lcJ0F3][Milton Friedman]]
