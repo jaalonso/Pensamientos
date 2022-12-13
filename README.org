@@ -14,22 +14,23 @@ Este libro contiene una recopilación de pensamientos con los que me voy
 encontrando.
 
 * [[ https://es.wikipedia.org/wiki/Aaron_Swartz][Aaron Swartz]]
-  + Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que mucho de
-    lo que la gente llama la inteligencia se reduce a la curiosidad.
+  + Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que
+    mucho de lo que la gente llama la inteligencia se reduce a la
+    curiosidad.
 
 * [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]]
-  + Es más fácil reprimir el primer capricho que satisfacer a todos los que le
-    siguen.
+  + Es más fácil reprimir el primer capricho que satisfacer a todos los
+    que le siguen.
   + Hagas lo que hagas, hazlo bien.
   + Nos podemos quejar porque los rosales tienen espinas o alegrarnos
     porque los espinos tienen rosas.
-  + Se puede engañar a parte del pueblo parte del tiempo, pero no se puede
-    engañar a todo el pueblo todo el tiempo.
+  + Se puede engañar a parte del pueblo parte del tiempo, pero no se
+    puede engañar a todo el pueblo todo el tiempo.
   + Todos los hombres nacen iguales, pero es la última vez que lo son.
 
 * [[https://es.wikipedia.org/wiki/Abraham_Maslow][Abraham Maslow]]
-  + Si tu única herramienta es un martillo, tiendes a tratar cada problema como
-    si fuera un clavo.
+  + Si tu única herramienta es un martillo, tiendes a tratar cada
+    problema como si fuera un clavo.
 
 * [[https://es.wikipedia.org/wiki/Adolfo_Bioy_Casares][Adolfo Bioy Casares]]
   + La vida es difícil. Para estar en paz con uno mismo hay que decir la
@@ -39,31 +40,32 @@ encontrando.
   + La gente inteligente no se ofende, sólo sacan conclusiones.
 
 * [[https://es.wikipedia.org/wiki/Agnes_Martin][Agnès Martin]]
-  + Cuando descubres lo que te gusta, realmente estás descubriéndote a ti
-    mismo.
+  + Cuando descubres lo que te gusta, realmente estás descubriéndote a
+    ti mismo.
 
 * [[https://es.wikipedia.org/wiki/Agust%C3%ADn_Garc%C3%ADa_Calvo][Agustín García Calvo]]
-  + Jamás la falta de fe o el descreimiento han dicho una mentira o apretado el
-    gatillo de un arma.
-  + Yo trato de privarme de ideas. Todos los días me quito alguna, pero siempre
-    me quedan demasiadas.
+  + Jamás la falta de fe o el descreimiento han dicho una mentira o
+    apretado el gatillo de un arma.
+  + Yo trato de privarme de ideas. Todos los días me quito alguna, pero
+    siempre me quedan demasiadas.
 
 * [[https://es.wikipedia.org/wiki/Akio_Morita][Akio Morita]]
-  + Se puede ser totalmente racional con una máquina. Pero si usted trabaja con
-    gente, a veces la lógica tiene que ir en el asiento trasero y dejar
-    adelante a la comprensión.
+  + Se puede ser totalmente racional con una máquina. Pero si usted
+    trabaja con gente, a veces la lógica tiene que ir en el asiento
+    trasero y dejar adelante a la comprensión.
 
 * [[https://es.wikipedia.org/wiki/Akira_Kurosawa][Akira Kurosawa]]
   + En un mundo loco, solo los locos son cuerdos
 
 * [[https://es.wikipedia.org/wiki/Alain][Alain]]
-  + En definitiva, lo importante es empezar. No importa cómo, luego habrá
-    tiempo para pensar en los detalles.
-  + Lo mejor que podemos hacer en favor de quienes nos aman es seguir siendo
-    felices.
+  + En definitiva, lo importante es empezar. No importa cómo, luego
+    habrá tiempo para pensar en los detalles.
+  + Lo mejor que podemos hacer en favor de quienes nos aman es seguir
+    siendo felices.
   + Nada es más peligroso que una idea cuando no se tiene más que una.
-  + Ver es algo más que mirar. Ver consiste en advertir los detalles. Para ver bien
-    una flor se ha de mirar con lupa, por dentro.
+  + Ver es algo más que mirar. Ver consiste en advertir los
+    detalles. Para ver bien una flor se ha de mirar con lupa, por
+    dentro.
 
 * [[https://es.wikipedia.org/wiki/Alan_Watts][Alan Watts]]
   + El desapego significa no sentir ningún remordimiento por el pasado
@@ -99,206 +101,218 @@ encontrando.
     patatas. La espiritualidad zen consiste justamente en pelar patatas.
 
 * [[https://es.wikipedia.org/wiki/Albert_Camus][Albert Camus]]
-  + A pesar de todos mis esfuerzos y razonamientos, me es imposible sacudirme
-    esta tristeza que ya ni siquiera comprendo.
-  + Cada generación, sin duda, se cree destinada a rehacer el mundo. La mía sabe,
-    sin embargo, que no lo rehará. Pero su tarea acaso sea más grande. Consiste en
-    impedir que el mundo se deshaga.
+  + A pesar de todos mis esfuerzos y razonamientos, me es imposible
+    sacudirme esta tristeza que ya ni siquiera comprendo.
+  + Cada generación, sin duda, se cree destinada a rehacer el mundo. La
+    mía sabe, sin embargo, que no lo rehará. Pero su tarea acaso sea más
+    grande. Consiste en impedir que el mundo se deshaga.
   + Envejecer es pasar de la pasión a la compasión.
   + Inocente es quien no necesita explicarse.
-  + La gente nunca está convencida de tus razones, de tu sinceridad, de tu
-    seriedad o tus sufrimientos, salvo si te mueres.
-  + Ser diferente no es ni bueno ni malo, simplemente significa que tienes el
-    suficiente coraje para ser tú mismo.
+  + La gente nunca está convencida de tus razones, de tu sinceridad, de
+    tu seriedad o tus sufrimientos, salvo si te mueres.
+  + Ser diferente no es ni bueno ni malo, simplemente significa que
+    tienes el suficiente coraje para ser tú mismo.
   + Todas las desgracias de los hombres provienen de no hablar claro.
 
 * [[https://es.wikipedia.org/wiki/Albert_Einstein][Albert Einstein]]
   + Cada día sabemos más y entendemos menos.
   + Debe evitarse hablar a los jóvenes del éxito como si se tratase del
-    principal objetivo en la vida. La razón más importante para trabajar en la
-    escuela y en la vida es el placer de trabajar, el placer de su resultado y
-    el conocimiento del valor del resultado para la comunidad.
-  + El científico encuentra su recompensa en lo que Henri Poincare llama el
-    placer de la comprensión, y no en las posibilidades de aplicación que
-    cualquier descubrimiento pueda conllevar.
-  + El mundo no está en peligro por las malas personas sino por aquellas que
-    permiten la maldad.
+    principal objetivo en la vida. La razón más importante para trabajar
+    en la escuela y en la vida es el placer de trabajar, el placer de su
+    resultado y el conocimiento del valor del resultado para la
+    comunidad.
+  + El científico encuentra su recompensa en lo que Henri Poincare llama
+    el placer de la comprensión, y no en las posibilidades de aplicación
+    que cualquier descubrimiento pueda conllevar.
+  + El mundo no está en peligro por las malas personas sino por aquellas
+    que permiten la maldad.
   + El planteamiento de un problema es más importante que su solución.
-  + El sentido común es el conjunto de prejuicios acumulados a través de los
-    siglos.
-  + Es más fácil destruir un átomo que un prejuicio.
-  + Hay dos cosas infinitas: el Universo y la estupidez humana. Y del Universo
-    no estoy seguro.
-  + La diferencia entre la genialidad y la estupidez es que la genialidad tiene
-    sus límites.
-  + La escuela debe siempre plantearse como objetivo que el joven salga de ella
-    con una personalidad armónica y no como un especialista. En mi opinión, esto
-    es aplicable, en cierto sentido, incluso a las escuelas técnicas, cuyos
-    alumnos se dedicarán a una profesión totalmente definida. Lo primero debería
-    ser, siempre, desarrollar la capacidad general para el pensamiento y el juicio
-    independientes y no la adquisición de conocimientos especializados.
+  + El sentido común es el conjunto de prejuicios acumulados a través de
+    los siglos.
+  + Hay dos cosas infinitas: el Universo y la estupidez humana. Y del
+    Universo no estoy seguro.
+  + La diferencia entre la genialidad y la estupidez es que la
+    genialidad tiene sus límites.
+  + La escuela debe siempre plantearse como objetivo que el joven salga
+    de ella con una personalidad armónica y no como un especialista. En
+    mi opinión, esto es aplicable, en cierto sentido, incluso a las
+    escuelas técnicas, cuyos alumnos se dedicarán a una profesión
+    totalmente definida. Lo primero debería ser, siempre, desarrollar la
+    capacidad general para el pensamiento y el juicio independientes y
+    no la adquisición de conocimientos especializados.
   + La medida de la inteligencia es la capacidad de cambiar.
-  + La monotonía y la soledad de una vida tranquila estimula la mente creativa.
+  + La monotonía y la soledad de una vida tranquila estimula la mente
+    creativa.
   + La vida es como montar en bicicleta. Para mantener el equilibrio,
     debes seguir moviéndote.
-  + La vida es muy peligrosa. No por las personas que hacen el mal, sino por las
-    que se sientan a ver lo que pasa.
+  + La vida es muy peligrosa. No por las personas que hacen el mal, sino
+    por las que se sientan a ver lo que pasa.
   + Los grandes espíritus siempre han encontrado una violenta oposición
     por parte de las mentes mediocres.
   + Los intelectuales resuelven los problemas; los genios, los evitan.
-  + No entiendes realmente algo a menos que seas capaz de explicárselo a tu
-    abuela.
+  + No entiendes realmente algo a menos que seas capaz de explicárselo a
+    tu abuela.
   + No guardes nunca en la cabeza aquello que te quepa en un bolsillo.
-  + No permitas que tu felicidad dependa de alguien porque no siempre esa
-    persona será como crees.
+  + No permitas que tu felicidad dependa de alguien porque no siempre
+    esa persona será como crees.
   + No tengo ningún talento especial pero si soy profundamente curioso.
   + Si buscas resultados distintos, no hagas siempre lo mismo.
-  + Si no sabes explicar algo de manera sencilla, es que no lo entiendes del
-    todo.
-  + Si quieres una vida feliz, átala a un objetivo y no a personas o cosas.
-  + Tengo una pregunta que a veces me tortura, ¿estoy loco yo o los locos son
-    los demás?
-  + Todo lo que es realmente grande e inspirador es creado por el individuo que
-    puede trabajar en libertad.
-  + Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las
-    mismas cosas.
-  + Todos somos unos genios. Pero si juzgas a un pez por su habilidad
-    de escalar un árbol, vivirá su vida entera creyendo que es
-    estúpido.
+  + Si no sabes explicar algo de manera sencilla, es que no lo entiendes
+    del todo.
+  + Si quieres una vida feliz, átala a un objetivo y no a personas o
+    cosas.
+  + Tengo una pregunta que a veces me tortura, ¿estoy loco yo o los
+    locos son los demás?
+  + Todo lo que es realmente grande e inspirador es creado por el
+    individuo que puede trabajar en libertad.
+  + Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos
+    las mismas cosas.
+  + Todos somos unos genios. Pero si juzgas a un pez por su habilidad de
+    escalar un árbol, vivirá su vida entera creyendo que es estúpido.
   + ¡Triste época la nuestra! Es más fácil desintegrar un átomo que un
     prejuicio.
-  + Una teoría es más impresionante cuanto mayor es la simplicidad de sus
-    premisas, más diferentes tipos de cosas se relacionan y más amplia es su área
-    de aplicación.
+  + Una teoría es más impresionante cuanto mayor es la simplicidad de
+    sus premisas, más diferentes tipos de cosas se relacionan y más
+    amplia es su área de aplicación.
   + Una vez que dejas de aprender, empiezas a morir.
 
 * [[https://en.wikipedia.org/wiki/Albert_Guinon][Albert Guinon]]
-  + El verdadero secreto de la felicidad consiste en exigir mucho de sí mismo y
-    muy poco de los otros.
+  + El verdadero secreto de la felicidad consiste en exigir mucho de sí
+    mismo y muy poco de los otros.
 
 * [[https://es.wikipedia.org/wiki/Albert_Schweitzer][Albert Schweitzer]]
   + A la pregunta de si soy optimista o pesimista, yo respondo que mi
-    conocimiento es pesimista, pero mi voluntad y mi esperanza son optimistas.
-  + Los años arrugan la piel, pero renunciar al entusiasmo arruga el alma.
-  + Los ideales se parecen a las estrellas en el sentido de que nunca los
-    alcanzamos, pero como los navegantes, con ellos dirigimos el rumbo de
-    nuestras vidas.
-  + Vivimos en una época peligrosa. El ser humano ha aprendido a dominar la
-    naturaleza mucho antes de haber aprendido a dominarse a sí mismo.
+    conocimiento es pesimista, pero mi voluntad y mi esperanza son
+    optimistas.
+  + Los años arrugan la piel, pero renunciar al entusiasmo arruga el
+    alma.
+  + Los ideales se parecen a las estrellas en el sentido de que nunca
+    los alcanzamos, pero como los navegantes, con ellos dirigimos el
+    rumbo de nuestras vidas.
+  + Vivimos en una época peligrosa. El ser humano ha aprendido a dominar
+    la naturaleza mucho antes de haber aprendido a dominarse a sí mismo.
 
 * [[https://es.wikipedia.org/wiki/Albert_Szent-Gy%C3%B6rgyi][Albert Szent Gyorgyi]]
-  + Investigar es ver lo que todo el mundo ha visto, y pensar lo que nadie más
-    ha pensado.
+  + Investigar es ver lo que todo el mundo ha visto, y pensar lo que
+    nadie más ha pensado.
 
 * [[https://es.wikipedia.org/wiki/Alberto_Manguel][Alberto Manguel]]
-  + Leemos para entender, o para comenzar a entender. No podemos hacer más que
-    leer. Leer, casi tanto como respirar, es nuestra función esencial.
-  + Quizá pudiese vivir sin escribir. No creo que pudiera vivir sin leer.
+  + Leemos para entender, o para comenzar a entender. No podemos hacer
+    más que leer. Leer, casi tanto como respirar, es nuestra función
+    esencial.
+  + Quizá pudiese vivir sin escribir. No creo que pudiera vivir sin
+    leer.
 
 * [[https://es.wikipedia.org/wiki/Alberto_Moravia][Alberto Moravia]]
   + Sentido común: algo así como salud contagiosa.
 
 * [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]]
-  + El bien de la humanidad debe consistir en que cada uno goce al máximo de la
-    felicidad que pueda, sin disminuir la felicidad de los demás.
-  + El problema con la ficción es que tiene mucho sentido mientras que la
-    realidad nunca tiene sentido.
-  + El progreso tecnológico sólo nos ha provisto de medios más eficientes para ir
-    hacia atrás.
-  + El secreto de la genialidad es el de conservar el espíritu del niño hasta
-    la vejez, lo cual quiere decir nunca perder el entusiasmo.
-  + La cultura no deriva de la lectura de libros, sino de la lectura exhaustiva
-    e intensiva de buenos libros.
-  + La experiencia no es lo que te sucede, sino lo que haces con lo que te
-    sucede.
-  + La investigación de las enfermedades ha avanzado tanto que es cada vez más
-    difícil encontrar a alguien que esté completamente sano.
+  + El bien de la humanidad debe consistir en que cada uno goce al
+    máximo de la felicidad que pueda, sin disminuir la felicidad de los
+    demás.
+  + El problema con la ficción es que tiene mucho sentido mientras que
+    la realidad nunca tiene sentido.
+  + El progreso tecnológico sólo nos ha provisto de medios más
+    eficientes para ir hacia atrás.
+  + El secreto de la genialidad es el de conservar el espíritu del niño
+    hasta la vejez, lo cual quiere decir nunca perder el entusiasmo.
+  + La cultura no deriva de la lectura de libros, sino de la lectura
+    exhaustiva e intensiva de buenos libros.
+  + La experiencia no es lo que te sucede, sino lo que haces con lo que
+    te sucede.
+  + La investigación de las enfermedades ha avanzado tanto que es cada
+    vez más difícil encontrar a alguien que esté completamente sano.
   + Las personas debemos el progreso a los insatisfechos.
   + Los hechos no dejan de existir porque se ignoren.
-  + Mientras más poderosa y original sea una mente, más se inclinará hacia la
-    religión de la soledad.
-  + Quizá la única lección que nos enseña la historia es que los seres humanos
-    no aprendemos nada de las lecciones de la historia.
+  + Mientras más poderosa y original sea una mente, más se inclinará
+    hacia la religión de la soledad.
+  + Quizá la única lección que nos enseña la historia es que los seres
+    humanos no aprendemos nada de las lecciones de la historia.
   + Si uno es diferente se ve condenado a la soledad.
   + Todo está en todo. Todo es realmente cada cosa.
 
 * [[https://es.wikipedia.org/wiki/Alejandro_Dumas][Alejandro Dumas]]
-  + La vida es tan incierta, que la felicidad debe aprovecharse en el momento en
-    que se presenta.
+  + La vida es tan incierta, que la felicidad debe aprovecharse en el
+    momento en que se presenta.
   + Para todos los males, hay dos remedios: el tiempo y el silencio.
   + Todas las generalizaciones son peligrosas, incluso ésta.
 
 * [[https://es.wikipedia.org/wiki/Aleksandr_Solzhenitsyn][Aleksandr Solzhenitsin]]
-  + La precipitación y la superficialidad son las enfermedades crónicas del
-    siglo.
+  + La precipitación y la superficialidad son las enfermedades crónicas
+    del siglo.
 
 * [[https://es.wikipedia.org/wiki/Alexander_Fleming][Alexander Fleming]]
   + A veces uno realiza un hallazgo cuando no lo está buscando.
-  + El investigador sufre las decepciones, los largos meses pasados en una
-    dirección equivocada, los fracasos. Pero los fracasos son también útiles,
-    porque, bien analizados, pueden conducir al éxito.
-  + Un jardinero no debe ser impaciente. Las flores necesitan tiempo para
-    desarrollarse; si se intenta apresurar su crecimiento, se les hace más mal
-    que bien. Se las puede proteger contra los elementos, se las puede dar de
-    comer y de beber, pero no resulta difícil matarlas si se las proporciona
-    demasiada comida o bebidas demasiado fuertes. Ellas responden a la
-    simpatía; son capaces de soportar tratamientos extremadamente duros. En
-    resumen, se parecen mucho a los seres humanos.
+  + El investigador sufre las decepciones, los largos meses pasados en
+    una dirección equivocada, los fracasos. Pero los fracasos son
+    también útiles, porque, bien analizados, pueden conducir al éxito.
+  + Un jardinero no debe ser impaciente. Las flores necesitan tiempo
+    para desarrollarse; si se intenta apresurar su crecimiento, se les
+    hace más mal que bien. Se las puede proteger contra los elementos,
+    se las puede dar de comer y de beber, pero no resulta difícil
+    matarlas si se las proporciona demasiada comida o bebidas demasiado
+    fuertes. Ellas responden a la simpatía; son capaces de soportar
+    tratamientos extremadamente duros. En resumen, se parecen mucho a
+    los seres humanos.
 
 * [[https://es.wikipedia.org/wiki/Alexander_Graham_Bell][Alexander Graham Bell]]
-  + Concentra todos tus pensamientos en el trabajo que estás haciendo. Los
-    rayos de sol no queman hasta que se concentran en un punto.
-  + Los hombres más exitosos son aquellos cuyo éxito es el resultado de una
-    acumulación constante. Es el hombre que avanza paso a paso, con su mente
-    cada vez más amplia y progresivamente más capaz para comprender cualquier
-    tema o situación.
+  + Concentra todos tus pensamientos en el trabajo que estás
+    haciendo. Los rayos de sol no queman hasta que se concentran en un
+    punto.
+  + Los hombres más exitosos son aquellos cuyo éxito es el resultado de
+    una acumulación constante. Es el hombre que avanza paso a paso, con
+    su mente cada vez más amplia y progresivamente más capaz para
+    comprender cualquier tema o situación.
 
 * [[https://es.wikipedia.org/wiki/Alexander_Pope][Alexander Pope]]
-  + Puesto que es razonable dudar de la mayoría de las cosas, debiéramos dudar
-    más que de nada de esa razón nuestra que quisiera demostrar todas las
-    cosas.
+  + Puesto que es razonable dudar de la mayoría de las cosas, debiéramos
+    dudar más que de nada de esa razón nuestra que quisiera demostrar
+    todas las cosas.
 
 * [[https://es.wikipedia.org/wiki/Alexandra_David-N%C3%A9el][Alexandra David-Néel]]
-  + Descuidar las pequeñas cosas con el pretexto de que preferimos las grandes,
-    es la excusa de los flojos.
+  + Descuidar las  pequeñas cosas con el pretexto de  que preferimos las
+    grandes, es la excusa de los flojos.
 
 * [[https://es.wikipedia.org/wiki/Alexis_de_Tocqueville][Alexis de Tocqueville]]
-  + Una idea falsa, pero clara y precisa, tendrá más poder en el mundo que una idea
-    verdadera y compleja.
+  + Una idea falsa, pero clara y precisa, tendrá más poder en el mundo
+    que una idea verdadera y compleja.
 
 * [[https://es.wikipedia.org/wiki/Alfonso_X_de_Castilla][Alfonso X el Sabio]]
-  + Quemad viejos leños, leed viejos libros, bebed viejos vinos, tened viejos
-    amigos.
+  + Quemad viejos leños, leed viejos libros, bebed viejos vinos, tened
+    viejos amigos.
 
 * [[https://es.wikipedia.org/wiki/Alfred_Adler][Alfred Adler]]
-  + La guerra es asesinato organizado y tortura contra nuestros hermanos.
+  + La guerra es asesinato organizado y tortura contra nuestros
+    hermanos.
 
 * [[https://es.wikipedia.org/wiki/Alfred_Korzybski][Alfred Korzybski]]
-  + Hay dos maneras fáciles de moverse por la vida: creerlo todo o dudar de
-    todo. Ambas nos evitan pensar.
-  + Los logros del hombre descansan sobre el uso de símbolos. Nos gobiernan los
-    símbolos.
+  + Hay dos maneras fáciles de moverse por la vida: creerlo todo o dudar
+    de todo. Ambas nos evitan pensar.
+  + Los logros del hombre descansan sobre el uso de símbolos. Nos
+    gobiernan los símbolos.
 
 * [[https://es.wikipedia.org/wiki/Alfred_de_Musset][Alfred de Musset]]
   + Sólo lo hermoso es cierto, nada es cierto sin belleza.
 
 * [[https://es.wikipedia.org/wiki/Alfred_North_Whitehead][Alfred North Whitehead]]
-  + Desde los primeros pasos de su educación el niño debe experimentar el placer
-    del descubrimiento.
-  + El objetivo de la ciencia es buscar explicaciones sencillas para hechos
-    complejos.
-  + La civilización avanza ampliando el número de operaciones importantes que
-    podemos realizar sin pensar en ellas.
-  + No hay verdades absolutas; todas las verdades son medias verdades. El mal
-    surge de quererlas tratar como verdades absolutas.
-  + No la ignorancia, sino la ignorancia de la ignorancia es la muerte del
-    conocimiento.
+  + Desde los primeros pasos de su educación el niño debe experimentar
+    el placer del descubrimiento.
+  + El objetivo de la ciencia es buscar explicaciones sencillas para
+    hechos complejos.
+  + La civilización avanza ampliando el número de operaciones
+    importantes que podemos realizar sin pensar en ellas.
+  + No hay verdades absolutas; todas las verdades son medias
+    verdades. El mal surge de quererlas tratar como verdades absolutas.
+  + No la ignorancia, sino la ignorancia de la ignorancia es la muerte
+    del conocimiento.
   + Pensamos en generalidades, pero vivimos en detalles.
-  + Se requiere una mente muy inusual para llevar a cabo el análisis de lo obvio.
+  + Se requiere una mente muy inusual para llevar a cabo el análisis de
+    lo obvio.
 
 * [[https://es.wikipedia.org/wiki/Almudena_Grandes][Almudena Grandes]]
-  + Con el tiempo comprendí que la alegría era un arma superior al odio, las
-    sonrisas más útiles, más feroces que los gestos de rabia y desaliento.
+  + Con el tiempo comprendí que la alegría era un arma superior al odio,
+    las sonrisas más útiles, más feroces que los gestos de rabia y
+    desaliento.
 
 * [[https://es.wikipedia.org/wiki/Ambrose_Bierce][Ambrose Bierce]]
   + No hay nada nuevo bajo el sol, pero cuántas cosas viejas hay que no
@@ -3884,7 +3898,6 @@ encontrando.
     dejar de serlo un día. En este sentido, se puede decir que en la
     ciencia real, ninguna teoría, ninguna investigación, es en efecto
     inútil.
-  + El secreto de aburrir a la gente consiste en decirlo todo.
   + Es difícil liberar a los necios de las cadenas que veneran.
   + Es peligroso tener razón cuando el Gobierno está equivocado.
   + He decidido hacer lo que me gusta porque es bueno para la salud.
@@ -3898,8 +3911,8 @@ encontrando.
     dirigir a los hombres sin memoria.
   + La Tierra está llena de gente con la que no vale la pena hablar.
   + Los prejuicios son la razón de los tontos.
-  + Pensad por cuenta propia y dejad que los demás disfruten del derecho a
-    hacer lo mismo.
+  + Pensad por cuenta propia y dejad que los demás disfruten del derecho
+    a hacer lo mismo.
   + Una colección de pensamientos debe ser una farmacia donde se
     encuentra remedio a todos los males.
   + Quienes creen que el dinero lo hace todo, terminan haciendo todo por
