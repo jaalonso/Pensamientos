@@ -1045,9 +1045,9 @@ encontrando.
     una mariposa quien me está soñando a mí?
   + El gran saber todo lo abarca. El pequeño todo lo divide.
   + El sabio es alguien cuyo corazón anda siempre de excursión.
-  + La perfección está en adaptarse a todo con ligero corazón y en fortalecer tu
-    interior acogiendo lo inevitable. Aunque nada hay más arduo, cierto, que
-    aceptar el destino.
+  + La perfección está en adaptarse a todo con ligero corazón y en
+    fortalecer tu interior acogiendo lo inevitable. Aunque nada hay más
+    arduo, cierto, que aceptar el destino.
   + Lo fácil es lo correcto.
     Empieza correctamente y te resultará fácil.
     Continúa con facilidad y estarás en lo correcto.
@@ -1058,27 +1058,28 @@ encontrando.
   + Todo el universo se rinde ante una mente en calma.
 
 * [[https://es.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss][Claude Lévi-Strauss]]
-  + El científico no es una persona que da las respuestas correctas, es el que
-    hace las preguntas correctas.
+  + El científico no es una persona que da las respuestas correctas, es
+    el que hace las preguntas correctas.
 
 * [[https://es.wikipedia.org/wiki/Claudio_Ptolomeo][Claudio Ptolomeo]]
-  + Consideramos que es un buen principio para explicar los fenómenos la hipótesis
-    más simple posible.
-  + Todo lo que es difícil de alcanzar es atacado fácilmente por la generalidad de
-    los hombres.
+  + Consideramos que es un buen principio para explicar los fenómenos la
+    hipótesis más simple posible.
+  + Todo lo que es difícil de alcanzar es atacado fácilmente por la
+    generalidad de los hombres.
 
 * [[https://es.wikipedia.org/wiki/Cicer%C3%B3n][Cicerón]]
-  + Hay que atender no sólo a lo que cada cual dice, sino a lo que siente y al
-    motivo porque lo siente.
+  + Hay que atender no sólo a lo que cada cual dice, sino a lo que
+    siente y al motivo porque lo siente.
   + Humano es errar; pero sólo los estúpidos perseveran en el error.
   + El silencio es una de las grandes artes de la conversación.
   + La necedad es la madre de todos los males.
-  + Mi conciencia tiene para mí más peso que la opinión de todo el mundo.
-  + No hay ventaja alguna en conocer el futuro; al contrario, es doloroso
-    atormentarse sin provecho.
+  + Mi conciencia tiene para mí más peso que la opinión de todo el
+    mundo.
+  + No hay ventaja alguna en conocer el futuro; al contrario, es
+    doloroso atormentarse sin provecho.
   + Pensar es como vivir dos veces.
-  + ¿Qué cosa más grande que tener a alguien con quien te atrevas a hablar como
-    contigo mismo?
+  + ¿Qué cosa más grande que tener a alguien con quien te atrevas a
+    hablar como contigo mismo?
   + Si cerca de la biblioteca tienes un jardín ya no te faltará de nada.
   + Si quieres aprender, enseña.
   + Si quieres ser viejo mucho tiempo, hazte viejo pronto.
@@ -1089,9 +1090,10 @@ encontrando.
   + Vivir es pensar.
 
 * [[https://bit.ly/2CRi1xN][Clorindo Testa]],
-  + Creo que para un pintor, para un arquitecto, la jubilación no existe. Uno sigue
-    haciendo cosas mientras le salen. No las va a cortar así por una decisión de su
-    voluntad; no va a quedarse con la mente en blanco.
+  + Creo que para un pintor, para un arquitecto, la jubilación no
+    existe. Uno sigue haciendo cosas mientras le salen. No las va a
+    cortar así por una decisión de su voluntad; no va a quedarse con la
+    mente en blanco.
 
 * [[https://es.wikipedia.org/wiki/ConfVcio][Confucio]]
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
@@ -1106,19 +1108,20 @@ encontrando.
   + El silencio es el único amigo que jamás traiciona.
   + Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un
     sólo día de tu vida.
-  + Exígete mucho a ti mismo y espera poco de los demás. Así te ahorraras
-    disgustos.
+  + Exígete mucho a ti mismo y espera poco de los demás. Así te
+    ahorraras disgustos.
   + La vida es muy simple, pero insistimos en hacerla complicada.
-  + Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en los
-    demás.
-  + Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo aprendí.
-  + ¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir y flores
-    para tener algo por lo que vivir.
+  + Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en
+    los demás.
+  + Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo
+    aprendí.
+  + ¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir
+    y flores para tener algo por lo que vivir.
   + No importa lo lento que vayas, siempre y cuando no te detengas.
   + No maldigas la oscuridad, enciende una vela.
-  + Podemos aprender la sabiduría por tres métodos: primero, por la reflexión,
-    que es el más noble; segundo, por la imitación, que es el más fácil; y tercero
-    por la experiencia, que es el más difícil.
+  + Podemos aprender la sabiduría por tres métodos: primero, por la
+    reflexión, que es el más noble; segundo, por la imitación, que es el
+    más fácil; y tercero por la experiencia, que es el más difícil.
   + Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he
     aquí el verdadero saber.
   + Ser ofendido no es nada a menos que continúes recordándolo.
