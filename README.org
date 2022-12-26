@@ -1096,38 +1096,59 @@ encontrando.
     mente en blanco.
 
 * [[https://es.wikipedia.org/wiki/ConfVcio][Confucio]]
+  + Algún dinero evita preocupaciones; mucho, las atrae.
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
+  + Aquel que sabe cuánto basta, siempre tiene bastante.
+  + Así como el agua toma la forma del recipiente que la contiene, un
+    hombre sabio debe adaptarse a las circunstancias.
+  + Cada cosa tiene su belleza, pero no todos pueden verla.
+  + Cuando el objetivo te parezca difícil, no cambies de objetivo; busca
+    un nuevo camino para llegar a él.
+  + Dale un pescado a un hombre y comerá un día. Enséñale a pescar y
+    comerá toda la vida.
+  + El buen líder sabe lo que es verdad; el mal líder sabe lo que se
+    vende mejor.
   + El hombre que hace una pregunta es un tonto por un minuto, el hombre
     que no pregunta es un tonto de por vida.
   + El hombre que mueve una montaña empieza por arrastrar una pequeña
     piedra.
+  + El hombre superior es modesto en el hablar, pero abundante en el
+    obrar.
+  + El más elevado tipo de hombre es el que obra antes de hablar, y
+    practica lo que profesa.
   + El mayor error es sucumbir al abatimiento; todos los demás errores
     pueden repararse, éste no.
+  + El que domina su cólera domina a su peor enemigo.
   + El que por la mañana ha conseguido conocer la verdad, ya puede morir
     por la tarde.
   + El silencio es el único amigo que jamás traiciona.
   + Escoge un trabajo que te guste, y nunca tendrás que trabajar ni un
     sólo día de tu vida.
   + Exígete mucho a ti mismo y espera poco de los demás. Así te
-    ahorraras disgustos.
+    ahorrarás disgustos.
+  + Hay tres caminos que llevan a la sabiduría: la imitación, el más
+    sencillo; la reflexión, el más noble; y la experiencia, el más
+    amargo.
   + La vida es muy simple, pero insistimos en hacerla complicada.
   + Lo que quiere el sabio lo busca en sí mismo; el vulgo, lo busca en
     los demás.
+  + Los vicios vienen como pasajeros, nos visitan como huéspedes y se
+    quedan como amos.
   + Me lo contaron y lo olvidé; lo vi y lo entendí; lo hice y lo
     aprendí.
   + ¿Me preguntas por qué compro arroz y flores? Compro arroz para vivir
     y flores para tener algo por lo que vivir.
+  + No contestes a una palabra airada replicando con otra de igual
+    tenor. Es la segunda, la tuya, la que seguramente os llevará a la
+    riña.
   + No importa lo lento que vayas, siempre y cuando no te detengas.
   + No maldigas la oscuridad, enciende una vela.
-  + Podemos aprender la sabiduría por tres métodos: primero, por la
-    reflexión, que es el más noble; segundo, por la imitación, que es el
-    más fácil; y tercero por la experiencia, que es el más difícil.
-  + Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe; he
-    aquí el verdadero saber.
+  + Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe;
+    he aquí el verdadero saber.
   + Ser ofendido no es nada a menos que continúes recordándolo.
   + Si persigues dos conejos, no atrapas ninguno.
-  + Un hombre es grande no porque no haya fallado; un hombre es grande porque el
-    fracaso no lo ha detenido.
+  + Un hombre es grande no porque no haya fallado; un hombre es grande
+    porque el fracaso no lo ha detenido.
   + Un hombre no trata de verse en el agua que corre, sino en el agua
     tranquila, porque solamente lo que en sí es tranquilo puede dar
     tranquilidad a otros.
