@@ -1154,9 +1154,9 @@ encontrando.
     tranquilidad a otros.
 
 * [[https://es.wikipedia.org/wiki/Constantino_Cavafis][Constantino Cavafis]]
-  + Tu llegada allí es tu destino. Mas no apresures nunca el viaje. Mejor que dure
-    muchos años y atracar, viejo ya, en la isla, enriquecido de cuanto ganaste en el
-    camino.
+  + Tu llegada allí es tu destino. Mas no apresures nunca el
+    viaje. Mejor que dure muchos años y atracar, viejo ya, en la isla,
+    enriquecido de cuanto ganaste en el camino.
 
 * [[https://es.wikipedia.org/wiki/Dale_Carnegie][Dale Carnegie]]
   + Recuerda, hoy es el mañana por el que te preocupabas ayer.
