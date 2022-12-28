@@ -1162,32 +1162,35 @@ encontrando.
   + Recuerda, hoy es el mañana por el que te preocupabas ayer.
 
 * [[https://bit.ly/3fmrElv][Dan Brown]]
-  + Solo hay un agente infeccioso que viaje más rápido que un virus. El miedo.
+  + Solo hay un agente infeccioso que viaje más rápido que un virus. El
+    miedo.
 
 * [[https://es.wikipedia.org/wiki/Daniel_Goleman][Daniel Goleman]]
-  + En un mundo tan cambiante encontramos que la flexibilidad, la posibilidad de
-    adaptarse al cambio es más importante que la experiencia.
-  + Las emociones fuera de control pueden transformar en estúpidas a personas
-    inteligentes.
+  + En un mundo tan cambiante encontramos que la flexibilidad, la
+    posibilidad de adaptarse al cambio es más importante que la
+    experiencia.
+  + Las emociones fuera de control pueden transformar en estúpidas a
+    personas inteligentes.
 
 * [[https://es.wikipedia.org/wiki/Daniel_Kahneman][Daniel Kahneman]]
-  + A menudo nuestro cerebro racionaliza los pensamientos automáticos y los
-    presenta como el fruto de un razonamiento elaborado. Pero son historias que
-    nos inventamos para justificar decisiones que en realidad son fruto de
-    nuestros prejuicios. Es una forma de engañarnos.
+  + A menudo nuestro cerebro racionaliza los pensamientos automáticos y
+    los presenta como el fruto de un razonamiento elaborado. Pero son
+    historias que nos inventamos para justificar decisiones que en
+    realidad son fruto de nuestros prejuicios. Es una forma de
+    engañarnos.
 
 * [[https://es.wikipedia.org/wiki/David_Gross][David Gross]]
-  + Por la razón que fuere, en el nivel fundamental, la naturaleza prefiere la
-    belleza.
+  + Por la razón que fuere, en el nivel fundamental, la naturaleza
+    prefiere la belleza.
 
 * [[https://es.wikipedia.org/wiki/David_Hume][David Hume]]
   + Cada solución da pie a una nueva pregunta.
-  + Cuando los hombres son más seguros y arrogantes suelen equivocarse más.
-  + Estoy convencido de que cuando los hombres están más seguros y son más
-    arrogantes están normalmente más equivocados, y han dado riendas a la
-    pasión sin esa adecuada deliberación y duda, que son las únicas que pueden
-    librarles de los absurdos más burdos.
-  + La belleza de las cosas existe en el espíritu de quien las contempla.
+  + Estoy convencido de que cuando los hombres están más seguros y son
+    más arrogantes están normalmente más equivocados, y han dado riendas
+    a la pasión sin esa adecuada deliberación y duda, que son las únicas
+    que pueden librarles de los absurdos más burdos.
+  + La belleza de las cosas existe en el espíritu de quien las
+    contempla.
   + La rutina es la gran guía de la vida humana.
 
 * [[https://es.wikipedia.org/wiki/Dem%C3%B3crito][Demócrito]]
