@@ -1237,23 +1237,25 @@ encontrando.
     todo y un terror a la flexibilidad.
 
 * [[https://es.wikipedia.org/wiki/Dorothy_Parker][Dorothy Parker]]
-  + El aburrimiento se cura con curiosidad. La curiosidad no se cura con nada.
+  + El aburrimiento se cura con curiosidad. La curiosidad no se cura con
+    nada.
 
 * [[https://es.wikipedia.org/wiki/Eckhart_Tolle][Eckhart Tolle]]
   + Debes de estar dispuesto a ser principiante cada una de tus mañanas.
   + Dondequiera que estés, quédate ahí totalmente.
-  + Muchas personas viven habitualmente como si el momento presente fuera un
-    obstáculo que deben superar para llegar al siguiente momento, e imaginan
-    vivir toda su vida así. Siempre, este momento no es lo suficientemente bueno
-    porque necesitas llegar al siguiente.
+  + Muchas personas viven habitualmente como si el momento presente
+    fuera un obstáculo que deben superar para llegar al siguiente
+    momento, e imaginan vivir toda su vida así. Siempre, este momento no
+    es lo suficientemente bueno porque necesitas llegar al siguiente.
 
 * [[https://es.wikipedia.org/wiki/Libro_del_Eclesiast%C3%A9s][Eclesiastés]]
   + Mantente en tu quehacer y conságrate a él, en tu tarea envejece.
   + En todo lo que hagas, sé moderado.
   + En todas tus acciones ten presente tu fin.
-  + Dios hizo sencillo al hombre, pero él se complicó con muchas razones.
-  + Nada nuevo hay bajo el sol. Una cosa de la que dicen "Mira esto, esto es
-    nuevo", aún ésa fue ya en los siglos anteriores a nosotros.
+  + Dios hizo sencillo al hombre, pero él se complicó con muchas
+    razones.
+  + Nada nuevo hay bajo el sol. Una cosa de la que dicen "Mira esto,
+    esto es nuevo", aún ésa fue ya en los siglos anteriores a nosotros.
 
 * [[https://es.wikipedia.org/wiki/Edgar_Allan_Poe][Edgar Allan Poe]]
   + Creo que el placer más intenso, más exaltante y a la vez más puro, reside en la
