@@ -1600,11 +1600,13 @@ encontrando.
     de sí mismos.
   + La alegría es nuestro deber diario.
   + La desgracia de Don Quijote no fue su fantasía, sino Sancho Panza.
-  + La juventud es feliz porque tiene la capacidad de ver la belleza. Cualquiera
-    que conserve la capacidad de ver la belleza jamás envejece.
-  + Necesito estar solo mucho tiempo. Todo lo que he conseguido hacer es producto
-    únicamente de mi soledad.
-  + Prefiero la calma de la soledad, que la decepción de una mala compañía.
+  + La juventud es feliz porque tiene la capacidad de ver la
+    belleza. Cualquiera que conserve la capacidad de ver la belleza
+    jamás envejece.
+  + Necesito estar solo mucho tiempo. Todo lo que he conseguido hacer es
+    producto únicamente de mi soledad.
+  + Prefiero la calma de la soledad, que la decepción de una mala
+    compañía.
   + Quien conserva la facultad de ver la belleza no envejece.
 
 * [[https://es.wikipedia.org/wiki/Franz_Schubert][Franz Schubert]]
@@ -1612,61 +1614,66 @@ encontrando.
     melodías brotan; realmente esto es una gran satisfacción.
 
 * [[https://es.wikipedia.org/wiki/Frederick_Brooks][Frederick Brooks]]
-  + Las buenas decisiones se adquieren con la experiencia, y la experiencia se
-    adquiere con las malas decisiones.
+  + Las buenas decisiones se adquieren con la experiencia, y la
+    experiencia se adquiere con las malas decisiones.
 
 * [[https://es.wikipedia.org/wiki/Friedrich_Engels][Friedrich Engels]]
   + Lo que no se sabe expresar es que no se sabe.
 
 * [[https://es.wikipedia.org/wiki/Friedrich_Nietzsche][Friedrich Nietzsche]]
-  + A veces la gente no quiere oír la verdad porque no quiere que sus ilusiones
-    sean destruidas.
-  + Aquel que tiene un por qué para vivir se puede enfrentar a todos los cómos.
-  + Asegurémonos de no perdernos por el miedo a ser diferentes: Conviértete en
-    quien eres.
+  + A veces la gente no quiere oír la verdad porque no quiere que sus
+    ilusiones sean destruidas.
+  + Aquel que tiene un por qué para vivir se puede enfrentar a todos los
+    cómos.
+  + Asegurémonos de no perdernos por el miedo a ser diferentes:
+    Conviértete en quien eres.
   + Desde que me cansé de buscar he aprendido a hallar.
-  + Digan lo que digan, los espíritus grandes son escépticos. Zaratustra es un
-    escéptico. La fuerza, la libertad nacida en la fuerza y plenitud del
-    espíritu, se prueba por el escepticismo. Los hombres de convicción no
-    cuentan para las cuestiones fundamentales de valor. Las convicciones son
-    cárceles.
-  + El individuo ha luchado siempre para no ser absorbido por la tribu. Si lo
-    intentas, a menudo estarás solo, y a veces asustado. Pero ningún precio es
-    demasiado alto por el privilegio de ser uno mismo.
+  + Digan lo que digan, los espíritus grandes son escépticos. Zaratustra
+    es un escéptico. La fuerza, la libertad nacida en la fuerza y
+    plenitud del espíritu, se prueba por el escepticismo. Los hombres de
+    convicción no cuentan para las cuestiones fundamentales de
+    valor. Las convicciones son cárceles.
+  + El individuo ha luchado siempre para no ser absorbido por la
+    tribu. Si lo intentas, a menudo estarás solo, y a veces
+    asustado. Pero ningún precio es demasiado alto por el privilegio de
+    ser uno mismo.
   + Es más cómodo obedecer a la conciencia que a la razón; la conciencia halla
     en sí misma una excusa y un aliento. Por eso hay aún tantas personas
     concienzudas y tan pocas personas razonables.
   + Es sencillo hacer que las cosas sean complicadas, pero difícil hacer
     que sean sencillas.
-  + Hay dos tipos diferentes de personas en el mundo, los que quieren saber y los
-    que quieren creer.
-  + La persona que tiene mucha alegría es necesariamente buena: pero tal vez no
-    sea la más lista, aunque consigue precisamente aquello que la más lista
-    trata de conseguir con toda su listeza.
-  + La ventaja de tener mala memoria es que se goza muchas veces con las mismas
-    cosas.
+  + Hay dos tipos diferentes de personas en el mundo, los que quieren
+    saber y los que quieren creer.
+  + La persona que tiene mucha alegría es necesariamente buena: pero tal
+    vez no sea la más lista, aunque consigue precisamente aquello que la
+    más lista trata de conseguir con toda su listeza.
+  + La ventaja de tener mala memoria es que se goza muchas veces con las
+    mismas cosas.
   + Lo que mucho ocupa termina por preocupar.
-  + Mi fórmula para expresar la grandeza en el hombre es el /amor fati/: no
-    querer que nada sea distinto, ni en el pasado, ni en el futuro, ni por toda
-    la eternidad. No sólo soportar lo necesario y menos aún disimularlo —todo
-    idealismo es una forma de mentira frente a lo necesario—, sino amarlo.
+  + Mi fórmula para expresar la grandeza en el hombre es el /amor fati/:
+    no querer que nada sea distinto, ni en el pasado, ni en el futuro,
+    ni por toda la eternidad. No sólo soportar lo necesario y menos aún
+    disimularlo —todo idealismo es una forma de mentira frente a lo
+    necesario—, sino amarlo.
   + Mi soledad no depende de la presencia o ausencia de las personas; al
-    contrario, odio a quien roba mi soledad sin, a cambio, ofrecerme compañía de
-    verdad.
+    contrario, odio a quien roba mi soledad sin, a cambio, ofrecerme
+    compañía de verdad.
   + Quien no dispone de dos tercios del día para sí mismo es un esclavo.
-  + Quien se sabe profundo, se esfuerza por ser claro; quien desea parecer profundo
-    a la gran masa, se esfuerza por ser oscuro.
-  + Se puede vivir y vivir felizmente sin recordar, pero es imposible vivir sin olvidar.
+  + Quien se sabe profundo, se esfuerza por ser claro; quien desea
+    parecer profundo a la gran masa, se esfuerza por ser oscuro.
+  + Se puede vivir y vivir felizmente sin recordar, pero es imposible
+    vivir sin olvidar.
 
 * [[https://es.wikipedia.org/wiki/Friedrich_Schiller][Friedrich Schiller]]
-  + Hoy impera un yugo tiránico. La utilidad es el gran ídolo de nuestra época, y
-    a él deben complacer todos los poderes y rendir homenaje todos los
-    talentos. En esta vil balanza, las virtudes espirituales no tienen ningún
-    peso.
+  + Hoy impera un yugo tiránico. La utilidad es el gran ídolo de nuestra
+    época, y a él deben complacer todos los poderes y rendir homenaje
+    todos los talentos. En esta vil balanza, las virtudes espirituales
+    no tienen ningún peso.
   + Mantente fiel a los sueños de tu juventud.
   + Feliz es aquel que aprende a soportar lo que no puede cambiar.
-  + Solo aquellos que tengan la paciencia de hacer a la perfección lo trivial,
-    podrán adquirir el hábito de ejecutar lo difícil con facilidad.
+  + Solo aquellos que tengan la paciencia de hacer a la perfección lo
+    trivial, podrán adquirir el hábito de ejecutar lo difícil con
+    facilidad.
   + Vivir quiere decir soñar; ser sabio significa soñar apaciblemente.
 
 * [[https://es.wikipedia.org/wiki/Friedrich_Schlegel][Friedrich Schlegel]]
