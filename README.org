@@ -1678,133 +1678,137 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Friedrich_Schlegel][Friedrich Schlegel]]
   + Cuanto más se sabe, más se desea aprender. Con la sabiduría crece
-    paralelamente la sensación de no saber o, mejor dicho, de saber que no se
-    sabe.
+    paralelamente la sensación de no saber o, mejor dicho, de saber que
+    no se sabe.
 
 * [[https://es.wikipedia.org/wiki/G._K._Chesterton][G.K. Chesterton]]
-  + La única educación posible es esta: estar lo bastante seguro de una cosa
-    para atreverse a decírsela a un niño.
+  + La única educación posible es esta: estar lo bastante seguro de una
+    cosa para atreverse a decírsela a un niño.
   + Las cosas que vemos todos los días son las cosas que nunca vemos.
-  + Lo correcto es lo correcto, aunque no lo haga nadie. Lo que está mal está
-    mal, aunque todo el mundo se equivoque al respecto.
-  + Si no logras desarrollar toda tu inteligencia, siempre te queda la opción de
-    hacerte político.
+  + Lo correcto es lo correcto, aunque no lo haga nadie. Lo que está mal
+    está mal, aunque todo el mundo se equivoque al respecto.
+  + Si no logras desarrollar toda tu inteligencia, siempre te queda la
+    opción de hacerte político.
 
 * [[https://es.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez][Gabriel García Márquez]]
-  + Con el tiempo todo pasa. He visto, con algo de paciencia, a lo inolvidable
-    volverse olvido, y a lo imprescindible sobrar.
-  + El secreto de una buena vejez no es otra cosa que un pacto honrado con la
-    soledad.
-  + Lo más importante que aprendí a hacer después de los cuarenta años fue a
-    decir no cuando es no.
+  + Con el tiempo todo pasa. He visto, con algo de paciencia, a lo
+    inolvidable volverse olvido, y a lo imprescindible sobrar.
+  + El secreto de una buena vejez no es otra cosa que un pacto honrado
+    con la soledad.
+  + Lo más importante que aprendí a hacer después de los cuarenta años
+    fue a decir no cuando es no.
   + Los seres humanos no nacen para siempre el día en que sus madres los
-    alumbran, sino que la vida los obliga a parirse a sí mismos una y otra vez.
-  + No es verdad que las personas paran de perseguir sueños porque se hacen
-    viejos, se hacen viejos porque paran de perseguir sus sueños.
+    alumbran, sino que la vida los obliga a parirse a sí mismos una y
+    otra vez.
+  + No es verdad que las personas paran de perseguir sueños porque se
+    hacen viejos, se hacen viejos porque paran de perseguir sus sueños.
 
 * [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei]]
-  + En lo tocante a la ciencia, la autoridad de un millar no es superior al
-    humilde razonamiento de una sola persona.
-  + Las matemáticas son el alfabeto con el cual Dios ha escrito el Universo.
-  + No podemos enseñar nada a nadie. Tan sólo podemos ayudar a que descubran
-    por sí mismos.
-  + Nunca me he encontrado con alguien tan ignorante de quien no pudiese aprender
-    algo.
-  + Todas las verdades son fáciles de entender, una vez descubiertas. El caso
-    es descubrirlas.
+  + En lo tocante a la ciencia, la autoridad de un millar no es superior
+    al humilde razonamiento de una sola persona.
+  + Las matemáticas son el alfabeto con el cual Dios ha escrito el
+    Universo.
+  + No podemos enseñar nada a nadie. Tan sólo podemos ayudar a que
+    descubran por sí mismos.
+  + Nunca me he encontrado con alguien tan ignorante de quien no pudiese
+    aprender algo.
+  + Todas las verdades son fáciles de entender, una vez descubiertas. El
+    caso es descubrirlas.
 
 * [[https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel][Georg Wilhelm Friedrich Hegel]]
   + Aprendemos de la historia que no aprendemos de la historia.
-  + La verdad no se encuentra ni en la tesis ni en la antítesis, sino en una
-    síntesis emergente que reconcilia ambas.
-  + Ser independiente de la opinión pública es la primera condición formal para
-    lograr algo grande.
+  + La verdad no se encuentra ni en la tesis ni en la antítesis, sino en
+    una síntesis emergente que reconcilia ambas.
+  + Ser independiente de la opinión pública es la primera condición
+    formal para lograr algo grande.
 
 * [[https://es.wikipedia.org/wiki/George_Berkeley][George Berkeley]]
   + Pocos hombres piensan, pero todos tienen opiniones.
 
 * [[https://es.wikipedia.org/wiki/George_Bernard_Shaw][George Bernard Shaw]]
-  + Aprendemos de la experiencia que los hombres nunca aprenden nada de la
-    experiencia.
+  + Aprendemos de la experiencia que los hombres nunca aprenden nada de
+    la experiencia.
 
 * [[https://es.wikipedia.org/wiki/George_Eliot][George Eliot]]
   + Bendito sea el hombre que no teniendo nada que decir, se abstiene de
     demostrárnoslo con sus palabras.
-  + Es una mente estrecha la que no puede observar un tema desde varios puntos
-    de vista.
+  + Es una mente estrecha la que no puede observar un tema desde varios
+    puntos de vista.
 
 * [[https://bit.ly/31dDTvO][George Lakoff]]
-  + La idea de que la gente abandonará sus creencias irracionales ante la solidez
-    de la evidencia presentada ante ella es en sí misma una creencia irracional,
-    no apoyada por la evidencia.
+  + La idea de que la gente abandonará sus creencias irracionales ante
+    la solidez de la evidencia presentada ante ella es en sí misma una
+    creencia irracional, no apoyada por la evidencia.
 
 * [[https://es.wikipedia.org/wiki/George_Orwell][George Orwell]]
-  + Cuanto más se aleja una sociedad de la verdad, más odiará a quienes la
-    dicen.
-  + En tiempos de engaño universal, decir la verdad se convierte en un acto
-    revolucionario.
-  + Hasta que no tengan conciencia de su fuerza, no se rebelarán, y hasta después
-    de haberse revelado, no serán conscientes. Ese es el problema.
+  + Cuanto más se aleja una sociedad de la verdad, más odiará a quienes
+    la dicen.
+  + En tiempos de engaño universal, decir la verdad se convierte en un
+    acto revolucionario.
+  + Hasta que no tengan conciencia de su fuerza, no se rebelarán, y
+    hasta después de haberse revelado, no serán conscientes. Ese es el
+    problema.
   + Hemos caído tan bajo que la reformulación de lo obvio es la primera
     obligación de un hombre inteligente.
   + Ver lo que tenemos delante de nuestras narices requiere una lucha
     constante.
 
 * [[https://es.wikipedia.org/wiki/Georges_Clemenceau][Georges Clemenceau]]
-  + La vida de un hombre es interesante cuando ha cometido errores; es una muestra
-    de que intentó superarse.
-  + Los tontos no gustan de admirar las cosas sino cuando llevan una etiqueta.
+  + La vida de un hombre es interesante cuando ha cometido errores; es
+    una muestra de que intentó superarse.
+  + Los tontos no gustan de admirar las cosas sino cuando llevan una
+    etiqueta.
 
 * [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Gibran Jalil Gibran]]
   + El olvido es una forma de libertad.
-  + En el corazón de todos los inviernos vive una primavera palpitante, y
-    detrás de cada noche, viene una aurora sonriente.
-  + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar entre las
-    nubes.
+  + En el corazón de todos los inviernos vive una primavera palpitante,
+    y detrás de cada noche, viene una aurora sonriente.
+  + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar
+    entre las nubes.
 
 * [[https://es.wikipedia.org/wiki/Giovanni_Boccaccio][Giovanni Boccaccio]]
-  + Vale más actuar exponiéndose a arrepentirse de ello, que arrepentirse de no
-    haber hecho nada.
+  + Vale más actuar exponiéndose a arrepentirse de ello, que
+    arrepentirse de no haber hecho nada.
 
 * [[https://bit.ly/3debxWY][Giovanni Sartori]]
-  + El único modo de resolver los problemas es conociéndolos, saber que existen. El
-    simplismo los cancela y, así, los agrava.
+  + El único modo de resolver los problemas es conociéndolos, saber que
+    existen. El simplismo los cancela y, así, los agrava.
 
 * [[https://es.wikipedia.org/wiki/G%C3%B6sta_Mittag-Leffler][Gösta Mittag-Leffler]]
-  + La mejor obra del matemático es el arte, un arte altamente perfecto, tan audaz
-    como los más secretos sueños de la imaginación, claro y límpido. El genio
-    matemático y el genio artístico se tocan mutuamente.
+  + La mejor obra del matemático es el arte, un arte altamente perfecto,
+    tan audaz como los más secretos sueños de la imaginación, claro y
+    límpido. El genio matemático y el genio artístico se tocan
+    mutuamente.
 
 * [[https://bit.ly/3jDqKDW][Gottfried Leibniz]]
-  + Dos cosas son idénticas si una puede ser sustituida por la otra sin afectar
-    la verdad.
-  + El placer que obtenemos de la música proviene de contar, pero contando
-    inconscientemente. La música no es más que aritmética inconsciente.
-  + En el ámbito del espíritu, busca la claridad; en el mundo material, busca la
-    utilidad.
-  + Es indigno que hombres notables pierdan su tiempo como esclavos del cálculo
-    cuando podrían dejar ese trabajo en manos de cualquiera si se usaran las
-    máquinas.
-  + Incluso en los juegos de niños hay cosas para interesar al matemático más
-    grande.
-  + La música es el placer que experimenta la mente humana al contar sin darse
-    cuenta de que está contando.
-  + La razón me enseña que no hay nada que contribuya más al bien general. de
-    todos los hombres que lo que perfecciona la razón.
+  + Dos cosas son idénticas si una puede ser sustituida por la otra sin
+    afectar la verdad.
+  + El placer que obtenemos de la música proviene de contar, pero
+    contando inconscientemente. La música no es más que aritmética
+    inconsciente.
+  + En el ámbito del espíritu, busca la claridad; en el mundo material,
+    busca la utilidad.
+  + Es indigno que hombres notables pierdan su tiempo como esclavos del
+    cálculo cuando podrían dejar ese trabajo en manos de cualquiera si
+    se usaran las máquinas.
+  + Incluso en los juegos de niños hay cosas para interesar al
+    matemático más grande.
 
 * [[https://en.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]]
-  + El objetivo de la prueba es, de hecho, no sólo poner la verdad de una
-    proposición más allá de toda duda, sino también darnos una idea de la
-    dependencia de una verdad con respecto a otra. Después de habernos convencido
-    de que una roca es inamovible, al intentar moverla sin éxito, queda la siguiente
-    pregunta, ¿qué es lo que lo sostiene de forma tan segura?
-  + Realmente vale la pena inventar un nuevo símbolo si podemos eliminar no pocas
-    dificultades lógicas y asegurar el rigor de las pruebas. Pero muchos
-    matemáticos parecen tener tan poca sensación de pureza lógica y precisión que
-    usarán una palabra que significa tres o cuatro cosas diferentes, antes de
-    tomar la terrible decisión de inventar una nueva palabra.
-  + Todo buen matemático es al menos medio filósofo, y todo buen filósofo es al
-    menos medio matemático.
+  + El objetivo de la prueba es, de hecho, no sólo poner la verdad de
+    una proposición más allá de toda duda, sino también darnos una idea
+    de la dependencia de una verdad con respecto a otra. Después de
+    habernos convencido de que una roca es inamovible, al intentar
+    moverla sin éxito, queda la siguiente pregunta, ¿qué es lo que lo
+    sostiene de forma tan segura?
+  + Realmente vale la pena inventar un nuevo símbolo si podemos eliminar
+    no pocas dificultades lógicas y asegurar el rigor de las
+    pruebas. Pero muchos matemáticos parecen tener tan poca sensación de
+    pureza lógica y precisión que usarán una palabra que significa tres
+    o cuatro cosas diferentes, antes de tomar la terrible decisión de
+    inventar una nueva palabra.
+  + Todo buen matemático es al menos medio filósofo, y todo buen
+    filósofo es al menos medio matemático.
 
 * [[https://es.wikipedia.org/wiki/Graham_Greene][Graham Greene]]
   + En el fondo de nosotros mismos siempre tenemos la misma edad.
@@ -1818,22 +1822,25 @@ encontrando.
   + Todavía no sé qué me vas a preguntar, pero me opongo.
 
 * [[https://es.wikipedia.org/wiki/Guillermo_de_Ockham][Guillermo de Ockham]]
-   + En igualdad de condiciones, la explicación más simple tiende a ser la
-     correcta.
+   + En igualdad de condiciones, la explicación más simple tiende a ser
+     la correcta.
    + No tiene sentido hacer con más lo que se puede hacer con menos.
 
 * [[https://es.wikipedia.org/wiki/Gustavo_Adolfo_B%C3%A9cquer][Gustavo Adolfo Bécquer]]
-   + El que tiene imaginación, con qué facilidad saca de la nada un mundo.
+   + El que tiene imaginación, con qué facilidad saca de la nada un
+     mundo.
+
 * [[https://es.wikipedia.org/wiki/Gustav_Meyrink][Gustav Meyrink]]
-  + La vida toda no es nada más que preguntas materializadas, las cuales llevan
-    en sí el germen de la respuesta y respuestas que van preñadas de
-    preguntas. Quien vea en ella cualquier otra cosa es un loco.
+  + La vida toda no es nada más que preguntas materializadas, las cuales
+    llevan en sí el germen de la respuesta y respuestas que van preñadas
+    de preguntas. Quien vea en ella cualquier otra cosa es un loco.
 
 * [[https://es.wikipedia.org/wiki/Gustave_Flaubert][Gustave Flaubert]]
-  + Cuando ya no estaban los Dioses y Cristo aún no estaba, hubo, desde Cicerón
-    a Marco Aurelio, un momento único en el que sólo estuvo `el hombre’.
-  + El futuro nos tortura y el pasado nos encadena. He aquí por qué se nos
-    escapa el presente.
+  + Cuando ya no estaban los Dioses y Cristo aún no estaba, hubo, desde
+    Cicerón a Marco Aurelio, un momento único en el que sólo estuvo `el
+    hombre’.
+  + El futuro nos tortura y el pasado nos encadena. He aquí por qué se
+    nos escapa el presente.
 
 * [[https://es.wikipedia.org/wiki/H._L._Mencken][H.L. Mencken]]
   + El hombre más peligroso para cualquier gobierno es el que es capaz de
