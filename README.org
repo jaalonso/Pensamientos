@@ -1871,35 +1871,36 @@ encontrando.
     vez.
 
 * [[https://en.wikipedia.org/wiki/Haim_Ginott][Haim Ginott]]
-  + Los niños son como cemento fresco, cualquier cosa que caiga sobre ellos
-    deja una huella.
+  + Los niños son como cemento fresco, cualquier cosa que caiga sobre
+    ellos deja una huella.
 
 * [[https://es.wikipedia.org/wiki/Hannah_Arendt][Hannah Arendt]]
-  + Hay un precepto bajo el cual he vivido: prepárate para lo peor, espera lo
-    mejor y acepta lo que venga.
+  + Hay un precepto bajo el cual he vivido: prepárate para lo peor,
+    espera lo mejor y acepta lo que venga.
   + La vida está hecha para comenzar de nuevo.
 
 * [[https://es.wikipedia.org/wiki/Hans_Reichenbach][Hans Reichenbach]]
-  + La esencia del conocimiento es la generalización. Que el fuego se puede
-    producir frotando la madera de cierta manera es un conocimiento derivado de la
-    generalización de las experiencias individuales; la afirmación significa que
-    frotar la madera de esta manera siempre producirá fuego. Por lo tanto, el arte
-    del descubrimiento es el arte de la correcta generalización.
+  + La esencia del conocimiento es la generalización. Que el fuego se
+    puede producir frotando la madera de cierta manera es un
+    conocimiento derivado de la generalización de las experiencias
+    individuales; la afirmación significa que frotar la madera de esta
+    manera siempre producirá fuego. Por lo tanto, el arte del
+    descubrimiento es el arte de la correcta generalización.
 
 * [[https://es.wikipedia.org/wiki/Haruki_Murakami][Haruki Murakami]]
-  + A fin de cuentas, pensar libremente significa también distanciarse del
-    cuerpo. Salir de esa jaula que te limita. Romper las cadenas y simplemente
-    darle alas a la mente.
-  + Cuando uno se acostumbra a no conseguir nunca lo que desea, ¿Sabes qué pasa?
-    Que acaba por no saber incluso lo que quiere.
+  + A fin de cuentas, pensar libremente significa también distanciarse
+    del cuerpo. Salir de esa jaula que te limita. Romper las cadenas y
+    simplemente darle alas a la mente.
+  + Cuando uno se acostumbra a no conseguir nunca lo que desea, ¿Sabes
+    qué pasa?  Que acaba por no saber incluso lo que quiere.
 
 * [[https://es.wikipedia.org/wiki/Hecato_de_Rodas][Hecato de Rodas]]
   + Si dejas de esperar, dejarás de temer.
 
 * [[https://es.wikipedia.org/wiki/Heinrich_Heine][Heinrich Heine]]
-  + La verdadera locura quizá no sea otra cosa que la sabiduría misma que,
-    cansada de descubrir las vergüenzas del mundo, ha tomado la inteligente
-    resolución de volverse loca.
+  + La verdadera locura quizá no sea otra cosa que la sabiduría misma
+    que, cansada de descubrir las vergüenzas del mundo, ha tomado la
+    inteligente resolución de volverse loca.
 
 * [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson]]
   + El ojo ve sólo lo que la mente está preparada para comprender.
