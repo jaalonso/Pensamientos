@@ -1929,16 +1929,17 @@ encontrando.
   + La vida es un aprendizaje de renunciamiento progresivo, de continua
     limitación de nuestras pretensiones, de nuestras esperanzas, de
     nuestra fuerza, de nuestra libertad.
-  + No creo que ningún placer que podamos obtener de nuestras emociones llegue
-    a igualar esos momentos de paz silenciosa que son atisbos de los gozos del
-    paraíso ... Se siente una armonía interior libre de la más mínima agitación
-    o tensión. En esos momentos el estado del alma es solemne, semejante quizá
-    a su condición más allá de la tumba. Se trata de felicidad, según entienden
-    los orientales, la felicidad del eremita que se halla libre de deseo y
-    conflicto, y que sencillamente adora en plenitud de dicha.
+  + No creo que ningún placer que podamos obtener de nuestras emociones
+    llegue a igualar esos momentos de paz silenciosa que son atisbos de
+    los gozos del paraíso ... Se siente una armonía interior libre de la
+    más mínima agitación o tensión. En esos momentos el estado del alma
+    es solemne, semejante quizá a su condición más allá de la tumba. Se
+    trata de felicidad, según entienden los orientales, la felicidad del
+    eremita que se halla libre de deseo y conflicto, y que sencillamente
+    adora en plenitud de dicha.
   + Vivimos mientras nos renovamos.
-  + ¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde muchos
-    puntos de vista.
+  + ¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde
+    muchos puntos de vista.
 
 * [[https://es.wikipedia.org/wiki/Henrik_Ibsen][Henrik Ibsen]]
   + La belleza es el acuerdo entre el contenido y la forma.
@@ -1947,12 +1948,12 @@ encontrando.
   + Procura buscar el conocimiento en las dificultades.
 
 * [[https://es.wikipedia.org/wiki/Henry_David_Thoreau][Henry David Thoreau]]
-  + Aunque no haya nada nuevo sobre la tierra, siempre hay algo nuevo en los
-    cielos. […] El viento cambia constantemente la tipografía de esa página
-    azul, y la persona inquisitiva, en cualquier momento, puede encontrarse allí
-    una nueva verdad.
-  + Cada generación se ríe de las viejas modas, pero sigue religiosamente las
-    nuevas.
+  + Aunque no haya nada nuevo sobre la tierra, siempre hay algo nuevo en
+    los cielos. […] El viento cambia constantemente la tipografía de esa
+    página azul, y la persona inquisitiva, en cualquier momento, puede
+    encontrarse allí una nueva verdad.
+  + Cada generación se ríe de las viejas modas, pero sigue
+    religiosamente las nuevas.
   + El hombre capta sólo lo que está preparado para captar, ya sea física,
     intelectual o moralmente, lo mismo que los animales sólo conciben a los
     suyos en ciertas estaciones. Oímos y captamos sólo lo que ya casi sabemos.
