@@ -2092,19 +2092,19 @@ encontrando.
   + Aunque nada cambie, si yo cambio, todo cambia.
 
 * [[https://es.wikipedia.org/wiki/Horace_Mann][Horace Mann]]
-  + El maestro que intenta enseñar sin inspirar en el alumno el deseo de aprender
-    está tratando de forjar un hierro frío.
+  + El maestro que intenta enseñar sin inspirar en el alumno el deseo de
+    aprender está tratando de forjar un hierro frío.
 
 * [[https://es.wikipedia.org/wiki/Horace_Walpole][Horace Walpole]]
-  + Todo el secreto de la vida es estar interesado en una cosa profundamente y en
-    otras tantas un poco.
+  + Todo el secreto de la vida es estar interesado en una cosa
+    profundamente y en otras tantas un poco.
 
 * [[https://es.wikipedia.org/wiki/Horacio][Horacio]]
   + A los que mucho desean les falta mucho.
-  + A la gente triste le disgusta la feliz, tanto como la feliz aborrece la
-    triste; los que son rápidos de pensamiento se ponen nerviosos con los
-    calmados, así como los desocupados no pueden soportar a los que siempre
-    están ocupados.
+  + A la gente triste le disgusta la feliz, tanto como la feliz aborrece
+    la triste; los que son rápidos de pensamiento se ponen nerviosos con
+    los calmados, así como los desocupados no pueden soportar a los que
+    siempre están ocupados.
   + Apodérate del día; no confíes en el mañana.
   + Borra muchas veces, si quieres escribir cosas que sean dignas de ser
     leídas.
