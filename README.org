@@ -2108,7 +2108,8 @@ encontrando.
   + Apodérate del día; no confíes en el mañana.
   + Borra muchas veces, si quieres escribir cosas que sean dignas de ser
     leídas.
-  + Lo que hace falta es someter a las circunstancias, no someterse a ellas.
+  + Lo que hace falta es someter a las circunstancias, no someterse a
+    ellas.
 
 * [[https://es.wikipedia.org/wiki/Howard_Eves][Howard Eves]]
   + Existe una distinción entre lo que se puede llamar un problema y lo que puede
