@@ -2112,23 +2112,25 @@ encontrando.
     ellas.
 
 * [[https://es.wikipedia.org/wiki/Howard_Eves][Howard Eves]]
-  + Existe una distinción entre lo que se puede llamar un problema y lo que puede
-    considerar un ejercicio. Este último sirve para entrenar al en alguna técnica o
-    procedimiento, y requiere poco o ningún original. A diferencia de un ejercicio,
-    un problema, si es apropiado para nivel, debe requerir pensamiento por parte del
-    estudiante. Es imposible exagerar la importancia de los problemas en las
-    matemáticas. Es por medio de los problemas que las matemáticas se desarrollan y
-    se levantan por sí mismas. Cada nuevo descubrimiento en matemáticas es el
-    resultado de un intento de resolver algún problema.
+  + Existe una distinción entre lo que se puede llamar un problema y lo
+    que puede considerar un ejercicio. Este último sirve para entrenar
+    al en alguna técnica o procedimiento, y requiere poco o ningún
+    original. A diferencia de un ejercicio, un problema, si es apropiado
+    para nivel, debe requerir pensamiento por parte del estudiante. Es
+    imposible exagerar la importancia de los problemas en las
+    matemáticas. Es por medio de los problemas que las matemáticas se
+    desarrollan y se levantan por sí mismas. Cada nuevo descubrimiento
+    en matemáticas es el resultado de un intento de resolver algún
+    problema.
 
 + [[https://es.wikipedia.org/wiki/Humberto_Maturana][Humberto Maturana]]
   + Nuestro problema como sociedad es que no conversamos. No conversamos
-    porque tenemos ideologías, estamos aferrados a cierto modo de pensar y
-    no reflexionamos.
+    porque tenemos ideologías, estamos aferrados a cierto modo de pensar
+    y no reflexionamos.
 
 * [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant]]
-  + La ciencia es la organización del conocimiento, pero la sabiduría es la
-    organización de la vida.
+  + La ciencia es la organización del conocimiento, pero la sabiduría es
+    la organización de la vida.
   + El sabio puede cambiar de opinión. El necio, nunca.
   + Nunca discutas con un idiota. La gente podría no notar la diferencia.
   + Ser es hacer.
