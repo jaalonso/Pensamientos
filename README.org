@@ -2139,31 +2139,32 @@ encontrando.
   + Vemos las cosas, no como son, sino como somos nosotros.
 
 * [[https://bit.ly/3bJNr6w][Imre Lakatos]]
-  + El compromiso ciego con una teoría no es una virtud intelectual: es un crimen
-    intelectual.
-  + Hay una regresión infinita en las pruebas; por lo tanto, las pruebas no
-    prueban. Debes darte cuenta de que probar es un juego, que se juega mientras
-    lo disfrutas y que se detiene cuando te cansas.
-  + La formación científica, atomizada de acuerdo con técnicas distintas y
-    separada, ha degenerado en entrenamiento científico. No hay que sorprenderse
-    de que ello desanime a las mentes críticas.
+  + El compromiso ciego con una teoría no es una virtud intelectual: es
+    un crimen intelectual.
+  + Hay una regresión infinita en las pruebas; por lo tanto, las pruebas
+    no prueban. Debes darte cuenta de que probar es un juego, que se
+    juega mientras lo disfrutas y que se detiene cuando te cansas.
+  + La formación científica, atomizada de acuerdo con técnicas distintas
+    y separada, ha degenerado en entrenamiento científico. No hay que
+    sorprenderse de que ello desanime a las mentes críticas.
 
 * [[https://bit.ly/34FxvAi][Indira Gandhi]]
-  + Un día mi abuelo me dijo que hay dos tipos de personas: las que trabajan, y las
-    que buscan el mérito. Me dijo que tratara de estar en el primer grupo: hay menos
-    competencia ahí.
+  + Un día mi abuelo me dijo que hay dos tipos de personas: las que
+    trabajan, y las que buscan el mérito. Me dijo que tratara de estar
+    en el primer grupo: hay menos competencia ahí.
 
 * [[https://es.wikipedia.org/wiki/Isaac_Asimov][Isaac Asimov]]
   + El aspecto más triste de la vida actual es que la ciencia gana en
     conocimiento más rápidamente que la sociedad en sabiduría.
-  + Las normas establecidas con razón y con justicia, pueden dejar de ser
-    útiles al cambiar las circunstancias, pero al permitir que continuen
-    vigentes por la fuerza de la inercia, entonces, no sólo es justo, sino
-    también útil, quebrantar aquellas que nos anuncian el hecho de que son
-    inútiles, o incluso realmente perjudiciales.
-  + Nunca permitas que el sentido de la moral te impida hacer lo que está bien.
-  + Tal vez la felicidad sea esto: no sentir que debes estar en otro lado,
-    haciendo otra cosa, siendo alguien distinto.
+  + Las normas establecidas con razón y con justicia, pueden dejar de
+    ser útiles al cambiar las circunstancias, pero al permitir que
+    continuen vigentes por la fuerza de la inercia, entonces, no sólo es
+    justo, sino también útil, quebrantar aquellas que nos anuncian el
+    hecho de que son inútiles, o incluso realmente perjudiciales.
+  + Nunca permitas que el sentido de la moral te impida hacer lo que
+    está bien.
+  + Tal vez la felicidad sea esto: no sentir que debes estar en otro
+    lado, haciendo otra cosa, siendo alguien distinto.
 
 * [[https://es.wikipedia.org/wiki/Isaac_Newton][Isaac Newton]]
   + Lo que sabemos es una gota de agua; lo que ignoramos es el océano.
