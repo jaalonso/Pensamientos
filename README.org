@@ -2170,20 +2170,20 @@ encontrando.
   + Lo que sabemos es una gota de agua; lo que ignoramos es el océano.
 
 * [[https://es.wikipedia.org/wiki/Isabel_Allende][Isabel Allende]]
-  + Memoria selectiva para recordar lo bueno, prudencia lógica para no arruinar
-    el presente, y optimismo desafiante para encarar el futuro.
+  + Memoria selectiva para recordar lo bueno, prudencia lógica para no
+    arruinar el presente, y optimismo desafiante para encarar el futuro.
 
 * [[https://es.wikipedia.org/wiki/Is%C3%B3crates][Isócrates]]
   + Una colección de bellas máximas es un tesoro más apreciable que las
     riquezas.
 
 * [[https://bit.ly/2RHtRyr][Italo Calvino]]
-  + Cada elección tiene su anverso, es decir, una renuncia, por lo que no hay
-    diferencia entre el acto de elegir y el acto de renunciar.
-  + Renunciar a las cosas es menos difícil de lo que se cree: todo estriba en
-    empezar. Una vez que has logrado prescindir de algo que creías esencial,
-    adviertes que puedes pasarte también sin alguna otra cosa, y luego aún sin otras
-    muchas cosas.
+  + Cada elección tiene su anverso, es decir, una renuncia, por lo que
+    no hay diferencia entre el acto de elegir y el acto de renunciar.
+  + Renunciar a las cosas es menos difícil de lo que se cree: todo
+    estriba en empezar. Una vez que has logrado prescindir de algo que
+    creías esencial, adviertes que puedes pasarte también sin alguna
+    otra cosa, y luego aún sin otras muchas cosas.
 
 * [[https://es.wikipedia.org/wiki/Jacinto_Benavente][Jacinto Benavente]]
   + La vida es como un viaje por la mar: hay días de calma y días de borrasca;
