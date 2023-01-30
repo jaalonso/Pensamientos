@@ -2250,11 +2250,12 @@ encontrando.
     orgulloso y un propósito que cumplir.
 
 * [[https://es.wikipedia.org/wiki/Jiddu_Krishnamurti][Jiddu Krishnamurti]]
-  + La capacidad de observar sin evaluar es la forma más alta de inteligencia.
+  + La capacidad de observar sin evaluar es la forma más alta de
+    inteligencia.
 
-* [[https://es.wikipedia.org/wiki/John_Allen_Paulos][John Allen Paulos]].
-  + La incertidumbre es la única certeza que existe, y saber cómo vivir con la
-    inseguridad es la única seguridad.
+* [[https://es.wikipedia.org/wiki/John_Allen_Paulos][John Allen Paulos]]
+  + La incertidumbre es la única certeza que existe, y saber cómo vivir
+    con la inseguridad es la única seguridad.
 
 * [[https://es.wikipedia.org/wiki/John_Archibald_Wheeler][John Archibald Wheeler]]
   + Vivimos en una isla rodeada de un mar de ignorancia. A medida que nuestra
