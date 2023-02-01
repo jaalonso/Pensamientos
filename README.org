@@ -2296,34 +2296,38 @@ encontrando.
   + La vida es lo que te pasa mientras estás ocupado haciendo otros planes.
 
 * [[https://es.wikipedia.org/wiki/John_Locke][John Locke]]
-  + El trabajo del maestro no consiste tanto en enseñar todo lo aprendible,
-    como en producir en el alumno amor y estima por el conocimiento.
-  + La lectura proporciona a la mente sólo materiales de conocimiento; es pensar
-    lo que hace que lo que leemos sea nuestro.
-  + Los hombres olvidan siempre que la felicidad humana es una disposición de
-    la mente y no una condición de las circunstancias.
+  + El trabajo del maestro no consiste tanto en enseñar todo lo
+    aprendible, como en producir en el alumno amor y estima por el
+    conocimiento.
+  + La lectura proporciona a la mente sólo materiales de conocimiento;
+    es pensar lo que hace que lo que leemos sea nuestro.
+  + Los hombres olvidan siempre que la felicidad humana es una
+    disposición de la mente y no una condición de las circunstancias.
 
 * [[https://es.wikipedia.org/wiki/John_Maynard_Keynes][John Maynard Keynes]]
   + Cuando las circunstancias cambian, yo cambio de opinión.
-  + La dificultad no reside en las nuevas ideas, sino en escapar de las viejas.
-  + Lo inevitable rara vez sucede, es lo inesperado lo que suele ocurrir.
+  + La dificultad no reside en las nuevas ideas, sino en escapar de las
+    viejas.
+  + Lo inevitable rara vez sucede, es lo inesperado lo que suele
+    ocurrir.
 
 * [[https://es.wikipedia.org/wiki/John_Milton][John Milton]]
-  + La soledad es a veces la mejor compañía, y un corto retiro trae un dulce
-    retorno.
+  + La soledad es a veces la mejor compañía, y un corto retiro trae un
+    dulce retorno.
 
 * [[https://es.wikipedia.org/wiki/John_Stuart_Mill][John Stuart Mill]]
-  + La tendencia general del mundo es convertir a la mediocridad en el poder
-    dominante sobre la humanidad.
+  + La tendencia general del mundo es convertir a la mediocridad en el
+    poder dominante sobre la humanidad.
 
 * [[https://es.wikipedia.org/wiki/Johann_Caspar_Lavater][Johann Caspar Lavater]]
-  + Si quieres ser sabio, aprende a interrogar razonablemente, a escuchar con
-    atención, a responder serenamente y a callar cuando no tengas nada que
-    decir.
+  + Si quieres ser sabio, aprende a interrogar razonablemente, a
+    escuchar con atención, a responder serenamente y a callar cuando no
+    tengas nada que decir.
 
 * [[https://es.wikipedia.org/wiki/Johann_Sebastian_Bach][Johann Sebastian Bach]]
-  + Es fácil tocar un instrumento musical: todo lo que tienes que hacer es
-    tocar la tecla correcta en el momento adecuado y el instrumento suena.
+  + Es fácil tocar un instrumento musical: todo lo que tienes que hacer
+    es tocar la tecla correcta en el momento adecuado y el instrumento
+    suena.
 
 * [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]]
   + Con el conocimiento se acrecientan las dudas.
