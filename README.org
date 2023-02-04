@@ -2332,52 +2332,57 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]]
   + Con el conocimiento se acrecientan las dudas.
   + El hombre siempre aspira a lo que no es.
-  + El niño es realista; el muchacho, idealista; el hombre, escéptico; y el
-    viejo, místico.
+  + El niño es realista; el muchacho, idealista; el hombre, escéptico; y
+    el viejo, místico.
   + El único hombre que no se equivoca es el que nunca hace nada.
   + En cuanto confíes en ti mismo, sabrás cómo vivir.
   + Hablar es una necesidad, escuchar es un arte.
-  + Hay quien porque golpea la pared con un martillo, se cree que clava clavos.
-  + El único hombre que no se equivoca es el que nunca hace nada.
+  + Hay quien porque golpea la pared con un martillo, se cree que clava
+    clavos.
   + Las personas ven en el mundo lo que llevan en su corazón.
-  + Lo más importante en este mundo no es donde estamos, sino en qué dirección
-    nos movemos.
-  + Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca nadie
-    las hubiera hecho antes.
-  + Los perezosos siempre hablan de lo que piensan hacer, de lo que harán; los que
-    de veras hacen algo no tienen tiempo de hablar ni de lo que hacen.
+  + Lo más importante en este mundo no es donde estamos, sino en qué
+    dirección nos movemos.
+  + Lo importante no es hacer cosas nuevas, sino hacerlas como si nunca
+    nadie las hubiera hecho antes.
+  + Los perezosos siempre hablan de lo que piensan hacer, de lo que
+    harán; los que de veras hacen algo no tienen tiempo de hablar ni de
+    lo que hacen.
   + Muchos odian la soledad porque no se soportan a sí mismos.
   + Nadie es más esclavo que el que se tiene por libre sin serlo.
   + No hay nada más espantoso que la ignorancia en acción.
-  + No importa las vueltas que dé el hombre ni lo que emprenda, que siempre
-    regresará al camino que en su día la naturaleza predeterminó para él.
-  + Pensar es fácil. Actuar es difícil. Pero actuar de acuerdo con lo que piensas
-    es lo más difícil del mundo.
-  + Por qué buscar conspiraciones cuando la estupidez puede explicar tantas cosas.
+  + No importa las vueltas que dé el hombre ni lo que emprenda, que
+    siempre regresará al camino que en su día la naturaleza predeterminó
+    para él.
+  + Pensar es fácil. Actuar es difícil. Pero actuar de acuerdo con lo
+    que piensas es lo más difícil del mundo.
+  + Por qué buscar conspiraciones cuando la estupidez puede explicar
+    tantas cosas.
   + Quien produce con alegría y se alegra de lo producido es feliz.
   + Se tiende a poner palabras allí donde faltan las ideas.
-  + Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El atrevimiento
-    posee genio, poder y magia. Comiénzalo ahora.
-  + Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por otra
-    parte, si tacho de malo a lo que es bueno, acabaré causando un gran
-    perjuicio. Quien quiera obrar adecuadamente, no deberá criticar nunca nada
-    ni preocuparse de lo que esté mal, sino limitarse a hacer bien las
-    cosas. De lo que se trata no es de destrozar, sino de construir algo que le
-    procure un gozo intachable a la humanidad.
-  + Si no pretendiéramos saber todo con tanta exactitud puede que conociéramos
-    mejor las cosas.
-  + Todos los días deberíamos oír un poco de música, leer una buena poesía,
-    contemplar un cuadro hermoso y si es posible, decir algunas palabras sensatas.
-  + Trata a un ser humano tal como es, y seguirá siendo lo que es; trátalo como
-    puede y debe ser, y se convertirá en lo que puede y debe ser.
+  + Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El
+    atrevimiento posee genio, poder y magia. Comiénzalo ahora.
+  + Si califico de malo a lo que es malo, ¿qué habré ganado con eso? Por
+    otra parte, si tacho de malo a lo que es bueno, acabaré causando un
+    gran perjuicio. Quien quiera obrar adecuadamente, no deberá criticar
+    nunca nada ni preocuparse de lo que esté mal, sino limitarse a hacer
+    bien las cosas. De lo que se trata no es de destrozar, sino de
+    construir algo que le procure un gozo intachable a la humanidad.
+  + Si no pretendiéramos saber todo con tanta exactitud puede que
+    conociéramos mejor las cosas.
+  + Todos los días deberíamos oír un poco de música, leer una buena
+    poesía, contemplar un cuadro hermoso y si es posible, decir algunas
+    palabras sensatas.
+  + Trata a un ser humano tal como es, y seguirá siendo lo que es;
+    trátalo como puede y debe ser, y se convertirá en lo que puede y
+    debe ser.
 
 * [[https://es.wikipedia.org/wiki/Jonathan_Swift][Jonathan Swift]]
-  + Cuando en el mundo aparece un verdadero genio puede reconocérsele por este
-    signo: todos los necios se conjuran contra él.
+  + Cuando en el mundo aparece un verdadero genio puede reconocérsele
+    por este signo: todos los necios se conjuran contra él.
   + No hay nada constante en el mundo, salvo la inconstancia.
   + ¡Ojalá vivas todos los días de tu vida!
-  + Un hombre nunca debe avergonzarse por reconocer que se equivocó, que es
-    tanto como decir que hoy es más sabio de lo que fue ayer.
+  + Un hombre nunca debe avergonzarse por reconocer que se equivocó, que
+    es tanto como decir que hoy es más sabio de lo que fue ayer.
 
 * [[https://es.wikipedia.org/wiki/Jorge_Luis_Borges][Jorge Luis Borges]]
   + Aristóteles ha escrito que el origen de la filosofía era el asombro. Usted
@@ -2913,6 +2918,8 @@ encontrando.
   + La mayoría de lo que hacemos y decimos no es esencial. Si lo puedes eliminar
     ganarás tiempo y tranquilidad. Pregúntate en todo momento, ¿es esto
     necesario?
+  + La perfección del carácter es la siguiente: vivir cada día como si
+    fuera el último, sin prisa, sin apatía, sin pretensión.
   + La política es el arte de impedir que la gente se meta en lo que sí
     le importa.
   + La sabiduría es el arte de aceptar aquello que no puede ser cambiado, de
