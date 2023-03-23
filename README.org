@@ -3391,16 +3391,17 @@ encontrando.
     investigación.
 
 * [[https://es.wikipedia.org/wiki/Pit%C3%A1goras][Pitágoras]]
-  + Con orden y tiempo se encuentra el secreto de hacerlo todo, y de hacerlo
-    bien.
+  + Con orden y tiempo se encuentra el secreto de hacerlo todo, y de
+    hacerlo bien.
   + Elige lo mejor; la costumbre lo hará suave y fácil.
   + La sabiduría comienza escuchando ... escucha y serás sabio.
 
 * [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón]]
   + El hombre es un ser en busca de significado.
-  + El matemático es perfecto sólo en la medida en que es un hombre perfecto, en
-    la medida en que siente en sí mismo la belleza de la verdad; sólo entonces su
-    trabajo será minucioso, transparente, prudente, puro, claro y elegante.
+  + El matemático es perfecto sólo en la medida en que es un hombre
+    perfecto, en la medida en que siente en sí mismo la belleza de la
+    verdad; sólo entonces su trabajo será minucioso, transparente,
+    prudente, puro, claro y elegante.
   + La belleza es el esplendor de la verdad.
   + La justicia no es otra cosa que la conveniencia del más fuerte.
   + La pobreza no viene por la disminución de las riquezas, sino por la
@@ -3408,38 +3409,38 @@ encontrando.
   + La realidad es creada por la mente, podemos cambiar nuestra realidad
     cambiando nuestra mente.
   + Lo que se busca se encuentra, lo que se descuida se pierde.
-  + Los sabios son los que buscan la sabiduría; los necios piensan ya haberla
-    encontrado.
-  + Nada sucede por casualidad, en el fondo las cosas tienen su plan secreto,
-    aunque nosotros no lo entendamos.
-  + Los sabios hablan porque tienen algo que decir, los tontos hablan porque
-    tienen que decir algo.
+  + Los sabios son los que buscan la sabiduría; los necios piensan ya
+    haberla encontrado.
+  + Nada sucede por casualidad, en el fondo las cosas tienen su plan
+    secreto, aunque nosotros no lo entendamos.
+  + Los sabios hablan porque tienen algo que decir, los tontos hablan
+    porque tienen que decir algo.
 
 * [[https://es.wikipedia.org/wiki/Plutarco][Plutarco]]
   + El cerebro no es un vaso por llenar, sino una lámpara por encender.
-  + En modo alguno hemos de enfadarnos con las cosas; nada les importa nuestras
-    iras.
+  + En modo alguno hemos de enfadarnos con las cosas; nada les importa
+    nuestras iras.
 
 * [[https://es.wikipedia.org/wiki/Primo_Levi][Primo Levi]]
-  + Los monstruos existen, pero son demasiado pocos para ser verdaderamente
-    peligrosos. Más peligrosos son los hombres comunes, los funcionarios
-    dispuestos a creer y actuar sin hacer preguntas.
+  + Los monstruos existen, pero son demasiado pocos para ser
+    verdaderamente peligrosos. Más peligrosos son los hombres comunes,
+    los funcionarios dispuestos a creer y actuar sin hacer preguntas.
 
 * Proverbio árabe
   + No hables si lo que vas a decir no es más hermoso que el silencio.
 
 * Proverbio chino
-  + Aquel que pregunta es un tonto por cinco minutos, pero el que no pregunta
-    permanece tonto por siempre.
+  + Aquel que pregunta es un tonto por cinco minutos, pero el que no
+    pregunta permanece tonto por siempre.
   + Cuando mi corazón está en paz, el mundo está en paz.
   + Cuando soplan vientos de cambio, algunos construyen muros. Otros, molinos.
   + El trabajo del pensamiento se parece a la perforación de un pozo: el agua
     es turbia al principio, mas luego se clarifica.
   + La puerta mejor cerrada es aquella que puede dejarse abierta.
-  + Quien quiere hacer algo encuentra un medio; quien no quiere hacer nada
-    encuentra una excusa.
-  + Si el problema tiene solución, ¿por qué te preocupas?. Y si no la tiene,
-    ¿por qué te sigues preocupando?
+  + Quien quiere hacer algo encuentra un medio; quien no quiere hacer
+    nada encuentra una excusa.
+  + Si el problema tiene solución, ¿por qué te preocupas?. Y si no la
+    tiene, ¿por qué te sigues preocupando?
   + Si te caes siete veces, levántate ocho.
 
 * Proverbio hindú
