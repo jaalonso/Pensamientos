@@ -3446,7 +3446,8 @@ encontrando.
 * Proverbio hindú
   + Con mis maestros he aprendido mucho; con mis colegas, más; con mis
     alumnos mucho más.
-  + Cuando hables, procura que tus palabras sean mejores que el silencio.
+  + Cuando hables, procura que tus palabras sean mejores que el
+    silencio.
 
 * Proverbio holandés
   + No puede impedirse el viento. Pero pueden construirse molinos.
@@ -3456,18 +3457,18 @@ encontrando.
   + Las palabras no pronunciadas son las flores del silencio.
 
 * Proverbio persa
-  + Aprende lo que te parezca difícil: todo lo difícil se vuelve fácil gracias
-    al aprendizaje.
+  + Aprende lo que te parezca difícil: todo lo difícil se vuelve fácil
+    gracias al aprendizaje.
 
 * Proverbio romano
-  + Por la ignorancia nos equivocamos, y por las equivocaciones aprendemos.
+  + Por la ignorancia nos equivocamos, y por las equivocaciones
+    aprendemos.
 
 * Proverbio suizo
   + Las palabras son enanos, los ejemplos son gigantes.
 
 * Proverbio Zen
-  + Acepta lo que no puedas cambiar y
-    cambia lo que no puedas aceptar.
+  + Acepta lo que no puedas cambiar y cambia lo que no puedas aceptar.
   + Come cuando tengas hambre, duerme cuando estés cansado.
   + Con cada paso que das alcanzas tu meta.
   + Cualquier estúpido puede complicar las cosas, el truco está en
@@ -3475,11 +3476,11 @@ encontrando.
   + Deberías sentarte a meditar veinte minutos al día, a menos que estés
     demasiado ocupado. Entonces debes meditar una hora.
   + Descubro las enseñanzas de los sabios en las puntas de las hierbas.
-  + El trabajo de un maestro zen no consiste en impartir información, sino
-    hacerte ver qué no sabes.
-  + Eres lo que piensas.
-  + La primavera llega,
+  + El trabajo de un maestro zen no consiste en impartir información,
+    sino hacerte ver qué no sabes.
+  + La primavera llega, \\
     la hierba crece por sí sola.
+  + Eres lo que piensas.
   + Mientras distingas, arriba de abajo, izquierda de derecha, antes de
     después, serás esclavo del convencionalismo.
   + No confundáis la luna con el dedo que la señala.
