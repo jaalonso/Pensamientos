@@ -3621,23 +3621,24 @@ encontrando.
     idea que posee a la mente.
 
 * [[https://es.wikipedia.org/wiki/Robert_Burns][Robert Burns]]
-  + Si nos fuera dado el poder de vernos como nos ven los demás, de cuantos
-    disparates y necedades nos veríamos libres.
+  + Si nos fuera dado el poder de vernos como nos ven los demás, de
+    cuantos disparates y necedades nos veríamos libres.
 
 * [[https://es.wikipedia.org/wiki/Robert_Frost][Robert Frost]]
-  + En dos palabras puedo resumir cuanto he aprendido acerca de la vida: sigue
-    adelante.
+  + En dos palabras puedo resumir cuanto he aprendido acerca de la vida:
+    sigue adelante.
 
 * [[https://es.wikipedia.org/wiki/Robert_G._Ingersoll][Robert G. Ingersoll]]
   + En la vida no hay premios ni castigos, sino consecuencias.
 
 * [[https://es.wikipedia.org/wiki/Robert_Langlands][Robert Langlands]]
   + Ciertamente, los mejores momentos fueron cuando estaba solo con las
-    matemáticas, libre de ambiciones y pretensiones, e indiferente al mundo.
+    matemáticas, libre de ambiciones y pretensiones, e indiferente al
+    mundo.
 
 * [[https://es.wikipedia.org/wiki/Robert_Louis_Stevenson][Robert Louis Stevenson]]
-  + No juzgues el día por la cosecha que has recogido, sino por las semillas
-    que has plantado.
+  + No juzgues el día por la cosecha que has recogido, sino por las
+    semillas que has plantado.
   + Saber lo que prefieres, en lugar de decir sumisamente amén a lo que el
     mundo te dice que debieras preferir, significa que has mantenido tu alma con
     vida.
