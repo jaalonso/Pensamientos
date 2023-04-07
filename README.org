@@ -3706,30 +3706,33 @@ encontrando.
   + No temas a la perfección. Nunca la alcanzarás.
 
 * [[https://es.wikipedia.org/wiki/Salvador_Jacinto_Polo_de_Medina][Salvador Jacinto Polo de Medina]]
-  + Educar es cultivar a un tiempo el conocimiento de lo verdadero, la voluntad
-    de lo bueno y la sensibilidad de lo bello.
+  + Educar es cultivar a un tiempo el conocimiento de lo verdadero, la
+    voluntad de lo bueno y la sensibilidad de lo bello.
 
 * [[https://es.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek][Slavoj Zizek]]
   + Estamos atrapados en una competición malsana, una red absurda de
     comparaciones con los demás.
 
 * [[https://es.wikipedia.org/wiki/Samuel_Butler_(novelista)][Samuel Butler]]
-  + La vida es el arte de sacar conclusiones suficientes a partir de datos
-    insuficientes.
+  + La vida es el arte de sacar conclusiones suficientes a partir de
+    datos insuficientes.
 
 * [[https://bit.ly/33lHVDe][Samuel Johnson]]
-  + No deseo conversar con un hombre que haya escrito más de lo que ha leído.
+  + No deseo conversar con un hombre que haya escrito más de lo que ha
+    leído.
 
 * [[https://es.wikipedia.org/wiki/Samuel_Smiles][Samuel Smiles]]
   + Aprendemos sabiduría del fracaso mucho más que del éxito. A menudo
-    descubrimos lo que sirve, al descubrir lo que no sirve; y probablemente el que
-    nunca cometió un error, nunca hizo un descubrimiento.
+    descubrimos lo que sirve, al descubrir lo que no sirve; y
+    probablemente el que nunca cometió un error, nunca hizo un
+    descubrimiento.
   + Los pequeños hechos revelan mejor que los grandes el carácter de una
     persona.
 
 * [[https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona][San Agustín]]
-  + Los hombres están siempre dispuestos a curiosear y averiguar sobre las vidas
-    ajenas, pero les da pereza conocerse a sí mismos y corregir su propia vida.
+  + Los hombres están siempre dispuestos a curiosear y averiguar sobre
+    las vidas ajenas, pero les da pereza conocerse a sí mismos y
+    corregir su propia vida.
   + Quien roba con un barco es un pirata, quien roba con una flota es
     almirante.
 
