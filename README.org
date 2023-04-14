@@ -3821,8 +3821,8 @@ encontrando.
   + Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
 
 * [[https://en.wikipedia.org/wiki/Sod%C5%8D_Yokoyama][Sodo Yokoyama]]
-  + Decide que estés donde estés, es el mejor lugar que existe. Una vez que
-    comienzas a comparar, no hay fin.
+  + Decide que estés donde estés, es el mejor lugar que existe. Una vez
+    que comienzas a comparar, no hay fin.
 
 + [[https://es.wikipedia.org/wiki/Sol%C3%B3n][Solón]]
   + Conócete a ti mismo.
@@ -3831,13 +3831,13 @@ encontrando.
   + Nada con exceso, todo con medida.
 
 * [[https://es.wikipedia.org/wiki/Sor_Juana_In%C3%A9s_de_la_Cruz][Sor Juana Inés de la Cruz]]
-  + Para todo se halla prueba y razón en qué fundarlo; y no hay razón para
-    nada, de haber razón para tanto.
+  + Para todo se halla prueba y razón en qué fundarlo; y no hay razón
+    para nada, de haber razón para tanto.
   + Yo no estudio para saber más, sino para ignorar menos.
 
 * [[https://es.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard][Søren Kierkegaard]]
-  + Afronta el hecho de ser lo que eres, porque eso es lo que cambia lo que
-    eres.
+  + Afronta el hecho de ser lo que eres, porque eso es lo que cambia lo
+    que eres.
   + La minoría siempre es más fuerte que la mayoria, porque la minoría
     generalmente está formada por quienes realmente tienen una opinión.
   + La tarea se debe plantear difícil, pues sólo la dificultad inspira a los
