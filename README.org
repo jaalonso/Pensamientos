@@ -3840,10 +3840,10 @@ encontrando.
     que eres.
   + La minoría siempre es más fuerte que la mayoria, porque la minoría
     generalmente está formada por quienes realmente tienen una opinión.
-  + La tarea se debe plantear difícil, pues sólo la dificultad inspira a los
-    nobles de corazón.
-  + La vida sólo puede ser comprendida hacia atrás, pero únicamente puede ser
-    vivida hacia adelante, o sea hacia algo que no existe.
+  + La tarea se debe plantear difícil, pues sólo la dificultad inspira a
+    los nobles de corazón.
+  + La vida sólo puede ser comprendida hacia atrás, pero únicamente
+    puede ser vivida hacia adelante, o sea hacia algo que no existe.
   + Si me etiquetas, me niegas.
 
 * [[https://es.wikipedia.org/wiki/Stendhal][Stendhal]]
