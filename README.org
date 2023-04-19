@@ -3940,9 +3940,9 @@ encontrando.
   + El tiempo es una droga. En cantidades excesivas, mata.
 
 * [[https://bit.ly/2E7OKPL][Thich Nhat Hanh]]
-  + La mayor parte de nuestro sufrimiento surge de nuestras ideas y conceptos. Si
-    eres capaz de liberarte de estos conceptos, la ansiedad y el miedo
-    desaparecerán.
+  + La mayor parte de nuestro sufrimiento surge de nuestras ideas y
+    conceptos. Si eres capaz de liberarte de estos conceptos, la
+    ansiedad y el miedo desaparecerán.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Alva_Edison][Thomas Alva Edison]]
   + Hay una manera de hacerlo mejor, búscala.
