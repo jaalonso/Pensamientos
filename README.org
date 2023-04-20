@@ -3949,19 +3949,20 @@ encontrando.
   + No he fracasado, he encontrado diez mil fórmulas que no funcionan.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Carlyle][Thomas Carlyle]]
-  + La contemplación es un lujo, mientras que la acción es una necesidad.
-  + Lo que nos convertimos depende de lo que leamos después de que todos los
-    profesores hayan terminado con nosotros. La universidad más grande de todas
-    es una colección de libros.
+  + La contemplación es un lujo, mientras que la acción es una
+    necesidad.
+  + Lo que nos convertimos depende de lo que leamos después de que todos
+    los profesores hayan terminado con nosotros. La universidad más
+    grande de todas es una colección de libros.
   + No hables, en manera alguna, hasta que tengas algo que decir.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Hobbes][Thomas Hobbes]]
-   + Al deseo, acompañado de la idea de satisfacerse, se le denomina esperanza;
-     despojado de tal idea, desesperación.
+  + Al deseo, acompañado de la idea de satisfacerse, se le denomina
+    esperanza; despojado de tal idea, desesperación.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Jefferson][Thomas Jefferson]]
-  + Si me encuentro con una decepción, cuanto antes lo sepa, más vida tendré
-    para superarla.
+  + Si me encuentro con una decepción, cuanto antes lo sepa, más vida
+    tendré para superarla.
   + Yo creo bastante en la suerte. Y he constatado que, cuanto más duro
     trabajo, más suerte tengo.
 
@@ -3970,15 +3971,15 @@ encontrando.
     experiencia visual y conceptual previa lo ha preparado a ver.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Merton][Thomas Merton]]
-  + La felicidad no es una cuestión de intensidad, sino de equilibrio, ritmo y
-    armonía.
+  + La felicidad no es una cuestión de intensidad, sino de equilibrio,
+    ritmo y armonía.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Shadwell][Thomas Shadwell]]
   + Ningún hombre es feliz sino por comparación.
 
 * [[https://es.wikipedia.org/wiki/Thornton_Wilder][Thornton Wilder]]
-  + Es difícil dejar de convertirse en la persona que los demás creen que uno
-    es.
+  + Es difícil dejar de convertirse en la persona que los demás creen
+    que uno es.
 
 * [[https://es.wikipedia.org/wiki/Tito_Livio][Tito Livio]]
   + Conserva el mismo ánimo en cualquier circunstancia de la fortuna; que las
