@@ -4116,11 +4116,12 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Wilhelm_von_Humboldt][Wilhelm von Humboldt]]
   + Cuanto menos se lleve a cabo, más corta parece la vida.
-  + La interdependencia entre el pensamiento y la palabra ilumina claramente la
-    verdad de que las lenguas no son realmente un medio para representar verdades
-    ya conocidas, sino más bien un instrumento para descubrir verdades no
-    reconocidas anteriormente. Las diferencias entre los lenguajes no son las de
-    los sonidos y los signos, sino las de las diferentes cosmovisiones.
+  + La interdependencia entre el pensamiento y la palabra ilumina
+    claramente la verdad de que las lenguas no son realmente un medio
+    para representar verdades ya conocidas, sino más bien un instrumento
+    para descubrir verdades no reconocidas anteriormente. Las
+    diferencias entre los lenguajes no son las de los sonidos y los
+    signos, sino las de las diferentes cosmovisiones.
 
 * [[https://es.wikipedia.org/wiki/William_Arthur_Ward][William A. Ward]]
   + El pesimista se queja del viento;
@@ -4136,57 +4137,62 @@ encontrando.
   + Una misma ley para el león y para el buey es opresión.
 
 * [[https://es.wikipedia.org/wiki/William_Faulkner][William Faulkner]]
-  + La sabiduría suprema es tener sueños bastante grandes para no perderlos de
-    vista mientras se persiguen.
-  + Lo más triste es que la única cosa que se puede hacer durante ocho horas al
-    día es trabajar.
+  + La sabiduría suprema es tener sueños bastante grandes para no
+    perderlos de vista mientras se persiguen.
+  + Lo más triste es que la única cosa que se puede hacer durante ocho
+    horas al día es trabajar.
 
 * [[https://es.wikipedia.org/wiki/William_James][William James]]
-  + Cuando debemos hacer una elección y no la haces, esto ya es una elección.
+  + Cuando debemos hacer una elección y no la haces, esto ya es una
+    elección.
   + Dejad pensar al pueblo que gobierna y se dejará gobernar.
   + El arte de ser sabio es el arte de saber qué pasar por alto.
-  + El camino voluntario y soberano hacia la alegría, si perdemos la alegría,
-    consiste en proceder con alegría, actuar y hablar con alegría, como si esa
-    alegría estuviera ya con nosotros.
+  + El camino voluntario y soberano hacia la alegría, si perdemos la
+    alegría, consiste en proceder con alegría, actuar y hablar con
+    alegría, como si esa alegría estuviera ya con nosotros.
   + El objetivo de la ciencia es siempre reducir la complejidad a la
     simplicidad.
   + El pájaro no canta porque sea feliz, sino que es feliz porque canta.
-  + El principio más profundo del carácter humano es el anhelo de ser apreciado.
-  + La unión del matemático con el poeta, el fervor con la medida, la pasión con
-    la corrección, este seguramente es el ideal.
-  + Muchas personas creen que piensan, pero están reordenando sus prejuicios.
-  + No hay mentira peor que una verdad mal entendida por los que la oyen.
-  + No temas a la vida. Cree que la vida es digna de ser vivida, y tu creencia
-    ayudará a crear el hecho.
-  + Primero una nueva teoría es tachada de absurda; luego se admite que es
-    cierta, pero obvia e insignificante; finalmente, se ve tan importante que sus
-    adversarios afirman que ellos mismos la descubrieron.
-  + Un gran número de personas piensan que están pensando cuando no hacen más que
-    reordenar sus prejuicios.
+  + El principio más profundo del carácter humano es el anhelo de ser
+    apreciado.
+  + La unión del matemático con el poeta, el fervor con la medida, la
+    pasión con la corrección, este seguramente es el ideal.
+  + Muchas personas creen que piensan, pero están reordenando sus
+    prejuicios.
+  + No hay mentira peor que una verdad mal entendida por los que la
+    oyen.
+  + No temas a la vida. Cree que la vida es digna de ser vivida, y tu
+    creencia ayudará a crear el hecho.
+  + Primero una nueva teoría es tachada de absurda; luego se admite que
+    es cierta, pero obvia e insignificante; finalmente, se ve tan
+    importante que sus adversarios afirman que ellos mismos la
+    descubrieron.
   + Una cosa es importante si alguien la cree importante.
 
 * [[https://bit.ly/2X1l7Gu][William Penn]]
   + Dejad pensar al pueblo que gobierna y se dejará gobernar.
 
 * [[https://es.wikipedia.org/wiki/William_Shakespeare][William Shakespeare]]
-  + En nuestros locos intentos, renunciamos a lo que somos por lo que esperamos
-    ser.
+  + En nuestros locos intentos, renunciamos a lo que somos por lo que
+    esperamos ser.
   + La brevedad es el alma del ingenio.
   + Los viejos desconfían de la juventud porque han sido jóvenes.
   + Un hombre que no se alimenta de sus sueños envejece pronto.
   + Un tonto se cree sabio, pero un sabio se sabe tonto.
-  + Qué época tan terrible esta en que unos idiotas gobiernan a unos ciegos.
+  + Qué época tan terrible esta en que unos idiotas gobiernan a unos
+    ciegos.
 
 * [[https://bit.ly/3itzT1w][William Somerset Maugham]]
-  + Como todos los hombres débiles, puso un énfasis exagerado en no cambiar de
-    opinión.
-  + La vejez está lista para emprender tareas que la juventud eludió porque
-    tomaría demasiado tiempo.
-  + Si la gente sólo hablara cuando tuviera algo que decir, el ser humano perdería
-    muy pronto el uso del lenguaje.
-  + Solo avanzada ya mi vida me di cuenta de cuán fácil es decir: no lo sé.
-  + Sólo hay una cosa de la que estoy seguro, y es que hay muy poco de lo que uno
-    pueda estar seguro.
+  + Como todos los hombres débiles, puso un énfasis exagerado en no
+    cambiar de opinión.
+  + La vejez está lista para emprender tareas que la juventud eludió
+    porque tomaría demasiado tiempo.
+  + Si la gente sólo hablara cuando tuviera algo que decir, el ser
+    humano perdería muy pronto el uso del lenguaje.
+  + Solo avanzada ya mi vida me di cuenta de cuán fácil es decir: no lo
+    sé.
+  + Sólo hay una cosa de la que estoy seguro, y es que hay muy poco de
+    lo que uno pueda estar seguro.
 
 * [[https://es.wikipedia.org/wiki/Winston_Churchill][Winston Churchill]]
   + El éxito es aprender a ir de fracaso en fracaso sin desesperarse.
@@ -4198,50 +4204,57 @@ encontrando.
     la oportunidad en cada dificultad.
 
 * [[https://es.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart][Wolfgang Amadeus Mozart]]
-  + No presto ninguna atención a los elogios o reproches de nadie. Simplemente
-    sigo mis propios sentimientos.
+  + No presto ninguna atención a los elogios o reproches de
+    nadie. Simplemente sigo mis propios sentimientos.
 
 * [[https://es.wikipedia.org/wiki/Woody_Allen][Woody Allen]]
-  + La vocación del político de carrera es hacer de cada solución un problema.
+  + La vocación del político de carrera es hacer de cada solución un
+    problema.
   + Las cosas no se dicen, se hacen, porque al hacerlas se dicen solas.
 
 * [[https://bit.ly/2YZrXh7][Yoritomo Tashi]]
-  + El sentido común es el arte de resolver los problemas, no de plantearlos.
+  + El sentido común es el arte de resolver los problemas, no de
+    plantearlos.
 
 * [[https://en.wikipedia.org/wiki/Yunmen_Wenyan][Yunmen Wenyan]]
-  + Si tu mente no está nublada por cosas innecesarias, esta es la mejor estación
-    de tu vida.
+  + Si tu mente no está nublada por cosas innecesarias, esta es la mejor
+    estación de tu vida.
 
 * [[https://es.wikipedia.org/wiki/Yuval_Noah_Harari][Yuval Noah Harari]]
-  + La gente lleva vidas cada vez más solitarias en un planeta cada vez más
-    conectado.
+  + La gente lleva vidas cada vez más solitarias en un planeta cada vez
+    más conectado.
 
 * [[https://es.wikipedia.org/wiki/Zen%C3%B3n_de_Citio][Zenón de Citio]]
-  + Recordad que la naturaleza nos ha dado dos oídos y una sola boca, para
-    enseñarnos que más vale escuchar que hablar.
+  + Recordad que la naturaleza nos ha dado dos oídos y una sola boca,
+    para enseñarnos que más vale escuchar que hablar.
 
 * [[https://es.wikipedia.org/wiki/Zhuangzi][Zhuangzi]]
-  + El buen orden resulta espontáneamente cuando se dejan las cosas a sí mismas.
+  + El buen orden resulta espontáneamente cuando se dejan las cosas a sí
+    mismas.
   + Los pies pisan el suelo; pero es aquello que no pisan lo que permite
-    caminar. Aquello que se conoce es poco; pero, apoyado en lo poco que se conoce
-    es posible conocer mucho.
+    caminar. Aquello que se conoce es poco; pero, apoyado en lo poco que
+    se conoce es posible conocer mucho.
   + Un camino se hace caminando sobre él.
-  + Un pequeño saber no puede equipararse a uno grande. Ni una corta vida a una
-    larga existencia. ¿Cómo se sabe que esto es así? El hongo que sólo vive una
-    mañana desconoce el ciclo de la luna. La cigarra de verano nada sabe de
-    primaveras ni de otoños. Así son las pequeñas existencias.
+  + Un pequeño saber no puede equipararse a uno grande. Ni una corta
+    vida a una larga existencia. ¿Cómo se sabe que esto es así? El hongo
+    que sólo vive una mañana desconoce el ciclo de la luna. La cigarra
+    de verano nada sabe de primaveras ni de otoños. Así son las pequeñas
+    existencias.
   + Una rana en un pozo no puede concebir el océano.
 
 * [[https://es.wikipedia.org/wiki/Zhuge_Liang][Zhuge Liang]]
-  + El estudio requiere calma, el talento requiere estudio. Sin estudio no hay
-    forma de desarrollar el talento; sin calma no hay forma de lograr el estudio.
-  + Los sabios ganan antes de luchar, mientras que los ignorantes luchan para
-    ganar.
+  + El estudio requiere calma, el talento requiere estudio. Sin estudio
+    no hay forma de desarrollar el talento; sin calma no hay forma de
+    lograr el estudio.
+  + Los sabios ganan antes de luchar, mientras que los ignorantes luchan
+    para ganar.
 
 * [[https://es.wikipedia.org/wiki/Zygmunt_Bauman][Zygmunt Bauman]]
-  + La tolerancia absoluta de todo y para todo, es el valor dominante. Lo único
-    que no se tolera en tiempos posmodernos son las convicciones firmes, las que
-    no se sujetan a consenso, pues la época liquida, no tolera lo sólido y lo
-    vomita.
+  + Con nuestro culto a la satisfacción inmediata, muchos de nosotros
+    hemos perdido la capacidad de esperar.
+  + La tolerancia absoluta de todo y para todo, es el valor
+    dominante. Lo único que no se tolera en tiempos posmodernos son las
+    convicciones firmes, las que no se sujetan a consenso, pues la época
+    liquida, no tolera lo sólido y lo vomita.
 
 #+LATEX: \end{document}
