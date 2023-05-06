@@ -3108,6 +3108,8 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Maurice_Maeterlinck][Maurice Maeterlinck]]
   + El silencio es el sol que madura los frutos del alma.
+  + La desesperanza está fundada en lo que sabemos, que es nada. Y la
+    esperanza sobre lo que ignoramos, que es todo.
 
 * [[https://es.wikipedia.org/wiki/Max_Planck][Max Planck]]
   + No es la posesión de la verdad, sino el éxito que acompaña a la
