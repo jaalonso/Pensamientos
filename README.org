@@ -513,7 +513,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Ant%C3%B3n_Ch%C3%A9jov][Antón Chéjov]]
   + Las personas inteligentes quieren aprender. Las demás, enseñar.
 
-+ Anónimo
+* Anónimo
   + Conócete a tí mismo.
   + Cuando crees que sabes todas las respuestas, la vida te cambia todas
     las preguntas.
@@ -528,7 +528,6 @@ encontrando.
     los tontos, en cambio, suelen complicar lo sencillo.
   + Los errores son como una colección por fascículos: cada uno te
     enseña una lección, pero el precio es cada vez más alto.
-  + Poco basta cada día, si cada día se logra ese poco.
   + Sólo se comprende cuando se deja de obedecer, sólo se obedece cuando
     no se comprende.
 
@@ -3764,6 +3763,7 @@ encontrando.
     la justicia?
   + O se tienen muchas ideas y pocos amigos o muchos amigos y pocas
     ideas.
+  + Poco basta cada día, si cada día se logra ese poco.
   + Razonar y convencer, ¡qué difícil, largo y trabajoso! ¿Sugestionar?
     ¡Qué fácil, rápido y barato!
   + "Si nuestras ocupaciones no nos permiten consagrar al tema más que 2
