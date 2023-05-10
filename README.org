@@ -2681,6 +2681,8 @@ encontrando.
     las maravillas.
   + Por el contrario, si fuera así, podría ser; y si lo fuera, sería;
     pero como no lo es, no es. Eso es lógica.
+  + Se quien era esta mañana cuando me levanté, pero creo que he debido
+    cambiar varias veces desde entonces.
 
 * [[https://es.wikipedia.org/wiki/Li_Bai][Li Bai]]
   + El mundo está lleno de pequeñas alegrías. El arte consiste en saber
