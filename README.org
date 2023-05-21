@@ -3234,6 +3234,10 @@ encontrando.
   + Una cosa no es justa por el hecho de ser ley. Debe ser ley porque es
     justa.
 
+* [[https://es.wikipedia.org/wiki/Naguib_Mahfuz][Naguib Mahfouz]]
+  + Tu hogar no es donde naciste; el hogar es donde todos tus intentos
+    de escapar, cesan.
+
 * [[https://es.wikipedia.org/wiki/Napole%C3%B3n_Bonaparte][Napoleón Bonaparte]]
   + Los sabios son los que buscan la sabiduría; los necios piensan ya
     haberla encontrado.
