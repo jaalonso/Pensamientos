@@ -1034,6 +1034,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Charles_Darwin][Charles Darwin]]
   + La ignorancia engendra más con frecuencia confianza que el
     conocimiento.
+  + Si no hay dudas, no hay progreso.
 
 * [[https://es.wikipedia.org/wiki/Charles_Dickens][Charles Dickens]]
   + Cada fracaso nos enseña algo que necesitamos aprender.
