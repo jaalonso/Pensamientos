@@ -2895,6 +2895,11 @@ encontrando.
     exteriores.
   + Nuestra recompensa se encuentra en el esfuerzo y no en el
     resultado. Un esfuerzo total es una victoria completa.
+  + El hombre a menudo se convierte en lo que él cree que es. Si sigo
+    diciéndome que no puedo hacer cierta cosa, es posible que termine
+    realmente siendo incapaz de hacerlo. Por el contrario, si tengo la
+    creencia de que puedo hacerlo, seguramente tendré la capacidad de
+    hacerlo.
   + El hombre es producto de sus pensamientos: se convierte en lo que
     piensa.
   + Lo más atroz de las cosas malas de la gente mala es el silencio de
@@ -2904,6 +2909,8 @@ encontrando.
     siempre.
 
 * [[https://es.wikipedia.org/wiki/Maim%C3%B3nides][Maimónides]]
+  + Es preferible el riesgo de una mala decisión al terror de la
+    indecisión.
   + Quien quiera alcanzar la perfección humana, debe estudiar primero la
     Lógica, después las distintas ramas de las Matemáticas en su orden
     correcto, luego la Física, y por último la Metafísica.
