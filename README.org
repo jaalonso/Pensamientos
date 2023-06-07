@@ -1507,6 +1507,10 @@ encontrando.
     los noticieros que te envenenan desde la mañana, a los que quieren
     dirigir tu vida por el camino perdido.
 
+* [[https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca][Federico García Lorca]]
+  + Desechad tristezas y melancolías. La vida es amable, tiene pocos días
+    y tan solo ahora la hemos de gozar.
+
 * [[https://es.wikipedia.org/wiki/Friedrich_Ludwig_Jahn][Federico Luis Jahn]]
   + El secreto para vivir en paz con todos consiste en el arte de
     comprender a cada uno según su individualidad.
