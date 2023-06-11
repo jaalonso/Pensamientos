@@ -3659,6 +3659,10 @@ encontrando.
   + Si tu felicidad depende de lo que hagan los demás, supongo que
     estarás en aprietos.
 
+* [[https://es.wikipedia.org/wiki/Richard_Feynman][Richard Feynman]]
+  + Necesitamos enseñar a que la duda no sea temida, sino bienvenida y
+    debatida. No hay problema en decir: "no lo sé".
+
 * [[https://es.wikipedia.org/wiki/Richard_Whately][Richard Whately]]
   + Enseñar a quien no tiene curiosidad por aprender es sembrar un campo
     sin ararlo.
