@@ -1738,6 +1738,10 @@ encontrando.
   + Todas las verdades son fáciles de entender, una vez descubiertas. El
     caso es descubrirlas.
 
+* [[https://es.wikipedia.org/wiki/Gaspar_Melchor_de_Jovellanos][Gaspar Melchor de Jovellanos]]
+  + La ignorancia siempre es ciega. No conoce el bien para seguirlo, ni el
+    mal para evitarlo.
+
 * [[https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel][Georg Wilhelm Friedrich Hegel]]
   + Aprendemos de la historia que no aprendemos de la historia.
   + La verdad no se encuentra ni en la tesis ni en la antítesis, sino en
