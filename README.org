@@ -4309,6 +4309,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Zen%C3%B3n_de_Citio][Zenón de Citio]]
   + Recordad que la naturaleza nos ha dado dos oídos y una sola boca,
     para enseñarnos que más vale escuchar que hablar.
+  + Una cosa bien hecha, aunque sea poco a poco, no es poca cosa.
 
 * [[https://es.wikipedia.org/wiki/Zhuangzi][Zhuangzi]]
   + El buen orden resulta espontáneamente cuando se dejan las cosas a sí
