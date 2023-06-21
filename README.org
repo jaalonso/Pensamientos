@@ -1790,6 +1790,8 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Gibran Jalil Gibran]]
   + El olvido es una forma de libertad.
+  + El optimista ve la rosa y no sus espinas; el pesimista mira las
+    espinas, ajeno a la rosa.
   + En el corazón de todos los inviernos vive una primavera palpitante,
     y detrás de cada noche, viene una aurora sonriente.
   + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar
