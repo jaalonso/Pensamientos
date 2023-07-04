@@ -2547,6 +2547,12 @@ encontrando.
   + Cuanto más claro y bonito sea el programa, más rápido se
     ejecutará. Y si no lo hace, será fácil hacerlo rápido.
 
+* [[https://es.wikipedia.org/wiki/Juan_Carlos_Onetti][Juan Carlos Onetti]]
+  + Cada uno acepta lo que va descubriendo de sí mismo en las miradas de
+    los demás, se va formando en la convivencia, se confunde con el que
+    suponen los otros y actúa de acuerdo con lo que se espera de ese
+    supuesto inexistente.
+
 * [[https://es.wikipedia.org/wiki/Juan_Jos%C3%A9_Mill%C3%A1s][Juan José Millás]]
   + La mafia tiene vocación de Estado y el Estado tiene vocación de
     mafia. En ese ir y venir, no es raro que se encuentren.
