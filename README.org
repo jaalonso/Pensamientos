@@ -1498,6 +1498,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Esquilo][Esquilo de Eleusis]]
   + Las palabras son una medicina para el alma que sufre.
 
+* [[https://es.wikipedia.org/wiki/Estilp%C3%B3n_de_M%C3%A9gara][Estilpón de Mégara]]
+  + Todos mis bienes están en mí.
+
 * [[https://es.wikipedia.org/wiki/Eug%C3%A8ne_Ionesco][Eugène Ionesco]]
   + No es la respuesta lo que nos ilumina, sino la pregunta.
 
