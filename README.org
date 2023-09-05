@@ -1676,9 +1676,9 @@ encontrando.
     tribu. Si lo intentas, a menudo estarás solo, y a veces
     asustado. Pero ningún precio es demasiado alto por el privilegio de
     ser uno mismo.
-  + Es más cómodo obedecer a la conciencia que a la razón; la conciencia halla
-    en sí misma una excusa y un aliento. Por eso hay aún tantas personas
-    concienzudas y tan pocas personas razonables.
+  + Es más cómodo obedecer a la conciencia que a la razón; la conciencia
+    halla en sí misma una excusa y un aliento. Por eso hay aún tantas
+    personas concienzudas y tan pocas personas razonables.
   + Es sencillo hacer que las cosas sean complicadas, pero difícil hacer
     que sean sencillas.
   + Hay dos tipos diferentes de personas en el mundo, los que quieren
@@ -3229,6 +3229,7 @@ encontrando.
     vida, ama la belleza y la salud. Su tarea propia es saber usar esos
     bienes de manera mesurada, y saberlos perder con entereza. El alma,
     en efecto, se ensancha a medida que se llena.
+  + La peor desgracia para nosotros es desdeñar aquello que somos.
   + La verdadera libertad consiste en el dominio absoluto de sí mismo.
   + Mi vida ha estado llena de terribles desgracias, la mayoría de las
     cuales nunca sucedieron.
