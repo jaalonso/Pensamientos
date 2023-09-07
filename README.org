@@ -1620,7 +1620,7 @@ encontrando.
   + Si queréis formar juicio acerca de un hombre, observad quienes son
     sus amigos.
 
-+ [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_Jullien][François Jullien]]
+* [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_Jullien][François Jullien]]
   + El sabor intenso nos esclaviza y satura, lo insípido nos libera.
 
 * [[https://es.wikipedia.org/wiki/Fran%C3%A7oise_Sagan][Françoise Sagan]]
@@ -2172,7 +2172,7 @@ encontrando.
     en matemáticas es el resultado de un intento de resolver algún
     problema.
 
-+ [[https://es.wikipedia.org/wiki/Humberto_Maturana][Humberto Maturana]]
+* [[https://es.wikipedia.org/wiki/Humberto_Maturana][Humberto Maturana]]
   + Nuestro problema como sociedad es que no conversamos. No conversamos
     porque tenemos ideologías, estamos aferrados a cierto modo de pensar
     y no reflexionamos.
@@ -3380,7 +3380,7 @@ encontrando.
   + Todos los hombres verán lo que pareces ser; sólo unos pocos sabrán
     quién eres.
 
-+ [[https://es.wikipedia.org/wiki/Nuccio_Ordine][Nuccio Ordine]]
+* [[https://es.wikipedia.org/wiki/Nuccio_Ordine][Nuccio Ordine]]
   + Los jóvenes reclaman sobre todo profesores que vivan con pasión y
     con verdadero interés la disciplina que imparten.
 
@@ -3948,7 +3948,7 @@ encontrando.
   + Decide que estés donde estés, es el mejor lugar que existe. Una vez
     que comienzas a comparar, no hay fin.
 
-+ [[https://es.wikipedia.org/wiki/Sol%C3%B3n][Solón]]
+* [[https://es.wikipedia.org/wiki/Sol%C3%B3n][Solón]]
   + Conócete a ti mismo.
   + Hay que ocupar en todo el justo medio.
   + Me hago viejo aprendiendo siempre multitud de cosas.
@@ -4140,7 +4140,7 @@ encontrando.
     índice final; esto es, precisamente las cosas que todos los autores
     hacen al final.
 
-+ [[https://es.wikipedia.org/wiki/Vicente_Huidobro][Vicente Huidobro]]
+* [[https://es.wikipedia.org/wiki/Vicente_Huidobro][Vicente Huidobro]]
   + Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da
     vida, mata.
 
