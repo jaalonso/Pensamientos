@@ -106,6 +106,8 @@ encontrando.
   + Cada generación, sin duda, se cree destinada a rehacer el mundo. La
     mía sabe, sin embargo, que no lo rehará. Pero su tarea acaso sea más
     grande. Consiste en impedir que el mundo se deshaga.
+  + El silencio es la conversación de las personas que se quieren. Lo
+    que cuenta no es lo que se dice, sino lo que no es necesario decir.
   + Envejecer es pasar de la pasión a la compasión.
   + Inocente es quien no necesita explicarse.
   + La gente nunca está convencida de tus razones, de tu sinceridad, de
@@ -2502,7 +2504,8 @@ encontrando.
     ayudan a ver mejor.
 
 * [[https://es.wikipedia.org/wiki/Jos%C3%A9_Narosky][José Narosky]]
-  + Quien cambia felicidad por dinero no podrá cambiar dinero por felicidad.
+  + Quien cambia felicidad por dinero no podrá cambiar dinero por
+    felicidad.
 
 * [[https://es.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset][José Ortega y Gasset]]
   + La técnica es el esfuerzo para ahorrar esfuerzo.
