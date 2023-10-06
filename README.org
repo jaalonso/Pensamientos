@@ -2239,6 +2239,8 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Isaac_Newton][Isaac Newton]]
   + Lo que sabemos es una gota de agua; lo que ignoramos es el océano.
+  + Si he hecho descubrimientos invaluables ha sido más por tener
+    paciencia que cualquier otro talento.
 
 * [[https://es.wikipedia.org/wiki/Isabel_Allende][Isabel Allende]]
   + Memoria selectiva para recordar lo bueno, prudencia lógica para no
