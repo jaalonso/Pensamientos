@@ -3538,6 +3538,8 @@ encontrando.
   + El que habla siembra, el que escucha, recoge.
   + Elige lo mejor; la costumbre lo hará suave y fácil.
   + La sabiduría comienza escuchando ... escucha y serás sabio.
+  + No digas pocas cosas en muchas palabras, sino muchas cosas en pocas
+    palabras.
 
 * [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón]]
   + El hombre es un ser en busca de significado.
