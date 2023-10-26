@@ -3562,11 +3562,12 @@ encontrando.
     palabras.
 
 * [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón]]
-  + El hombre es un ser en busca de significado.
+  + El hombre es un ser en busca de sentido.
   + El matemático es perfecto sólo en la medida en que es un hombre
     perfecto, en la medida en que siente en sí mismo la belleza de la
     verdad; sólo entonces su trabajo será minucioso, transparente,
     prudente, puro, claro y elegante.
+  + El principio es la parte más importante del trabajo.
   + La belleza es el esplendor de la verdad.
   + La justicia no es otra cosa que la conveniencia del más fuerte.
   + La necesidad es la madre de la invención.
@@ -3575,12 +3576,15 @@ encontrando.
   + La realidad es creada por la mente, podemos cambiar nuestra realidad
     cambiando nuestra mente.
   + Lo que se busca se encuentra, lo que se descuida se pierde.
+  + Los sabios hablan porque tienen algo que decir, los tontos hablan
+    porque tienen que decir algo.
   + Los sabios son los que buscan la sabiduría; los necios piensan ya
     haberla encontrado.
   + Nada sucede por casualidad, en el fondo las cosas tienen su plan
     secreto, aunque nosotros no lo entendamos.
-  + Los sabios hablan porque tienen algo que decir, los tontos hablan
-    porque tienen que decir algo.
+  + Si bien buscas, encontrarás.
+  + Un recipiente vacío hace el sonido más fuerte, por eso los que
+    tienen un menor ingenio son los más grandes charlatanes.
 
 * [[https://es.wikipedia.org/wiki/Plutarco][Plutarco]]
   + El cerebro no es un vaso por llenar, sino una lámpara por encender.
