@@ -3518,7 +3518,9 @@ encontrando.
     pacientemente impacientes ante el mundo que no hicimos, al que
     acrecentamos con algo que hacemos.
 
-*  [[https://es.wikipedia.org/wiki/Pearl_S._Buck][Pearl S. Buck]]
+* [[https://es.wikipedia.org/wiki/Pearl_S._Buck][Pearl S. Buck]]
+  + Muchas personas no gozan de las pequeñas alegrías, porque esperan la
+    gran felicidad.
   + Uno se enfrenta al futuro con el pasado.
 
 * [[https://es.wikipedia.org/wiki/Pedro_Calder%C3%B3n_de_la_Barca][Pedro Calderón de la Barca]]
