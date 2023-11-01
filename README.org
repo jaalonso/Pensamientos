@@ -1626,6 +1626,10 @@ encontrando.
     gente necesita no es una mente brillante que hable sino un corazón
     especial que escuche.
 
+* [[https://es.wikipedia.org/wiki/Francisco_de_As%C3%ADs][Francisco de Asís]]
+  + Allí donde reinan la quietud y la meditación, no hay lugar para las
+    preocupaciones ni para la disipación.
+
 * [[https://es.wikipedia.org/wiki/Francisco_de_Quevedo][Francisco de Quevedo]]
   + Cuando decimos que todo tiempo pasado fue mejor, condenamos el
     futuro sin conocerlo.
