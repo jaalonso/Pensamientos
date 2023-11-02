@@ -3580,6 +3580,7 @@ encontrando.
     palabras.
 
 * [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón]]
+  + Buscando el bien de nuestros semejantes, encontramos el nuestro.
   + El hombre es un ser en busca de sentido.
   + El matemático es perfecto sólo en la medida en que es un hombre
     perfecto, en la medida en que siente en sí mismo la belleza de la
