@@ -2554,6 +2554,8 @@ encontrando.
     punto de mira.
   + Las palabras son como el vidrio; oscurecen todo aquello que no
     ayudan a ver mejor.
+  + Los que nunca varían de opinión se aman a sí mismos más que a la
+    verdad.
 
 * [[https://es.wikipedia.org/wiki/Jos%C3%A9_Narosky][José Narosky]]
   + Quien cambia felicidad por dinero no podrá cambiar dinero por
@@ -3722,6 +3724,10 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Ram%C3%B3n_de_Campoamor][Ramón de Campoamor]]
   + No rechaces tus sueños. ¿Sin la ilusión el mundo que sería?
+  + Y es que en el mundo traidor \\
+    nada hay verdad ni mentira:  \\
+    todo es según el color       \\
+    del cristal con que se mira.
 
 * [[https://es.wikipedia.org/wiki/Ramon_Llull][Ramón Llull]]
   + Hombre paciente no es vencido.
