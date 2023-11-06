@@ -3494,6 +3494,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Ovidio][Ovidio]]
   + En los campos ajenos, la cosecha siempre es más abundante.
   + La gota horada la roca, no por su fuerza sino por su constancia.
+  + Nada es más útil al hombre que aquellas artes que no tienen ninguna
+    utilidad
 
 * [[https://es.wikipedia.org/wiki/Pablo_Neruda][Pablo Neruda]]
   + La felicidad es interior, no exterior; por lo tanto, no depende de
