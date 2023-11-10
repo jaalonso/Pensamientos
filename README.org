@@ -527,8 +527,6 @@ encontrando.
   + Hay quienes cruzan el bosque y sólo ven leña para el fuego.
   + La palabra y la piedra suelta no tienen vuelta.
   + La vida crece en las orillas, no en las aguas turbulentas.
-  + La vida es un espejo; si le sonries, te sonreirá; si le pones mala
-    cara, te la pondrá.
   + Las mentes brillantes manejan ideas; las corrientes hablan de
     actualidades; las mediocres hablan de los demás.
   + Las personas inteligentes son capaces de simplificar lo complejo;
@@ -3013,6 +3011,8 @@ encontrando.
   + La verdad es totalmente interior. No hay que buscarla fuera de
     nosotros ni querer realizarla luchando con violencia con enemigos
     exteriores.
+  + La vida es como un espejo: si sonrío, el espejo me devuelve la
+    sonrisa.
   + Nuestra recompensa se encuentra en el esfuerzo y no en el
     resultado. Un esfuerzo total es una victoria completa.
   + El hombre a menudo se convierte en lo que él cree que es. Si sigo
