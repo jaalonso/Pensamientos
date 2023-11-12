@@ -2044,6 +2044,8 @@ encontrando.
     física, intelectual o moralmente, lo mismo que los animales sólo
     conciben a los suyos en ciertas estaciones. Oímos y captamos sólo lo
     que ya casi sabemos.
+  + El hombre es rico en proporción a la cantidad de cosas de las que
+    puede prescindir.
   + El mayor cumplido que me han hecho en toda la vida fue cuando una
     persona me preguntó qué pensaba yo y escuchó la respuesta.
   + En las relaciones humanas la tragedia no empieza porque haya
@@ -2150,6 +2152,7 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Heródoto]]
   + Es más fácil embaucar a muchos juntos que a uno solo.
+  + Tu estado de ánimo es tu destino.
 
 * [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso]]
   + Día a día, lo que eliges, lo que piensas y lo que haces es en lo que
