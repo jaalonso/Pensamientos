@@ -941,6 +941,8 @@ encontrando.
     dos a la vez y llenando el espacio intermedio.
   + Vale más saber alguna cosa de todo, que saberlo todo de una sola
     cosa.
+  + Ya se han escrito todas las buenas máximas. Sólo falta ponerlas en
+    práctica.
 
 * [[https://es.wikipedia.org/wiki/B%C3%ADas][Bías de Priene]]
   + Pon manos a la obra con lentitud, pero, una vez comenzada, sé
@@ -1553,6 +1555,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Eugene_O'Neill][Eugene O'Neill]]
   + Esperar sentido común en la gente es una prueba de no tener sentido
     común.
+
++ [[https://es.wikipedia.org/wiki/Eur%C3%ADpides][Eurípides (480 a.n.e., 406 a.n.e.)]]
+  + Cuestiona todo, aprende algo, pero no esperes ninguna respuesta.
 
 * [[https://en.wikipedia.org/wiki/Evan_Esar][Evan Esar]]
   + Las vacaciones son como el amor: las anticipamos con placer, las
@@ -2172,6 +2177,8 @@ encontrando.
     te conviertes.
   + La enfermedad hace agradable la salud; el hambre la saciedad; la
     fatiga el reposo.
+  + Ningún hombre pisa dos veces el mismo río, porque no es el mismo río
+    y él no es el mismo hombre.
   + No hay nada permanente excepto el cambio.
   + Todo cambia, nada es.
 
@@ -3477,6 +3484,8 @@ encontrando.
   + Cuidemos las palabras y cuidémonos de ellas.
   + Las masas humanas más peligrosas son aquellas en cuyas venas ha sido
     inyectado el veneno del miedo.... del miedo al cambio.
+  + Lo primero es curarnos de la intoxicación de las ideologías
+    simplistas y simplificadoras.
 
 * [[https://es.wikipedia.org/wiki/Omar_Jayam][Omar Jayyam]]
   + Sé feliz durante este momento. Este momento es tu vida.
