@@ -3310,7 +3310,7 @@ encontrando.
   + La gente olvidará lo que dijiste, también olvidará lo que hiciste,
     pero jamás olvidará cómo les hiciste sentir.
 
-* [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne]]
+* [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne (1533-1592)]]
   + A quienes me preguntan la razón de mis viajes les contesto que sé
     bien de qué huyo pero ignoro lo que busco.
   + Cuando soy atacado por pensamientos sombríos, nada me ayuda tanto
@@ -3319,6 +3319,7 @@ encontrando.
   + Cuando me llevan la contraria, despiertan mi atención, no mi cólera;
     me ofrezco a quien me contradice, que me instruye. La causa de la
     verdad debería ser la causa común de uno y otro.
+  + El que teme padecer, padece ya lo que teme.
   + El signo más cierto de la sabiduría es la serenidad constante.
   + La señal más clara de la sabiduría es el gozo constante. Ama la
     vida, ama la belleza y la salud. Su tarea propia es saber usar esos
@@ -3330,6 +3331,9 @@ encontrando.
     cuales nunca sucedieron.
   + No existe el presente, y esto que llamamos presente no es sino la
     unión del futuro con el pasado.
+  + No hay desierto como el vivir sin amigos; la amistad multiplica los
+    bienes y reparte los males, es el único remedio contra la adversa
+    fortuna, y un desahogo del alma.
   + Nuestra opinión pone precio a las cosas.
   + Yo no cito a otros más que para expresar mejor mi pensamiento.
   + Yo no me encuentro a mí mismo cuando más me busco. Me encuentro por
@@ -3390,7 +3394,6 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Montesquieu][Montesquieu]]
   + El amor al estudio es la única pasión que dura tanto como la vida;
     todas las demás se desvanecen a medida que la vejez avanza.
-  + El que teme padecer padece ya lo que teme.
   + La literatura ha sido para mí el principal remedio contra las
     preocupaciones de la vida; no habiendo tenido nunca un disgusto que
     no se me haya pasado después de una hora de lectura.
