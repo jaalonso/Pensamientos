@@ -2787,7 +2787,7 @@ encontrando.
     levantar la voz.
   + Quien piensa poco, se equivoca mucho.
 
-* [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói]]
+* [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói (1828-1910)]]
   + El descanso, la naturaleza, los libros, la música... tal es mi idea
     de la felicidad.
   + En cuanto sientas las cosquillas del amor propio que anteceden al
@@ -2802,6 +2802,8 @@ encontrando.
     sino en la calma indestructible.
   + Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con
     exceso lo que no tengo.
+  + Todos piensan en cambiar el mundo, pero nadie piensa en cambiarse a
+    sí mismo.
   + Un hombre es como una fracción cuyo numerador corresponde a lo que
     él es, en tanto que el denominador es lo que cree ser. Cuanto más
     grande es el denominador, más pequeña es la fracción.
