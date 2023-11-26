@@ -3123,11 +3123,11 @@ encontrando.
     proceden de eso.
   + Hace falta muy poco para tener una vida feliz; está todo dentro de
     ti, en tu forma de pensar.
+  + Haz cada cosa en la vida como si fuera lo último que hagas.
   + La felicidad de los que quieren ser populares depende de los
     demás. La felicidad de los que buscan placer fluctúa con el humor
     que está fuera de su control. Sin embargo, la felicidad de los
     sabios viene de sus actos.
-  + Haz cada cosa en la vida como si fuera lo último que hagas.
   + La felicidad de tu vida depende de la calidad de tus pensamientos.
   + La mayoría de lo que hacemos y decimos no es esencial. Si lo puedes
     eliminar ganarás tiempo y tranquilidad. Pregúntate en todo momento,
@@ -3761,7 +3761,7 @@ encontrando.
     imposibilidad de recuperarlo. No tener claro si lo que hicimos fue
     perder o ganar.
 
-* [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson]]
+* [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson (1803-1882)]]
   + Es fácil en el mundo vivir según la opinión del mundo; es fácil en la soledad
     vivir según la nuestra; pero el gran hombre es aquel que en medio de la
     multitud mantiene con perfecta sencillez la independencia de la soledad.
@@ -3770,6 +3770,8 @@ encontrando.
   + Más podemos conocer de una persona por lo que ella dice de los demás
     que por lo que los demás dicen de ella.
   + Nunca se ha logrado nada sin entusiasmo.
+  + Ser tú mismo en un mundo que constantemente intenta hacer de ti otra
+    cosa, es el mayor logro.
 
 * [[https://es.wikipedia.org/wiki/Ram%C3%B3n_de_Campoamor][Ramón de Campoamor]]
   + No rechaces tus sueños. ¿Sin la ilusión el mundo que sería?
