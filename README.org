@@ -3373,7 +3373,7 @@ encontrando.
   + Sea moderado tu sueño; que el que no madruga con el sol, no goza del
     día.
 
-* [[https://es.wikipedia.org/wiki/Miguel_de_Unamuno][Miguel de Unamuno]]
+* [[https://es.wikipedia.org/wiki/Miguel_de_Unamuno][Miguel de Unamuno (1854-1936)]]
   + Hay personas que están tan llenas de sentido común que no les queda
     la más mínima grieta para su propio sentido.
   + Hay que sentir el pensamiento y pensar el sentimiento.
@@ -3391,6 +3391,8 @@ encontrando.
     entre sí. Sin hablarse, ni verse, ni siquiera conocerse. Me
     acompañan en mi soledad las soledades de los demás solitarios.
   + Se viaja no para buscar el destino sino para huir de donde se parte.
+  + Si una persona nunca se contradice a sí misma, debe ser que no dice
+    nada.
 
 * [[https://bit.ly/3lcJ0F3][Milton Friedman]]
   + Si no puedes formular una proposición de forma clara y sin
