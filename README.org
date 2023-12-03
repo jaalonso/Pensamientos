@@ -1081,13 +1081,14 @@ encontrando.
     conocimiento.
   + Si no hay dudas, no hay progreso.
 
-* [[https://es.wikipedia.org/wiki/Charles_Dickens][Charles Dickens]]
+* [[https://es.wikipedia.org/wiki/Charles_Dickens][Charles Dickens (1812-1870)]]
   + Cada fracaso nos enseña algo que necesitamos aprender.
   + Concéntrate en lo bueno que te pasa, que a todos nos pasa mucho; y
     no en las desgracias, que a todos nos pasa alguna.
   + El hombre nunca sabe de lo que es capaz hasta que lo intenta.
   + Hay hombres que parecen tener sólo una idea y es una lástima que sea
     equivocada.
+  + No hagas preguntas y no se te dirá ninguna mentira.
 
 * [[https://en.wikipedia.org/wiki/Charles_Dudley_Warner][Charles Dudley Warner]]
   + Nadie puede tratar sinceramente de ayudar a otro sin ayudarse a sí
