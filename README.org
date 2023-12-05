@@ -748,11 +748,13 @@ encontrando.
   + La juventud es un disparate; la madurez, una lucha; la vejez, un
     remordimiento.
 
-* [[https://es.wikipedia.org/wiki/Benjamin_Franklin][Benjamin Franklin]]
+* [[https://es.wikipedia.org/wiki/Benjamin_Franklin][Benjamin Franklin (1706-1790)]]
   + Amo la casa en la cual no veo nada superfluo y encuentro todo lo
     necesario.
   + Bienaventurado el que no espera nada, porque nunca será
     decepcionado.
+  + Cualquier tonto puede criticar, condenar y quejarse, y casi todos
+    los tontos lo hacen.
   + Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.
   + El hombre descontento no encuentra silla cómoda.
   + El hombre es un animal que hace herramientas.
@@ -4216,6 +4218,8 @@ encontrando.
   + Todo lo que se ignora tiende a magnificarse.
 
 * [[https://es.wikipedia.org/wiki/Tales_de_Mileto][Tales de Mileto]]
+  + Cuida tus palabras; que ellas no levanten un muro entre ti y los que
+    contigo viven.
   + De todo lo que es posible aprender, elige y aprende lo mejor; y de
     todo lo que hayas aprendido, elige lo mejor y enséñalo a los demás.
   + La cosa más difícil es conocernos a nosotros mismos; la más fácil es
