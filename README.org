@@ -2468,7 +2468,7 @@ encontrando.
     es tocar la tecla correcta en el momento adecuado y el instrumento
     suena.
 
-* [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe]]
+* [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe (1749-1832)]]
   + Con el conocimiento se acrecientan las dudas.
   + El hombre siempre aspira a lo que no es.
   + El niño es realista; el muchacho, idealista; el hombre, escéptico; y
@@ -2499,6 +2499,8 @@ encontrando.
   + Por qué buscar conspiraciones cuando la estupidez puede explicar
     tantas cosas.
   + Quien produce con alegría y se alegra de lo producido es feliz.
+  + Sabemos con precisión sólo cuando sabemos poco, pues con el
+    conocimiento crece la duda.
   + Se tiende a poner palabras allí donde faltan las ideas.
   + Sea lo que sea que puedas o sueñes que puedas, comiénzalo. El
     atrevimiento posee genio, poder y magia. Comiénzalo ahora.
