@@ -2515,6 +2515,8 @@ encontrando.
   + Todos los días deberíamos oír un poco de música, leer una buena
     poesía, contemplar un cuadro hermoso y si es posible, decir algunas
     palabras sensatas.
+  + Todos tenemos tiempo más que suficiente, si supiéramos aprovecharlo
+    bien.
   + Trata a un ser humano tal como es, y seguirá siendo lo que es;
     trátalo como puede y debe ser, y se convertirá en lo que puede y
     debe ser.
@@ -3499,13 +3501,15 @@ encontrando.
   + Los jóvenes reclaman sobre todo profesores que vivan con pasión y
     con verdadero interés la disciplina que imparten.
 
-* [[https://es.wikipedia.org/wiki/Octavio_Paz][Octavio Paz]]
+* [[https://es.wikipedia.org/wiki/Octavio_Paz][Octavio Paz (1914-1998)]]
   + Aprender a dudar es aprender a pensar.
   + Cuidemos las palabras y cuidémonos de ellas.
   + Las masas humanas más peligrosas son aquellas en cuyas venas ha sido
     inyectado el veneno del miedo.... del miedo al cambio.
   + Lo primero es curarnos de la intoxicación de las ideologías
     simplistas y simplificadoras.
+  + Vivir es separarse de lo que fuimos para acercarnos a lo que seremos
+    en el futuro.
 
 * [[https://es.wikipedia.org/wiki/Omar_Jayam][Omar Jayyam]]
   + Sé feliz durante este momento. Este momento es tu vida.
