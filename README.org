@@ -1559,7 +1559,7 @@ encontrando.
   + Esperar sentido común en la gente es una prueba de no tener sentido
     común.
 
-+ [[https://es.wikipedia.org/wiki/Eur%C3%ADpides][Eurípides (480 a.n.e., 406 a.n.e.)]]
+* [[https://es.wikipedia.org/wiki/Eur%C3%ADpides][Eurípides (480 a.n.e., 406 a.n.e.)]]
   + Cuestiona todo, aprende algo, pero no esperes ninguna respuesta.
 
 * [[https://en.wikipedia.org/wiki/Evan_Esar][Evan Esar]]
@@ -2735,7 +2735,7 @@ encontrando.
   + La ventaja de ser inteligente es que así resulta más fácil pasar por
     tonto. Lo contrario es mucho más difícil.
 
-* [[https://es.wikipedia.org/wiki/Lao-Tse][Lao-Tse]]
+* [[https://es.wikipedia.org/wiki/Lao-Tse][Lao-Tse (siglo VI a.n.e.)]]
   + Conocer a los demás es inteligencia; conocerte a ti mismo es la
     verdadera sabiduría. Dominar a otros es fuerza; el dominio de sí
     mismo es verdadero poder.
@@ -2765,6 +2765,7 @@ encontrando.
   + Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
   + ¿Tienes la paciencia de esperar hasta que el lodo se asiente y el
     agua esté clara?
+  + Un viaje de mil millas comienza con un solo paso.
 
 * [[https://es.wikipedia.org/wiki/Laurence_J._Peter][Laurence J. Peter]]
   + Sólo una cosa es más dolorosa que aprender de la experiencia, y es,
