@@ -2736,6 +2736,7 @@ encontrando.
     tonto. Lo contrario es mucho más difícil.
 
 * [[https://es.wikipedia.org/wiki/Lao-Tse][Lao-Tse (siglo VI a.n.e.)]]
+  + Deja de pensar, y termina con tus problemas.
   + Conocer a los demás es inteligencia; conocerte a ti mismo es la
     verdadera sabiduría. Dominar a otros es fuerza; el dominio de sí
     mismo es verdadero poder.
