@@ -3687,7 +3687,9 @@ encontrando.
   + Un recipiente vacío hace el sonido más fuerte, por eso los que
     tienen un menor ingenio son los más grandes charlatanes.
 
-* [[https://es.wikipedia.org/wiki/Plutarco][Plutarco]]
+* [[https://es.wikipedia.org/wiki/Plutarco][Plutarco (46-120)]]
+  + El alma más fuerte y mejor constituida es la que no se enorgullece
+    ni se enerva con sus éxitos, y a la que no abaten los reveses.
   + El cerebro no es un vaso por llenar, sino una lámpara por encender.
   + En modo alguno hemos de enfadarnos con las cosas; nada les importa
     nuestras iras.
