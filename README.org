@@ -1416,7 +1416,7 @@ encontrando.
     fuerte como para soportar el peso de su ignorancia, corre el riesgo
     de cuestionarse a sí misma y quedar envuelta en dudas.
 
-* [[https://es.wikipedia.org/wiki/Epicteto][Epicteto]]
+* [[https://es.wikipedia.org/wiki/Epicteto][Epicteto (55-135)]]
   + Complace a todos y no complacerás a nadie.
   + Cuando alguien está debidamente arraigado en la vida, no debería
     tener que buscar aprobación fuera de sí mismo.
@@ -1426,6 +1426,9 @@ encontrando.
   + El error del anciano es que pretende enjuiciar el hoy con el
     criterio del ayer.
   + El sufrimiento surge de tratar de controlar lo que es incontrolable.
+  + La esencia de la filosofía es que un hombre debe vivir de tal manera
+    que su felicidad dependa lo menos posible de las cosas
+    externas.
   + La primera misión del filósofo es despojarse de todo engreimiento.
     Pues es imposible que un hombre aprenda lo que cree que ya sabe.
   + Es mejor morir de hambre libre de tristeza y miedo que vivir en la
@@ -2606,6 +2609,7 @@ encontrando.
     avanzar cuando se mira lejos.
 
 * [[https://es.wikipedia.org/wiki/Jos%C3%A9_Saramago][José Saramago (1922-2010)]]
+  + El caos no es más que el orden esperando ser descifrado.
   + El mundo se está convirtiendo en una caverna igual que la de Platón:
     todos mirando imágenes y creyendo que son la realidad.
   + En la comunicación directa intervienen la mirada, el olor. En una
