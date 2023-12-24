@@ -4390,7 +4390,7 @@ encontrando.
   + No hay necesidad de apresurarse. No hay necesidad de brillar. No es
     necesario ser nadie más que uno mismo.
 
-* [[https://es.wikipedia.org/wiki/Voltaire][Voltaire]]
+* [[https://es.wikipedia.org/wiki/Voltaire][Voltaire (1694-1778)]]
   + A los tontos todo les maravilla en un autor apreciado; pero yo, que
     leo para mí, sólo apruebo lo que me gusta.
   + Al ser incapaz de hacer que la gente sea más razonable, he preferido
@@ -4430,6 +4430,7 @@ encontrando.
   + Los prejuicios son la razón de los tontos.
   + Pensad por cuenta propia y dejad que los demás disfruten del derecho
     a hacer lo mismo.
+  + Un gran uso de las palabras es ocultar nuestros pensamientos.
   + Una colección de pensamientos debe ser una farmacia donde se
     encuentra remedio a todos los males.
   + Quienes creen que el dinero lo hace todo, terminan haciendo todo por
