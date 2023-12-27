@@ -3398,7 +3398,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Miguel_Hern%C3%A1ndez][Miguel Hernández]]
   + Yo sólo soy yo cuando estoy solo.
 
-* [[https://es.wikipedia.org/wiki/Miguel_de_Cervantes][Miguel de Cervantes]]
+* [[https://es.wikipedia.org/wiki/Miguel_de_Cervantes][Miguel de Cervantes (1547-1616)]]
   + Confía en el tiempo, que suele dar dulces salidas a muchas amargas
     dificultades.
   + Demasiada cordura puede ser una locura y la más loca de todas, ver
@@ -3406,6 +3406,7 @@ encontrando.
   + En algún lugar de un libro hay una frase esperándonos para darle un
     sentido a la existencia.
   + En los ánimos encogidos nunca tuvo lugar la buena dicha.
+  + Quien canta, sus males espanta.
   + Sé breve en tus razonamientos, que ninguno hay gustoso si es largo.
   + Sea moderado tu sueño; que el que no madruga con el sol, no goza del
     día.
