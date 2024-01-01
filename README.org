@@ -3547,7 +3547,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Omar_Jayam][Omar Jayyam]]
   + Sé feliz durante este momento. Este momento es tu vida.
 
-* [[https://es.wikipedia.org/wiki/Oscar_Wilde][Oscar Wilde]]
+* [[https://es.wikipedia.org/wiki/Oscar_Wilde][Oscar Wilde (1854-1900)]]
   + Cuando estoy de acuerdo con todos sospecho que estoy equivocado.
   + Cuanto más conservadoras son las ideas, más revolucionarios los
     discursos.
@@ -3562,6 +3562,7 @@ encontrando.
     que damos a nuestros errores.
   + La vida es demasiado corta para desperdiciarla en cumplir los sueños
     de los demás.
+  + Las pequeñas acciones de cada día hacen o deshacen el carácter.
   + No soy tan joven como para saberlo todo.
   + Nunca des explicaciones. Tus amigos no las necesitan. Tus enemigos
     no las creen.
