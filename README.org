@@ -2253,11 +2253,14 @@ encontrando.
     porque tenemos ideologías, estamos aferrados a cierto modo de pensar
     y no reflexionamos.
 
-* [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant]]
+* [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant (1724-1804)]]
   + La ciencia es la organización del conocimiento, pero la sabiduría es
     la organización de la vida.
   + El sabio puede cambiar de opinión. El necio, nunca.
-  + Nunca discutas con un idiota. La gente podría no notar la diferencia.
+  + Nunca discutas con un idiota. La gente podría no notar la
+    diferencia.
+  + Reglas para la felicidad: algo que hacer, alguien a quien amar, algo
+    que esperar.
   + Ser es hacer.
   + Tan solo por la educación puede el hombre llegar a ser hombre. El
     hombre no es más que lo que la educación hace de él.
