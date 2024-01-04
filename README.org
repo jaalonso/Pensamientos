@@ -1474,8 +1474,10 @@ encontrando.
     eliges a qué pensamientos e imágenes te expones, alguien más lo hará.
   + Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
 
-* [[https://es.wikipedia.org/wiki/Epicuro][Epicuro]]
+* [[https://es.wikipedia.org/wiki/Epicuro][Epicuro (341 a.n.e., 271 a.n.e)]]
   + Nada es suficiente para quien lo suficiente es poco.
+  + No eches a perder lo que tienes deseando lo que no tienes; recuerda
+    que lo que tienes ahora fue una vez cosas que solo deseabas.
 
 * [[https://es.wikipedia.org/wiki/Erasmo_de_R%C3%B3terdam][Erasmo de Róterdam]]
   + Antes de dormir, lee algo que sea exquisito y que valga la pena
