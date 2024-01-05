@@ -1475,6 +1475,7 @@ encontrando.
   + Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
 
 * [[https://es.wikipedia.org/wiki/Epicuro][Epicuro (341 a.n.e., 271 a.n.e)]]
+  + La autosuficiencia es la mayor de todas las riquezas.
   + Nada es suficiente para quien lo suficiente es poco.
   + No eches a perder lo que tienes deseando lo que no tienes; recuerda
     que lo que tienes ahora fue una vez cosas que solo deseabas.
