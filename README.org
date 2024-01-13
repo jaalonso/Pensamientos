@@ -1960,12 +1960,16 @@ encontrando.
     llevan en sí el germen de la respuesta y respuestas que van preñadas
     de preguntas. Quien vea en ella cualquier otra cosa es un loco.
 
-* [[https://es.wikipedia.org/wiki/Gustave_Flaubert][Gustave Flaubert]]
+* [[https://es.wikipedia.org/wiki/Gustave_Flaubert][Gustave Flaubert (1821-1880)]]
   + Cuando ya no estaban los Dioses y Cristo aún no estaba, hubo, desde
     Cicerón a Marco Aurelio, un momento único en el que sólo estuvo `el
     hombre’.
   + El futuro nos tortura y el pasado nos encadena. He aquí por qué se
     nos escapa el presente.
+  + El secreto para ser feliz es saber disfrutar. Disfrutar en la mesa y
+    en la cama; disfrutar de estar de pie o de estar sentado; disfrutar
+    del más pálido rayo de sol y del más mínimo paisaje. En otras
+    palabras, amarlo todo, pues para ser feliz hay que serlo ya.
 
 * [[https://es.wikipedia.org/wiki/H._L._Mencken][H.L. Mencken]]
   + El hombre más peligroso para cualquier gobierno es el que es capaz
