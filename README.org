@@ -2556,9 +2556,11 @@ encontrando.
     trátalo como puede y debe ser, y se convertirá en lo que puede y
     debe ser.
 
-* [[https://es.wikipedia.org/wiki/Jonathan_Swift][Jonathan Swift]]
+* [[https://es.wikipedia.org/wiki/Jonathan_Swift][Jonathan Swift (1667-1745)]]
   + Cuando en el mundo aparece un verdadero genio puede reconocérsele
     por este signo: todos los necios se conjuran contra él.
+  + Los mejores médicos del mundo son: el doctor dieta, el doctor reposo
+    y el doctor alegría.
   + No hay nada constante en el mundo, salvo la inconstancia.
   + ¡Ojalá vivas todos los días de tu vida!
   + Un hombre nunca debe avergonzarse por reconocer que se equivocó, que
