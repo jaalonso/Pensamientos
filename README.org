@@ -3984,12 +3984,14 @@ encontrando.
     matemáticas, libre de ambiciones y pretensiones, e indiferente al
     mundo.
 
-* [[https://es.wikipedia.org/wiki/Robert_Louis_Stevenson][Robert Louis Stevenson]]
+* [[https://es.wikipedia.org/wiki/Robert_Louis_Stevenson][Robert Louis Stevenson (1850-1894)]]
   + No juzgues el día por la cosecha que has recogido, sino por las
     semillas que has plantado.
   + Saber lo que prefieres, en lugar de decir sumisamente amén a lo que
     el mundo te dice que debieras preferir, significa que has mantenido
     tu alma con vida.
+  + Ser lo que somos y convertirnos en lo que somos capaces de ser es la
+    única finalidad de la vida.
   + Viajar esperanzadamente es mejor que llegar.
 
 * [[https://es.wikipedia.org/wiki/Robert_M._Pirsig][Robert M. Pirsig]]
