@@ -121,7 +121,7 @@ encontrando.
     tienes el suficiente coraje para ser tú mismo.
   + Todas las desgracias de los hombres provienen de no hablar claro.
 
-* [[https://es.wikipedia.org/wiki/Albert_Einstein][Albert Einstein]]
+* [[https://es.wikipedia.org/wiki/Albert_Einstein][Albert Einstein (1879-1955)]]
   + Cada día sabemos más y entendemos menos.
   + Debe evitarse hablar a los jóvenes del éxito como si se tratase del
     principal objetivo en la vida. La razón más importante para trabajar
@@ -154,6 +154,7 @@ encontrando.
     debes seguir moviéndote.
   + La vida es muy peligrosa. No por las personas que hacen el mal, sino
     por las que se sientan a ver lo que pasa.
+  + Lo importante es no dejar de hacerse preguntas.
   + Los grandes espíritus siempre han encontrado una violenta oposición
     por parte de las mentes mediocres.
   + Los intelectuales resuelven los problemas; los genios, los evitan.
