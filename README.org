@@ -3397,9 +3397,11 @@ encontrando.
     humano que esta gloriosa y humilde condición: el hombre arriesga su
     propia vida cada vez que elige y eso lo hace libre.
 
-* [[https://es.wikipedia.org/wiki/Maya_Angelou][Maya Angelou]]
+* [[https://es.wikipedia.org/wiki/Maya_Angelou][Maya Angelou (1928-2014)]]
   + La gente olvidará lo que dijiste, también olvidará lo que hiciste,
     pero jamás olvidará cómo les hiciste sentir.
+  + Si no te gusta algo, cámbialo. Si no puedes cambiarlo, cambia de
+    actitud.
 
 * [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne (1533-1592)]]
   + A quienes me preguntan la razón de mis viajes les contesto que sé
