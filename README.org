@@ -218,7 +218,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Alberto_Moravia][Alberto Moravia]]
   + Sentido común: algo así como salud contagiosa.
 
-* [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley]]
+* [[https://es.wikipedia.org/wiki/Aldous_Huxley][Aldous Huxley (1894-1963)]]
   + El bien de la humanidad debe consistir en que cada uno goce al
     máximo de la felicidad que pueda, sin disminuir la felicidad de los
     demás.
@@ -238,6 +238,8 @@ encontrando.
   + Los hechos no dejan de existir porque se ignoren.
   + Mientras más poderosa y original sea una mente, más se inclinará
     hacia la religión de la soledad.
+  + Quería cambiar el mundo. Pero he descubierto que lo único que uno
+    puede estar seguro de cambiar es a uno mismo.
   + Quizá la única lección que nos enseña la historia es que los seres
     humanos no aprendemos nada de las lecciones de la historia.
   + Si uno es diferente se ve condenado a la soledad.
