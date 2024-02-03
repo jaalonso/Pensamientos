@@ -4329,9 +4329,11 @@ encontrando.
   + La cosa más difícil es conocernos a nosotros mismos; la más fácil es
     hablar mal de los demás.
 
-* [[https://es.wikipedia.org/wiki/Terencio][Terencio]]
-  + Hombre soy y nada humano me es ajeno (/Homo sum; humani nihil a me alterum
-    puto/).
+* [[https://es.wikipedia.org/wiki/Terencio][Terencio (185 a.n.e, 159 a.n.e.)]]
+  + Cuando no se puede lograr lo que se quiere, mejor cambiar de
+    actitud.
+  + Hombre soy y nada humano me es ajeno (/Homo sum; humani nihil a me
+    alterum puto/).
 
 * [[https://es.wikipedia.org/wiki/Terry_Pratchett][Terry Pratchett]]
   + El tiempo es una droga. En cantidades excesivas, mata.
