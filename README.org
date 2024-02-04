@@ -4334,6 +4334,8 @@ encontrando.
     actitud.
   + Hombre soy y nada humano me es ajeno (/Homo sum; humani nihil a me
     alterum puto/).
+  + Una buena regla para la vida es no ser demasiado adicto a una sola
+    ocupación.
 
 * [[https://es.wikipedia.org/wiki/Terry_Pratchett][Terry Pratchett]]
   + El tiempo es una droga. En cantidades excesivas, mata.
