@@ -1763,7 +1763,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Friedrich_Engels][Friedrich Engels]]
   + Lo que no se sabe expresar es que no se sabe.
 
-* [[https://es.wikipedia.org/wiki/Friedrich_Nietzsche][Friedrich Nietzsche]]
+* [[https://es.wikipedia.org/wiki/Friedrich_Nietzsche][Friedrich Nietzsche (1844-1900)]]
   + A veces la gente no quiere oír la verdad porque no quiere que sus
     ilusiones sean destruidas.
   + Aquel que tiene un por qué para vivir se puede enfrentar a todos los
@@ -1807,6 +1807,8 @@ encontrando.
     parecer profundo a la gran masa, se esfuerza por ser oscuro.
   + Se puede vivir y vivir felizmente sin recordar, pero es imposible
     vivir sin olvidar.
+  + Trata a un hombre tal como es, y seguirá siendo lo que es; trátalo
+    como puede y debe ser, y se convertirá en lo que puede y debe ser.
 
 * [[https://es.wikipedia.org/wiki/Friedrich_Schiller][Friedrich Schiller]]
   + Hoy impera un yugo tiránico. La utilidad es el gran ídolo de nuestra
