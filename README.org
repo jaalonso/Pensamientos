@@ -1098,10 +1098,13 @@ encontrando.
   + Ríe y el mundo reirá contigo; llora y el mundo, dándote la espalda,
     te dejará llorar.
 
-* [[https://es.wikipedia.org/wiki/Charles_Darwin][Charles Darwin]]
+* [[https://es.wikipedia.org/wiki/Charles_Darwin][Charles Darwin (1809-1882)]]
   + La ignorancia engendra más con frecuencia confianza que el
     conocimiento.
   + Si no hay dudas, no hay progreso.
+  + Si tuviera que vivir de nuevo mi vida, me impondría la obligación
+    de leer algo de poesía y escuchar algo de música por lo menos una
+    vez a la semana.
 
 * [[https://es.wikipedia.org/wiki/Charles_Dickens][Charles Dickens (1812-1870)]]
   + Cada fracaso nos enseña algo que necesitamos aprender.
