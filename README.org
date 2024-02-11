@@ -3652,7 +3652,10 @@ encontrando.
   + Nada es más útil al hombre que aquellas artes que no tienen ninguna
     utilidad
 
-* [[https://es.wikipedia.org/wiki/Pablo_Neruda][Pablo Neruda]]
+* [[https://es.wikipedia.org/wiki/Pablo_Neruda][Pablo Neruda (1904-1973)]]
+  + Algún día en cualquier parte, en cualquier lugar indefectiblemente
+    te encontrarás a ti mismo, y ésa, sólo ésa, puede ser la más feliz o
+    la más amarga de tus horas.
   + La felicidad es interior, no exterior; por lo tanto, no depende de
     lo que tenemos sino de lo que somos.
   + Queda prohibido no sonreír a los problemas, no luchar por lo que
