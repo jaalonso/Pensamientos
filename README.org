@@ -3341,7 +3341,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Mario_Vargas_Llosa][Mario Vargas Llosa]]
   + Sólo un idiota puede ser totalmente feliz.
 
-* [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain]]
+* [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain (1835-1910)]]
   + Buenos amigos, buenos libros y tener una conciencia tranquila: esta
     es la vida ideal.
   + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
@@ -3355,6 +3355,8 @@ encontrando.
     engañados.
   + He tenido muchas preocupaciones en mi vida, la mayoría de las cuales
     nunca han ocurrido.
+  + La única manera de conservar la salud es comer lo que no quieres,
+    beber lo que no te gusta, y hacer lo que preferirías no hacer.
   + Los dos días más importantes en tu vida son el día en que naces, y
     el día en que encuentras por qué.
   + Nunca discutas con un ignorante, te hará descender a su nivel y ahí
