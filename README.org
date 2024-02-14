@@ -3720,6 +3720,9 @@ encontrando.
     las palabras, puedes controlar a la gente que debe usar las
     palabras.
 
+* [[https://es.wikipedia.org/wiki/Pier_Paolo_Pasolini][Pier Paolo Pasolini (1922-1975)]]
+  + Lo mejor de la vida es el pasado, el presente y el futuro.
+
 * [[https://es.wikipedia.org/wiki/Pierre_Corneille][Pierre Corneille]]
   + Hablando de nuestras desgracias las aliviamos.
 
