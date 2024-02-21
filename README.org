@@ -3523,13 +3523,17 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Montesquieu][Montesquieu]]
   + El amor al estudio es la única pasión que dura tanto como la vida;
     todas las demás se desvanecen a medida que la vejez avanza.
-  + La literatura ha sido para mí el principal remedio contra las
+  + El estudio ha sido para mí el principal remedio contra las
     preocupaciones de la vida; no habiendo tenido nunca un disgusto que
     no se me haya pasado después de una hora de lectura.
   + Queremos ser más felices que los demás, y eso es muy difícil, porque
     siempre les imaginamos mucho más felices de lo que son en realidad.
   + Una cosa no es justa por el hecho de ser ley. Debe ser ley porque es
     justa.
+
+* [[https://es.wikipedia.org/wiki/Nadine_Gordimer][Nadine Gordimer (1923-2014)]]
+  + Creo que la gente pierde la capacidad de sorprenderse porque
+    diariamente presencia desastres que suceden en todos lados.
 
 * [[https://es.wikipedia.org/wiki/Naguib_Mahfuz][Naguib Mahfouz]]
   + El presente es una luz que palpita entre dos tinieblas.
