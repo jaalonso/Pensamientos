@@ -3567,7 +3567,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Boileau][Nicolas Boileau]]
   + Antes que escribir, aprended a pensar.
 
-* [[https://es.wikipedia.org/wiki/Nicolas_Chamfort][Nicolas Chamfort]]
+* [[https://es.wikipedia.org/wiki/Nicolas_Chamfort][Nicolas Chamfort (1741-1794)]]
   + Casi todos los hombres son esclavos, por la razón que los espartanos
     daban de la servidumbre de los persas, por no saber pronunciar la
     sílaba ‘no’. Saber pronunciar esa palabra y saber vivir solo son los
@@ -3583,6 +3583,8 @@ encontrando.
     en los pequeños, tal como son en realidad.
   + La sociedad está integrada por dos grandes clases: los que tienen
     más cenas que apetito y aquellos que tienen más apetito que cenas.
+  + Pasa con la felicidad como con los relojes, que los menos
+    complicados son los que menos se estropean.
   + ¿Qué es un filósofo? Un hombre que opone la naturaleza a la ley, la
     razón a la costumbre, su conciencia a la opinión y su juicio al
     error.
