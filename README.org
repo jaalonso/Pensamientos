@@ -2387,7 +2387,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/James_Joyce][James Joyce]]
   + Los errores son los umbrales del descubrimiento.
 
-* [[https://es.wikipedia.org/wiki/Jane_Austen][Jane Austen]]
+* [[https://es.wikipedia.org/wiki/Jane_Austen][Jane Austen (1775-1817)]]
+  + Del pasado no hay que recordar nada más que lo placentero.
   + La mitad del mundo no puede comprender los placeres de la otra
     mitad.
 
