@@ -4272,7 +4272,7 @@ encontrando.
     para nada, de haber razón para tanto.
   + Yo no estudio para saber más, sino para ignorar menos.
 
-* [[https://es.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard][Søren Kierkegaard]]
+* [[https://es.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard][Søren Kierkegaard (1813-1855)]]
   + Afronta el hecho de ser lo que eres, porque eso es lo que cambia lo
     que eres.
   + Es muy aventurado ser uno mismo. Es más fácil y seguro ser como los
@@ -4293,6 +4293,8 @@ encontrando.
     hacer esto o aquello. Mi opinión honesta y mi consejo amistoso es
     este: hazlo o no lo hagas, te arrepentirás de ambos.
   + Lo que me etiquetas, me niegas.
+  + Nuestra vida siempre expresa el resultado de nuestros pensamientos
+    dominantes.
 
 * [[https://es.wikipedia.org/wiki/Stendhal][Stendhal]]
   + Es indispensable, para que otros nos soporten a gusto, participar
