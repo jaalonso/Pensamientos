@@ -1521,6 +1521,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Epicuro][Epicuro (341 a.n.e., 271 a.n.e)]]
   + El que no esta satisfecho con poco, no esta satisfecho con nada.
   + La autosuficiencia es la mayor de todas las riquezas.
+  + Mejor que entristecer el presente deseando lo que no tenemos,
+    consideremos lo que ya tenemos y que figuraba ayer entre lo que
+    deseábamos.
   + Nada es suficiente para quien lo suficiente es poco.
   + No eches a perder lo que tienes deseando lo que no tienes; recuerda
     que lo que tienes ahora fue una vez cosas que solo deseabas.
