@@ -3120,9 +3120,11 @@ encontrando.
     en lugar de gobernarnos por la razón nos dejamos conducir por lo que
     es costumbre.
 
-* [[https://es.wikipedia.org/wiki/Ludwig_van_Beethoven][Ludwig van Beethoven]]
+* [[https://es.wikipedia.org/wiki/Ludwig_van_Beethoven][Ludwig van Beethoven (1770-1827)]]
   + El genio se compone del dos por ciento de talento y del noventa y
     ocho por ciento de perseverante aplicación.
+  + No hay dicha alguna fuera de ti mismo; debes creártelo todo dentro
+    de ti; sólo en el mundo ideal encontrarás alegría.
   + Nunca rompas el silencio si no es para mejorarlo.
 
 * [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]]
