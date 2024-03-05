@@ -3988,7 +3988,7 @@ encontrando.
     exactitud, sino de acuerdo a su gusto e intereses. Es por esta razón
     que la mayoría de las verdades no son nada más que prejuicios.
 
-* [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes]]
+* [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes (1596-1650)]]
   + Cada problema que resolví se convirtió en una regla que sirvió
     después para resolver otros problemas. Así, cada verdad descubierta
     era una regla disponible en el descubrimiento de las siguientes.
@@ -4006,6 +4006,7 @@ encontrando.
     pasado.
   + Lo poco que he aprendido carece de valor, comparado con lo que
     ignoro y no desespero en aprender.
+  + Mejor es modificar nuestros deseos que la ordenación del mundo.
   + No hay nada repartido de modo más equitativo en el mundo que la
     razón: todo el mundo está convencido de tener suficiente.
   + Para buscar la verdad, es necesario, una vez en el curso de nuestra
