@@ -2453,6 +2453,11 @@ encontrando.
   + La capacidad de observar sin evaluar es la forma más alta de
     inteligencia.
 
+* [[https://en.wikipedia.org/wiki/John_Archibald_Wheeler][John A. Wheeler (1911-2008)]]
+  + Vivimos en una isla de conocimiento rodeada por un mar de
+    ignorancia. A medida que nuestra isla de conocimiento crece, también
+    lo hace la costa de nuestra ignorancia.
+
 * [[https://es.wikipedia.org/wiki/John_Allen_Paulos][John Allen Paulos]]
   + La incertidumbre es la única certeza que existe, y saber cómo vivir
     con la inseguridad es la única seguridad.
