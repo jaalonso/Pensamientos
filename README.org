@@ -3550,7 +3550,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Moli%C3%A8re][Molière]]
   + Las cosas no valen sino lo que se las hace valer.
 
-* [[https://es.wikipedia.org/wiki/Montesquieu][Montesquieu]]
+* [[https://es.wikipedia.org/wiki/Montesquieu][Montesquieu (1689-1955)]]
   + El amor al estudio es la única pasión que dura tanto como la vida;
     todas las demás se desvanecen a medida que la vejez avanza.
   + El estudio ha sido para mí el principal remedio contra las
