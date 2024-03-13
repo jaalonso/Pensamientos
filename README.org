@@ -1100,9 +1100,11 @@ encontrando.
   + ¿Recuerdas quién eras antes de que el mundo te dijera quién debías
     ser?
 
-* [[https://es.wikipedia.org/wiki/Charles_Chaplin][Charles Chaplin]]
+* [[https://es.wikipedia.org/wiki/Charles_Chaplin][Charles Chaplin (1889-1977)]]
   + Aprende como si fueras a vivir toda la vida y vive como si fueras a
     morir mañana.
+  + El verdadero significado de las cosas se encuentra al tratar de
+    decir las mismas cosas con otras palabras.
   + Ríe y el mundo reirá contigo; llora y el mundo, dándote la espalda,
     te dejará llorar.
 
