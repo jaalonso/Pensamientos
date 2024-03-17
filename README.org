@@ -3775,6 +3775,10 @@ encontrando.
     que, a trueco de quejarse,       \\
     habían las desdichas de buscarse.
 
+* [[https://es.wikipedia.org/wiki/Pericles][Pericles (495 a.n.e - 429 a.n.e)]]
+  + El hecho de que no te interese la política... no significa que la
+    política no se interesará por ti
+
 * [[https://es.wikipedia.org/wiki/Philip_K._Dick][Philip K. Dick]]
   + La herramienta básica para la manipulación de la realidad es la
     manipulación de las palabras. Si puedes controlar el significado de
