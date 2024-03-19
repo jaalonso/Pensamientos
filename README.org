@@ -1178,6 +1178,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Cicer%C3%B3n][Cicerón (106 a.n.e., 43 a.n.e.)]]
   + Ciertamente, la ignorancia de los males venideros nos es más útil
     que su conocimiento.
+  + Cualquier hombre puede cometer errores, pero sólo un idiota persiste
+    en su error.
   + Hay que atender no sólo a lo que cada cual dice, sino a lo que
     siente y al motivo porque lo siente.
   + Humano es errar; pero sólo los estúpidos perseveran en el error.
