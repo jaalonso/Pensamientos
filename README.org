@@ -2508,11 +2508,13 @@ encontrando.
   + La vida es aquello que te va sucediendo mientras estás ocupado
     haciendo otros planes.
 
-* [[https://es.wikipedia.org/wiki/John_Steinbeck][John Steinbeck]]
+* [[https://es.wikipedia.org/wiki/John_Steinbeck][John Steinbeck (1902-1968)]]
   + Cuando un hombre dice que no quiere hablar de algo suele significar
     generalmente que no puede pensar en nada más.
   + De todos los animales la creación, el hombre el único que bebe sin
     tener sed, come sin tener hambre y habla sin tener nada que decir.
+  + Un alma triste puede matarte más rápido, mucho más rápido, que un
+    germen.
 
 * [[https://es.wikipedia.org/wiki/John_Holt_(pedagogo)][John Holt]]
   + Aprendemos a hacer algo haciéndolo. No existe otra manera.
