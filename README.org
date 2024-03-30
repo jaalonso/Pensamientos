@@ -1310,12 +1310,14 @@ encontrando.
   + Las emociones fuera de control pueden transformar en estúpidas a
     personas inteligentes.
 
-* [[https://es.wikipedia.org/wiki/Daniel_Kahneman][Daniel Kahneman]]
+* [[https://es.wikipedia.org/wiki/Daniel_Kahneman][Daniel Kahneman (1934-2024)]]
   + A menudo nuestro cerebro racionaliza los pensamientos automáticos y
     los presenta como el fruto de un razonamiento elaborado. Pero son
     historias que nos inventamos para justificar decisiones que en
     realidad son fruto de nuestros prejuicios. Es una forma de
     engañarnos.
+  + Nada en la vida es tan importante como crees mientras piensas en
+    ello.
 
 * [[https://es.wikipedia.org/wiki/David_Gross][David Gross]]
   + Por la razón que fuere, en el nivel fundamental, la naturaleza
