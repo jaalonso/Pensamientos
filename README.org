@@ -2466,7 +2466,7 @@ encontrando.
   + Todas las pasiones son buenas cuando uno es dueño de ellas, y todas
     son malas cuando nos esclavizan.
 
-* [[https://es.wikipedia.org/wiki/Jean-Paul_Sartre][Jean-Paul Sartre]]
+* [[https://es.wikipedia.org/wiki/Jean-Paul_Sartre][Jean-Paul Sartre (1905-1980)]]
   + Aquello que cada uno de nosotros es, en cada momento de su vida, es
     la suma de sus elecciones previas.
   + Cuando los ricos se hacen la guerra, son los pobres los que mueren.
@@ -2477,6 +2477,7 @@ encontrando.
   + Lo que hace o deshace a un hombre no es lo que la gente piensa de
     él, sino lo que él piensa de sí mismo.
   + Si te sientes solo cuando estás solo, estás mal acompañado.
+  + Somos nuestras elecciones.
 
 * [[https://es.wikipedia.org/wiki/Jeff_Lindsay][Jeff Lindsay]]
   + La clave de una vida feliz es alcanzar metas de las que te sientas
