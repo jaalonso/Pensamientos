@@ -2317,6 +2317,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Hip%C3%B3crates][Hipócrates]]
   + Hay, de hecho, dos cosas, ciencia y opinión; la primera engendra
     conocimiento, la segunda ignorancia.
+  + Que la comida sea tu alimento y el alimento tu medicina.
 
 * [[https://es.wikipedia.org/wiki/Honor%C3%A9_de_Balzac][Honoré de Balzac]]
   + Aunque nada cambie, si yo cambio, todo cambia.
