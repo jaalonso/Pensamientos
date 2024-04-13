@@ -1887,12 +1887,14 @@ encontrando.
     paralelamente la sensación de no saber o, mejor dicho, de saber que
     no se sabe.
 
-* [[https://es.wikipedia.org/wiki/G._K._Chesterton][G.K. Chesterton]]
+* [[https://es.wikipedia.org/wiki/G._K._Chesterton][G.K. Chesterton (1874-1936)]]
   + La única educación posible es esta: estar lo bastante seguro de una
     cosa para atreverse a decírsela a un niño.
   + Las cosas que vemos todos los días son las cosas que nunca vemos.
   + Lo correcto es lo correcto, aunque no lo haga nadie. Lo que está mal
     está mal, aunque todo el mundo se equivoque al respecto.
+  + No hay cosas sin interés. Tan sólo personas incapaces de
+    interesarse.
   + Si no logras desarrollar toda tu inteligencia, siempre te queda la
     opción de hacerte político.
 
