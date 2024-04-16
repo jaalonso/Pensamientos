@@ -2164,8 +2164,10 @@ encontrando.
   + ¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde
     muchos puntos de vista.
 
-* [[https://es.wikipedia.org/wiki/Henrik_Ibsen][Henrik Ibsen]]
+* [[https://es.wikipedia.org/wiki/Henrik_Ibsen][Henrik Ibsen (1828-1906)]]
   + La belleza es el acuerdo entre el contenido y la forma.
+  + Me rebelo contra la vieja mentira de que la mayoría siempre tiene la
+    razón.
 
 * [[https://bit.ly/2Yv5qZI][Henry Brougham]]
   + Procura buscar el conocimiento en las dificultades.
