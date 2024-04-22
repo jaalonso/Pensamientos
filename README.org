@@ -2607,7 +2607,10 @@ encontrando.
     escuchar con atención, a responder serenamente y a callar cuando no
     tengas nada que decir.
 
-* [[https://es.wikipedia.org/wiki/Johann_Sebastian_Bach][Johann Sebastian Bach]]
+* [[https://es.wikipedia.org/wiki/Johann_Sebastian_Bach][Johann Sebastian Bach (1685-1750)]]
+  + Lo que he logrado ha sido gracias al trabajo y la práctica,
+    cualquier persona con un don natural tolerable y capacidad, también
+    puede lograrlo.
   + Es fácil tocar un instrumento musical: todo lo que tienes que hacer
     es tocar la tecla correcta en el momento adecuado y el instrumento
     suena.
