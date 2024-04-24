@@ -2608,12 +2608,14 @@ encontrando.
     tengas nada que decir.
 
 * [[https://es.wikipedia.org/wiki/Johann_Sebastian_Bach][Johann Sebastian Bach (1685-1750)]]
-  + Lo que he logrado ha sido gracias al trabajo y la práctica,
-    cualquier persona con un don natural tolerable y capacidad, también
-    puede lograrlo.
   + Es fácil tocar un instrumento musical: todo lo que tienes que hacer
     es tocar la tecla correcta en el momento adecuado y el instrumento
     suena.
+  + Lo que he logrado ha sido gracias al trabajo y la práctica,
+    cualquier persona con un don natural tolerable y capacidad, también
+    puede lograrlo.
+  + Trabajo incesante, análisis, reflexión, escritura, autocorrección
+    interminable, ese es mi secreto.
 
 * [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe (1749-1832)]]
   + Con el conocimiento se acrecientan las dudas.
