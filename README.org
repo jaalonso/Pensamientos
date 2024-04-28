@@ -4493,13 +4493,15 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/T%C3%A1cito][Tácito]]
   + Todo lo que se ignora tiende a magnificarse.
 
-* [[https://es.wikipedia.org/wiki/Tales_de_Mileto][Tales de Mileto]]
+* [[https://es.wikipedia.org/wiki/Tales_de_Mileto][Tales de Mileto (-624. -546)]]
   + Cuida tus palabras; que ellas no levanten un muro entre ti y los que
     contigo viven.
   + De todo lo que es posible aprender, elige y aprende lo mejor; y de
     todo lo que hayas aprendido, elige lo mejor y enséñalo a los demás.
   + La cosa más difícil es conocernos a nosotros mismos; la más fácil es
     hablar mal de los demás.
+  + La felicidad del cuerpo se funda en la salud. La del entendimiento
+    en el saber.
   + No digas lo que quieres hacer para que no se burlen de ti, si no
     completas tu resolución.
 
