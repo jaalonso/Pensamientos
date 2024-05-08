@@ -3784,8 +3784,10 @@ encontrando.
   + Vivimos en una época en la que ciertas cosas innecesarias son
     nuestras únicas necesidades.
 
-* [[https://es.wikipedia.org/wiki/Ovidio][Ovidio]]
+* [[https://es.wikipedia.org/wiki/Ovidio][Ovidio (-43, 17)]]
   + En los campos ajenos, la cosecha siempre es más abundante.
+  + Feliz es el hombre que ha roto las cadenas que lastiman la mente, y
+    ha dejado de preocuparse de una vez por todas.
   + La gota horada la roca, no por su fuerza sino por su constancia.
   + Nada es más útil al hombre que aquellas artes que no tienen ninguna
     utilidad
