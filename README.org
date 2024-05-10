@@ -555,7 +555,7 @@ encontrando.
   + Sólo se comprende cuando se deja de obedecer, sólo se obedece cuando
     no se comprende.
 
-* [[https://es.wikipedia.org/wiki/Arist%C3%B3teles][Aristóteles]]
+* [[https://es.wikipedia.org/wiki/Arist%C3%B3teles][Aristóteles (-384, -322)]]
   + Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse
     con la persona adecuada, en el grado exacto, en el momento oportuno,
     con el propósito justo y del modo correcto, eso, ciertamente, no
