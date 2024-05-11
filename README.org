@@ -605,7 +605,7 @@ encontrando.
   + En cualquier lenguaje es difícil hacer una sentencia que diga
     exactamente lo que deseas.
 
-* [[https://es.wikipedia.org/wiki/Arthur_Schopenhauer][Arthur Schopenhauer]]
+* [[https://es.wikipedia.org/wiki/Arthur_Schopenhauer][Arthur Schopenhauer (1788-1860)]]
   + Así como no sentimos la salud de todo nuestro cuerpo sino solo el
     punto donde nos aprieta el zapato, tampoco pensamos en todos
     nuestros asuntos que marchan perfectamente bien sino en alguna
