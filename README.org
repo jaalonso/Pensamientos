@@ -956,7 +956,7 @@ encontrando.
         paraíso de los necios, pues sólo un necio pensará que eso es la
         felicidad.
 
-* [[https://es.wikipedia.org/wiki/Blaise_Pascal][Blaise Pascal]]
+* [[https://es.wikipedia.org/wiki/Blaise_Pascal][Blaise Pascal (1623-1662)]]
   + El hombre está dispuesto siempre a negar todo aquello que no
     comprende.
   + El hombre tiene ilusiones como el pájaro alas. Eso es lo que lo
