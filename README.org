@@ -13,12 +13,12 @@
 Este libro contiene una recopilación de pensamientos con los que me voy
 encontrando.
 
-* [[ https://es.wikipedia.org/wiki/Aaron_Swartz][Aaron Swartz]]
+* [[https://es.wikipedia.org/wiki/Aaron_Swartz][Aaron Swartz (1986-2013)]]
   + Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que
     mucho de lo que la gente llama la inteligencia se reduce a la
     curiosidad.
 
-* [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln]]
+* [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln (1809-1865)]]
   + Es más fácil reprimir el primer capricho que satisfacer a todos los
     que le siguen.
   + Hagas lo que hagas, hazlo bien.
@@ -43,7 +43,7 @@ encontrando.
   + Cuando descubres lo que te gusta, realmente estás descubriéndote a
     ti mismo.
 
-* [[https://es.wikipedia.org/wiki/Agust%C3%ADn_Garc%C3%ADa_Calvo][Agustín García Calvo]]
+* [[https://es.wikipedia.org/wiki/Agust%C3%ADn_Garc%C3%ADa_Calvo][Agustín García Calvo (1916-2012)]]
   + Jamás la falta de fe o el descreimiento han dicho una mentira o
     apretado el gatillo de un arma.
   + Yo trato de privarme de ideas. Todos los días me quito alguna, pero
