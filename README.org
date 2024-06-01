@@ -1345,7 +1345,7 @@ encontrando.
     contempla.
   + La rutina es la gran guía de la vida humana.
 
-* [[https://es.wikipedia.org/wiki/Dem%C3%B3crito][Demócrito]]
+* [[https://es.wikipedia.org/wiki/Dem%C3%B3crito][Demócrito (-460, -370)]]
   + Abarca pocas actividades si quieres mantener el buen humor.
 
 * [[https://es.wikipedia.org/wiki/Dem%C3%B3stenes][Demóstenes]]
@@ -1561,7 +1561,7 @@ encontrando.
     eliges a qué pensamientos e imágenes te expones, alguien más lo hará.
   + Todos los asuntos tienen dos asas: por una son manejables, por la otra no.
 
-* [[https://es.wikipedia.org/wiki/Epicuro][Epicuro (341 a.n.e., 271 a.n.e)]]
+* [[https://es.wikipedia.org/wiki/Epicuro][Epicuro (-341, -271)]]
   + El que no esta satisfecho con poco, no esta satisfecho con nada.
   + La autosuficiencia es la mayor de todas las riquezas.
   + Mejor que entristecer el presente deseando lo que no tenemos,
@@ -1570,6 +1570,7 @@ encontrando.
   + Nada es suficiente para quien lo suficiente es poco.
   + No eches a perder lo que tienes deseando lo que no tienes; recuerda
     que lo que tienes ahora fue una vez cosas que solo deseabas.
+  + Retírate dentro de ti mismo, sobre todo cuando necesites compañía.
 
 * [[https://es.wikipedia.org/wiki/Erasmo_de_R%C3%B3terdam][Erasmo de Róterdam (1466-1536)]]
   + Antes de dormir, lee algo que sea exquisito y que valga la pena
