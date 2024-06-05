@@ -1682,7 +1682,7 @@ encontrando.
     los noticieros que te envenenan desde la mañana, a los que quieren
     dirigir tu vida por el camino perdido.
 
-* [[https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca][Federico García Lorca]]
+* [[https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca][Federico García Lorca (1898-1936)]]
   + Desechad tristezas y melancolías. La vida es amable, tiene pocos días
     y tan solo ahora la hemos de gozar.
 
