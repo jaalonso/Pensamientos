@@ -3594,6 +3594,10 @@ encontrando.
   + Yo no me encuentro a mí mismo cuando más me busco. Me encuentro por
     sorpresa cuando menos lo espero.
 
+* [[https://es.wikipedia.org/wiki/Michel_Foucault][Michel Foucault (1926-1984)]]
+  + El lenguaje no es un mero instrumento de comunicación; es también un
+    vehículo para la creación y difusión del poder.
+
 * [[https://es.wikipedia.org/wiki/Michel_Onfray][Michel Onfray]]
   + No desprecio a los creyentes, no me parecen ni ridículos ni dignos
     de lástima, pero me parece desolador que prefieran las ficciones
