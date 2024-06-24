@@ -4064,6 +4064,7 @@ encontrando.
     perder o ganar.
 
 * [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson (1803-1882)]]
+  + Adopta el ritmo de la naturaleza: su secreto es la paciencia.
   + Aunque viajamos por todo el mundo para encontrar lo bello, debemos
     llevarlo con nosotros, o no lo encontramos.
   + Es fácil en el mundo vivir según la opinión del mundo; es fácil en la soledad
