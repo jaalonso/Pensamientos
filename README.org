@@ -4656,9 +4656,11 @@ encontrando.
   + Cuando no se tiene el coraje de vivir como se piensa, se termina por pensar
     como se vive.
 
-* [[https://es.wikipedia.org/wiki/Viktor_Frankl][Viktor Frankl]]
+* [[https://es.wikipedia.org/wiki/Viktor_Frankl][Viktor Frankl (1905-1997)]]
   + Cuando no podemos cambiar la situación a la que nos enfrentamos, el
     reto consiste en cambiarnos a nosotros.
+  + Cuestionar el sentido de la vida es la expresión más auténtica del
+    estado del ser humano.
   + La felicidad es como una mariposa. Cuanto más la persigues, más
     huye. Pero si vuelves la atención hacia otras cosas, ella viene y
     suavemente se posa en tu hombro. La felicidad no es una posada en el
