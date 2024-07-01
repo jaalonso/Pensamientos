@@ -3107,7 +3107,7 @@ encontrando.
 * [[https://twitter.com/ramalhoorg?lang=es][Luciano Ramalho]]
   + La abstracción prematura es tan mala como la optimización prematura.
 
-* [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca]]
+* [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca (-4, 65)]]
   + Atribuimos al lugar y al tiempo algunos de nuestros defectos, mas
     éstos a cualquier sitio que nos traslademos nos han de acompañar.
   + Brevísima y agitadísima es la vida de aquellos que olvidan el
@@ -3316,6 +3316,7 @@ encontrando.
   + El instinto dicta el deber y la inteligencia da pretextos para
     eludirlo.
   + El único paraíso es el paraíso perdido.
+  + Mi destino ya no es un lugar, sino una nueva forma de ver.
 
 * [[https://es.wikipedia.org/wiki/Marcela_Serrano][Marcela Serrano]]
   + En los tiempos de mi abuela nada se echaba a la basura. Tampoco la
