@@ -3504,7 +3504,7 @@ encontrando.
     nunca han ocurrido.
   + La mejor manera de animarte a ti mismo es tratar de animar a alguien
     más.
-  + La verdad no tiene defensa contra un idiøta decidido a creer una
+  + La verdad no tiene defensa contra un idiota decidido a creer una
     mentira.
   + La única manera de conservar la salud es comer lo que no quieres,
     beber lo que no te gusta, y hacer lo que preferirías no hacer.
@@ -4785,7 +4785,9 @@ encontrando.
   + Lo más triste es que la única cosa que se puede hacer durante ocho
     horas al día es trabajar.
 
-* [[https://es.wikipedia.org/wiki/William_James][William James]]
+* [[https://es.wikipedia.org/wiki/William_James][William James (1842-1910)]]
+  + Cree que tu vida merece la pena ser vivida y esa creencia ayudará a
+    crear el hecho.
   + Cuando debemos hacer una elección y no la haces, esto ya es una
     elección.
   + Dejad pensar al pueblo que gobierna y se dejará gobernar.
