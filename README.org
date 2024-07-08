@@ -118,6 +118,8 @@ encontrando.
     simplemente para ser normales.
   + Nunca serás feliz si continúas buscando en qué consiste la
     felicidad.  Nunca vivirás si buscas el significado de la vida.
+  + Pero, ¿qué es la felicidad sino la simple armonía entre un hombre y
+    la vida que lleva?
   + Qué sensación tan buena y tan profunda, esta de ir poco a poco
     desprendiéndose de todo y todos los que nada merecen, y poco a poco
     reconocer, más allá de los años y las fronteras, una familia de
@@ -1766,7 +1768,7 @@ encontrando.
     gente necesita no es una mente brillante que hable sino un corazón
     especial que escuche.
 
-* [[https://es.wikipedia.org/wiki/Francisco_de_As%C3%ADs][Francisco de Asís]]
+* [[https://es.wikipedia.org/wiki/Francisco_de_As%C3%ADs][Francisco de Asís (1181-1226)]]
   + Allí donde reinan la quietud y la meditación, no hay lugar para las
     preocupaciones ni para la disipación.
 
@@ -2507,9 +2509,11 @@ encontrando.
     generaciones, hombres creativos, inventivos y descubridores.
   + Inteligencia es lo que usas cuando no sabes qué hacer.
 
-* [[https://es.wikipedia.org/wiki/Jean_de_La_Fontaine][Jean de La Fontaine]]
+* [[https://es.wikipedia.org/wiki/Jean_de_La_Fontaine][Jean de La Fontaine (1621-1695)]]
   + A menudo encontramos nuestro destino por los caminos que tomamos
     para evitarlo.
+  + La naturaleza del ser humano es tal que cuando algo enciende su
+    alma, las imposibilidades desaparecen.
   + Todos los cerebros del mundo son impotentes contra cualquier
     estupidez que esté de moda.
 
