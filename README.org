@@ -4073,6 +4073,10 @@ encontrando.
     imposibilidad de recuperarlo. No tener claro si lo que hicimos fue
     perder o ganar.
 
+* [[https://es.wikipedia.org/wiki/Rainer_Maria_Rilke][Rainer María Rilke (1875-1926)]]
+  + La belleza está en los detalles, en las pequeñas cosas que pasamos
+    por alto.
+
 * [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson (1803-1882)]]
   + Adopta el ritmo de la naturaleza: su secreto es la paciencia.
   + Aunque viajamos por todo el mundo para encontrar lo bello, debemos
