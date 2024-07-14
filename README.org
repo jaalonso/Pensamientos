@@ -621,6 +621,11 @@ encontrando.
   + Cada nación se burla de las otras, y todas tienen razón.
   + Casi todas nuestras penas surgen de nuestras relaciones con otras
     personas.
+  + Cuando somos jóvenes, pensamos que los acontecimientos importantes y
+    de mayor repercusión en nuestra vida harán su entrada con tambores y
+    trompetas; una mirada retrospectiva en la vejez muestra, sin
+    embargo, que aquellos entraron con total tranquilidad por la puerta
+    de atrás y casi sin llamar la atención.
   + Cuanto más sea lo que tiene alguien en su interior, tanto menos
     requerirá de fuera y, por consiguiente, tanto menos significarán los
     otros para él. De ahí que la eminencia del espíritu conduzca a la
@@ -3526,6 +3531,7 @@ encontrando.
     y molestará al cerdo.
   + Todo lo que necesitas en esta vida es ignorancia y confianza, y
     entonces el éxito es seguro.
+  + Un hombre con una idea nueva es un loco hasta que la idea triunfa.
   + Un pesimista es un optimista bien informado.
 
 * [[https://es.wikipedia.org/wiki/Martin_HeidGegger][Martin Heidegger]]
