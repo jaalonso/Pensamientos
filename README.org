@@ -2599,10 +2599,13 @@ encontrando.
   + En un mundo superior puede ser de otra manera, pero aquí abajo,
     vivir es cambiar y ser perfecto es haber cambiado muchas veces.
 
-* [[https://es.wikipedia.org/wiki/John_Lennon][John Lennon]]
+* [[https://es.wikipedia.org/wiki/John_Lennon][John Lennon (1940-1980)]]
   + Cuando fui a la escuela, me preguntaron qué quería ser cuando fuera
     grande, escribí feliz. Me dijeron que yo no entendía la
     pregunta. Les dije que no entendían la vida.
+  + Cuando hagas algo noble y hermoso y nadie se de cuenta, no estés
+    triste. El amanecer es un espectáculo hermoso y sin embargo la mayor
+    parte de la audiencia duerme todavía.
   + La vida es aquello que te va sucediendo mientras estás ocupado
     haciendo otros planes.
 
