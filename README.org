@@ -547,6 +547,10 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Ant%C3%B3n_Ch%C3%A9jov][Antón Chéjov]]
   + Las personas inteligentes quieren aprender. Las demás, enseñar.
 
+* [[https://es.wikipedia.org/wiki/Azor%C3%ADn][Azorín (1873-1967)]]
+  + Si lo pensamos, veremos que muchos de los disgustos que nos
+    sobrevienen lo son por palabras innecesarias.
+
 * Anónimo
   + Conócete a tí mismo.
   + Cuando crees que sabes todas las respuestas, la vida te cambia todas
