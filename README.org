@@ -340,6 +340,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Alice_Herz-Sommer][Alice Herz-Sommer (1903-2014)]]
   + Mi elección en la vida es no lamentarme de nada.
 
+* [[https://en.wikipedia.org/wiki/Alice_Munro][Alice Munro (1931-2024)]]
+  + La felicidad constante es la curiosidad.
+
 * [[https://es.wikipedia.org/wiki/Almudena_Grandes][Almudena Grandes]]
   + Con el tiempo comprendí que la alegría era un arma superior al odio,
     las sonrisas más útiles, más feroces que los gestos de rabia y
