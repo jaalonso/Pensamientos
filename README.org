@@ -2848,7 +2848,7 @@ encontrando.
   + Quien cambia felicidad por dinero no podrá cambiar dinero por
     felicidad.
 
-* [[https://es.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset][José Ortega y Gasset]]
+* [[https://es.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset][José Ortega y Gasset (1883-1955)]]
   + La técnica es el esfuerzo para ahorrar esfuerzo.
   + No sabemos lo que nos pasa y eso es precisamente lo que nos pasa.
   + Nuestras convicciones más arraigadas, más indubitables, son las más
@@ -2856,6 +2856,7 @@ encontrando.
     nuestra prisión.
   + Sólo cabe progresar cuando se piensa en grande, sólo es posible
     avanzar cuando se mira lejos.
+  + Vivir es un proceso constante de decidir qué vamos a hacer.
 
 * [[https://es.wikipedia.org/wiki/Jos%C3%A9_Saramago][José Saramago (1922-2010)]]
   + El caos no es más que el orden esperando ser descifrado.
