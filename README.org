@@ -3751,6 +3751,12 @@ encontrando.
   + Si una persona nunca se contradice a sí misma, debe ser que no dice
     nada.
 
+* [[https://en.wikipedia.org/wiki/Milan_Kundera][Milan Kundera (1929-2023)]]
+  + Hace tiempo que nos dimos cuenta de que ya no era posible dar la
+    vuelta a este mundo, ni remodelarlo, ni detener su desafortunado
+    curso hacia adelante. Sólo había una resistencia posible: no tomarlo
+    en serio.
+
 * [[https://bit.ly/3lcJ0F3][Milton Friedman]]
   + Si no puedes formular una proposición de forma clara y sin
     ambigüedades, no la comprendes.
