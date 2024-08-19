@@ -4321,6 +4321,10 @@ encontrando.
     matemáticas, libre de ambiciones y pretensiones, e indiferente al
     mundo.
 
+* [[https://en.wikipedia.org/wiki/Robert_Frost][Robert Frost (1874-1963)]]
+  + La mitad del mundo tiene algo que decir, pero no puede; la otra
+    mitad no tiene nada que decir, pero no calla.
+
 * [[https://es.wikipedia.org/wiki/Robert_Louis_Stevenson][Robert Louis Stevenson (1850-1894)]]
   + Lo importante no es llegar sino ir.
   + No hay deber que descuidemos tanto como el deber de ser felices.
