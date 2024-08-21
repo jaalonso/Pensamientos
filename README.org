@@ -4886,7 +4886,7 @@ encontrando.
     el optimista espera que este cambie;
     el realista ajusta las velas.
 
-* [[https://es.wikipedia.org/wiki/William_Blake][William Blake]]
+* [[https://es.wikipedia.org/wiki/William_Blake][William Blake (1757-1827)]]
   + El hombre que no cambia de opinión es como el agua estancada, cría a
     los reptiles de la mente.
   + El loco que persiste en su locura se tornará sabio.
@@ -4894,6 +4894,7 @@ encontrando.
     y un cielo en una flor silvestre,
     sostener el infinito en la palma de la mano
     y la eternidad en una hora.
+  + La abeja laboriosa no tiene tiempo para la tristeza.
   + Una misma ley para el león y para el buey es opresión.
 
 * [[https://es.wikipedia.org/wiki/William_Butler_Yeats][William Butter Yeats (1865-1939)]]
