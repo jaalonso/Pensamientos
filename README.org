@@ -4683,9 +4683,11 @@ encontrando.
     conceptos. Si eres capaz de liberarte de estos conceptos, la
     ansiedad y el miedo desaparecerán.
 
-* [[https://es.wikipedia.org/wiki/Thomas_Alva_Edison][Thomas Alva Edison]]
+* [[https://es.wikipedia.org/wiki/Thomas_Alva_Edison][Thomas Alva Edison (1847-1931)]]
   + Hay una manera de hacerlo mejor, búscala.
   + No he fracasado, he encontrado diez mil soluciones que no funcionan.
+  + Nuestra mayor debilidad es rendirnos. La forma más segura de tener
+    éxito es siempre intentarlo una vez más.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Carlyle][Thomas Carlyle]]
   + La contemplación es un lujo, mientras que la acción es una
