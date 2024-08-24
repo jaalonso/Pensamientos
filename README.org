@@ -3702,6 +3702,11 @@ encontrando.
   + El lenguaje no es un mero instrumento de comunicación; es también un
     vehículo para la creación y difusión del poder.
 
+* [[https://en.wikipedia.org/wiki/Michel_Houellebecq][Michel Houellebecq (1956-)]]
+  + Aumentar los deseos hasta un nivel insoportable y hacer cada vez más
+    difícil su satisfacción: este era el principio único en el que se
+    basaba la sociedad occidental.
+
 * [[https://es.wikipedia.org/wiki/Michel_Onfray][Michel Onfray]]
   + No desprecio a los creyentes, no me parecen ni ridículos ni dignos
     de lástima, pero me parece desolador que prefieran las ficciones
