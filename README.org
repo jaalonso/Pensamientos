@@ -2096,9 +2096,11 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Gregorio_Mara%C3%B1%C3%B3n][Gregorio Marañón]]
   + El trabajo sin prisa es el mayor descanso para el organismo.
 
-* [[https://es.wikipedia.org/wiki/Groucho_Marx][Groucho Marx]]
+* [[https://es.wikipedia.org/wiki/Groucho_Marx][Groucho Marx (1890-1977)]]
   + La política es el arte de buscar problemas, encontrarlos, hacer un
     diagnóstico falso y aplicar después los remedios equivocados.
+  + Me gustan mis errores, no quiero renunciar a la deliciosa libertad
+    de equivocarme.
   + Todavía no sé qué me vas a preguntar, pero me opongo.
 
 * [[https://es.wikipedia.org/wiki/Guillermo_de_Ockham][Guillermo de Ockham]]
