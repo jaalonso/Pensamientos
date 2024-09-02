@@ -4055,7 +4055,7 @@ encontrando.
   + No digas pocas cosas en muchas palabras, sino muchas cosas en pocas
     palabras.
 
-* [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón]]
+* [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón (-427, -347)]]
   + Buscando el bien de nuestros semejantes, encontramos el nuestro.
   + El hombre es un ser en busca de sentido.
   + El matemático es perfecto sólo en la medida en que es un hombre
@@ -4065,6 +4065,7 @@ encontrando.
   + El principio es la parte más importante del trabajo.
   + La belleza es el esplendor de la verdad.
   + La justicia no es otra cosa que la conveniencia del más fuerte.
+  + La música es para el alma lo que la gimnasia para el cuerpo.
   + La necesidad es la madre de la invención.
   + La pobreza no viene por la disminución de las riquezas, sino por la
     multiplicación de los deseos.
