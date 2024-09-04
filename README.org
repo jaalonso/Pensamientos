@@ -2037,7 +2037,7 @@ encontrando.
   + Los tontos no gustan de admirar las cosas sino cuando llevan una
     etiqueta.
 
-* [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Gibran Jalil Gibran]]
+* [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Khalil Gibran (1883-1931)]]
   + El olvido es una forma de libertad.
   + El optimista ve la rosa y no sus espinas; el pesimista mira las
     espinas, ajeno a la rosa.
@@ -2045,6 +2045,9 @@ encontrando.
     y detrás de cada noche, viene una aurora sonriente.
   + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar
     entre las nubes.
+  + Tu vida está determinada no tanto por lo que la vida te trae sino
+    por la actitud que le pones a la vida; no tanto por lo que te sucede
+    sino por la forma en que tu mente mira lo que sucede. Khalil Gibrán
 
 * [[https://es.wikipedia.org/wiki/Giovanni_Boccaccio][Giovanni Boccaccio]]
   + Vale más actuar exponiéndose a arrepentirse de ello, que
