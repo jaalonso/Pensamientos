@@ -1992,7 +1992,7 @@ encontrando.
   + La ignorancia siempre es ciega. No conoce el bien para seguirlo, ni el
     mal para evitarlo.
 
-* [[https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel][Georg Wilhelm Friedrich Hegel (1770-1831)]]
+* [[https://es.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel][Friedrich Hegel (1770-1831)]]
   + Aprendemos de la historia que no aprendemos de la historia.
   + Cuando se menciona la libertad, siempre debemos tener cuidado de
     observar si no es realmente la afirmación de intereses privados lo
@@ -2001,6 +2001,7 @@ encontrando.
     una síntesis emergente que reconcilia ambas.
   + Ser independiente de la opinión pública es la primera condición
     formal para lograr algo grande.
+  + Tened el valor de equivocaros.
 
 * [[https://es.wikipedia.org/wiki/George_Berkeley][George Berkeley]]
   + Pocos hombres piensan, pero todos tienen opiniones.
