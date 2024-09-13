@@ -4108,6 +4108,11 @@ encontrando.
   + Un recipiente vacío hace el sonido más fuerte, por eso los que
     tienen un menor ingenio son los más grandes charlatanes.
 
+* [[https://es.wikipedia.org/wiki/Plinio_el_Viejo][Plinio el Viejo (23-79)]]
+  + Los hombres son más propensos a creer lo que menos entienden.
+  + La esperanza es el pilar que sostiene al mundo. La esperanza es el
+    sueño del hombre despierto.
+
 * [[https://es.wikipedia.org/wiki/Plutarco][Plutarco (46-120)]]
   + El alma más fuerte y mejor constituida es la que no se enorgullece
     ni se enerva con sus éxitos, y a la que no abaten los reveses.
