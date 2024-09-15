@@ -3358,6 +3358,10 @@ encontrando.
     en lugar de gobernarnos por la razón nos dejamos conducir por lo que
     es costumbre.
 
+* [[https://es.wikipedia.org/wiki/Lucrecio][Lucrecio (-99, -55)]]
+  + Las gotas de lluvia hacen un agujero en la piedra, no por la
+    violencia, sino por la constante caída.
+
 * [[https://es.wikipedia.org/wiki/Ludwig_van_Beethoven][Ludwig van Beethoven (1770-1827)]]
   + El genio se compone del dos por ciento de talento y del noventa y
     ocho por ciento de perseverante aplicación.
