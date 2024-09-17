@@ -2749,6 +2749,8 @@ encontrando.
     interminable, ese es mi secreto.
 
 * [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe (1749-1832)]]
+  + Ciertos libros parecen haber sido escritos no para aprender de ellos
+    sino para que se reconozca lo que sabía su autor.
   + Con el conocimiento se acrecientan las dudas.
   + Cuando he estado trabajando todo el día, un buen atardecer me sale
     al encuentro.
