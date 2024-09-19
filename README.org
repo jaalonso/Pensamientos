@@ -3685,7 +3685,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Mateo_Alemán][Mateo Alemán]]
   + No hay maestro como el ejercicio.
 
-* [[https://es.wikipedia.org/wiki/Maurice_Maeterlinck][Maurice Maeterlinck]]
+* [[https://es.wikipedia.org/wiki/Maurice_Maeterlinck][Maurice Maeterlinck (1862-1949)]]
+  + Cada vez que cometo un error me parece descubrir una verdad que no
+    conocía.
   + El silencio es el sol que madura los frutos del alma.
   + La desesperanza está fundada en lo que sabemos, que es nada. Y la
     esperanza sobre lo que ignoramos, que es todo.
