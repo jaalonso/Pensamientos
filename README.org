@@ -4489,10 +4489,12 @@ encontrando.
   + Los pequeños hechos revelan mejor que los grandes el carácter de una
     persona.
 
-* [[https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona][San Agustín]]
+* [[https://es.wikipedia.org/wiki/Agust%C3%ADn_de_Hipona][San Agustín (354-430)]]
   + Los hombres están siempre dispuestos a curiosear y averiguar sobre
     las vidas ajenas, pero les da pereza conocerse a sí mismos y
     corregir su propia vida.
+  + ¿Qué es, pues el tiempo? Si nadie me lo pregunta, lo sé; si quiero
+    explicarlo a quien me lo pide, no lo sé.
   + Quien roba con un barco es un pirata, quien roba con una flota es
     almirante.
 
