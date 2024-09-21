@@ -408,6 +408,9 @@ encontrando.
   + El silencio no es la ausencia de sonido, sino la ausencia de ego.
   + ¿En qué crees que gasta su vida la mayoría de la gente? ¡En
     impresionar a los otros!
+  + Había un leñador que se agotaba malgastando su tiempo y sus energías
+    en cortar madera con un hacha embotada, porque no tenía tiempo,
+    según él, para detenerse a afilar la hoja.
   + Jamás se ha emborrachado nadie a base de comprender intelectualmente
     la palabra vino.
   + Medita, contempla los muros; observa tus ideas, tus hábitos, tus
@@ -4493,7 +4496,7 @@ encontrando.
   + Los hombres están siempre dispuestos a curiosear y averiguar sobre
     las vidas ajenas, pero les da pereza conocerse a sí mismos y
     corregir su propia vida.
-  + ¿Qué es, pues el tiempo? Si nadie me lo pregunta, lo sé; si quiero
+  + ¿Qué es, pues, el tiempo? Si nadie me lo pregunta, lo sé; si quiero
     explicarlo a quien me lo pide, no lo sé.
   + Quien roba con un barco es un pirata, quien roba con una flota es
     almirante.
@@ -4780,7 +4783,7 @@ encontrando.
   + Yo creo bastante en la suerte. Y he constatado que, cuanto más duro
     trabajo, más suerte tengo.
 
-* [[https://es.wikipedia.org/wiki/Thomas_Kuhn][Thomas Kuhn]]
+* [[https://es.wikipedia.org/wiki/Thomas_Kuhn][Thomas Kuhn (1922-1996)]]
   + Lo que ve un hombre depende tanto de lo que mira como de lo que su
     experiencia visual y conceptual previa lo ha preparado a ver.
 
