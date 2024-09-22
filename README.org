@@ -4942,8 +4942,9 @@ encontrando.
   + Quienes creen que el dinero lo hace todo, terminan haciendo todo por
     dinero.
 
-* [[https://es.wikipedia.org/wiki/Walter_Scott][Walter Scott]]
+* [[https://es.wikipedia.org/wiki/Walter_Scott][Walter Scott (1771-1832)]]
   + Descansar demasiado es oxidarse.
+  + El que sube una escalera debe empezar por el primer peldaño.
 
 * [[https://en.wikipedia.org/wiki/Wei_Wu_Wei][Wei Wu Wei]]
   + Los sabios no juzgan, buscan comprender.
