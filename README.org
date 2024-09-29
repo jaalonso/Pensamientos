@@ -4580,11 +4580,12 @@ encontrando.
     es que todavía no nos han visitado.
   + Uno es dueño de lo que calla y esclavo de lo que habla.
 
-* [[https://es.wikipedia.org/wiki/Simone_de_Beauvoir][Simone de Beauvoir]]
+* [[https://es.wikipedia.org/wiki/Simone_de_Beauvoir][Simone de Beauvoir (1908-1986)]]
   + La representación del mundo, como el mundo mismo, es obra de los
     hombres; la describen desde su propio punto de vista, que confunden
     con la verdad absoluta.
   + La soledad es fortaleza; depender de la multitud es debilidad.
+  + Lo más escandaloso que tiene el escándalo es que uno se acostumbra.
   + Entre dos individuos, la armonía nunca viene dada, sino que debe
     conquistarse indefinidamente.
 
