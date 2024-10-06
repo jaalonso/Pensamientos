@@ -3413,6 +3413,9 @@ encontrando.
     el disfraz de palabras misteriosas.
   + Las gotas de lluvia hacen un agujero en la piedra, no por la
     violencia, sino por la constante caída.
+  + Siempre nos parece que el mayor bien es el que nos falta; si
+    lográramos alcanzarlo, suspiraríamos por otro bien con el mismo
+    ardor.
 
 * [[https://es.wikipedia.org/wiki/Ludwig_van_Beethoven][Ludwig van Beethoven (1770-1827)]]
   + El genio se compone del dos por ciento de talento y del noventa y
