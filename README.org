@@ -1392,10 +1392,14 @@ encontrando.
   + Solo hay un agente infeccioso que viaje más rápido que un virus. El
     miedo.
 
-* [[https://es.wikipedia.org/wiki/Daniel_Goleman][Daniel Goleman]]
+* [[https://es.wikipedia.org/wiki/Daniel_Goleman][Daniel Goleman (1946-)]]
   + En un mundo tan cambiante encontramos que la flexibilidad, la
     posibilidad de adaptarse al cambio es más importante que la
     experiencia.
+  + La facilidad con que una sociedad desprecia, y hasta sepulta, las
+    visiones discrepantes depende evidentemente del conjunto de lagunas
+    compartidas por sus ciudadanos. No nos damos cuenta de lo que nos
+    desagrada ver y tampoco nos damos cuenta de que no nos damos cuenta.
   + Las emociones fuera de control pueden transformar en estúpidas a
     personas inteligentes.
 
