@@ -3273,8 +3273,10 @@ encontrando.
   + La política es el arte de servirse de los hombres haciéndoles creer
     que se les sirve a ellos.
 
-* [[https://es.wikipedia.org/wiki/Louis_Pasteur][Louis Pasteur]]
+* [[https://es.wikipedia.org/wiki/Louis_Pasteur][Louis Pasteur (1822-1895)]]
   + Desgraciados los hombres que tienen todas las ideas claras.
+  + Duda siempre de ti mismo, hasta que los datos no dejen lugar a
+    dudas.
   + Sorprendernos por algo es el primer paso de la mente hacia el
     descubrimiento.
 
