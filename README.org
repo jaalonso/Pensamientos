@@ -2218,10 +2218,14 @@ encontrando.
   + Los niños son como cemento fresco, cualquier cosa que caiga sobre
     ellos deja una huella.
 
-* [[https://es.wikipedia.org/wiki/Hannah_Arendt][Hannah Arendt]]
+* [[https://es.wikipedia.org/wiki/Hannah_Arendt][Hannah Arendt (1906-1975)]]
   + Hay un precepto bajo el cual he vivido: prepárate para lo peor,
     espera lo mejor y acepta lo que venga.
   + La vida está hecha para comenzar de nuevo.
+  + Mentir constantemente no tiene como objetivo hacer que la gente crea
+    una mentira, sino garantizar que nadie crea en nada. Un pueblo que
+    ya no distingue entre la verdad y la mentira no puede distinguir
+    entre el bien y el mal: un pueblo privado del poder de pensar.
 
 * [[https://es.wikipedia.org/wiki/Hans_Reichenbach][Hans Reichenbach]]
   + La esencia del conocimiento es la generalización. Que el fuego se
