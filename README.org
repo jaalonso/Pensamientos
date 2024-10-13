@@ -2154,6 +2154,7 @@ encontrando.
   + El trabajo sin prisa es el mayor descanso para el organismo.
 
 * [[https://es.wikipedia.org/wiki/Groucho_Marx][Groucho Marx (1890-1977)]]
+  + Estos son mis principios. Si no le gustan tengo otros.
   + La política es el arte de buscar problemas, encontrarlos, hacer un
     diagnóstico falso y aplicar después los remedios equivocados.
   + Me gustan mis errores, no quiero renunciar a la deliciosa libertad
@@ -4376,6 +4377,9 @@ encontrando.
     que la mayoría de las verdades no son nada más que prejuicios.
 
 * [[https://es.wikipedia.org/wiki/Ren%C3%A9_Descartes][René Descartes (1596-1650)]]
+  + Abrigamos una multitud de prejuicios si no nos decidimos a dudar,
+    alguna vez, de todas las cosas en que encontremos la menor sospecha
+    de incertidumbre.
   + Cada problema que resolví se convirtió en una regla que sirvió
     después para resolver otros problemas. Así, cada verdad descubierta
     era una regla disponible en el descubrimiento de las siguientes.
