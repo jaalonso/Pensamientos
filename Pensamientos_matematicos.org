@@ -1,0 +1,976 @@
+#+TITLE: Pensamientos
+#+AUTHOR: José A. Alonso
+#+OPTIONS: ^:nil
+#+OPTIONS: num:nil
+#+OPTIONS: :makeindex
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./estilo.css" />
+#+LATEX_CLASS_OPTIONS: [a4paper,12pt,twoside]
+#+LATEX_HEADER:\usepackage{makeidx}
+#+LATEX_HEADER:\makeindex
+
+#+LATEX: \input preambulo
+
+Estos colección reúne pensamientos sobre matemáticas, computación y
+otras ciencias que he ido encontrando y compartiendo en [[https://x.com/Jose_A_Alonso][Twitter]] y en
+[[https://www.glc.us.es/~jalonso/exercitium/][Exercitium]].
+
+* Pensamientos en español
+
+1. "Lo que tenemos que aprender a hacer, lo aprendemos haciéndolo." ~
+   Aristóteles
+
+2. "Programación, en sentido amplio, es resolución de problemas." ~ Paul Hudak
+
+3. "Un programa de ordenador es una demostración." ~ Igor Rivin
+
+4. "La Matemática es una ciencia experimental y la computación es el
+   experimento." ~ Rivin
+
+5. "El control de la complejidad es la esencia de la programación." ~
+   B.W. Kernigan
+
+6. "La iteración es humana, la recursión es divina." ~ L. Peter Deutsch
+
+7. "La esencia de la matemática es su libertad." ~ G. Cantor
+
+8. "El control de la complejidad es la esencia de la programación informática." ~
+   [[https://en.wikipedia.org/wiki/Brian_Kernighan][Brian Kernighan]].
+
+9. "¿Cuál es el núcleo central de la ciencia de la computación? ¿Qué es lo que lo
+   diferencia de los otros temas con los que se relaciona? ¿Qué es lo que el hilo
+   de unión que reúne estas ramas dispares en una sola disciplina? Mi respuesta a
+   estas preguntas es simple - es el arte de programar un ordenador. Es el arte
+   de diseñar métodos eficientes y elegantes para conseguir que un ordenador
+   resuelva problemas, teóricos o prácticos,  pequeños o grandes, simples o
+   complejos. Es el arte de traducir estos diseños programas correctos y
+   eficientes." ~ [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]].
+
+10. "Hay dos maneras de diseñar un software. Una forma es hacerlo tan simple que
+    obviamente no haya deficiencias. Y la otra forma es hacerlo tan complicado que
+    no haya deficiencias obvias." ~ [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]].
+
+11. "En el desarrollo de la comprensión de los fenómenos complejos, la herramienta
+    más poderosa de que dispone el intelecto humano es la abstracción. La
+    abstracción surge del reconocimiento de las similitudes entre ciertos objetos,
+    situaciones o procesos en el mundo real y de la decisión de concentrarse en
+    estas similitudes e ignorar, por el momento, sus diferencias." ~ [[https://en.wikipedia.org/wiki/Tony_Hoare][Tony Hoare]].
+
+12. "Las matemáticas son la reina de las ciencias y la teoría de los números es la
+    reina de las matemáticas." ~ [[https://es.wikipedia.org/wiki/Carl_Friedrich_Gauss][Carl Friedrich Gauss]].
+
+13. "El verdadero objetivo de la ciencia es el honor de la mente humana." ~ [[https://es.wikipedia.org/wiki/Carl_Gustav_Jakob_Jacobi][Carl
+    Gustav Jacob Jacobi]]
+
+14. "La programación de computadoras es un arte, porque aplica el conocimiento
+    acumulado al mundo, porque requiere habilidad e ingenio, y especialmente
+    porque produce objetos de belleza. Un programador que subconscientemente se ve
+    a sí mismo como un artista disfrutará lo que hace y lo hará mejor." ~ [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald
+    Knuth]].
+
+15. "Cambiemos nuestra actitud tradicional en la construcción de programas. En
+    lugar de imaginar que nuestra tarea principal es indicarle a una computadora
+    lo que debe hacer, concentrémonos más bien en explicarle a los seres humanos
+    lo que queremos que haga una computadora." ~ [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]].
+
+16. "La ciencia es lo que entendemos lo suficientemente bien como para explicarle
+    a una computadora. El arte es todo lo demás que hacemos." ~ [[https://en.wikipedia.org/wiki/Donald_Knuth][Donald Knuth]].
+
+17. "El arte de la programación es el arte de organizar la complejidad, de dominar
+    la multitud y evitar su caos bastardo." ~ [[https://en.wikipedia.org/wiki/Edsger_W._Dijkstra][Edsger W. Dijkstra]].
+
+18. "Obvio es la palabra más peligrosa de las matemáticas." ~ [[https://en.wikipedia.org/wiki/Eric_Temple_Bell][Eric Temple Bell]]
+
+19. "Las matemáticas son la ciencia que utiliza palabras fáciles para las ideas
+    difíciles." ~ [[https://en.wikipedia.org/wiki/Edward_Kasner][Edward Kasner]] y [[https://en.wikipedia.org/wiki/James_R._Newman][James R. Newman]].
+
+20. "Todo el mundo sabe lo que es una curva, hasta que ha estudiado suficientes
+    matemáticas para confundirse a través del incontable número de posibles
+    excepciones." ~ [[https://en.wikipedia.org/wiki/Felix_Klein][Felix Klein]].
+
+21. "Todo buen matemático es al menos medio filósofo, y todo buen filósofo es al
+    menos medio matemático." ~ [[https://en.wikipedia.org/wiki/Gottlob_Frege][Gottlob Frege]].
+
+22. "La esencia de las matemáticas es su libertad." ~ [[https://en.wikipedia.org/wiki/Georg_Cantor][Georg Cantor]].
+
+23. "En matemáticas, el arte de hacer preguntas es más valioso que la resolución
+    de problemas." ~ [[https://en.wikipedia.org/wiki/Georg_Cantor][Georg Cantor]].
+
+24. "Por muy correcto que parezca un teorema matemático, nunca hay que conformarse
+    con que no haya algo imperfecto en él hasta que también dé la impresión de ser
+    bello." ~ [[https://en.wikipedia.org/wiki/George_Boole][George Boole]].
+
+25. "Un gran descubrimiento resuelve un gran problema, pero hay un grano de
+    descubrimiento en cualquier problema." ~ [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]].
+
+26. "La elegancia de un teorema es directamente proporcional al número de ideas
+    que puedes ver en él e inversamente proporcional al esfuerzo que requiere
+    verlas." ~ [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]].
+
+27. "La primera regla del descubrimiento es tener inteligencia y buena suerte. La
+    segunda regla del descubrimiento es sentarse y esperar hasta que se tenga una
+    idea brillante." ~ [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]].
+
+28. "Para enseñar de manera efectiva, un profesor debe desarrollar un sentimiento
+    por su asignatura; no puede hacer que sus alumnos sientan su vitalidad si no
+    la siente él mismo. No puede compartir su entusiasmo cuando no tiene
+    entusiasmo que compartir. La forma en que expone su tema puede ser tan
+    importante como el tema que expone; debe sentir personalmente que es
+    importante." ~ [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]].
+
+29. "La belleza en las matemáticas es ver la verdad sin esfuerzo." ~ [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]].
+
+30. "Es mejor resolver un problema de cinco maneras diferentes, que resolver cinco
+    problemas de una sola manera." ~ [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]].
+
+31. "Las matemáticas tienen dos caras: son la ciencia rigurosa de Euclides, pero
+    también son algo más. La matemática presentada a la manera euclidiana aparece
+    como una ciencia sistemática y deductiva; pero la matemática en ciernes
+    aparece como una ciencia experimental e inductiva. Ambos aspectos son tan
+    antiguos como la propia ciencia de las matemáticas." ~ [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]].
+
+32. "La resolución de problemas es una habilidad práctica como, digamos, la
+    natación. Adquirimos cualquier habilidad práctica por imitación y
+    práctica. Tratando de nadar, imitas lo que otras personas hacen con sus manos
+    y pies para mantener sus cabezas sobre el agua, y, finalmente, aprendes a
+    nadar practicando la natación. Al intentar resolver problemas, hay que
+    observar e imitar lo que hacen otras personas al resolver problemas y,
+    finalmente, se aprende a resolver problemas haciéndolos." ~ [[https://en.wikipedia.org/wiki/George_P%C3%B3lya][George Pólya]].
+
+33. "El avance de las matemáticas puede ser visto como un progreso de lo infinito
+    a lo finito." ~ [[https://en.wikipedia.org/wiki/Gian-Carlo_Rota][Gian-Carlo Rota]].
+
+34. "Un matemático, como un pintor o un poeta, es un creador de patrones. Si sus
+    patrones son más permanentes que los de ellos, es porque están hechos con
+    ideas." ~ [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]].
+
+35. "Los patrones del matemático, como los del pintor o el poeta deben ser
+    hermosos; las ideas, como los colores o las palabras deben encajar de manera
+    armoniosa. La belleza es la primera prueba: no hay lugar permanente en este
+    mundo para las matemáticas feas." ~ [[https://en.wikipedia.org/wiki/G._H._Hardy][G. H. Hardy]].
+
+36. "La mejor obra del matemático es el arte, un arte altamente perfecto, tan
+    audaz como los más secretos sueños de la imaginación, claro y límpido. El
+    genio matemático y el genio artístico se tocan mutuamente." ~ [[https://en.wikipedia.org/wiki/G%C3%B6sta_Mittag-Leffler][Gösta
+    Mittag-Leffler]].
+
+37. "El placer que obtenemos de la música proviene de contar, pero contando
+    inconscientemente. La música no es más que aritmética inconsciente." ~
+    [[https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz][Gottfried Wilhelm Leibniz]].
+
+38. "La única enseñanza que un profesor puede dar, en mi opinión, es la de pensar
+    delante de sus alumnos." ~ [[https://en.wikipedia.org/wiki/Henri_Lebesgue][Henri Lebesgue]].
+
+39. "Las matemáticas son el arte de dar el mismo nombre a cosas diferentes." ~
+    [[https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9][Henri Poincaré]].
+
+40. "Las matemáticas tienen un triple objetivo. Debe proporcionar un instrumento
+    para el estudio de la naturaleza. Pero esto no es todo: tiene un objetivo
+    filosófico y, me atrevo a decir, un objetivo estético." ~ [[https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9][Henri Poincaré]].
+
+41. "El matemático no estudia las matemáticas puras porque sean útiles; las
+    estudia porque se deleita en ellas y se deleita en ellas porque son hermosas."
+    ~ [[https://en.wikipedia.org/wiki/Henri_Poincar%C3%A9][Henri Poincaré]].
+
+42. "En el campo de la computación, el momento de la verdad es la ejecución de un
+    programa; todo lo demás es profecía." ~ [[https://en.wikipedia.org/wiki/Herbert_A._Simon][Herbert A. Simon]].
+
+43. "Mi trabajo siempre trató de unir lo verdadero con lo bello; pero cuando tuve
+    que elegir uno u otro, generalmente elegí lo bello." ~ [[https://en.wikipedia.org/wiki/Hermann_Weyl][Hermann Weyl]].
+
+44. "No estamos muy contentos cuando nos vemos obligados a aceptar una verdad
+    matemática en virtud de una complicada cadena de conclusiones formales y
+    cálculos, que atravesamos a ciegas, eslabón por eslabón, sintiendo nuestro
+    camino por el tacto. Queremos primero una visión general del objetivo y del
+    camino; queremos entender la idea de la prueba, el contexto más profundo."
+    ~ [[https://en.wikipedia.org/wiki/Hermann_Weyl][Hermann Weyl]].
+
+45. "Existe una distinción entre lo que se puede llamar un problema y lo que se
+    puede considerar un ejercicio. Este último sirve para entrenar al estudiante
+    en alguna técnica o procedimiento, y requiere poco o ningún pensamiento
+    original. A diferencia de un ejercicio, un problema, si es apropiado para su
+    nivel, debe requerir pensamiento por parte del estudiante. Es imposible
+    exagerar la importancia de los problemas en las matemáticas. Es por medio de
+    los problemas que las matemáticas se desarrollan y se levantan por sí
+    mismas. Cada nuevo descubrimiento en matemáticas es el resultado de un
+    intento de resolver algún problema." ~ [[https://en.wikipedia.org/wiki/Howard_Eves][Howard Eves]].
+
+46. "El valor de un problema no es tanto el de encontrar la respuesta como el de
+    las ideas e intentos que obliga su resolución." ~ [[https://en.wikipedia.org/wiki/Israel_Nathan_Herstein][Israel Nathan Herstein]].
+
+47. "La vida de un matemático está dominada por una insaciable curiosidad, un
+    deseo que raya en la pasión por resolver los problemas que estudia." ~ [[https://en.wikipedia.org/wiki/Jean_Dieudonn%C3%A9][Jean
+    Dieudonné]].
+
+48. "Si la gente no cree que las matemáticas son simples, es sólo porque no se dan
+    cuenta de lo complicada que es la vida." ~ [[https://en.wikipedia.org/wiki/John_von_Neumann][John von Neumann]].
+
+49. "Un matemático que no sea también algo de poeta nunca será un matemático
+    perfecto." ~ [[https://en.wikipedia.org/wiki/Karl_Weierstrass][Karl Weierstrass]].
+
+50. "El desarrollo de las matemáticas hacia una mayor precisión ha llevado, como
+    es bien sabido, a la formalización de grandes partes de las mismas, de modo
+    que se puede probar cualquier teorema usando nada más que unas pocas reglas
+    mecánicas." ~ [[https://en.wikipedia.org/wiki/Kurt_G%C3%B6del][Kurt Gödel]].
+
+51. "La simplicidad es la última sofisticación." [[https://en.wikipedia.org/wiki/Leonardo_da_Vinci][Leonardo da Vinci]].
+
+52. "Dios creó el número natural, y todo el resto es obra del hombre." ~ [[https://en.wikipedia.org/wiki/Leopold_Kronecker][Leopold
+    Kronecker]].
+
+53. "La diferencia entre los matemáticos y los físicos es que después de que los
+    físicos prueban un gran resultado piensan que es fantástico, pero después de
+    que los matemáticos prueban un gran resultado piensan que es trivial." ~
+    [[https://en.wikipedia.org/wiki/Lucien_Szpiro][Lucien Szpiro]].
+
+54. "Cualquier tonto puede escribir un código que un ordenador puede
+    entender. Los buenos programadores escriben código que los humanos pueden
+    entender." ~ [[https://en.wikipedia.org/wiki/Martin_Fowler_(software_engineer)][Martin Fowler]].
+
+55. "El verdadero viaje de descubrimiento no consiste en buscar nuevos paisajes
+    sino en tener nuevos ojos." ~ [[https://en.wikipedia.org/wiki/Marcel_Proust][Marcel Proust]].
+
+56. "¿Por qué son hermosos los números? Es como preguntar por qué es bella la
+    Novena Sinfonía de Beethoven. Si no ves por qué, alguien no puede
+    decírtelo. Yo sé que los números son hermosos. Si no son hermosos, nada lo
+    es." ~ [[https://en.wikipedia.org/wiki/Paul_Erd%C5%91s][Paul Erdős]]
+
+57. "Una buena pila de ejemplos, tan grande como sea posible, es indispensable
+    para una comprensión profunda de cualquier concepto, y cuando quiero aprender
+    algo nuevo, mi primer trabajo es construir uno." ~ [[https://en.wikipedia.org/wiki/Paul_Halmos][Paul Halmos]].
+
+58. "Las matemáticas no son una ciencia deductiva, eso es un cliché. Cuando tratas
+    de probar un teorema, no te limitas a enumerar las hipótesis y luego empiezas
+    a razonar. Lo que haces es prueba y error, experimentación, conjetura."
+    ~ [[https://en.wikipedia.org/wiki/Paul_Halmos][Paul Halmos]].
+
+59. "La lógica es invencible, porque para combatir la lógica es necesario usar la
+    lógica." ~ [[https://en.wikipedia.org/wiki/Pierre_Boutroux][Pierre Boutroux]].
+
+60. "Cuando estoy trabajando en un problema, nunca pienso en la belleza. Sólo
+    pienso en cómo resolver el problema. Pero cuando he terminado, si la solución
+    no es bella, sé que está mal." ~ [[https://en.wikipedia.org/wiki/Buckminster_Fuller][Buckminster Fuller]].
+
+61. "Las matemáticas como expresión de la mente humana reflejan la voluntad
+    activa, la razón contemplativa y el deseo de perfección estética. Sus
+    elementos básicos son la lógica y la intuición, el análisis y la construcción,
+    la generalidad y la individualidad." ~ [[https://en.wikipedia.org/wiki/Richard_Courant][Richard Courant]].
+
+62. "El propósito de la computación es la comprensión, no los números."
+    ~ [[https://en.wikipedia.org/wiki/Richard_Hamming][Richard Hamming]].
+
+63. "Las matemáticas puras son el mejor juego del mundo. Es más absorbente que el
+    ajedrez, más arriesgado que el póquer y dura más que el Monopoly. Es
+    gratis. Se puede jugar en cualquier lugar." ~ Richard J. Trudeau
+
+64. "La verdad siempre se encuentra en la simplicidad, y no en la multiplicidad y
+    confusión de las cosas." ~ [[https://en.wikipedia.org/wiki/Isaac_Newton][Isaac Newton]].
+
+65. "Los buenos matemáticos ven analogías entre los teoremas y las teorías. Los
+    mejores ven analogías entre analogías." ~ [[https://en.wikipedia.org/wiki/Stanislaw_Ulam][Stanislaw Ulam]].
+
+66. "La esencia de las matemáticas no es hacer que las cosas simples sean
+    complicadas, sino hacer que las cosas complicadas sean simples."
+    ~ Stanley Gudder
+
+67. "En muchos casos, las matemáticas son un escape de la realidad. El matemático
+    encuentra su propio nicho monástico y la felicidad en actividades que están
+    desconectadas de los asuntos externos. Algunos lo practican como si usaran una
+    droga. El ajedrez a veces juega un papel similar. En su infelicidad por los
+    acontecimientos de este mundo, algunos se sumergen en una especie de
+    autosuficiencia en matemáticas. (Algunos se han dedicado a ello por esta sola
+    razón)." ~ [[https://en.wikipedia.org/wiki/Stanislaw_Ulam][Stanislaw Ulam]].
+
+68. "Un matemático es una persona que puede encontrar analogías entre teoremas; un
+    mejor matemático es uno que puede ver analogías entre pruebas y el mejor
+    matemático puede notar analogías entre teorías. Uno puede imaginar que el
+    mejor matemático es aquel que puede ver analogías entre analogías."
+    ~ [[https://en.wikipedia.org/wiki/Stefan_Banach][Stefan Banach]].
+
+69. "El verdadero peligro no es que los ordenadores empiecen a pensar como los
+    hombres, sino que los hombres empiecen a pensar como los ordenadores."
+    ~ [[https://en.wikipedia.org/wiki/Sydney_J._Harris][Sydney J. Harris]].
+
+70. "Creo que algún matemático ha dicho que el verdadero placer no reside en el
+    descubrimiento de la verdad, sino en su búsqueda." ~ [[https://en.wikipedia.org/wiki/Leo_Tolstoy][León Tolstói]].
+
+71. "Nadie sabe de lo que es capaz hasta que lo intenta." ~ [[https://es.wikipedia.org/wiki/Publilio_Siro][Publilio Siro]].
+
+72. "Una nueva verdad científica no triunfa convenciendo a sus oponentes y
+    haciéndoles ver la luz, sino más bien porque sus oponentes finalmente mueren,
+    y crece una nueva generación que está familiarizada con ella." - [[https://es.wikipedia.org/wiki/Max_Planck][Max Planck]].
+
+73. "Las matemáticas son el arte de dar el mismo nombre a diferentes cosas". ~
+    [[https://es.wikipedia.org/wiki/Henri_Poincar%C3%A9][Henri Poincaré]]
+
+74. "El rigor es para el matemático lo que la moral es para el hombre. No consiste
+    en probarlo todo, sino en mantener una distinción clara entre lo que se supone
+    y lo que se prueba, y en tratar de asumir lo menos posible en cada etapa". ~
+    [[https://bit.ly/39mhQEZ][André Weil]]
+
+75. "Debes adivinar el teorema matemático antes de demostrarlo: debes adivinar la
+    idea de la prueba antes de llevar a cabo los detalles. Debe combinar
+    observaciones y seguir analogías: debe intentarlo e intentarlo nuevamente. El
+    resultado del trabajo creativo del matemático es un razonamiento demostrativo,
+    una prueba; pero la prueba se descubre por razonamiento plausible." ~
+    [[https://bit.ly/2Jkgtw4][George Pólya]]
+
+76. "El acto creativo debe poco a la lógica o la razón. En sus relatos de las
+    circunstancias bajo las cuales se les ocurrieron grandes ideas, los
+    matemáticos a menudo han mencionado que la inspiración no tenía relación con
+    el trabajo que estaban realizando. A veces llegaba mientras viajaban, se
+    afeitaban o pensaban en otros asuntos. El proceso creativo no puede ser
+    convocado a voluntad o incluso engatusado por la ofrenda de sacrificio. De
+    hecho, parece ocurrir más fácilmente cuando la mente está relajada y la
+    imaginación deambula libremente." ~ [[https://bit.ly/2yhILoO][Morris Kline]]
+
+77. "Un matemático, como un pintor o un poeta, es un creador de
+    patrones. [...]. Los patrones del matemático, como el del pintor o el del
+    poeta, deben ser hermosos; las ideas, como los colores o las palabras, deben
+    encajar juntas de manera armoniosa. La belleza es la primera prueba: no hay
+    lugar permanente en el mundo para las matemáticas feas." ~ [[https://bit.ly/3dGoOs6][Godfrey H Hardy]]
+
+78. "Los matemáticos otorgan gran importancia a la elegancia de sus métodos y sus
+    resultados. Esto no es puro diletantismo. ¿Qué es lo que realmente nos da la
+    sensación de elegancia en una solución, en una demostración? Es la armonía de
+    las diversas partes, su simetría, su feliz equilibrio; en una palabra, es todo
+    lo que introduce orden, todo lo que da unidad, lo que nos permite ver con
+    claridad y comprender a la vez tanto el conjunto como los detalles." ~
+    [[https://bit.ly/2WQcdwh][Henri Poincaré]]
+
+79. "Puede ser sorprendente ver la sensibilidad emocional invocada a propósito de
+    demostraciones matemáticas que, al parecer, solo pueden interesar al
+    intelecto. Esto sería olvidar el sentimiento de belleza matemática, de la
+    armonía de números y formas, de elegancia geométrica. Esto es un verdadero
+    sentimiento estético que todos los matemáticos reales conocen, y seguramente
+    pertenece a la sensibilidad emocional." ~ [[https://bit.ly/2WQcdwh][Henri Poincaré]]
+
+80. "El objetivo constante del matemático es reducir todas sus expresiones a sus
+    términos más bajos, reducir cada palabra y frase superflua y condensar el
+    Máximo de significado en el Mínimo de lenguaje." ~ [[https://bit.ly/2vVVv3w][James J Sylvester]]
+
+81. "La matemática es la más abstracta de todas las ciencias. Porque no hace
+    observaciones externas, ni afirma nada como un hecho real. Cuando el
+    matemático trata con los hechos, se convierten para él en meras" hipótesis ";
+    porque con su verdad se niega a preocuparse él mismo. Toda la ciencia de las
+    matemáticas es una ciencia de hipótesis, de modo que nada podría ser más
+    completamente abstraído de la realidad concreta." ~ [[https://bit.ly/33ZqDvB][Charles S Peirce]]
+
+82. "Además de acostumbrar al alumno a exigir pruebas completas, y saber cuándo no
+    las ha obtenido, los estudios matemáticos son de gran beneficio para su
+    educación al habituarlo a la precisión. Es una de las excelencias peculiares
+    de la disciplina matemática, que el matemático nunca está satisfecho con à peu
+    près. Requiere la verdad exacta." ~ [[https://bit.ly/2JoTnoc][John Stuart Mill]]
+
+83. "A medida que la ciencia progresa, su poder de previsión aumenta rápidamente,
+    hasta que el matemático en su biblioteca adquiere el poder de anticipar la
+    naturaleza y predecir lo que sucederá en circunstancias que el ojo del hombre
+    nunca ha examinado." ~ [[https://bit.ly/2UJtdSf][William S Jevons]]
+
+84. "Los matemáticos saben mucho sobre muy poco y los físicos muy poco sobre
+    mucho." ~ [[https://bit.ly/33VpLYN][Stanislaw Ulam]]
+
+85. "Los matemáticos no estudian objetos, sino relaciones entre objetos. Por lo
+    tanto, son libres de reemplazar algunos objetos por otros siempre que las
+    relaciones permanezcan sin cambios. El contenido para ellos es irrelevante:
+    están interesados ​​únicamente en la forma." ~ [[https://bit.ly/2WQcdwh][Henri Poincaré]]
+
+86. "Más que cualquier otra ciencia, las matemáticas se desarrollan a través de
+    una secuencia de abstracciones consecutivas. El deseo de evitar errores obliga
+    a los matemáticos a encontrar y aislar la esencia de los problemas y las
+    entidades consideradas. Llevado al extremo, este procedimiento justifica la
+    broma conocida de que un matemático es un científico que no sabe ni de qué
+    está hablando ni si lo que está hablando existe o no." ~ [[https://bit.ly/2yjhMJu][Élie Cartan]]
+
+87. "La vida de un matemático está dominada por una curiosidad insaciable, un
+    deseo que bordea la pasión por resolver los problemas que está estudiando." ~
+    [[https://bit.ly/3bxCGD1][Jean Dieudonné]]
+
+88. "La verdadera razón de ser de la existencia del matemático es simplemente
+    resolver problemas. Entonces, en lo que realmente consisten las matemáticas es
+    en problemas y soluciones." [[https://bit.ly/3dHi3WH][John Casti]]
+
+89. "Los lenguajes informáticos del futuro estarán más preocupados por los
+    objetivos y menos por los procedimientos especificados por el programador". ~
+    [[https://bit.ly/2JntZz3][Marvin Minsky]]
+
+90. "La simplicidad no viene por sí misma sino que debe ser ser creada." ~
+    [[https://bit.ly/2UIadEK][Clifford Truesdell]]
+
+8. "El proceso de preparación de programas para una computadora digital es
+   especialmente atractivo, no solo porque puede ser gratificante económica y
+   científicamente, sino también porque puede ser una experiencia estética muy
+   parecida a la composición de poesía o música." ~ Donald E Knuth
+
+* Pensamientos de G. Pólya en "Como plantear y resolver problemas"
+
+1. Quien mal comprende, mal responde.
+
+2. El necio ve el principio, el sabio el final.
+
+3. Si el fin perseguido no está claro en nuestra mente, perderemos fácilmente
+   el camino y abandonaremos el problema.
+
+4. El sabio empieza por el final, el necio termina en el principio.
+
+5. Ayúdate y Dios te ayudará.
+
+6. La perseverancia mata la caza.
+
+7. No se derriba un roble de un hachazo.
+
+8. Según el viento, la vela. Según la tela, el traje.
+
+9. Debemos hacer lo que podemos si no podemos hacer lo que queremos.
+
+10. Corremos menos peligro de equivocarnos si no perdemos de vista nuestra
+    meta.
+
+11. El objeto de la pesca no es tirar el anzuelo sino sacar el pez.
+
+12. No piensa bien quien no piensa dos veces.
+
+13. El fin sugiere los medios.
+
+14. Sus cinco mejores amigos son qué, por qué, dónde, cuándo y cómo.
+
+15. No crea nada, pero reserve sus dudas para las cosas importantes.
+
+16. Mire alrededor suyo cuando encuentre la primera seta: las setas como los
+    descubrimientos no crecen nunca solas.
+
+* Pensamientos en inglés
+
+1. Confucius:
+   Learning without thought is labor lost; thought without learning is
+   perilous.
+
+2. D. Gelernter:
+   Beauty is more important in computing than anywhere else in technology
+   because software is so complicated. Beauty is the ultimate defense ainst
+   complexity.
+
+3. D. Knuth.:
+   Computer programming is an art, because it applies accumulated knowledge to
+   the world, because it requires skill and ingenuity, and especially because it
+   produces objects of beauty. A programmer who subconsciously views himself as
+   an artist will enjoy what he does and will do it better.
+
+4. D. Knuth.:
+   Let us change our traditional attitude to the construction of
+   programs. Instead of imagining that our main task is to instruct a computer
+   what to do, let us concentrate rather on explaining to human beings what we
+   want a computer to do.
+
+5. Danica McKellar:
+   Math is the only place where truth and beauty mean the same thing.
+
+
++ David Hilbert.:
+  Wir müssen wissen, wir werden wissen. Translation: We must know, we will
+  know.
+
++ David Hilbert:
+  It is an error to believe that rigor in a proof is an enemy of simplicity. On
+  the contrary we find it confirmed by numerous examples that the rigorous
+  method is, at the same time, the simpler and the more easily comprehended.
+  The very effort for rigor forces us to find the simpler methods of
+  proof.
+
++ David Hilbert.:
+  The finest product (Cantor's work on set theory) of mathematical genius and
+  one of the supreme achievments of purly intellectual human activity.
+
+
++ David Hilbert.:
+  You know, for a mathematician, he did not have enough imagination. But he has
+  become a poet and now he is fine.
+
++ David Hilbert.:
+  Mathematics is a game played according to certain rules with meaningless
+  marks on paper.
+
++ David Hilbert:
+  The art of doing mathematics is finding that special case that contains all
+  the germs of generality.
+
++ Dean Schlicter:
+  Go down deep enough into anything and you will find mathematics.
+
++ Donald Knuth:
+  Science is what we understand well enough to explain to a computer. Art is
+  everything else we do.
+
++ E.W. Dijkstra:
+  The art of programming is the art of organizaing complexity, of mastering
+  multitude and avoiding its bastard chaos.
+
++ E.T. Bell:
+  Obvious is the most dangerous word in mathematics.
+
++ E.W. Dijkstra
+  The lurking suspicion that something could be simplified is the world's
+  richest source of rewarding challenges.
+
++ Edward Kasner and James R. Newman (tw 30-Abr-12)
+  Mathematics is the science which uses easy words for hard ideas.
+
++ Euclid of Alexandria
+  There is no royal road to geometry.
+
++ Felix Klein
+  Everyone knows what a curve is, until he has studied enough mathematics to
+  become confused through the countless number of possible exceptions.
+
++ Friedrich Ludwig Gottlob Frege
+  Every good mathematician is at least half a philosopher, and every good
+  philosopher is at least half a mathematician.
+
++ G. Chaitin:
+  Mathematical truth is not totally objective. If a mathematical statement is
+  false, there will be no proofs, but if it is true, thre will be an endless
+  variety of proofs, not just one! Proofs are not impersonal, they express the
+  personality of their creator/discoverer just as much as literary efforts
+  do. If something important is true, there will be many reasons that it is
+  true, many proofs of that fact. Math is the music of reason, and some proofs
+  sound like jazz, others sound like a fugue. Which is better, the jazz or the
+  fugue?  Neither: it's all a matter of taste...each proof will emphasize
+  different aspects of the problem, each proof will lead in a different
+  direction. Each one will have different corollaries, different
+  generalizations ... Mathematical facts are not isolated, they are woven into a
+  vast spider's web of interconnections.
+
++ G. Chaitin:
+  In a way, math isn't the art of answering mathematical questions, it is the
+  art of asking the right questions, the questions that give you insight, the
+  ones that lead you in interesting directions, the ones that connect with lots
+  of other interesting questions -the ones with beautiful answers.
+
++ Geoge Cantor:
+  The essence of mathematics is its freedom.
+
++ Geoge Cantor:
+  Mathematics is entirely free in its development, and its concepts are only
+  linked by the necessity of being consistent, and are co-ordinated with
+  concepts introduced previously by means of precise definitions.
+
++ Georg Cantor:
+  In mathematics, the art of asking questions is more valuable than solving
+  problems.
+
++ George Boole:
+  No matter how correct a mathematical theorem may appear to be, one ought
+  never to be satisfied that there was not something imperfect about it until
+  it also gives the impression of being beautiful.
+
++ George Pólya:
+  A GREAT discovery solves a great problem but there is a grain of discovery in
+  any problem.
+
++ George Pólya:
+  Geometry is the science of correct reasoning on incorrect figures.
+
++ George Pólya:
+  If there is a problem you can't solve, then there is an easier  problem you
+  can't solve: find it.
+
++ George Pólya:
+  The elegance of a theorem is directly proportional to the number of ideas you
+  can see in it and inversely proportional to the effort it take to see them.
+
++ George Pólya:
+  The first rule of discovery is to have brains and good luck. The second rule
+  of discovery is to sit tight and wait till you get a bright idea.
+
++ George Pólya:
+  To teach effectively a teacher must develop a feeling for his subject; he
+  cannot make his students sense its vitality if he does not sense it
+  himself. He cannot share his enthusiasm when he has no enthusiasm to
+  share. How he makes his point may be as important as the point he makes; he
+  must personally feel it to be important.
+
++ George Pólya:
+  The open secret of real success is to throw your whole personality at a
+  problem.
+
++ George Pólya:
+  Beauty in mathematics is seeing the truth without effort.
+
++ George Pólya:
+  It is better to solve one problem five different ways, than to solve five
+  problems one way.
+
++ George Pólya:
+  Mathematics has two faces: it is the rigorous science of Euclid, but it is
+  also something else. Mathematics presented in the Euclidean way appears as a
+  systematic, deductive science; but mathematics in the making appears as an
+  experimental, inductive science. Both aspects are as old as the science of
+  mathematics itself.
+
++ George Pólya:
+  Solving problems is a practical skill like, let us say, swimming. We acquire
+  any practical skill by imitation and practice. Trying to swim, you imitate
+  what other people do with their hands and feet to keep their heads above
+  water, and, finally, you learn to swim by practicing swimming. Trying to
+  solve problems, you have to observe and to imitate what other people do when
+  solving problems, and, finally, you learn to do problems by doing them.
+
++ George Pólya:
+  The first and foremost duty of the high school in teaching mathematics is to
+  emphasize methodical work in problem solving…The teacher who wishes to serve
+  equally all his students, future users and nonusers of mathematics, should
+  teach problem solving so that it is about one-third mathematics and
+  two-thirds common sense.
+
++ Gian-Carlo Rota:
+  The progress of mathematics can be viewed as progress from the infinite to
+  the finite.
+
++ Gilbert Chesterton:
+  It isn’t that they can’t see the solution. It is that they can’t see the
+  problem.
+
++ Godfrey H. Hardy:
+  Reductio ad absurdum, which Euclid loved so much, is one of a mathematician’s
+  finest weapons. It is a far finer gambit than any chess play: a chess player
+  may offer the sacrifice of a pawn or even a piece, but a mathematician offers
+  the game.
+
++ Godfrey H. Hardy:
+  A mathematician, like a painter or poet, is a maker of patterns. If his
+  patterns are more permanent than theirs, it is because they are made with
+  ideas.
+
++ Godfrey Harold Hardy:
+  I am interested in mathematics only as a creative art.
+
++ Godfrey Harold Hardy:
+  The mathematician's patterns, like the painter's or the poet's must be
+  beautiful; the ideas, like the colors or the words must fit together in a
+  harmonious way. Beauty is the first test: there is no permanent place in this
+  world for ugly mathematics.
+
++ Gosta Mittag-Leffler:
+  The mathematician's best work is art, a high perfect art, as daring as the
+  most secret dreams of imagination, clear and limpid. Mathematical genius and
+  artistic genius touch one another.
+
++ Gottfried Wilhelm Leibniz:
+  Nothing is more important than to see the sources of invention which are, in
+  my opinion more interesting than the inventions themselves.
+
++ Gottfried Wilhelm Leibniz:
+  The pleasure we obtain from music comes from counting, but counting
+  unconsciously. Music is nothing but unconscious arithmetic.
+
++ H. Kingsmill:
+  A charlatan makes obscure what is clear; a thinker makes clear what is
+  obscure.
+
++ H.L. Mencken:
+  The best teacher is not the one who knows most, but the one who is most
+  capable of reducing knowledge to that simple compound of the obvious and
+  wonderful.
+
++ Henri Léon Lebesgue:
+  The only teaching that a professor can give, in my opinion, is that of
+  thinking in front of his students.
+
++ Henri Poincaré:
+  Mathematics is the art of giving the same name to different things.
+
++ Henri Poincaré:
+  Mathematics has a threefold purpose. It must provide an instrument for the
+  study of nature. But this is not all: it has a philosophical purpose, and, I
+  daresay, an aesthetic purpose.
+
++ Henry Mencken:
+  For every complex problem there is an answer that is clear, simple, and
+  wrong.
+
++ Henry Poincaré:
+  The mathematician does not study pure mathematics because it is useful; he
+  studies it because he delights in it and he delights in it because it is
+  beautiful.
+
++ Herbert A. Simon:
+  In the computer field, the moment of truth is a running program; all else is
+  prophecy.
+
++ Herman Weyl:
+  My work always tried to unite the true with the beautiful; but when I had to
+  choose one or the other, I usually chose the beautiful.
+
++ Hermann Weyl:
+  Besides language and music, mathematics is one of the primary manifestations
+  of the free creative power of the human mind.
+
++ Hermann Weyl:
+  We are not very pleased when we are forced to accept a mathematical truth by
+  virtue of a complicated chain of formal conclusions and computations, which we
+  traverse blindly, link by link, feeling our way by touch. We want first an
+  overview of the aim and of the road; we want to understand the idea of the
+  proof, the deeper context.
+
++ Howard Eves:
+  A good problem should be more than a mere exercise; it should be challenging
+  and not too easily solved by the student, and it should require some
+  “dreaming” time.
+
++ Howard Eves:
+  There is a distinction between what may be called a problem and what may be
+  considered an exercise. The latter serves to drill a student in some
+  technique or procedure, and requires little, if any, original thought. In
+  contrast to an exercise, a problem, if it is a good one for its level, should
+  require thought on the part of the student. It is impossible to overstate the
+  importance of problems in mathematics. It is by means of problems that
+  mathematics develops and actually lifts itself by its own bootstraps. Every
+  new discovery in mathematics results from an attempt to solve some problem.
+
++ I. N. Herstein:
+  The value of a problem is not so much coming up with the answer as in the
+  ideas and attempted ideas it forces on the would be solver.
+
++ J. Carolus S.J.:
+  We think too much about effective methods of teaching and not enough about
+  effective methods of learning. No matter how good teaching may be, each
+  student must take the responsibility for his own education.
+
++ Jacques Hadamard:
+  The shortest path between two truths in the real domain passes through the
+  complex domain.
+
++ Jean Dieudonne:
+  The life of a mathematician is dominated by an insatiable curiosity, a desire
+  bordering on passion to solve the problems he is studying.
+
++ Johann Wolfgang von Goethe:
+  Mathematicians are like Frenchmen: whatever you say to them they translate
+  into their own language and forthwith it is something entirely different.
+
++ Johann von Neumann:
+  In mathematics, you don't understand things. You just get used to them.
+
++ John Littlewood:
+  Try a hard problem. You may not solve it, but you will prove something else.
+
++ John Louis von Neumann:
+  If people do not believe that mathematics is simple, it is only because they
+  do not realize how complicated life is.
+
++ John Von Neumann:
+  We must regard classical mathematics as a combinatorial game played with
+  symbols.
+
++ John Wesley Young:
+  It is clear that the chief end of mathematical study must be to make the
+  students think.
+
++ Joseph Fourier:
+  Mathematics compares the most diverse phenomena and discovers the secret
+  analogies that unite them.
+
++ Joseph Louis Lagrange:
+  As long as algebra and geometry have been separated, their progress have been
+  slow and their uses limited; but when these two sciences have been united,
+  they have lent each mutual forces, and have marched together towards
+  perfection.
+
++ Karl Weierstraß:
+  A mathematician who is not also something of a poet will never be a perfect
+  mathematician.
+
++ Kurt Gödel:
+  The development of mathematics towards greater precision has led, as is well
+  known, to the formalization of large tracts of it, so that one can prove any
+  theorem using nothing but a few mechanical rules.
+
++ Leonardo da Vinci:
+  Simplicity is the ultimate sophistication.
+
++ Leopold Kronecker:
+  God created the natural number, and all the rest is the work of man
+
++ Louis Pasteur:
+  Inspiration is the impact of a fact on a well-prepared mind.
+
++ Lucien Szpiro:
+  The difference between mathematicians and physicists is that after physicists
+  prove a big result they think it is fantastic but after mathematicians prove
+  a big result they think it is trivial.
+
++ M. Fowler:
+  Any fool can write code that a computer can understand. Good programmers
+  write code that humans can understand. http://bit.ly/MOGKAD
+
++ Marcel Proust:
+  The real voyage of discovery consists not in seeking new landscapes but in
+  having new eyes.
+
++ Martin Gardner:
+  All mathematicians share ... a sense of amazement over the infinite depth and
+  the mysterious beauty and usefulness of mathematics.
+
++ Morris Kline:
+  The tantalizing and compelling pursuit of mathematical problems offers mental
+  absorption, peace of mind amid endless challenges, repose in activity, battle
+  without conflict, "refuge from the goading urgency of contingent happenings,"
+  and the sort of beauty changeless mountains present to sense tried by the
+  present-day kaleidoscope of events.
+
++ Pablo Picasso:
+  Computers are useless. They can only give you answers.
+
++ Paul Erdős:
+  Every human activity, good or bad, except mathematics, must come to an end.
+
++ Paul Erdős:
+  Who can does; who cannot do, teaches; who cannot teach, teaches teachers.
+
++ Paul Erdős:
+  Why are numbers beautiful? It's like asking why is Beethoven's Ninth Symphony
+  beautiful. If you don't see why, someone can't tell you. I know numbers are
+  beautiful. If they aren't beautiful, nothing is.
+
++ Paul Halmos:
+  A good stack of examples, as large as possible, is indispensable for a
+  thorough understanding of any concept, and when I want to learn something
+  new, I make it my first job to build one.
+
++ Paul Halmos:
+  Mathematics is not a deductive science – that's a cliché. When you try to
+  prove a theorem, you don't just list the hypotheses, and then start to
+  reason. What you do is trial and error, experimentation, guesswork.
+
++ Paul Halmos:
+  A good stack of examples, as large as possible, is indispensable
+  for a thorough understanding of any concept, and when I want to learn
+  something new, I make it my first job to build one.
+
++ Pierre Boatroux:
+  Logic is invincible, because in order to combat logic it is necessary to use
+  logic.
+
++ Pierre-Simon Laplace:
+  What we know is not much. What we do not know is immense.
+
++ Poul Anderson:
+  I have yet to see any problem, however complicated, which, when you looked at
+  it in the right way, did not become still more complicated.
+
++ R. Harper:
+  Programming is an explanatory activity.
+
++ Ralph Boas:
+  Only professional mathematicians learn anything from proofs. Other people
+  learn from explanations.
+
++ René Descartes:
+  Each problem that I solved became a rule which served afterwards to solve
+  other problems.
+
++ Richard Buckminster Fuller:
+  When I am working on a problem, I never think about beauty. I think only of
+  how to solve the problem. But when I have finished, if the solution is not
+  beautiful, I know it is wrong.
+
++ Richard Courant:
+  Mathematics as an expression of the human mind reflects the active will, the
+  contemplative reason, and the desire for aesthetic perfection. Its basic
+  elements are logic and intuition, analysis and construction, generality and
+  individuality.
+
++ Richard Dedekind:
+  "I see it, but I don't believe it." [On Cantor's proof that the points in the
+  unit interval were in one-to-one correspondence with points in the unit
+  square.]
+
++ Richard Feynman:
+  We decided that 'trivial' means 'proved'. So we joked with the
+  mathematicians: We have a new theorem - that mathematicians can prove only
+  trivial theorems, because every theorem that's proved is trivial.
+
++ Richard Hamming:
+  The purpose of computing is insight, not numbers.
+
++ Richard Hamming:
+  If you don’t work on important problems, it’s not likely that you’ll do
+  important work.
+
++ Richard J. Trudeau:
+  Pure mathematics is the world's best game.  It is more absorbing than chess,
+  more of a gamble than poker, and lasts longer than Monopoly.  It's free.  It
+  can be played anywhere.
+
++ Rózsa Péter:
+  I love mathematics … principally because it is beautiful, because man has
+  breathed his spirit of play into it, and because it has given him his
+  greatest game — the encompassing of the infinite.
+
++ Rózsa Péter:
+  I love mathematics not only because it is applicable to technology but also
+  because it is beautiful.
+
++ Simeon Poisson:
+  Life is good for only two things, discovering mathematics and teaching
+  mathematics.
+
++ Sir Isaac Newton:
+  Truth is ever to be found in the simplicity, and not in the multiplicity and
+  confusion of things.
+
++ Stanislaw M. Ulam:
+  Good mathematicians see analogies between theorems and theories. The very best
+  ones see analogies between analogies.
+
++ Stanley Gudder:
+  The essence of mathematics is not to make simple things complicated, but to
+  make complicated things simple.
+
++ Stansilaw Ulam:
+  In many cases, mathematics is an escape from reality. The mathematician finds
+  his own monastic niche and happiness in pursuits that are disconnected from
+  external affairs. Some practice it as if using a drug. Chess sometimes plays
+  a similar role. In their unhappiness over the events of this world, some
+  immerse themselves in a kind of self-sufficiency in mathematics. (Some have
+  engaged in it for this reason alone.)
+
++ Stefan Banach:
+  A mathematician is a person who can find analogies between theorems; a better
+  mathematician is one who can see analogies between proofs and the best
+  mathematician can notice analogies between theories. One can imagine that the
+  ultimate mathematician is one who can see analogies between analogies.
+
++ Sydney J. Harris:
+  The real danger is not that computers will begin to think like men, but that
+  men will begin to think like computers.
+
++ Thomas Hill:
+  The mathematics are usually considered as being the very antipodes of Poesy.
+  Yet Mathesis and Poesy are of the closest kindred, for they are both works of
+  the imagination.
+
++ Tolstoy:
+  Some mathematician, I believe, has said that true pleasure lies not in the
+  discovery of truth, but in the search for it.
+
++ W. A. Ward:
+  The mediocre teacher tells. The good teacher explains. The superior teacher
+  demonstrates. The great teacher inspires.
+
++ William Ayres:
+  The work of a teacher - exhausting, complex, idiosyncratic, never twice the
+  same - is at its heart, an intellectual and ethical enterprise. Teaching is
+  the vocation of vocations ...
+
++ Y. Manin:
+  Most likely, logic is capable of justifying mathematics to no greater extent
+  than biology is capable of justifying life.
+
++ Edsger W. Dijkstra:
+  The purpose of logic is not to mimic verbal reasoning but to provide a
+  calculational alternative.
+
++ J. Oppenheimer:
+  The hallmark of a science is the avoidance of error.
+
+#+LATEX: \end{document}
