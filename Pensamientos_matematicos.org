@@ -800,7 +800,7 @@ otras ciencias que he ido encontrando y compartiendo en [[https://x.com/Jose_A_A
 
 + M. Fowler:
   Any fool can write code that a computer can understand. Good programmers
-  write code that humans can understand. http://bit.ly/MOGKAD
+  write code that humans can understand.
 
 + Marcel Proust:
   The real voyage of discovery consists not in seeking new landscapes but in
