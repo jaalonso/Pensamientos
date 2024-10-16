@@ -1,4 +1,4 @@
-#+TITLE: Pensamientos
+#+TITLE: Pensamientos matemáticos
 #+AUTHOR: José A. Alonso
 #+OPTIONS: ^:nil
 #+OPTIONS: num:nil
@@ -14,7 +14,7 @@ Estos colección reúne pensamientos sobre matemáticas, computación y
 otras ciencias que he ido encontrando y compartiendo en [[https://x.com/Jose_A_Alonso][Twitter]] y en
 [[https://www.glc.us.es/~jalonso/exercitium/][Exercitium]].
 
-* Pensamientos en español
+** Pensamientos en español
 
 1. "Lo que tenemos que aprender a hacer, lo aprendemos haciéndolo." ~
    Aristóteles
@@ -401,7 +401,7 @@ otras ciencias que he ido encontrando y compartiendo en [[https://x.com/Jose_A_A
    científicamente, sino también porque puede ser una experiencia estética muy
    parecida a la composición de poesía o música." ~ Donald E Knuth
 
-* Pensamientos de G. Pólya en "Como plantear y resolver problemas"
+** Pensamientos de G. Pólya en "Como plantear y resolver problemas"
 
 1. Quien mal comprende, mal responde.
 
@@ -438,7 +438,7 @@ otras ciencias que he ido encontrando y compartiendo en [[https://x.com/Jose_A_A
 16. Mire alrededor suyo cuando encuentre la primera seta: las setas como los
     descubrimientos no crecen nunca solas.
 
-* Pensamientos en inglés
+** Pensamientos en inglés
 
 1. Confucius:
    Learning without thought is labor lost; thought without learning is
