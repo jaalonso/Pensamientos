@@ -862,57 +862,6 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle][Bernard Le Bovier de Fontenelle]]
   + Solemos llamar inútiles a las cosas que no comprendemos.
 
-* [[https://bit.ly/3oRRBiL][Bernard Shaw (1856-1950)]]
-  + Cuidado con el falso conocimiento, es más peligroso que la
-    ignorancia.
-  + Cuando un hombre estúpido hace algo que le avergüenza, siempre dice
-    que cumple con su deber.
-  + Dichoso es el que tiene una profesión que coincide con su afición.
-  + Dos tragedias hay en la vida: no lograr lo que el corazón ansía y
-    lograrlo.
-  + El hombre con dolor de muelas piensa que todos los que tienen
-    dientes sanos son felices. El hombre pobre comete el mismo error con
-    el rico.
-  + El hombre razonable se adapta al mundo: el irracional persiste en
-    intentar adaptar el mundo a sí mismo. Por lo tanto, todo progreso
-    depende del hombre irrazonable.
-  + El que puede, hace. El que no puede, enseña.
-  + El secreto de ser desdichado estriba en tener tiempo de pensar si se
-    es, o no, feliz. La cura es la ocupación, porque ocupación significa
-    preocupación; y la persona preocupada no es ni feliz ni infeliz,
-    sino simplemente viva y activa, lo que es más agradable que
-    cualquier felicidad hasta que uno se cansa de ella.
-  + Es difícil, si no imposible, para la mayoría de la gente pensar de
-    otra manera que no sea en la moda de su propia época.
-  + La actividad es el único camino que lleva al conocimiento.
-  + La gente siempre culpa a las circunstancias por lo que son. No creo
-    en las circunstancias. Las personas que se llevan bien en este mundo
-    son las personas que se levantan y buscan las circunstancias que
-    quieren y, si no las encuentran, las hacen.
-  + La vida no se trata de encontrarse a uno mismo.  La vida es sobre
-    crearte a ti mismo.
-  + Los perros no molestan hasta que ladran y los necios hasta que
-    hablan.
-  + Los que son capaces, crean; los que no son capaces, enseñan.
-  + Mi forma de bromear es decir la verdad. Es la broma más divertida
-    del mundo.
-  + Mientras tenemos un deseo, tenemos una razón de vivir. La
-    satisfacción es la muerte.
-  + No hagas a los demás como esperarías que te hicieran a ti. Puede que
-    sus gustos no sean los mismos.
-  + No sabe nada y cree que lo sabe todo: todo apunta claramente a una
-    carrera política.
-  + Si comienzas por sacrificarte por tus seres queridos, terminarás
-    odiando a aquellos por quienes te has sacrificado.
-  + Siempre hay peligro para aquellos que lo temen.
-  + Soy tan partidario de la disciplina del silencio, que podría hablar
-    hora enteras sobre ella.
-  + Todo necio cree lo que le dicen sus maestros y llama a su credulidad
-    ciencia o moralidad con tanta seguridad como su padre la llamaba
-    revelación divina.
-  + Usas un espejo de vidrio para ver tu cara; usas obras de arte para
-    ver tu alma.
-
 * [[https://en.wikipedia.org/wiki/Bertolt_Brecht][Bertolt Brecht (1898-1956)]]
   + A la buena gente se la conoce en que resulta mejor cuando se la
     conoce.
@@ -2053,6 +2002,58 @@ encontrando.
   + Ser independiente de la opinión pública es la primera condición
     formal para lograr algo grande.
   + Tened el valor de equivocaros.
+
+* [[https://bit.ly/3oRRBiL][George Bernard Shaw (1856-1950)]]
+  + Cuidado con el falso conocimiento, es más peligroso que la
+    ignorancia.
+  + Cuando un hombre estúpido hace algo que le avergüenza, siempre dice
+    que cumple con su deber.
+  + Dichoso es el que tiene una profesión que coincide con su afición.
+  + Dos tragedias hay en la vida: no lograr lo que el corazón ansía y
+    lograrlo.
+  + El hombre con dolor de muelas piensa que todos los que tienen
+    dientes sanos son felices. El hombre pobre comete el mismo error con
+    el rico.
+  + El hombre razonable se adapta al mundo: el irracional persiste en
+    intentar adaptar el mundo a sí mismo. Por lo tanto, todo progreso
+    depende del hombre irrazonable.
+  + El que puede, hace. El que no puede, enseña.
+  + El secreto de ser desdichado estriba en tener tiempo de pensar si se
+    es, o no, feliz. La cura es la ocupación, porque ocupación significa
+    preocupación; y la persona preocupada no es ni feliz ni infeliz,
+    sino simplemente viva y activa, lo que es más agradable que
+    cualquier felicidad hasta que uno se cansa de ella.
+  + Es difícil, si no imposible, para la mayoría de la gente pensar de
+    otra manera que no sea en la moda de su propia época.
+  + La actividad es el único camino que lleva al conocimiento.
+  + La gente siempre culpa a las circunstancias por lo que son. No creo
+    en las circunstancias. Las personas que se llevan bien en este mundo
+    son las personas que se levantan y buscan las circunstancias que
+    quieren y, si no las encuentran, las hacen.
+  + La vida no consiste en encontrarte a ti mismo. La vida consiste en
+    crearte a ti mismo (en inglés, "Life isn’t about finding
+    yourself. Life is about creating yourself").
+  + Los perros no molestan hasta que ladran y los necios hasta que
+    hablan.
+  + Los que son capaces, crean; los que no son capaces, enseñan.
+  + Mi forma de bromear es decir la verdad. Es la broma más divertida
+    del mundo.
+  + Mientras tenemos un deseo, tenemos una razón de vivir. La
+    satisfacción es la muerte.
+  + No hagas a los demás como esperarías que te hicieran a ti. Puede que
+    sus gustos no sean los mismos.
+  + No sabe nada y cree que lo sabe todo: todo apunta claramente a una
+    carrera política.
+  + Si comienzas por sacrificarte por tus seres queridos, terminarás
+    odiando a aquellos por quienes te has sacrificado.
+  + Siempre hay peligro para aquellos que lo temen.
+  + Soy tan partidario de la disciplina del silencio, que podría hablar
+    hora enteras sobre ella.
+  + Todo necio cree lo que le dicen sus maestros y llama a su credulidad
+    ciencia o moralidad con tanta seguridad como su padre la llamaba
+    revelación divina.
+  + Usas un espejo de vidrio para ver tu cara; usas obras de arte para
+    ver tu alma.
 
 * [[https://es.wikipedia.org/wiki/George_Berkeley][George Berkeley]]
   + Pocos hombres piensan, pero todos tienen opiniones.
