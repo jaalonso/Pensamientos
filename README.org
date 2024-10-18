@@ -2031,8 +2031,7 @@ encontrando.
     son las personas que se levantan y buscan las circunstancias que
     quieren y, si no las encuentran, las hacen.
   + La vida no consiste en encontrarte a ti mismo. La vida consiste en
-    crearte a ti mismo (en inglés, "Life isn’t about finding
-    yourself. Life is about creating yourself").
+    crearte a ti mismo.
   + Los perros no molestan hasta que ladran y los necios hasta que
     hablan.
   + Los que son capaces, crean; los que no son capaces, enseñan.
@@ -4384,6 +4383,8 @@ encontrando.
   + Cada problema que resolví se convirtió en una regla que sirvió
     después para resolver otros problemas. Así, cada verdad descubierta
     era una regla disponible en el descubrimiento de las siguientes.
+  + Conviene tener en cuenta que muchas creencias se apoyan en el
+    prejuicio y la tradición.
   + Cuando surge un problema, deberíamos ser capaces de ver pronto si
     será rentable examinar otros problemas primero, y qué otros, y en
     qué orden.
