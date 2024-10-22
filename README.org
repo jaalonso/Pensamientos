@@ -2962,6 +2962,8 @@ encontrando.
     felicidad.
 
 * [[https://es.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset][José Ortega y Gasset (1883-1955)]]
+  + El pensamiento es la única cosa del Universo de la que no se puede
+    negar su existencia: negar es pensar.
   + La técnica es el esfuerzo para ahorrar esfuerzo.
   + No sabemos lo que nos pasa y eso es precisamente lo que nos pasa.
   + Nuestras convicciones más arraigadas, más indubitables, son las más
