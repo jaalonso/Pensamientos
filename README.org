@@ -4268,6 +4268,7 @@ encontrando.
   + Con cada paso que das alcanzas tu meta.
   + Cualquier estúpido puede complicar las cosas, el truco está en
     simplificarlas.
+  + Cuando camines, camina. Cuando comas, come.
   + Deberías sentarte a meditar veinte minutos al día, a menos que estés
     demasiado ocupado. Entonces debes meditar una hora.
   + Descubro las enseñanzas de los sabios en las puntas de las hierbas.
@@ -4847,6 +4848,7 @@ encontrando.
   + La mayor parte de nuestro sufrimiento surge de nuestras ideas y
     conceptos. Si eres capaz de liberarte de estos conceptos, la
     ansiedad y el miedo desaparecerán.
+  + Sonríe, respira y ve despacio.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Alva_Edison][Thomas Alva Edison (1847-1931)]]
   + Hay una manera de hacerlo mejor, búscala.
