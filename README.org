@@ -2097,6 +2097,10 @@ encontrando.
     etiqueta.
 
 * [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Khalil Gibran (1883-1931)]]
+  + Del hablador he aprendido a callar; del intolerante, a ser
+    indulgente, y del malévolo a tratar a los demás con amabilidad. Y
+    por curioso que parezca, no siento ninguna gratitud hacia esos
+    maestros.
   + El olvido es una forma de libertad.
   + El optimista ve la rosa y no sus espinas; el pesimista mira las
     espinas, ajeno a la rosa.
