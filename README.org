@@ -2097,6 +2097,9 @@ encontrando.
     etiqueta.
 
 * [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Khalil Gibran (1883-1931)]]
+  + Cuando estéis alegres mirad en el fondo de vuestros corazones y
+    hallaréis que lo mismo que os da hoy alegría fue aquello que os
+    llenó ayer de tristeza.
   + Del hablador he aprendido a callar; del intolerante, a ser
     indulgente, y del malévolo a tratar a los demás con amabilidad. Y
     por curioso que parezca, no siento ninguna gratitud hacia esos
