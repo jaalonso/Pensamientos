@@ -2117,6 +2117,8 @@ encontrando.
   + Hay una trémula primavera en cada invierno del corazón, y un
     sonriente amanecer se esconde tras el velo de cada noche.
   + La tortuga puede hablar más del camino que la liebre.
+  + Me consideran loco porque no quiero vender mis días por oro. Y yo
+    los considero locos porque creen que mis días tienen precio.
   + No se puede llegar al alba sino por el sendero de la noche.
   + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar
     entre las nubes.
@@ -2824,6 +2826,9 @@ encontrando.
     interminable, ese es mi secreto.
 
 * [[https://es.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe][Johann Wolfgang von Goethe (1749-1832)]]
+  + A veces nuestro destino se asemeja a un árbol frutal en
+    invierno. ¿Quién pensaría que esas ramas reverdecerán y florecerán?
+    Mas esperamos que así sea, y sabemos que así será.
   + Ciertos libros parecen haber sido escritos no para aprender de ellos
     sino para que se reconozca lo que sabía su autor.
   + Con el conocimiento se acrecientan las dudas.
