@@ -3102,7 +3102,10 @@ encontrando.
   + La ciencia, muchacho, está hecha de errores; pero de errores que
     conviene cometer, porque conducen poco a poco a la verdad.
 
-* [[https://es.wikipedia.org/wiki/Karl_Jaspers][Karl Jaspers]]
+* [[https://es.wikipedia.org/wiki/Karl_Jaspers][Karl Jaspers (1883-1969)]]
+  + El hombre llega a ser él mismo cuando en su acción ha decidido a
+    dónde quiere ir. Todos nosotros necesitamos reconquistarnos
+    constantemente de nuevo. En lugar de decidir, rodamos por la vida.
   + En filosofía son más esenciales las preguntas que las respuestas.
 
 * [[https://es.wikipedia.org/wiki/Karl_Marx][Karl Marx]]
