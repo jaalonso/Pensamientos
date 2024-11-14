@@ -1987,6 +1987,9 @@ encontrando.
   + No es verdad que las personas paran de perseguir sueños porque se
     hacen viejos, se hacen viejos porque paran de perseguir sus sueños.
 
+* [[https://es.wikipedia.org/wiki/Gabriela_Mistral][Gabriela Mistral (1889-1957)]]
+  + Tengo un día. Si lo sé aprovechar, tengo un tesoro.
+
 * [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei]]
   + En lo tocante a la ciencia, la autoridad de un millar no es superior
     al humilde razonamiento de una sola persona.
