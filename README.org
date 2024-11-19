@@ -4359,6 +4359,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Rainer_Maria_Rilke][Rainer María Rilke (1875-1926)]]
   + La belleza está en los detalles, en las pequeñas cosas que pasamos
     por alto.
+  + La verdadera felicidad no se encuentra en la meta, sino en el camino
+    que recorremos para llegar a ella.
 
 * [[https://es.wikipedia.org/wiki/Ralph_Waldo_Emerson][Ralph Waldo Emerson (1803-1882)]]
   + Adopta el ritmo de la naturaleza: su secreto es la paciencia.
