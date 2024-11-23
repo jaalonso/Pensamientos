@@ -4121,6 +4121,8 @@ encontrando.
   + La juventud no tiene edad.
   + Pero recuerda, la única persona que te acompaña toda la vida eres tú
     mismo. ¡Mantente vivo, hagas lo que hagas!.
+  + Siempre estoy haciendo lo que no puedo hacer, para poder aprender a
+    hacerlo.
   + Yo no busco, encuentro.
 
 * [[https://es.wikipedia.org/wiki/Paul_Auster][Paul Auster]]
