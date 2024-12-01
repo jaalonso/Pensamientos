@@ -1498,6 +1498,8 @@ encontrando.
     armonía con ellos.
 
 * [[https://es.wikipedia.org/wiki/Elbert_Hubbard][Elbert Hubbard (1856-1915)]]
+  + Aquel que no entiende tus silencios, lo más seguro es que tampoco
+    entienda tus palabras.
   + Cultiva solo aquellos hábitos que quisieras que dominaran tu vida.
   + Cuando la vida te de limones, haz limonada.
   + El conocimiento es la esencia destilada de nuestras intuiciones,
@@ -4587,10 +4589,11 @@ encontrando.
   + No dejes apagar el entusiasmo, virtud tan valiosa como necesaria;
     trabaja, aspira, tiende siempre hacia la altura.
 
-* [[https://es.wikipedia.org/wiki/Yalal_ad-Din_Muhammad_Rumi][Rumí]]
+* [[https://es.wikipedia.org/wiki/Yalal_ad-Din_Muhammad_Rumi][Rumí (1207-1273)]]
   + Ayer era inteligente, así que quería cambiar el mundo. Hoy soy
     sabio, así que me estoy cambiando a mí mismo.
   + Cuando empiezas a andar, el camino aparece.
+  + Deja que la belleza de lo que amas sea lo que haces.
   + Quiero cantar como cantan los pájaros, sin preocuparme de quién oye
     o de lo que piensan.
 
@@ -4949,6 +4952,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Thomas_Merton][Thomas Merton]]
   + La felicidad no es una cuestión de intensidad, sino de equilibrio,
     ritmo y armonía.
+  + La música es agradable no sólo por el sonido, sino por el silencio
+    que hay en ella: sin la alternancia entre el sonido y el silencio no
+    habría ritmo.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Shadwell][Thomas Shadwell]]
   + Ningún hombre es feliz sino por comparación.
