@@ -1657,6 +1657,10 @@ encontrando.
     democráticos, la sugestión y la propaganda.
   + Vivir es nacer a cada instante.
 
+* [[https://es.wikipedia.org/wiki/Ernst_Bloch][Ernst Bloch (1885-1977)]]
+  + La razón no puede florecer sin esperanza ni la esperanza puede
+    hablar sin la razón.
+
 * [[https://es.wikipedia.org/wiki/Ernest_Hemingway][Ernest Hemingway (1899-1961)]]
   + Ahora no es el momento de pensar en lo que no tienes. Piensa en lo
     que puedes hacer con lo que hay.
@@ -2470,7 +2474,7 @@ encontrando.
   + ¿Y de qué sirve hablar, si ya sabes que los demás no sienten lo que
     sientes?
 
-* [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Heródoto]]
+* [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Herodoto]]
   + El apresuramiento es padre del fracaso.
   + Es más fácil embaucar a muchos juntos que a uno solo.
   + Tu estado de ánimo es tu destino.
