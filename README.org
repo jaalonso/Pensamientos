@@ -117,7 +117,7 @@ encontrando.
   + Nadie se da cuenta de que algunas personas gastan una enorme energía
     simplemente para ser normales.
   + Nunca serás feliz si continúas buscando en qué consiste la
-    felicidad.  Nunca vivirás si buscas el significado de la vida.
+    felicidad. Nunca vivirás si buscas el significado de la vida.
   + Pero, ¿qué es la felicidad sino la simple armonía entre un hombre y
     la vida que lleva?
   + Qué sensación tan buena y tan profunda, esta de ir poco a poco
@@ -1207,11 +1207,11 @@ encontrando.
   + La perfección está en adaptarse a todo con ligero corazón y en
     fortalecer tu interior acogiendo lo inevitable. Aunque nada hay más
     arduo, cierto, que aceptar el destino.
-  + Lo fácil es lo correcto.
-    Empieza correctamente y te resultará fácil.
-    Continúa con facilidad y estarás en lo correcto.
-    El modo correcto de ir con facilidad es olvidarse del modo correcto.
-    Y olvidarse de que el ir es fácil.
+  + Lo fácil es lo correcto.                                             \\
+    Empieza correctamente y te resultará fácil.                          \\
+    Continúa con facilidad y estarás en lo correcto.                     \\
+    El modo correcto de ir con facilidad es olvidarse del modo correcto. \\
+    Y olvidarse de que el ir es fácil.                                   \\
   + Caminando se hace el camino, y a las cosas dándoles un nombre.
   + Saber que hay cosas que no se pueden saber es la cumbre del saber.
   + Todo el universo se rinde ante una mente en calma.
@@ -2117,6 +2117,10 @@ encontrando.
   + Los tontos no gustan de admirar las cosas sino cuando llevan una
     etiqueta.
 
+* [[https://es.wikipedia.org/wiki/Georges_Duhamel][Georges Duhamel (1884-1996)]]
+  + Si quieres hallar en cualquier lado amistad, dulzura y poesía,
+    llévalas contigo.
+
 * [[https://es.wikipedia.org/wiki/Gibran_Jalil_Gibran][Khalil Gibran (1883-1931)]]
   + Cuando estéis alegres mirad en el fondo de vuestros corazones y
     hallaréis que lo mismo que os da hoy alegría fue aquello que os
@@ -2484,8 +2488,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso (-535, -480)]]
   + Día a día, lo que eliges, lo que piensas y lo que haces es en lo que
     te conviertes.
-  + El buen carácter no se forma en una semana o un mes.  Se crea poco a
-    poco, día a día.  Se necesita un esfuerzo prolongado y paciente para
+  + El buen carácter no se forma en una semana o un mes. Se crea poco a
+    poco, día a día. Se necesita un esfuerzo prolongado y paciente para
     desarrollar un buen carácter.
   + La enfermedad hace agradable la salud; el hambre la saciedad; la
     fatiga el reposo.
@@ -2558,6 +2562,7 @@ encontrando.
     y no reflexionamos.
 
 * [[https://es.wikipedia.org/wiki/Immanuel_Kant][Immanuel Kant (1724-1804)]]
+  + ¡Atrévete a pensar!
   + La ciencia es la organización del conocimiento, pero la sabiduría es
     la organización de la vida.
   + El sabio puede cambiar de opinión. El necio, nunca.
@@ -2678,7 +2683,7 @@ encontrando.
   + Es una enorme desgracia no tener talento para hablar bien, ni la
     sabiduría necesaria para cerrar la boca.
   + La persona sabia a menudo evita la sociedad por miedo a aburrirse.
-  + Los niños no tienen pasado ni futuro.  Así disfrutan del presente,
+  + Los niños no tienen pasado ni futuro. Así disfrutan del presente,
     cosa que pocas veces nos sucede a nosotros.
   + Los que emplean mal su tiempo son los primeros en quejarse de su
     brevedad.
@@ -3191,16 +3196,16 @@ encontrando.
   + El sabio brega todo el día sin dejar el trabajo duro. No obstante,
     haciendo esto, permanece en el estado de tranquilidad perfecta.
   + El sabio siempre gana, porque no compite.
-  + El tiempo es una cosa creada.  Decir que no tengo tiempo es como
+  + El tiempo es una cosa creada. Decir que no tengo tiempo es como
     decir "no quiero".
   + Grandes actos se componen de pequeñas obras.
   + Haz las cosas difíciles mientras son fáciles y haz las grandes cosas
     mientras son pequeñas. El agua es suave y dócil. Pero mina y corroe lo
     duro. En el vencimiento de lo duro, ella no tiene iguales. Lo suave
     y lo tierno vencen a lo duro y lo grosero.
-  + La vida es una serie de cambios naturales y espontáneos.  No te
-    resistas a ellos, eso sólo crea tristeza.  Deja que la realidad sea
-    realidad.  Deje que las cosas fluyan naturalmente como quieran.
+  + La vida es una serie de cambios naturales y espontáneos. No te
+    resistas a ellos, eso sólo crea tristeza. Deja que la realidad sea
+    realidad. Deje que las cosas fluyan naturalmente como quieran.
   + Lo que le da su valor a una taza de barro es el espacio vacío que
     hay entre sus paredes.
   + No hacer nada es mejor que estar ocupado sin hacer nada.
@@ -3221,8 +3226,8 @@ encontrando.
     estás viviendo en el futuro. Si estás feliz, estás viviendo en el
     presente.
   + Sin salir más allá de tu puerta, puedes conocer los asuntos del
-    mundo.  Sin espiar a través de las ventanas, puedes ver el Camino
-    del Cielo.  Cuanto más lejos vas, menos conoces.  Así pues, el Sabio
+    mundo. Sin espiar a través de las ventanas, puedes ver el Camino
+    del Cielo. Cuanto más lejos vas, menos conoces. Así pues, el Sabio
     conoce sin viajar, ve sin mirar, y logra sin Actuar.
   + Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
   + ¿Tienes la paciencia de esperar hasta que el lodo se asiente y el
