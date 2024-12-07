@@ -2565,6 +2565,9 @@ encontrando.
   + ¡Atrévete a pensar!
   + La ciencia es la organización del conocimiento, pero la sabiduría es
     la organización de la vida.
+  + El hombre ha de estar ocupado de tal modo que, lleno del fin que
+    tiene a la vista, casi no se sienta a sí mismo; su mejor descanso es
+    el que sigue al trabajo.
   + El sabio puede cambiar de opinión. El necio, nunca.
   + La lectura de todos los buenos libros es como una conversación con
     las mejores mentes de los siglos pasados.
