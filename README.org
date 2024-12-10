@@ -942,6 +942,8 @@ encontrando.
   + La mayoría de los grandes males que los hombres han infligido a los
     hombres han llegado a través de gente que se sentía completamente
     segura de algo que, en realidad era falso.
+  + Lo más difícil de aprender en la vida es qué puente hay que cruzar y
+    qué puente hay que quemar.
   + Los hombres nacen ignorantes, no estúpidos. Es la educación lo que
     puede hacerles estúpidos.
   + Mucha gente preferiría morir antes que pensar. De hecho, lo hacen.
@@ -2534,7 +2536,7 @@ encontrando.
   + Todo el secreto de la vida es estar interesado en una cosa
     profundamente y en otras tantas un poco.
 
-* [[https://es.wikipedia.org/wiki/Horacio][Horacio]]
+* [[https://es.wikipedia.org/wiki/Horacio][Horacio (-65, -8)]]
   + A los que mucho desean les falta mucho.
   + A la gente triste le disgusta la feliz, tanto como la feliz aborrece
     la triste; los que son rápidos de pensamiento se ponen nerviosos con
@@ -2546,6 +2548,7 @@ encontrando.
     leídas.
   + Lo que hace falta es someter a las circunstancias, no someterse a
     ellas.
+  + Quien vive temeroso, no será nunca libre.
 
 * [[https://es.wikipedia.org/wiki/Howard_Eves][Howard Eves]]
   + Existe una distinción entre lo que se puede llamar un problema y lo
