@@ -2677,6 +2677,10 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Javier_Krahe][Javier Krahe]]
   + Prefiero caminar con una duda que con un mal axioma.
 
+* [[https://es.wikipedia.org/wiki/Jean_Anouilh][Jean Anouilh (1910-1987)]]
+  + Las preocupaciones acaban por comerse unas a otras, y al cabo de
+    diez años, se da uno cuenta de que se sigue viviendo.
+
 * [[https://en.wikipedia.org/wiki/Jean_Baudrillard][Jean Baudrillard (1929-2007)]]
   + Vivimos en un mundo donde cada vez hay más información y cada vez
     menos significado.
