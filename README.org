@@ -4994,9 +4994,10 @@ encontrando.
   + Es difícil dejar de convertirse en la persona que los demás creen
     que uno es.
 
-* [[https://es.wikipedia.org/wiki/Tito_Livio][Tito Livio]]
+* [[https://es.wikipedia.org/wiki/Tito_Livio][Tito Livio (-59, -17)]]
   + Conserva el mismo ánimo en cualquier circunstancia de la fortuna; que las
     cosas favorables no te exciten ni las adversas te depriman.
+  + El miedo siempre está dispuesto a ver las cosas peor de lo que son.
 
 * [[https://es.wikipedia.org/wiki/Tom_Clancy][Tom Clancy]]
   + La vida es aprendizaje, cuando dejes de aprender, mueres.
