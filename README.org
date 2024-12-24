@@ -2313,7 +2313,7 @@ encontrando.
     veces miramos tanto tiempo la puerta cerrada que no vemos la que se
     ha abierto para nosotros.
 
-* [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson]]
+* [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson (1959-1941)]]
   + El ojo ve sólo lo que la mente está preparada para comprender.
   + Existir es cambiar, cambiar es madurar, madurar es seguir creciendo
     sin parar.
@@ -2325,7 +2325,8 @@ encontrando.
     somos, en cierta medida, lo que hacemos y que nos creamos
     continuamente a nosotros mismos.
   + No vemos las mismas cosas, sino que nos limitamos a leer las
-    etiquetas que llevan enganchadas.
+    etiquetas que llevan enganchadas.+
+  + Percibir es, sobre todo, recordar.
 
 * [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel (1821-1881)]]
   + Dime lo que crees ser y te diré lo que no eres.
