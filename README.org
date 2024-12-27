@@ -1569,6 +1569,7 @@ encontrando.
     de cuestionarse a sí misma y quedar envuelta en dudas.
 
 * [[https://es.wikipedia.org/wiki/Emily_Dickinson][Emily Dickinson (1830-1886)]]
+  + El hoy hace que el ayer signifique.
   + Puedes mantenerte joven mientras aprendas.
 
 * [[https://es.wikipedia.org/wiki/Epicteto][Epicteto (55-135)]]
