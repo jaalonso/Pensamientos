@@ -1570,6 +1570,8 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Emily_Dickinson][Emily Dickinson (1830-1886)]]
   + El hoy hace que el ayer signifique.
+  + La esperanza es esa cosa con plumas que se posa en el alma y canta
+    sin parar.
   + Puedes mantenerte joven mientras aprendas.
 
 * [[https://es.wikipedia.org/wiki/Epicteto][Epicteto (55-135)]]
