@@ -1633,6 +1633,8 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Epicuro][Epicuro (-341, -271)]]
   + El que no esta satisfecho con poco, no esta satisfecho con nada.
+  + En una disputa filosófica, el que es derrotado gana más, porque es
+    el que más aprende.
   + La felicidad es el principal objetivo del hombre en la
     vida. Tranquilidad y racionalidad son las piedras angulares de la
     felicidad.
