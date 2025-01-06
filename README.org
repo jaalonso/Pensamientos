@@ -2709,6 +2709,7 @@ encontrando.
     jamás.
 
 * [[https://es.wikipedia.org/wiki/Jane_Austen][Jane Austen (1775-1817)]]
+  + Cada momento tiene sus placeres y sus esperanzas.
   + Del pasado no hay que recordar nada más que lo placentero.
   + La mitad del mundo no puede comprender los placeres de la otra
     mitad.
