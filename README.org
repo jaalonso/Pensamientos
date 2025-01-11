@@ -2031,7 +2031,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Gabriela_Mistral][Gabriela Mistral (1889-1957)]]
   + Tengo un día. Si lo sé aprovechar, tengo un tesoro.
 
-* [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei]]
+* [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei (1564-1642)]]
+  + Conocerse a sí mismo es el mayor saber.
   + En lo tocante a la ciencia, la autoridad de un millar no es superior
     al humilde razonamiento de una sola persona.
   + Las matemáticas son el alfabeto con el cual Dios ha escrito el
