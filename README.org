@@ -803,6 +803,8 @@ encontrando.
   + Hay dos tipos de personas que son buenas para prevenir el peligro:
     los que han aprendido a su costa, y los inteligentes que aprenden en
     gran parte a costa de los demás.
+  + Has de hablar como en testamento, que a menos palabras, menos
+    pleitos.
   + Lo bueno, si breve, dos veces bueno; lo malo, si poco, no tan malo.
   + Más daña el decaimiento del ánimo que el del cuerpo.
   + No te pongas en el lado malo de un argumento simplemente porque tu
@@ -2033,6 +2035,7 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Galileo_Galilei][Galileo Galilei (1564-1642)]]
   + Conocerse a sí mismo es el mayor saber.
+  + El gran libro de la naturaleza está escrito en símbolos matemáticos.
   + En lo tocante a la ciencia, la autoridad de un millar no es superior
     al humilde razonamiento de una sola persona.
   + Las matemáticas son el alfabeto con el cual Dios ha escrito el
