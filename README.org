@@ -391,7 +391,8 @@ encontrando.
   + En la política es a veces como en la gramática: un error en el que
     todos incurren finalmente es reconocido como regla.
 
-* [[https://es.wikipedia.org/wiki/Andr%C3%A9_Maurois][André Maurois]]
+* [[https://es.wikipedia.org/wiki/Andr%C3%A9_Maurois][André Maurois (1885-1967)]]
+  + El arte de envejecer es el arte de conservar alguna esperanza.
   + La lectura de un buen libro es un diálogo incesante en que el libro
     habla y el alma contesta.
   + Sólo hay una verdad absoluta: que la verdad es relativa.
