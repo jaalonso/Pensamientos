@@ -1251,7 +1251,7 @@ encontrando.
     repetición frecuente, porque la familiaridad no se distingue
     fácilmente de la verdad.
 
-* [[https://es.wikipedia.org/wiki/Cicer%C3%B3n][Cicerón (106 a.n.e., 43 a.n.e.)]]
+* [[https://es.wikipedia.org/wiki/Cicer%C3%B3n][Cicerón (-106, -43)]]
   + Ciertamente, la ignorancia de los males venideros nos es más útil
     que su conocimiento.
   + Cualquier hombre puede cometer errores, pero sólo un idiota persiste
@@ -1263,6 +1263,8 @@ encontrando.
     cuerpo.
   + El silencio es una de las grandes artes de la conversación.
   + La necedad es la madre de todos los males.
+  + Los hombres son como los vinos: la edad agria los malos y mejora los
+    buenos.
   + Mi conciencia tiene para mí más peso que la opinión de todo el
     mundo.
   + No hay ventaja alguna en conocer el futuro; al contrario, es
