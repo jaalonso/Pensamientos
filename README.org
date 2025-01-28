@@ -2075,7 +2075,12 @@ encontrando.
     formal para lograr algo grande.
   + Tened el valor de equivocaros.
 
+* [[https://es.wikipedia.org/wiki/George_Berkeley][George Berkeley]]
+  + Pocos hombres piensan, pero todos tienen opiniones.
+
 * [[https://bit.ly/3oRRBiL][George Bernard Shaw (1856-1950)]]
+  + Aprendemos de la experiencia que los hombres nunca aprenden nada de
+    la experiencia.
   + Cuidado con el falso conocimiento, es más peligroso que la
     ignorancia.
   + Cuando un hombre estúpido hace algo que le avergüenza, siempre dice
@@ -2126,13 +2131,6 @@ encontrando.
   + Usas un espejo de vidrio para ver tu cara; usas obras de arte para
     ver tu alma.
 
-* [[https://es.wikipedia.org/wiki/George_Berkeley][George Berkeley]]
-  + Pocos hombres piensan, pero todos tienen opiniones.
-
-* [[https://es.wikipedia.org/wiki/George_Bernard_Shaw][George Bernard Shaw]]
-  + Aprendemos de la experiencia que los hombres nunca aprenden nada de
-    la experiencia.
-
 * [[https://es.wikipedia.org/wiki/George_Eliot][George Eliot]]
   + Bendito sea el hombre que no teniendo nada que decir, se abstiene de
     demostrárnoslo con sus palabras.
@@ -2156,6 +2154,10 @@ encontrando.
     obligación de un hombre inteligente.
   + Ver lo que tenemos delante de nuestras narices requiere una lucha
     constante.
+
+* [[https://es.wikipedia.org/wiki/George_Sand][George Sand (1804-1876)]]
+  + La simplicidad es lo más difícil de conseguir en este mundo, es el
+    último límite de la experiencia y el último esfuerzo del genio.
 
 * [[https://es.wikipedia.org/wiki/Georges_Clemenceau][Georges Clemenceau]]
   + La vida de un hombre es interesante cuando ha cometido errores; es
