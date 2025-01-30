@@ -857,6 +857,9 @@ encontrando.
   + El hombre descontento no encuentra silla cómoda.
   + El hombre es un animal que hace herramientas.
   + La alegría es la piedra filosofal que todo lo convierte en oro.
+  + La felicidad humana generalmente no se logra con grandes golpes de
+    suerte, que pueden ocurrir pocas veces, sino con pequeñas cosas que
+    ocurren todos los días.
   + La llave que se usa constantemente reluce como plata: no usándola se
     llena de herrumbre. Lo mismo pasa con el entendimiento.
   + La peor decisión es la indecisión.
@@ -3251,7 +3254,7 @@ encontrando.
     no defendemos la sociedad tolerante contra sus asaltos, los
     tolerantes serán aniquilados y junto con ellos la tolerancia.
 
-* [[https://bit.ly/3dUHggj][Katherine Mansfield (188-1923)]]
+* [[https://bit.ly/3dUHggj][Katherine Mansfield (1888-1923)]]
   + Haz que sea una regla de vida nunca arrepentirse y nunca mirar
     atrás. El arrepentimiento es un espantoso desperdicio de energía; no
     se puede construir sobre ella; solo es bueno para revolcarse.
@@ -4009,6 +4012,12 @@ encontrando.
   + En algún lugar de un libro hay una frase esperándonos para darle un
     sentido a la existencia.
   + En los ánimos encogidos nunca tuvo lugar la buena dicha.
+  + La libertad, Sancho, es uno de los más preciosos dones que a los
+    hombres dieron los cielos; con ella no pueden igualarse los tesoros
+    que encierran la tierra y el mar: por la libertad, así como por la
+    honra, se puede y debe aventurar la vida.
+  + La música compone los ánimos descompuestos y alivia los trabajos que
+    nacen del espíritu.
   + No desees y serás el hombre más rico del mundo.
   + No hay libro tan malo que no tenga algo bueno.
   + Quien canta, sus males espanta.
