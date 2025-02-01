@@ -854,6 +854,7 @@ encontrando.
   + Cualquier tonto puede criticar, condenar y quejarse, y casi todos
     los tontos lo hacen.
   + Dime y lo olvido, enséñame y lo recuerdo, involúcrame y lo aprendo.
+  + El cielo cura y el médico cobra la minuta.
   + El hombre descontento no encuentra silla cómoda.
   + El hombre es un animal que hace herramientas.
   + La alegría es la piedra filosofal que todo lo convierte en oro.
@@ -879,6 +880,8 @@ encontrando.
   + Sé amable con todos, sociable con muchos, íntimo con pocos, amigo de
     uno y enemigo de nadie.
   + Si deseas persuadir, apela al interés y no a la razón.
+  + Si el hombre alcanzara la mitad de los deseos que tiene, redoblaría
+    sus inquietudes.
   + Tres podrían guardar un secreto si dos de ellos hubieran muerto.
   + Un hoy vale dos mañanas.
 
@@ -5343,12 +5346,14 @@ encontrando.
   + Sólo hay una cosa de la que estoy seguro, y es que hay muy poco de
     lo que uno pueda estar seguro.
 
-* [[https://es.wikipedia.org/wiki/Winston_Churchill][Winston Churchill]]
+* [[https://es.wikipedia.org/wiki/Winston_Churchill][Winston Churchill (1874-1965)]]
   + El éxito es aprender a ir de fracaso en fracaso sin desesperarse.
   + El político debe ser capaz de predecir lo que va a pasar mañana, el
     mes próximo y el año que viene; y de explicar después por qué fue
     que no ocurrió lo que el predijo.
   + Las actitudes son más importantes que las aptitudes.
+  + Un fanático es alguien que no puede cambiar de opinión y no quiere
+    cambiar de tema.
   + Un pesimista ve la dificultad en cada oportunidad; un optimista ve
     la oportunidad en cada dificultad.
 
