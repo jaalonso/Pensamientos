@@ -3189,6 +3189,9 @@ encontrando.
     pasado. El mejor arrepentimiento es sencillamente cambiar.
   + Sólo si nos detenemos a pensar en las pequeñas cosas llegaremos a
     comprender las grandes.
+  + Todo el mundo me dice que tengo que hacer ejercicio, que es bueno
+    para mi salud. Pero nunca he oído a nadie decirle a un deportista:
+    tienes que leer.
 
 * [[https://en.wikipedia.org/wiki/Joshua_Bloch][Joshua Bloch]]
   + Cuanto más claro y bonito sea el programa, más rápido se
