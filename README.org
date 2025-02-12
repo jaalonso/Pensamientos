@@ -4870,9 +4870,13 @@ encontrando.
   + Entre dos individuos, la armonía nunca viene dada, sino que debe
     conquistarse indefinidamente.
 
-* [[https://es.wikipedia.org/wiki/Simone_Weil][Simone Weil]]
+* [[https://es.wikipedia.org/wiki/Simone_Weil][Simone Weil (1909-1943)]]
   + El apego es el gran fabricante de ilusiones; la realidad solo puede
     ser alcanzada por alguien que está desapegado.
+  + La alegría es una necesidad esencial del alma. La falta de alegría,
+    ya se trate de desgracia o simplemente de aburrimiento, es un estado
+    de enfermedad en la que la inteligencia, la valentía, la generosidad
+    se apagan.
   + La atención es la más rara y pura forma de generosidad.
 
 * [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates (-479, -399)]]
