@@ -14,9 +14,9 @@ Este libro contiene una recopilación de pensamientos con los que me voy
 encontrando.
 
 * [[https://es.wikipedia.org/wiki/Aaron_Swartz][Aaron Swartz (1986-2013)]]
-  + Tengan curiosidad. Lean ampliamente. Prueben cosas nuevas. Creo que
-    mucho de lo que la gente llama la inteligencia se reduce a la
-    curiosidad.
+  + Sean curiosos. Lean mucho y sobre diversos temas. Prueben cosas
+    nuevas. Creo que gran parte de lo que la gente llama inteligencia se
+    reduce a la curiosidad.
 
 * [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln (1809-1865)]]
   + Es más fácil reprimir el primer capricho que satisfacer a todos los
@@ -57,7 +57,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Akira_Kurosawa][Akira Kurosawa]]
   + En un mundo loco, solo los locos son cuerdos.
 
-* [[https://es.wikipedia.org/wiki/Alain][Alain]]
+* [[https://es.wikipedia.org/wiki/Alain][Alain (1868-1951)]]
   + En definitiva, lo importante es empezar. No importa cómo, luego
     habrá tiempo para pensar en los detalles.
   + Lo mejor que podemos hacer en favor de quienes nos aman es seguir
@@ -327,7 +327,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Alfred_de_Musset][Alfred de Musset]]
   + Sólo lo hermoso es cierto, nada es cierto sin belleza.
 
-* [[https://es.wikipedia.org/wiki/Alfred_North_Whitehead][Alfred North Whitehead]]
+* [[https://es.wikipedia.org/wiki/Alfred_North_Whitehead][Alfred North Whitehead (1861-1947)]]
   + Desde los primeros pasos de su educación el niño debe experimentar
     el placer del descubrimiento.
   + El objetivo de la ciencia es buscar explicaciones sencillas para
@@ -2261,7 +2261,7 @@ encontrando.
   + Todo buen matemático es al menos medio filósofo, y todo buen
     filósofo es al menos medio matemático.
 
-* [[https://es.wikipedia.org/wiki/Graham_Greene][Graham Greene]]
+* [[https://es.wikipedia.org/wiki/Graham_Greene][Graham Greene (1904-1991)]]
   + En el fondo de nosotros mismos siempre tenemos la misma edad.
 
 * [[https://es.wikipedia.org/wiki/Gregorio_Mara%C3%B1%C3%B3n][Gregorio Marañón]]
