@@ -452,7 +452,7 @@ encontrando.
     intentes enseñarle a cantar a un cerdo; te hace perder el tiempo e
     irrita al cerdo.
 
-* [[https://es.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry][Antoine de Saint-Exupéry]]
+* [[https://es.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry][Antoine de Saint-Exupéry (1900-1944)]]
   + El sentido de las cosas no está en las cosas mismas, sino en nuestra
     actitud hacia ellas.
   + El fracaso fortifica a los fuertes.
