@@ -4009,6 +4009,10 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Michel_Foucault][Michel Foucault (1926-1984)]]
   + El lenguaje no es un mero instrumento de comunicación; es también un
     vehículo para la creación y difusión del poder.
+  + El pez nunca descubre que vive en el agua. De hecho, porque vive
+    inmerso en ella, su vida transcurre sin advertir su existencia, de
+    igual forma, cuando una conducta es normalizada por un ambiente
+    cultural dominante, se vuelve invisible.
 
 * [[https://en.wikipedia.org/wiki/Michel_Houellebecq][Michel Houellebecq (1956-)]]
   + Aumentar los deseos hasta un nivel insoportable y hacer cada vez más
