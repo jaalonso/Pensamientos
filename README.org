@@ -1259,7 +1259,7 @@ encontrando.
   + Todo lo que es difícil de alcanzar es atacado fácilmente por la
     generalidad de los hombres.
 
-* [[https://es.wikipedia.org/wiki/Cle%C3%B3bulo_de_Lindos][Cleóbulo de Lindos (630 a.n.e - 560 a.n.e)]]
+* [[https://es.wikipedia.org/wiki/Cle%C3%B3bulo_de_Lindos][Cleóbulo de Lindos (-630, -560)]]
   + Una forma fiable de hacer creer a la gente en falsedades es la
     repetición frecuente, porque la familiaridad no se distingue
     fácilmente de la verdad.
@@ -3255,6 +3255,8 @@ encontrando.
     dónde quiere ir. Todos nosotros necesitamos reconquistarnos
     constantemente de nuevo. En lugar de decidir, rodamos por la vida.
   + En filosofía son más esenciales las preguntas que las respuestas.
+  + Incluso quien la rechaza no puede evitar hacer filosofía. Pues al
+    cuestionarla, ya está filosofando.
 
 * [[https://es.wikipedia.org/wiki/Karl_Marx][Karl Marx]]
   + Las ideas dominantes de una época siempre fueron sólo las ideas de
