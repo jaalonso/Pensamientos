@@ -1602,7 +1602,7 @@ encontrando.
     sin parar.
   + Puedes mantenerte joven mientras aprendas.
 
-* [[https://es.wikipedia.org/wiki/Epicteto][Epicteto (55-135)]]
+* [[https://es.wikipedia.org/wiki/Epicteto][Epicteto (55, 135)]]
   + Complace a todos y no complacerás a nadie.
   + Cuando alguien está debidamente arraigado en la vida, no debería
     tener que buscar aprobación fuera de sí mismo.
@@ -1699,7 +1699,7 @@ encontrando.
     priva de todos los placeres.
   + La esencia de la felicidad consiste en que aceptes ser el que eres.
 
-* [[https://es.wikipedia.org/wiki/Erich_Fromm][Erich Fromm (1900-1980)]]
+ * [[https://es.wikipedia.org/wiki/Erich_Fromm][Erich Fromm (1900-1980)]]
   + En el amor se da la paradoja de dos seres que se convierten en uno
     y, no obstante, siguen siendo dos.
   + La creatividad requiere tener el valor de desprenderse de las
@@ -3422,7 +3422,7 @@ encontrando.
   + Los que se enamoran de la práctica sin la teoría son como los
     pilotos sin timón ni brújula, que nunca podrán saber a dónde van.
 
-* [[https://es.wikipedia.org/wiki/Lewis_Carroll][Lewis Carroll]]
+* [[https://es.wikipedia.org/wiki/Lewis_Carroll][Lewis Carroll (1832-1898)]]
   + Alicia se daba por lo general muy buenos consejos a sí misma, aunque
     rara vez los seguía.
   + "Alicia a través del espejo" (Alianza, 1983) p. 116
@@ -3436,6 +3436,7 @@ encontrando.
   + La única forma de lograr lo imposible es creer que sí es posible.
   + Por el contrario, si fuera así, podría ser; y si lo fuera, sería;
     pero como no lo es, no es. Eso es lógica.
+  + Puedes llegar a cualquier parte, siempre que andes lo suficiente.
   + Se quien era esta mañana cuando me levanté, pero creo que he debido
     cambiar varias veces desde entonces.
 
