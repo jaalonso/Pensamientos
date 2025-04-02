@@ -1792,7 +1792,7 @@ encontrando.
   + Esperar sentido común en la gente es una prueba de no tener sentido
     común.
 
-* [[https://es.wikipedia.org/wiki/Eur%C3%ADpides][Eurípides (480 a.n.e., 406 a.n.e.)]]
+* [[https://es.wikipedia.org/wiki/Eur%C3%ADpides][Eurípides (-480, -406)]]
   + Cuestiona todo, aprende algo, pero no esperes ninguna respuesta.
 
 * [[https://en.wikipedia.org/wiki/Evan_Esar][Evan Esar]]
@@ -2154,7 +2154,7 @@ encontrando.
   + Es una mente estrecha la que no puede observar un tema desde varios
     puntos de vista.
 
-* [[https://bit.ly/31dDTvO][George Lakoff]]
+* [[https://bit.ly/31dDTvO][George Lakoff (1941)]]
   + La idea de que la gente abandonará sus creencias irracionales ante
     la solidez de la evidencia presentada ante ella es en sí misma una
     creencia irracional, no apoyada por la evidencia.
@@ -4424,9 +4424,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Plutarco][Plutarco (46-120)]]
   + El alma más fuerte y mejor constituida es la que no se enorgullece
     ni se enerva con sus éxitos, y a la que no abaten los reveses.
-  + El cerebro no es un vaso por llenar, sino una lámpara por encender.
   + En modo alguno hemos de enfadarnos con las cosas; nada les importa
     nuestras iras.
+  + La mente no es un vaso por llenar, sino una lámpara por encender.
   + Para saber hablar es preciso saber escuchar.
 
 * [[https://es.wikipedia.org/wiki/Primo_Levi][Primo Levi]]
@@ -4632,6 +4632,8 @@ encontrando.
     posible para su mejor solución.
   + Dos cosas contribuyen a avanzar: ir más deprisa que los otros o ir
     por el buen camino.
+  + La matemática es la ciencia del orden y la medida, de bellas cadenas
+    de razonamientos, todos sencillos y fáciles.
   + Leer buenos libros es como conversar con las mejores mentes del
     pasado.
   + Lo poco que he aprendido carece de valor, comparado con lo que
