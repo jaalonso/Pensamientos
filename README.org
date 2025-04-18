@@ -2050,6 +2050,8 @@ encontrando.
     inolvidable volverse olvido, y a lo imprescindible sobrar.
   + El secreto de una buena vejez no es otra cosa que un pacto honrado
     con la soledad.
+  + La memoria del corazón elimina los malos recuerdos y magnifica los
+    buenos, y gracias a ese artificio, logramos sobrellevar el pasado.
   + Lo más importante que aprendí a hacer después de los cuarenta años
     fue a decir no cuando es no.
   + Lo que importa en la vida no es lo que te pasa sino lo que recuerdas
@@ -2275,7 +2277,7 @@ encontrando.
     de equivocarme.
   + Todavía no sé qué me vas a preguntar, pero me opongo.
 
-* [[https://es.wikipedia.org/wiki/Guillermo_de_Ockham][Guillermo de Ockham]]
+* [[https://es.wikipedia.org/wiki/Guillermo_de_Ockham][Guillermo de Ockham (1287-1347)]]
   + En igualdad de condiciones, la explicación más simple tiende a ser
     la correcta.
   + No tiene sentido hacer con más lo que se puede hacer con menos.
@@ -2393,7 +2395,7 @@ encontrando.
     somos, en cierta medida, lo que hacemos y que nos creamos
     continuamente a nosotros mismos.
   + No vemos las mismas cosas, sino que nos limitamos a leer las
-    etiquetas que llevan enganchadas.+
+    etiquetas que llevan enganchadas.
   + Percibir es, sobre todo, recordar.
 
 * [[https://es.wikipedia.org/wiki/Henri-Fr%C3%A9d%C3%A9ric_Amiel][Henri-Frédéric Amiel (1821-1881)]]
@@ -2572,9 +2574,9 @@ encontrando.
   + ¿Y de qué sirve hablar, si ya sabes que los demás no sienten lo que
     sientes?
 
-* [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Herodoto]]
+* [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Herodoto (-484,-425)]]
   + El apresuramiento es padre del fracaso.
-  + Es más fácil embaucar a muchos juntos que a uno solo.
+  + Es más fácil embaucar a una multitud que a un solo hombre.
   + Tu estado de ánimo es tu destino.
 
 * [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso (-535, -480)]]
@@ -2607,7 +2609,7 @@ encontrando.
     nuevo, sin que un impulso de cólera o un arrebato de la imaginación
     vengan a detener o desviar el trabajo diario.
 
-* [[https://es.wikipedia.org/wiki/Hip%C3%B3crates][Hipócrates]]
+* [[https://es.wikipedia.org/wiki/Hip%C3%B3crates][Hipócrates (-460, -370)]]
   + Hay, de hecho, dos cosas, ciencia y opinión; la primera engendra
     conocimiento, la segunda ignorancia.
   + Que la comida sea tu alimento y el alimento tu medicina.
@@ -2724,7 +2726,7 @@ encontrando.
   + Una colección de bellas máximas es un tesoro más apreciable que las
     riquezas.
 
-* [[https://bit.ly/2RHtRyr][Italo Calvino]]
+* [[https://bit.ly/2RHtRyr][Italo Calvino (1923-1985)]]
   + Cada elección tiene su anverso, es decir, una renuncia, por lo que
     no hay diferencia entre el acto de elegir y el acto de renunciar.
   + Renunciar a las cosas es menos difícil de lo que se cree: todo
@@ -3777,9 +3779,9 @@ encontrando.
   + Los hombres fueron hechos los unos para los otros, así que,
     instrúyelos o sopórtalos.
   + No lo hagas si no conviene. No lo digas si no es verdad.
-  + No sueñes con las cosas que no tienes, más bien reconoce las
-    bendiciones de las cosas que sí posees. Luego, recuerda agradecido
-    cómo estarías de ansioso si tus posesiones no fueran tuyas.
+  + No pienses más en lo que te falta, sino en lo que tienes, y escoge
+    de entre las cosas que tienes las más valiosas, y reflexiona cuánto
+    las habrías deseado si no las tuvieras.
   + No tiene sentido enfadarse por cosas que no puedes controlar.
   + Nunca deja de sorprenderme: todos nos queremos más a nosotros mismos
     que a los demás, pero nos importan más sus opiniones que las
