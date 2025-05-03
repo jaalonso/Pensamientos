@@ -2860,11 +2860,6 @@ encontrando.
   + La incertidumbre es la única certeza que existe, y saber cómo vivir
     con la inseguridad es la única seguridad.
 
-* [[https://es.wikipedia.org/wiki/John_Archibald_Wheeler][John Archibald Wheeler]]
-  + Vivimos en una isla rodeada de un mar de ignorancia. A medida que
-    nuestra isla del conocimiento crece, también crece la costa de
-    nuestra ignorancia.
-
 * [[https://es.wikipedia.org/wiki/John_C._Maxwell][John C. Maxwell]]
   + La clave del problema reside en identificar el problema.
 
@@ -2881,32 +2876,8 @@ encontrando.
   + En un mundo superior puede ser de otra manera, pero aquí abajo,
     vivir es cambiar y ser perfecto es haber cambiado muchas veces.
 
-* [[https://es.wikipedia.org/wiki/John_Lennon][John Lennon (1940-1980)]]
-  + Cuando fui a la escuela, me preguntaron qué quería ser cuando fuera
-    grande, escribí feliz. Me dijeron que yo no entendía la
-    pregunta. Les dije que no entendían la vida.
-  + Cuando hagas algo noble y hermoso y nadie se de cuenta, no estés
-    triste. El amanecer es un espectáculo hermoso y sin embargo la mayor
-    parte de la audiencia duerme todavía.
-  + La vida es aquello que te va sucediendo mientras estás ocupado
-    haciendo otros planes.
-
-* [[https://es.wikipedia.org/wiki/John_Steinbeck][John Steinbeck (1902-1968)]]
-  + Cuando un hombre dice que no quiere hablar de algo suele significar
-    generalmente que no puede pensar en nada más.
-  + De todos los animales la creación, el hombre el único que bebe sin
-    tener sed, come sin tener hambre y habla sin tener nada que decir.
-  + Las ideas son como los conejos. Usted obtiene un par, aprende a
-    cuidarlos, y muy pronto tendrá una docena.
-  + Un alma triste puede matarte más rápido, mucho más rápido, que un
-    germen.
-
 * [[https://es.wikipedia.org/wiki/John_Holt_(pedagogo)][John Holt]]
   + Aprendemos a hacer algo haciéndolo. No existe otra manera.
-
-* [[https://es.wikipedia.org/wiki/John_Lennon][John Lennon]]
-  + Es tan ciego porque sólo ve lo que quiere ver.
-  + La vida es lo que te pasa mientras estás ocupado haciendo otros planes.
 
 * [[https://es.wikipedia.org/wiki/John_Locke][John Locke]]
   + El trabajo del maestro no consiste tanto en enseñar todo lo
@@ -2919,6 +2890,16 @@ encontrando.
   + Somos como los camaleones, tomamos nuestro tono y el color de
     nuestro carácter moral de aquellos que están a nuestro alrededor.
 
+* [[https://es.wikipedia.org/wiki/John_Lennon][John Lennon (1940-1980)]]
+  + Cuando fui a la escuela, me preguntaron qué quería ser cuando fuera
+    grande, escribí feliz. Me dijeron que yo no entendía la
+    pregunta. Les dije que no entendían la vida.
+  + Cuando hagas algo noble y hermoso y nadie se de cuenta, no estés
+    triste. El amanecer es un espectáculo hermoso y sin embargo la mayor
+    parte de la audiencia duerme todavía.
+  + Es tan ciego porque sólo ve lo que quiere ver.
+  + La vida es lo que te pasa mientras estás ocupado haciendo otros planes.
+
 * [[https://es.wikipedia.org/wiki/John_Maynard_Keynes][John Maynard Keynes]]
   + Cuando las circunstancias cambian, yo cambio de opinión.
   + La dificultad no reside en las nuevas ideas, sino en escapar de las
@@ -2929,6 +2910,16 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/John_Milton][John Milton]]
   + La soledad es a veces la mejor compañía, y un corto retiro trae un
     dulce retorno.
+
+* [[https://es.wikipedia.org/wiki/John_Steinbeck][John Steinbeck (1902-1968)]]
+  + Cuando un hombre dice que no quiere hablar de algo suele significar
+    generalmente que no puede pensar en nada más.
+  + De todos los animales la creación, el hombre el único que bebe sin
+    tener sed, come sin tener hambre y habla sin tener nada que decir.
+  + Las ideas son como los conejos. Usted obtiene un par, aprende a
+    cuidarlos, y muy pronto tendrá una docena.
+  + Un alma triste puede matarte más rápido, mucho más rápido, que un
+    germen.
 
 * [[https://es.wikipedia.org/wiki/John_Stuart_Mill][John Stuart Mill]]
   + La tendencia general del mundo es convertir a la mediocridad en el
@@ -3098,7 +3089,7 @@ encontrando.
   + Siempre imaginé que el Paraíso sería algún tipo de biblioteca.
   + Uno no es lo que es por lo que escribe, sino por lo que ha leído.
 
-* [[https://es.wikipedia.org/wiki/Jos%C3%A9_de_Letamendi][José de Letamendi]]
+* [[https://es.wikipedia.org/wiki/Jos%C3%A9_de_Letamendi][José de Letamendi (1828-1897)]]
   + Si un loco se obstinara durante mucho tiempo en lanzar piedras a la
     Luna, no alcanzaría, naturalmente, el blanco apetecido, pero
     acabaría por ser un hondero excepcional.
@@ -3270,7 +3261,7 @@ encontrando.
   + El verdadero objetivo del maestro debe ser impartir una apreciación
     del método y no un conocimiento de los hechos.
 
-* [[https://es.wikipedia.org/wiki/Karl_Popper][Karl Popper]]
+* [[https://es.wikipedia.org/wiki/Karl_Popper][Karl Popper (1902-1994)]]
   + El futuro está abierto. Todos somos responsables de lo que el futuro
     nos depare. Por tanto, nuestro deber no es profetizar el mal, sino
     más bien luchar por un mundo mejor.
@@ -3293,7 +3284,7 @@ encontrando.
   + ¿Qué es lo que más quiero hacer? Esto es lo que no debo dejar de
     preguntarme ante las dificultades.
 
-* [[https://en.wikipedia.org/wiki/Konrad_Lorenz][Konrad Lorenz]]
+* [[https://en.wikipedia.org/wiki/Konrad_Lorenz][Konrad Lorenz (1903-1989)]]
   + Es un buen ejercicio matutino para los científicos descartar una
     hipótesis cada día antes del desayuno. Le mantiene joven.
 
@@ -3368,6 +3359,31 @@ encontrando.
   + Si esperas hasta que estemos listos, entonces esperaremos por el
     resto de nuestras vidas.
 
+* [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói (1828-1910)]]
+  + El descanso, la naturaleza, los libros, la música... tal es mi idea
+    de la felicidad.
+  + En cuanto sientas las cosquillas del amor propio que anteceden al
+    deseo de contar algo de ti mismo, reflexiona. Guarda silencio.
+  + Hay quien cruza el bosque y sólo ve leña para el fuego.
+  + La felicidad no está en hacer lo que se quiere, sino en querer lo
+    que se hace.
+  + La palabra es la expresión del pensamiento y puede servir para unir
+    o para separar a las personas; por eso hay que ser prudente con su
+    uso.
+  + La verdadera fuerza humana no reside en los estallidos de energía,
+    sino en la calma indestructible.
+  + Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con
+    exceso lo que no tengo.
+  + Todos piensan en cambiar el mundo, pero nadie piensa en cambiarse a
+    sí mismo.
+  + Un hombre es como una fracción cuyo numerador corresponde a lo que
+    él es, en tanto que el denominador es lo que cree ser. Cuanto más
+    grande es el denominador, más pequeña es la fracción.
+
+* [[https://bit.ly/3l7SeTp][León Trotski]]
+  + Exponer a los oprimidos la verdad sobre la situación es abrirles el
+    camino de la revolución.
+
 * [[https://es.wikipedia.org/wiki/Leonardo_da_Vinci][Leonardo da Vinci (1452-1519)]]
   + Así como el hierro se oxida por falta de uso, también la inactividad
     destruye el intelecto.
@@ -3394,37 +3410,6 @@ encontrando.
   + Quien de verdad sabe de qué habla, no encuentra razones para
     levantar la voz.
   + Quien piensa poco, se equivoca mucho.
-
-* [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói (1828-1910)]]
-  + El descanso, la naturaleza, los libros, la música... tal es mi idea
-    de la felicidad.
-  + En cuanto sientas las cosquillas del amor propio que anteceden al
-    deseo de contar algo de ti mismo, reflexiona. Guarda silencio.
-  + Hay quien cruza el bosque y sólo ve leña para el fuego.
-  + La felicidad no está en hacer lo que se quiere, sino en querer lo
-    que se hace.
-  + La palabra es la expresión del pensamiento y puede servir para unir
-    o para separar a las personas; por eso hay que ser prudente con su
-    uso.
-  + La verdadera fuerza humana no reside en los estallidos de energía,
-    sino en la calma indestructible.
-  + Mi felicidad consiste en que sé apreciar lo que tengo y no deseo con
-    exceso lo que no tengo.
-  + Todos piensan en cambiar el mundo, pero nadie piensa en cambiarse a
-    sí mismo.
-  + Un hombre es como una fracción cuyo numerador corresponde a lo que
-    él es, en tanto que el denominador es lo que cree ser. Cuanto más
-    grande es el denominador, más pequeña es la fracción.
-
-* [[https://bit.ly/3l7SeTp][León Trotski]]
-  + Exponer a los oprimidos la verdad sobre la situación es abrirles el
-    camino de la revolución.
-
-* [[https://es.wikipedia.org/wiki/Leonardo_da_Vinci][Leonardo da Vinci]]
-  + El mayor placer es la alegría de entender.
-  + La simplicidad es la máxima sofisticación.
-  + Los que se enamoran de la práctica sin la teoría son como los
-    pilotos sin timón ni brújula, que nunca podrán saber a dónde van.
 
 * [[https://es.wikipedia.org/wiki/Lewis_Carroll][Lewis Carroll (1832-1898)]]
   + Alicia se daba por lo general muy buenos consejos a sí misma, aunque
@@ -3454,8 +3439,6 @@ encontrando.
   + Bromear es una de las cosas amenas de la vida, pero cuesta muchos
     años de aprendizaje.
   + El hombre superior ama su alma; el hombre inferior ama su propiedad.
-  + El secreto de la alegría es conocer cómo disfrutar lo que tienes, y
-    ser capaz de perder todo el deseo por cosas más allá de tu alcance.
   + Hay dos maneras de difundir la luz... ser la lámpara que la emite, o
     el espejo que la refleja.
   + La sabiduría de la vida consiste en la eliminación de lo no
@@ -4826,6 +4809,9 @@ encontrando.
   + Buscad leyendo y hallaréis meditando.
 
 * [[https://es.wikipedia.org/wiki/Santiago_Ram%C3%B3n_y_Cajal][Santiago Ramón y Cajal (1952-1934)]]
+  + Digan lo que quieran los ricos viciosos y los holgazanes
+    incorregibles, el trabajo agradable y útil resulta todavía la mejor
+    de las distracciones.
   + El paseo al aire libre, la contemplación de obras artísticas, el
     encanto de la música y la compañía de una persona que, penetrada de
     nuestra situación, evite cuidadosamente toda conversación grave y
