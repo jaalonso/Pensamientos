@@ -3253,9 +3253,11 @@ encontrando.
   + Incluso quien la rechaza no puede evitar hacer filosofía. Pues al
     cuestionarla, ya está filosofando.
 
-* [[https://es.wikipedia.org/wiki/Karl_Marx][Karl Marx]]
+* [[https://es.wikipedia.org/wiki/Karl_Marx][Karl Marx (1818-1883)]]
   + Las ideas dominantes de una época siempre fueron sólo las ideas de
     una clase dominante.
+  + Los filósofos se han limitado a interpretar el mundo de distintos
+    modos; de lo que se trata es de transformarlo.
 
 * [[https://es.wikipedia.org/wiki/Karl_Pearson][Karl Pearson]]
   + El verdadero objetivo del maestro debe ser impartir una apreciación
@@ -3618,7 +3620,7 @@ encontrando.
     de ti; sólo en el mundo ideal encontrarás alegría.
   + Nunca rompas el silencio si no es para mejorarlo.
 
-* [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein]]
+* [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein (1889-1951)]]
   + De lo que no se puede hablar hay que callar.
   + El que hoy en día enseña filosofía da al otro alimentos no para
     complacerle, sino para modificar su gusto.
@@ -4093,7 +4095,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Moli%C3%A8re][Molière]]
   + Las cosas no valen sino lo que se las hace valer.
 
-* [[https://es.wikipedia.org/wiki/Montesquieu][Montesquieu (1689-1955)]]
+* [[https://es.wikipedia.org/wiki/Montesquieu][Montesquieu (1689-1755)]]
   + El amor al estudio es la única pasión que dura tanto como la vida;
     todas las demás se desvanecen a medida que la vejez avanza.
   + El estudio ha sido para mí el principal remedio contra las
