@@ -58,6 +58,8 @@ encontrando.
   + En un mundo loco, solo los locos son cuerdos.
 
 * [[https://es.wikipedia.org/wiki/Alain][Alain (1868-1951)]]
+  + El hombre que tiene miedo sin peligro, inventa el peligro para
+    justificar su miedo.
   + En definitiva, lo importante es empezar. No importa cómo, luego
     habrá tiempo para pensar en los detalles.
   + Lo mejor que podemos hacer en favor de quienes nos aman es seguir
@@ -1699,9 +1701,11 @@ encontrando.
     priva de todos los placeres.
   + La esencia de la felicidad consiste en que aceptes ser el que eres.
 
- * [[https://es.wikipedia.org/wiki/Erich_Fromm][Erich Fromm (1900-1980)]]
+* [[https://es.wikipedia.org/wiki/Erich_Fromm][Erich Fromm (1900-1980)]]
   + En el amor se da la paradoja de dos seres que se convierten en uno
     y, no obstante, siguen siendo dos.
+  + Estamos produciendo seres humanos enfermos para tener una economía
+    sana.
   + La creatividad requiere tener el valor de desprenderse de las
     certezas.
   + La tarea psíquica que una persona puede y debe establecer por sí
@@ -3621,11 +3625,12 @@ encontrando.
   + Nunca rompas el silencio si no es para mejorarlo.
 
 * [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein (1889-1951)]]
-  + De lo que no se puede hablar hay que callar.
   + El que hoy en día enseña filosofía da al otro alimentos no para
     complacerle, sino para modificar su gusto.
   + La solución a los problemas que ves en tu vida es vivir en tal forma
     que desaparezca lo problemático.
+  + Lo que se deja expresar, debe ser dicho de forma clara; sobre lo que
+    no se puede hablar, es mejor callar.
   + Los límites de mi lenguaje son los límites de mi mundo.
   + No busquéis el significado, buscad el uso.
 
@@ -3731,7 +3736,7 @@ encontrando.
     escapar de formar parte de los insensatos.
   + El universo es cambio; nuestra vida es lo que hacen nuestros
     pensamientos.
-  + El verdadero modo de vengarse de un enemigo es no parecérsele.
+  + El verdadero modo de vengarse de un enemigo es no parecérsele.
   + Elige tus batallas sabiamente, no todas las cosas merecen tu tiempo
     y energía.
   + En ninguna parte puede hallar el hombre un retiro tan apacible y
@@ -3792,7 +3797,7 @@ encontrando.
   + Tú tienes poder sobre tu mente, no sobre los acontecimientos. Date
     cuenta de esto y encontrarás la fuerza.
 
-* [[https://es.wikipedia.org/wiki/Margaret_Mead][Margaret Mead]]
+* [[https://es.wikipedia.org/wiki/Margaret_Mead][Margaret Mead (1901-1978)]]
   + Siempre recuerda que tú eres único. Absolutamente igual que todos
     los demás.
 
@@ -3829,7 +3834,7 @@ encontrando.
     momento de comprender más, para temer menos.
   + Siento menos curiosidad por la gente y más curiosidad por las ideas.
 
-* [[https://es.wikipedia.org/wiki/Mario_Benedetti][Mario Benedetti]]
+* [[https://es.wikipedia.org/wiki/Mario_Benedetti][Mario Benedetti (1920-2009)]]
   + Cuando por fin conocíamos las respuestas entonces cambiaron las
     preguntas.
   + La perfección es una pulida colección de errores.
@@ -3905,7 +3910,7 @@ encontrando.
   + Un hombre con una idea nueva es un loco hasta que la idea triunfa.
   + Un pesimista es un optimista bien informado.
 
-* [[https://es.wikipedia.org/wiki/Martin_HeidGegger][Martin Heidegger]]
+* [[https://es.wikipedia.org/wiki/Martin_Heidegger][Martin Heidegger (1889-1976)]]
   + La gente me agota. Paso días y días por mi cuenta sin ningún
     contacto humano. Por eso abrazo el silencio y la soledad.
   + La gran tragedia del mundo es que no cultiva la memoria.
@@ -3926,7 +3931,7 @@ encontrando.
     alegra mucho poder evitar. La soledad es el único agarradero que
     tengo, mi mejor recurso, mi refugio. La soledad me beneficia: me da
     momentos espaciosos.
-  + Nada contribuye a tranquilizar la mente como un propósito firme,un
+  + Nada contribuye a tranquilizar la mente como un propósito firme, un
     punto en el que pueda el alma fijar sus ojos intelectuales.
 
 * [[https://it.wikipedia.org/wiki/Massimo_Recalcati][Massimo Recalcati]]
@@ -3943,7 +3948,7 @@ encontrando.
   + La desesperanza está fundada en lo que sabemos, que es nada. Y la
     esperanza sobre lo que ignoramos, que es todo.
 
-* [[https://es.wikipedia.org/wiki/Max_Planck][Max Planck]]
+* [[https://es.wikipedia.org/wiki/Max_Planck][Max Planck (1858-1947)]]
   + No es la posesión de la verdad, sino el éxito que acompaña a la
     búsqueda de ella, lo que enriquece al buscador y le trae la
     felicidad.
@@ -3966,7 +3971,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Michel_de_Montaigne][Michel de Montaigne (1533-1592)]]
   + A quienes me preguntan la razón de mis viajes les contesto que sé
     bien de qué huyo pero ignoro lo que busco.
-  + Cuando soy atacado por pensamientos sombríos, nada me ayuda tanto
+  + Cuando me asaltan los pensamientos sombríos, nada me ayuda tanto
     como correr hacia mis libros. Rápidamente me absorben y hacen
     desaparecer las nubes de mi mente.
   + Cuando me llevan la contraria, despiertan mi atención, no mi cólera;
@@ -4001,7 +4006,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Michel_Foucault][Michel Foucault (1926-1984)]]
   + El lenguaje no es un mero instrumento de comunicación; es también un
     vehículo para la creación y difusión del poder.
-  + El pez nunca descubre que vive en el agua. De hecho, porque vive
+  - El pez nunca descubre que vive en el agua. De hecho, porque vive
     inmerso en ella, su vida transcurre sin advertir su existencia, de
     igual forma, cuando una conducta es normalizada por un ambiente
     cultural dominante, se vuelve invisible.
@@ -4030,7 +4035,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Miguel_de_Cervantes][Miguel de Cervantes (1547-1616)]]
   + Come poco y cena más poco, que la salud de todo el cuerpo se fragua
     en la oficina del estómago.
-  + Confía en el tiempo, que suele dar dulces salidas a muchas amargas
+  - Confía en el tiempo, que suele dar dulces salidas a muchas amargas
     dificultades.
   + Demasiada cordura puede ser una locura y la más loca de todas, ver
     la vida como es y no como debería ser.
@@ -4074,8 +4079,6 @@ encontrando.
   + Nosotros somos los solitarios, y los solitarios todos se entienden
     entre sí. Sin hablarse, ni verse, ni siquiera conocerse. Me
     acompañan en mi soledad las soledades de los demás solitarios.
-  + Jamás desesperes, aún estando en las más sombrías aflicciones, pues
-    de las nubes negras cae agua limpia y fecundante.
   + Procuremos más ser padres de nuestro porvenir que hijos de nuestro
     pasado.
   + Se viaja no para buscar el destino sino para huir de donde se parte.
@@ -4189,7 +4192,7 @@ encontrando.
     algunas incluso lo asombran, o hacen que él las sienta, y todo ello
     de mil maneras distintas.
 
-* [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo][Nicolás Maquiavelo]]
+* [[https://es.wikipedia.org/wiki/Nicol%C3%A1s_Maquiavelo][Nicolás Maquiavelo (1469-1527)]]
   + En general, los hombres juzgan más por los ojos que por la
     inteligencia, pues todos pueden ver, pero pocos comprenden lo que
     ven.
