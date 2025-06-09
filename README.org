@@ -4350,7 +4350,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Pierre_Corneille][Pierre Corneille]]
   + Hablando de nuestras desgracias las aliviamos.
 
-* [[https://es.wikipedia.org/wiki/P%C3%ADo_Baroja][Pío Baroja]]
+* [[https://es.wikipedia.org/wiki/P%C3%ADo_Baroja][Pío Baroja (1872-1956)]]
   + A una colectividad se le engaña siempre mejor que a un hombre.
   + Así en la vida, muchas veces, no se sabe si es uno el que empuja los
     acontecimientos o si son los acontecimientos los que le arrastran a
@@ -5113,6 +5113,10 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Thomas_Kuhn][Thomas Kuhn (1922-1996)]]
   + Lo que ve un hombre depende tanto de lo que mira como de lo que su
     experiencia visual y conceptual previa lo ha preparado a ver.
+
+* [[https://es.wikipedia.org/wiki/Thomas_Mann][Thomas Mann (1875-1955)]]
+  + La verdadera sabiduría radica en reconocer nuestras propias
+    limitaciones.
 
 * [[https://es.wikipedia.org/wiki/Thomas_Merton][Thomas Merton]]
   + La felicidad no es una cuestión de intensidad, sino de equilibrio,
