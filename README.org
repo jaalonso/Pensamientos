@@ -1786,6 +1786,7 @@ encontrando.
     puede ser anarquista.
 
 * [[https://es.wikipedia.org/wiki/Esquilo][Esquilo de Eleusis (-525, -456)]]
+  + La verdad es la primera víctima de la guerra.
   + Las palabras son una medicina para el alma que sufre.
   + Las personas mayores se hallan siempre a tiempo de aprender.
 
@@ -2008,6 +2009,8 @@ encontrando.
     mismas cosas.
   + Lo que mucho ocupa termina por preocupar.
   + Lo que no nos mata nos hace más fuertes.
+  + Los hombres activos ruedan, como rueda una piedra, conforme a la
+    estupidez de la mecánica.
   + Mi fórmula para expresar la grandeza en el hombre es el /amor fati/:
     no querer que nada sea distinto, ni en el pasado, ni en el futuro,
     ni por toda la eternidad. No sólo soportar lo necesario y menos aún
@@ -4549,9 +4552,10 @@ encontrando.
   + Adopta el ritmo de la naturaleza: su secreto es la paciencia.
   + Aunque viajamos por todo el mundo para encontrar lo bello, debemos
     llevarlo con nosotros, o no lo encontramos.
-  + Es fácil en el mundo vivir según la opinión del mundo; es fácil en la soledad
-    vivir según la nuestra; pero el gran hombre es aquel que en medio de la
-    multitud mantiene con perfecta sencillez la independencia de la soledad.
+  + Es fácil en el mundo vivir según la opinión del mundo; es fácil en
+    la soledad vivir según la nuestra; pero el gran hombre es aquel que
+    en medio de la multitud mantiene con perfecta sencillez la
+    independencia de la soledad.
   + Grabad esto en vuestro corazón; cada día comienza en nosotros un año
     nuevo, una nueva vida.
   + La gente no parece darse cuenta de que su opinión del mundo es
@@ -4604,7 +4608,7 @@ encontrando.
     cambiar, valor para cambiar las cosas que puedo y sabiduría para
     poder diferenciarlas.
 
-* [[https://es.wikipedia.org/wiki/Rembrandt][Rembrandt]]
+* [[https://es.wikipedia.org/wiki/Rembrandt][Rembrandt (1606-1669)]]
   + Practica lo que sabes y esto te ayudará a ver lo que todavía no
     sabes.
 
@@ -4688,7 +4692,7 @@ encontrando.
   + Si nos fuera dado el poder de vernos como nos ven los demás, de
     cuantos disparates y necedades nos veríamos libres.
 
-* [[https://es.wikipedia.org/wiki/Robert_Frost][Robert Frost]]
+* [[https://es.wikipedia.org/wiki/Robert_Frost][Robert Frost (1874-1963)]]
   + En dos palabras puedo resumir cuanto he aprendido acerca de la vida:
     sigue adelante.
 
