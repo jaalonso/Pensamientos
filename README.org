@@ -416,6 +416,22 @@ encontrando.
   + No estoy aceptando las cosas que no puedo cambiar, estoy cambiando
     las cosas que no puedo aceptar.
 
+* Anónimo
+  + Conócete a tí mismo.
+  + Cuando crees que sabes todas las respuestas, la vida te cambia todas
+    las preguntas.
+  + Hay quienes cruzan el bosque y sólo ven leña para el fuego.
+  + La palabra y la piedra suelta no tienen vuelta.
+  + La vida crece en las orillas, no en las aguas turbulentas.
+  + Las mentes brillantes manejan ideas; las corrientes hablan de
+    actualidades; las mediocres hablan de los demás.
+  + Las personas inteligentes son capaces de simplificar lo complejo;
+    los tontos, en cambio, suelen complicar lo sencillo.
+  + Los errores son como una colección por fascículos: cada uno te
+    enseña una lección, pero el precio es cada vez más alto.
+  + Sólo se comprende cuando se deja de obedecer, sólo se obedece cuando
+    no se comprende.
+
 * [[https://es.wikipedia.org/wiki/Anthony_de_Mello][Anthony de Mello (1931-1987)]]
   + Comprende tu infelicidad, y ésta desaparecerá y dará paso al estado
     de felicidad.
@@ -598,26 +614,6 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Ant%C3%B3n_Ch%C3%A9jov][Antón Chéjov]]
   + Las personas inteligentes quieren aprender. Las demás, enseñar.
-
-* [[https://es.wikipedia.org/wiki/Azor%C3%ADn][Azorín (1873-1967)]]
-  + Si lo pensamos, veremos que muchos de los disgustos que nos
-    sobrevienen lo son por palabras innecesarias.
-
-* Anónimo
-  + Conócete a tí mismo.
-  + Cuando crees que sabes todas las respuestas, la vida te cambia todas
-    las preguntas.
-  + Hay quienes cruzan el bosque y sólo ven leña para el fuego.
-  + La palabra y la piedra suelta no tienen vuelta.
-  + La vida crece en las orillas, no en las aguas turbulentas.
-  + Las mentes brillantes manejan ideas; las corrientes hablan de
-    actualidades; las mediocres hablan de los demás.
-  + Las personas inteligentes son capaces de simplificar lo complejo;
-    los tontos, en cambio, suelen complicar lo sencillo.
-  + Los errores son como una colección por fascículos: cada uno te
-    enseña una lección, pero el precio es cada vez más alto.
-  + Sólo se comprende cuando se deja de obedecer, sólo se obedece cuando
-    no se comprende.
 
 * [[https://es.wikipedia.org/wiki/Arist%C3%B3teles][Aristóteles (-384, -322)]]
   + Cualquiera puede enfadarse, eso es algo muy sencillo. Pero enfadarse
@@ -805,6 +801,14 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Augusto_Roa_Bastos][Augusto Roa Bastos]]
   + No es creyendo sino dudando como se puede llegar a la verdad que
     siempre muda de forma y condición.
+
+* [[https://es.wikipedia.org/wiki/Avicena][Avicena (980-1037)]]
+  + La imaginación es la mitad de la enfermedad, la tranquilidad es la
+    mitad del remedio y la paciencia es el comienzo de la cura.
+
+* [[https://es.wikipedia.org/wiki/Azor%C3%ADn][Azorín (1873-1967)]]
+  + Si lo pensamos, veremos que muchos de los disgustos que nos
+    sobrevienen lo son por palabras innecesarias.
 
 * [[https://es.wikipedia.org/wiki/Baltasar_Graci%C3%A1n][Baltasar Gracián (1601-1658)]]
   + Deja que la amistad sea escuela de conocimientos y que la cultura
@@ -1719,6 +1723,8 @@ encontrando.
   + Hay que huir de la tristeza, hermana gemela del tedio, pues nos
     priva de todos los placeres.
   + La esencia de la felicidad consiste en que aceptes ser el que eres.
+  + La felicidad consiste, principalmente, en conformarse con la suerte;
+    es querer ser lo que uno es.
 
 * [[https://es.wikipedia.org/wiki/Erich_Fromm][Erich Fromm (1900-1980)]]
   + En el amor se da la paradoja de dos seres que se convierten en uno
@@ -5091,7 +5097,7 @@ encontrando.
   + No digas lo que quieres hacer para que no se burlen de ti, si no
     completas tu resolución.
 
-* [[https://es.wikipedia.org/wiki/Terencio][Terencio (185 a.n.e, 159 a.n.e.)]]
+* [[https://es.wikipedia.org/wiki/Terencio][Terencio (-185, -159)]]
   + Cuando no se puede lograr lo que se quiere, mejor cambiar de
     actitud.
   + Hombre soy y nada humano me es ajeno (/Homo sum; humani nihil a me
