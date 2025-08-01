@@ -524,7 +524,7 @@ encontrando.
   + Soy un pesimista debido a mi inteligencia, pero un optimista debido
     mi voluntad.
 
-* [[https://es.wikipedia.org/wiki/Antonio_Machado][Antonio Machado]]
+* [[https://es.wikipedia.org/wiki/Antonio_Machado][Antonio Machado (1875-1939)]]
   + Aprendió tantas cosas, que no tuvo tiempo para pensar en ninguna de
     ellas.
   + Ayudadme a comprender lo que os digo, y os lo explicaré más
@@ -601,6 +601,7 @@ encontrando.
     los excesos de la moda.
   + Si es bueno vivir, todavía es mejor soñar, y lo mejor de todo,
     despertar.
+  + Todo lo que se ignora, se desprecia.
   + Todo necio \\
     confunde valor y precio.
   + ¡Qué difícil es, \\
