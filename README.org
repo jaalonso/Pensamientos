@@ -1602,6 +1602,8 @@ encontrando.
   + Es mejor encender una vela que maldecir la oscuridad.
 
 * [[https://es.wikipedia.org/wiki/Emil_Cioran][Emil Cioran (1911-1995)]]
+  + A medida que los años pasan, decrece el número de seres con quienes
+    puede uno entenderse.
   + Es menos por reacción de defensa que por pudor, por el deseo de
     esconder su irrealidad, que todos los humanos llevan una
     máscara. Arrancársela es perderlos y perderse.
