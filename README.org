@@ -648,6 +648,7 @@ encontrando.
     puesto que olvidó añadir: y aun de esto mismo no estoy completamente
     seguro.
   + Todo lo que se ignora, se desprecia.
+  + Todo necio confunde valor y precio.
   + Y nadie pregunta ni nadie contesta, todos hablan solos.
 
 * [[https://es.wikipedia.org/wiki/Antonio_Porchia][Antonio Porchia]]
