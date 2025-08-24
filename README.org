@@ -649,6 +649,8 @@ encontrando.
     seguro.
   + Todo lo que se ignora, se desprecia.
   + Todo necio confunde valor y precio.
+  + Vivir es devorar tiempo, esperar; y por muy trascendente que quiera
+    ser nuestra espera, siempre será espera de seguir esperando.
   + Y nadie pregunta ni nadie contesta, todos hablan solos.
 
 * [[https://es.wikipedia.org/wiki/Antonio_Porchia][Antonio Porchia]]
