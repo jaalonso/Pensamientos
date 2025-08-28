@@ -1079,6 +1079,7 @@ encontrando.
     contradicción es indicio de verdad.
   + No se muestra la grandeza por estar en un extremo, sino tocando los
     dos a la vez y llenando el espacio intermedio.
+  + Si no actúas como piensas, vas a terminar pensando como actúas.
   + Vale más saber alguna cosa de todo, que saberlo todo de una sola
     cosa.
   + Ya se han escrito todas las buenas máximas. Sólo falta ponerlas en
@@ -4466,6 +4467,7 @@ encontrando.
   + Descansa satisfecho de hacerlo bien y deja que otros hablen de ti
     como les plazca.
   + El orden es el más hermoso ornamento de una casa.
+  + El principio es la mitad del todo.
   + El que habla siembra, el que escucha, recoge.
   + Elige lo mejor; la costumbre lo hará suave y fácil.
   + Escucha y serás sabio. El comienzo de la sabiduría es el silencio.
@@ -4478,6 +4480,11 @@ encontrando.
   + No digas pocas cosas en muchas palabras, sino muchas cosas en pocas
     palabras.
   + No sabe hablar quien no sabe callar.
+  + Sobre todas las cosas pueden hacerse dos afirmaciones totalmente
+    contrarias.
+  + Tú verás que los males de los hombres son fruto de su elección; y
+    que la fuente del bien la buscan lejos, cuando la llevan dentro de
+    su corazón.
 
 * [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón (-427, -347)]]
   + Buscando el bien de nuestros semejantes, encontramos el nuestro.
