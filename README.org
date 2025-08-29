@@ -1063,6 +1063,7 @@ encontrando.
         felicidad.
 
 * [[https://es.wikipedia.org/wiki/Blaise_Pascal][Blaise Pascal (1623-1662)]]
+  + El corazón tiene razones que la razón ignora.
   + El hombre está dispuesto siempre a negar todo aquello que no
     comprende.
   + El hombre tiene ilusiones como el pájaro alas. Eso es lo que lo
