@@ -58,6 +58,11 @@ encontrando.
   + En un mundo loco, solo los locos son cuerdos.
 
 * [[https://es.wikipedia.org/wiki/Alain][Alain (1868-1951)]]
+  + El deseo de seguridad y la sensación de inseguridad son lo
+    mismo. Contener la respiración es perderla. Una sociedad basada en
+    la búsqueda de seguridad no es más que una competición de retención
+    de la respiración donde todos están tensos como un tambor y morados
+    como una remolacha.
   + El hombre que tiene miedo sin peligro, inventa el peligro para
     justificar su miedo.
   + En definitiva, lo importante es empezar. No importa cómo, luego
@@ -2087,11 +2092,13 @@ encontrando.
     saber y los que quieren creer.
   + Hay que apartar de nosotros el mal gusto de querer coincidir con
     muchos.
+  + La madurez del hombre es haber vuelto a encontrar la seriedad con la
+    que jugaba cuando era niño.
   + La persona que tiene mucha alegría es necesariamente buena: pero tal
     vez no sea la más lista, aunque consigue precisamente aquello que la
     más lista trata de conseguir con toda su listeza.
-  + La madurez del hombre es haber vuelto a encontrar la seriedad con la
-    que jugaba cuando era niño.
+  + La sencillez y naturalidad son el supremo y último fin de la
+    cultura.
   + La ventaja de tener mala memoria es que se goza muchas veces con las
     mismas cosas.
   + Lo que mucho ocupa termina por preocupar.
@@ -2106,6 +2113,9 @@ encontrando.
   + Mi soledad no depende de la presencia o ausencia de las personas; al
     contrario, odio a quien roba mi soledad sin, a cambio, ofrecerme
     compañía de verdad.
+  + Quien con monstruos lucha cuide de no convertirse a su vez en
+    monstruo. Cuando miras largo tiempo a un abismo, el abismo también
+    mira dentro de ti.
   + Quien no dispone de dos tercios del día para sí mismo es un esclavo.
   + Quien se sabe profundo, se esfuerza por ser claro; quien desea
     parecer profundo a la gran masa, se esfuerza por ser oscuro.
@@ -3466,6 +3476,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Le%C3%B3n_Tolst%C3%B3i][León Tolstói (1828-1910)]]
   + El descanso, la naturaleza, los libros, la música... tal es mi idea
     de la felicidad.
+  + El único conocimiento absoluto que puede alcanzar el hombre, es que
+    la vida no tiene sentido.
   + En cuanto sientas las cosquillas del amor propio que anteceden al
     deseo de contar algo de ti mismo, reflexiona. Guarda silencio.
   + Hay quien cruza el bosque y sólo ve leña para el fuego.
