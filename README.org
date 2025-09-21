@@ -4991,6 +4991,9 @@ encontrando.
     horas, no abandonaremos el trabajo a pretexto de que necesitaríamos
     4 ó 6. Como dice juiciosamente Payot, «poco basta cada día si cada
     día logramos ese poco»."
+  + Una de las desdichas de nuestro país consiste, como se ha dicho
+    hartas veces, en que el interés individual ignora el interés
+    colectivo.
 
 * [[https://es.wikipedia.org/wiki/Tom%C3%A1s_de_Aquino][Santo Tomás de Aquino (1224-1274)]]
   + En esta vida hay que ser solución, no problema.
