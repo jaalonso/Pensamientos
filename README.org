@@ -395,11 +395,13 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Ana%C3%AFs_Nin][Anais Nin]]
   + No vemos jamás las cosas tal cual son, las vemos tal cual somos.
 
-* [[https://en.wikipedia.org/wiki/Anatole_France][Anatole France]]
+* [[https://en.wikipedia.org/wiki/Anatole_France][Anatole France (1844-1924)]]
   + La vida nos enseña que no podemos ser felices sino al precio de
     cierta ignorancia.
   + Si cincuenta millones de personas dicen una tontería, sigue siendo
     una tontería.
+  + Si exagerásemos nuestras alegrías, como hacemos con nuestras penas,
+    nuestros problemas perderían importancia.
 
 * [[https://bit.ly/37bBjJJ][André Gide (1889-1951)]]
   + El hombre no puede descubrir nuevos océanos a menos que tenga el
