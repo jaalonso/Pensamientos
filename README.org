@@ -854,6 +854,10 @@ encontrando.
     lejano en vez de tomar lo cercano; se dirigen hacia fuera en todas
     direcciones en vez de ir hacia sí mismos, donde todo enigma se
     resuelve.
+  + Todos los placeres son quiméricos. Conviene una total moderación
+    porque precisamente el afán y lucha por la felicidad, el lujo y el
+    placer es lo que provoca las grandes desgracias. Ser feliz no es
+    difícil sino totalmente imposible.
   + Un obstáculo capital del progreso del género humano es que la gente
     no escucha a quienes hablan con sensatez sino a quienes hablan más
     alto.
@@ -4383,6 +4387,11 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Nikol%C3%A1i_G%C3%B3gol][Nikolái Gógol (1809-1852)]]
   + Se deben leer muchos libros para darse cuenta de lo poco que uno
     sabe.
+
+* [[https://es.wikipedia.org/wiki/Nikos_Kazantzakis][Nikos Kazantzakis (1883-1957)]]
+  + He dejado de acordarme de lo que ayer ocurrió y de preguntarme qué
+    ocurrirá mañana. Lo que ocurre hoy, en el minuto presente, es lo que
+    me interesa.
 
 * [[https://es.wikipedia.org/wiki/Nuccio_Ordine][Nuccio Ordine]]
   + Los jóvenes reclaman sobre todo profesores que vivan con pasión y
