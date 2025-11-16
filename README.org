@@ -1098,8 +1098,11 @@ encontrando.
         felicidad.
 
 * [[https://es.wikipedia.org/wiki/Blaise_Pascal][Blaise Pascal (1623-1662)]]
-  + Dicen que el hábito es una segunda naturaleza. Quien sabe, empero,
-    si la naturaleza no es primero un hábito.
+  + La costumbre es una segunda naturaleza que destruye la
+    primera. Pero ¿qué es naturaleza? ¿Por qué la costumbre no es
+    natural? Tengo mucho miedo de que esta naturaleza no sea a su vez
+    sino una primera costumbre, al igual que la costumbre es una segunda
+    naturaleza. https://tinyurl.com/25zp2r73
   + El corazón tiene razones que la razón ignora.
   + El hombre está dispuesto siempre a negar todo aquello que no
     comprende.
