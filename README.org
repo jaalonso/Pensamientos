@@ -5622,6 +5622,11 @@ encontrando.
   + Sólo hay una cosa de la que estoy seguro, y es que hay muy poco de
     lo que uno pueda estar seguro.
 
+* [[https://es.wikipedia.org/wiki/William_Wordsworth][William Wordsworth (1770-1850)]]
+  + La vida se divide en tres períodos; lo que era, lo que es y lo que
+    será. Aprendamos del pasado para sacar provecho de la actualidad, y
+    del presente para vivir mejor en el futuro.
+
 * [[https://es.wikipedia.org/wiki/Winston_Churchill][Winston Churchill (1874-1965)]]
   + El éxito es aprender a ir de fracaso en fracaso sin desesperarse.
   + El político debe ser capaz de predecir lo que va a pasar mañana, el
