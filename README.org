@@ -4227,7 +4227,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Miguel_de_Cervantes][Miguel de Cervantes (1547-1616)]]
   + Come poco y cena más poco, que la salud de todo el cuerpo se fragua
     en la oficina del estómago.
-  - Confía en el tiempo, que suele dar dulces salidas a muchas amargas
+  + Confía en el tiempo, que suele dar dulces salidas a muchas amargas
     dificultades.
   + Demasiada cordura puede ser una locura y la más loca de todas, ver
     la vida como es y no como debería ser.
@@ -5488,6 +5488,8 @@ encontrando.
   + El cerebro humano es un órgano complejo con el maravilloso poder de
     permitirle al hombre encontrar razones para seguir creyendo lo que
     sea que quiera creer.
+  + El hombre actual ha nacido o bien para vivir entre las convulsiones de
+    la inquietud, o bien en el letargo del aburrimiento.
   + El secreto de aburrir a la gente consiste en decirlo todo.
   + En geometría, como en la mayoría de las ciencias, es muy raro que
     una proposición aislada sea de utilidad inmediata. Pero las teorías
