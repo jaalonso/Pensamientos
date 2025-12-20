@@ -948,6 +948,7 @@ encontrando.
     porque juzgamos que es bueno, sino que, por el contrario, juzgamos
     que algo es bueno porque nos esforzamos por ello, lo queremos,
     apetecemos y deseamos.
+  + Si quieres que la vida te sonría, apórtale primero tu buen humor.
   + Si somos marionetas, nuestra mejor opción para dejar de serlo es
     tratar de averiguar la lógica del titiritero.
   + Todos los prejuicios que intento indicar aquí dependen de uno solo,
@@ -1745,6 +1746,8 @@ encontrando.
   + Cuando alguien está debidamente arraigado en la vida, no debería
     tener que buscar aprobación fuera de sí mismo.
   + Cuando alguien te irrite, sábete que es tu juicio el que te irrita.
+  + Debemos hacer lo mejor con las cosas que están en nuestro poder, y
+    tomar el resto como las presenta la naturaleza.
   + Dos cosas hay que quitarles a los hombres: la vanidad y la
     desconfianza.
   + El error del anciano es que pretende enjuiciar el hoy con el
@@ -2682,6 +2685,9 @@ encontrando.
   + No hay jubilación para un artista; el arte es una forma de vida y
     como tal no tiene fin.
 
+* [[https://es.wikipedia.org/wiki/Herbert_Alexander_Simon][Herbert Simon (1916-2001)]]
+  + El exceso de información genera escasez de atención.
+
 * [[https://es.wikipedia.org/wiki/Herbert_von_Karajan][Herbert von Karajan]]
   + El arte de dirigir consiste en saber cuando hay que abandonar la
     batuta para no molestar a la orquesta.
@@ -3489,6 +3495,7 @@ encontrando.
     mientras son pequeñas. El agua es suave y dócil. Pero mina y corroe lo
     duro. En el vencimiento de lo duro, ella no tiene iguales. Lo suave
     y lo tierno vencen a lo duro y lo grosero.
+  + La mente tiende a la quietud, pero la ansiedad se le opone.
   + La vida es una serie de cambios naturales y espontáneos. No te
     resistas a ellos, eso sólo crea tristeza. Deja que la realidad sea
     realidad. Deje que las cosas fluyan naturalmente como quieran.
@@ -3752,6 +3759,8 @@ encontrando.
   + No es que tengamos poco tiempo, sino que desperdiciamos mucho. La
     vida, si sabes usarla, es larga.
   + No está en ningún lugar quien está en todas partes.
+  + No hay dicha en poseer algo valioso, a menos que tengas con quien
+    compartirlo.
   + No nos atrevemos a muchas cosas porque son difíciles, pero son
     difíciles porque no nos atrevemos a hacerlas.
   + No puede vivir felizmente aquel que sólo se contempla a sí mismo,
