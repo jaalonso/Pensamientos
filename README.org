@@ -127,6 +127,8 @@ encontrando.
     grande. Consiste en impedir que el mundo se deshaga.
   + El silencio es la conversación de las personas que se quieren. Lo
     que cuenta no es lo que se dice, sino lo que no es necesario decir.
+  + En la profundidad del invierno finalmente aprendí que había en mí un
+    verano invencible.
   + Envejecer es pasar de la pasión a la compasión.
   + Inocente es quien no necesita explicarse.
   + La gente nunca está convencida de tus razones, de tu sinceridad, de
@@ -791,6 +793,8 @@ encontrando.
     nos torturan.
   + En consecuencia el presente siempre resulta insatisfactorio, pero el
     futuro es incierto y el pasado irrevocable.
+  + En general, las nueve décimas partes de nuestra felicidad se
+    fundamentan en la salud.
   + Es difícil encontrar la felicidad dentro de uno mismo, pero es
     imposible encontrarla en otro lugar.
   + Es una gran torpeza perder en lo interno para ganar en lo externo;
@@ -1588,6 +1592,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Di%C3%B3genes_de_Sinope][Diógenes de Sínope]]
   + Callando es como se aprende a oír; oyendo es como se aprende a
     hablar; y luego, hablando se aprende a callar.
+  + Cuanto más conozco a la gente, más quiero a mi perro.
 
 * [[https://es.wikipedia.org/wiki/Di%C3%B3genes_Laercio][Diógenes Laercio]]
   + La cultura es un adorno en la prosperidad y un refugio en la
@@ -2068,6 +2073,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_de_La_Rochefoucauld][François de La Rochefoucauld (1613-1680)]]
   + Conocer las cosas que lo hacen a uno desgraciado, ya es una especie
     de felicidad.
+  + Cuando no se encuentra descanso en uno mismo, es inútil buscarlo en
+    otra parte.
   + Estamos tan acostumbrados a disfrazarnos para los demás, que al
     final nos disfrazamos para nosotros mismos.
   + La felicidad reside en los gustos y no en las cosas; somos felices
@@ -2079,7 +2086,6 @@ encontrando.
     admiten que se equivocan.
   + Ponemos más interés en hacer creer a los demás que somos felices que
     en tratar de serlo.
-  + Si no tenemos paz dentro de nosotros, de nada sirve buscarla fuera.
 
 * [[https://es.wikipedia.org/wiki/Fran%C3%A7ois_F%C3%A9nelon][François Fénelon]]
   + Si queréis formar juicio acerca de un hombre, observad quienes son
@@ -2370,11 +2376,15 @@ encontrando.
     indulgente, y del malévolo a tratar a los demás con amabilidad. Y
     por curioso que parezca, no siento ninguna gratitud hacia esos
     maestros.
+  + El ayer no es más que el recuerdo de hoy, y el mañana es el sueño de
+    hoy.
   + El olvido es una forma de libertad.
   + El optimista ve la rosa y no sus espinas; el pesimista mira las
     espinas, ajeno a la rosa.
   + En el corazón de todos los inviernos vive una primavera palpitante,
     y detrás de cada noche, viene una aurora sonriente.
+  + En el rocío de las pequeñas cosas, el corazón encuentra su mañana y
+    toma su frescura.
   + Hay una trémula primavera en cada invierno del corazón, y un
     sonriente amanecer se esconde tras el velo de cada noche.
   + La tortuga puede hablar más del camino que la liebre.
@@ -4111,6 +4121,8 @@ encontrando.
     te vencerá por experiencia.
   + Nunca intentes enseñar a un cerdo a cantar. Te hará perder el tiempo
     y molestará al cerdo.
+  + ¡Qué fácil es hacer que la gente crea una mentira, y qué difícil es
+    deshacer ese trabajo de nuevo!
   + Todo lo que necesitas en esta vida es ignorancia y confianza, y
     entonces el éxito es seguro.
   + Un hombre con una idea nueva es un loco hasta que la idea triunfa.
@@ -4645,6 +4657,9 @@ encontrando.
   + La esperanza es el pilar que sostiene al mundo. La esperanza es el
     sueño del hombre despierto.
   + La única certeza es que nada es seguro.
+
+* [[https://es.wikipedia.org/wiki/Plotino][Plotino (205-270)]]
+  + Cada alma es y se convierte en lo que contempla.
 
 * [[https://es.wikipedia.org/wiki/Plutarco][Plutarco (46-120)]]
   + El alma más fuerte y mejor constituida es la que no se enorgullece
