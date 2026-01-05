@@ -2381,6 +2381,8 @@ encontrando.
   + El olvido es una forma de libertad.
   + El optimista ve la rosa y no sus espinas; el pesimista mira las
     espinas, ajeno a la rosa.
+  + En cada invierno del corazón hay una trémula primavera, y tras el
+    velo de cada noche se esconde un sonriente amanecer.
   + En el corazón de todos los inviernos vive una primavera palpitante,
     y detrás de cada noche, viene una aurora sonriente.
   + En el rocío de las pequeñas cosas, el corazón encuentra su mañana y
@@ -3798,6 +3800,7 @@ encontrando.
     nuestras decisiones fallan porque no sabemos a dónde apuntamos.
   + Quizás suceda lo peor, quizás no, hasta entonces, espera cosas
     mejores.
+  + Se necesita toda la vida para aprender a vivir.
   + Sea esta la regla de nuestra vida: decir lo que sentimos, sentir lo
     que decimos. En suma, que la palabra vaya de acuerdo con los hechos.
   + Si un hombre no sabe hacia qué puerto navega, ningún viento es
@@ -3866,6 +3869,8 @@ encontrando.
   + El futuro depende de lo que hagas hoy.
   + En cuanto alguien comprende que obedecer leyes injustas es contrario
     a su dignidad de hombre, ninguna tiranía puede dominarle.
+  + La felicidad se alcanza cuando lo que uno piensa, lo que uno dice y
+    lo que uno hace están en armonía.
   + La verdad es totalmente interior. No hay que buscarla fuera de
     nosotros ni querer realizarla luchando con violencia con enemigos
     exteriores.
@@ -5309,7 +5314,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/T%C3%A1cito][Tácito]]
   + Todo lo que se ignora tiende a magnificarse.
 
-* [[https://es.wikipedia.org/wiki/Tales_de_Mileto][Tales de Mileto (-624. -546)]]
+* [[https://es.wikipedia.org/wiki/Tales_de_Mileto][Tales de Mileto (aprox. 624-546 a.C.)]]
   + Cuida tus palabras; que ellas no levanten un muro entre ti y los que
     contigo viven.
   + De todo lo que es posible aprender, elige y aprende lo mejor; y de
