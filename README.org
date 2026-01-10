@@ -2566,10 +2566,12 @@ encontrando.
     veces miramos tanto tiempo la puerta cerrada que no vemos la que se
     ha abierto para nosotros.
 
-* [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson (1959-1941)]]
+* [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson (1859-1941)]]
   + El ojo ve sólo lo que la mente está preparada para comprender.
-  + Existir es cambiar, cambiar es madurar, madurar es seguir creciendo
-    sin parar.
+  + Es preciso que cambie a cada momento, porque dejar de transformarse
+    es dejar de vivir.
+  + Existir consiste en cambiar, cambiar en madurar, madurar en crearse
+    a sí mismo indefinidamente.
   + La idea del futuro, preñada de una infinidad de posibilidades, es
     por tanto más fecunda que el propio futuro, y por eso encontramos
     más encanto en la esperanza que en la posesión, en los sueños que en
@@ -2761,7 +2763,9 @@ encontrando.
     sientes?
 
 * [[https://es.wikipedia.org/wiki/Her%C3%B3doto][Herodoto (-484,-425)]]
-  + El apresuramiento es padre del fracaso.
+  + La prisa en todo negocio suele acarrear fracasos, de los que suelen
+    nacer grandes daños. En cambio, en el esperar hay ventajas que,
+    aunque no se vean de inmediato, el tiempo las descubre.
   + Es más fácil embaucar a una multitud que a un solo hombre.
   + Tu estado de ánimo es tu destino.
 
@@ -4629,7 +4633,7 @@ encontrando.
     que la fuente del bien la buscan lejos, cuando la llevan dentro de
     su corazón.
 
-* [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón (-427, -347)]]
+* [[https://es.wikipedia.org/wiki/Plat%C3%B3n][Platón (427-347 a.C.)]]
   + Buscando el bien de nuestros semejantes, encontramos el nuestro.
   + El hombre es un ser en busca de sentido.
   + El matemático es perfecto sólo en la medida en que es un hombre
@@ -5407,9 +5411,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Tom_Clancy][Tom Clancy]]
   + La vida es aprendizaje, cuando dejes de aprender, mueres.
 
-* [[https://es.wikipedia.org/wiki/Tom%C3%A1s_de_Kempis][Tomás de Kempis]]
-  + He buscado el sosiego en todas partes, y sólo lo he encontrado
-    sentado en un rincón apartado, con un libro en las manos.
+* [[https://es.wikipedia.org/wiki/Tom%C3%A1s_de_Kempis][Tomás de Kempis (1380-1491)]]
+  + Busqué el descanso en todas las cosas, y en ninguna lo encontré,
+    sino en un rincón con un libro.
 
 * [[https://es.wikipedia.org/wiki/Tom%C3%A1s_Moro][Tomás Moro (1478-1535)]]
   + Un hombre debe mostrarse agradable y servicial con las personas que
