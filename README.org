@@ -853,10 +853,10 @@ encontrando.
     entretiene continuamente de forma indolora y, sin embargo, animada.
   + Nueve décimas partes de nuestra felicidad se basan exclusivamente en
     nuestra salud.
+  + Pocas veces pensamos en lo que tenemos; pero siempre en lo que nos
+    falta.
   + Querer es esencialmente sufrir, y como vivir es querer, toda vida es
     por esencia dolor.
-  + Rara vez pensamos en lo que tenemos, pero siempre en lo que nos
-    falta. Por eso, más que agradecidos, estamos amargados.
   + Renunciamos a tres cuartas partes de nosotros mismos para ser como
     los demás.
   + Sufrimos al no obtener lo que deseamos y, si lo obtenemos, nos
@@ -1366,7 +1366,7 @@ encontrando.
     mentalidad estrecha son las que se felicitan por su tolerancia y su
     apertura de miras.
 
-* [[https://es.wikipedia.org/wiki/Zhuangzi][Chuang Tse (o Zhuangzi)]]
+* [[https://es.wikipedia.org/wiki/Zhuangzi][Chuang Tse (o Zhuangzi) (siglo IV a. C.)]]
   + Anoche soñé que era una mariposa. Iba de acá para allá, revoloteando
     feliz y a mis anchas, sin saber que era yo. De repente, me desperté,
     me toqué: era yo. Pero ¿fui yo quien soñó una mariposa o es ahora
@@ -2166,6 +2166,10 @@ encontrando.
     cultura.
   + La ventaja de tener mala memoria es que se goza muchas veces con las
     mismas cosas.
+  + Lo que distingue a las cabezas verdaderamente originales no es que
+    sean las primeras en ver algo nuevo, sino el ver como nuevo lo que
+    es viejo, conocido desde hace mucho tiempo, visto y pasado por alto
+    por todo el mundo.
   + Lo que mucho ocupa termina por preocupar.
   + Lo que no nos mata nos hace más fuertes.
   + Los hombres activos ruedan, como rueda una piedra, conforme a la
@@ -2390,7 +2394,7 @@ encontrando.
   + Hay una trémula primavera en cada invierno del corazón, y un
     sonriente amanecer se esconde tras el velo de cada noche.
   + La tortuga puede hablar más del camino que la liebre.
-  + Me consideran loco porque no quiero vender mis días por oro. Y yo
+  + Me consideran loco porque no vendo mis días por oro. Y yo
     los considero locos porque creen que mis días tienen precio.
   + No se puede llegar al alba sino por el sendero de la noche.
   + Por muy larga que sea la tormenta, el sol siempre vuelve a brillar
@@ -4439,8 +4443,7 @@ encontrando.
     cosas cuando dependen de muchos.
   + Quien controla el miedo de la gente, se convierte en el amo de sus
     almas.
-  + Todos los hombres verán lo que pareces ser; sólo unos pocos sabrán
-    quién eres.
+  + Todos ven lo que aparentas, pero pocos sienten lo que eres.
 
 * [[https://es.wikipedia.org/wiki/Nikol%C3%A1i_G%C3%B3gol][Nikolái Gógol (1809-1852)]]
   + Se deben leer muchos libros para darse cuenta de lo poco que uno
@@ -4764,8 +4767,8 @@ encontrando.
     la alegría.
   + Hacer preguntas es prueba de que se piensa.
   + Leemos mal el mundo y decimos luego que nos engaña.
-  + Si lloras por haber perdido el sol, las lágrimas no te dejarán ver
-    las estrellas.
+  + Si lloras de noche porque has perdido el sol, las lágrimas no te
+    dejarán ver las estrellas.
   + Tengo mi propia versión del optimismo. Si no puedo cruzar una
     puerta, cruzaré otra o haré otra puerta. Algo maravilloso vendrá, no
     importa lo oscuro que esté el presente.
