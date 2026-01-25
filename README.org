@@ -14,9 +14,8 @@ Este libro contiene una recopilación de pensamientos con los que me voy
 encontrando.
 
 * [[https://es.wikipedia.org/wiki/Aaron_Swartz][Aaron Swartz (1986-2013)]]
-  + Sean curiosos. Lean mucho y sobre diversos temas. Prueben cosas
-    nuevas. Creo que gran parte de lo que la gente llama inteligencia se
-    reduce a la curiosidad.
+  + Sé curioso. Lee de todo. Prueba cosas nuevas. Creo que mucho de lo
+    que la gente llama inteligencia se reduce a la curiosidad.
 
 * [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln (1809-1865)]]
   + Es más fácil reprimir el primer capricho que satisfacer a todos los
@@ -396,8 +395,8 @@ encontrando.
     te suban, que te saquen del pozo. Hay que inventar la vida porque
     acaba siendo verdad.
 
-* [[https://es.wikipedia.org/wiki/Ana%C3%AFs_Nin][Anais Nin]]
-  + No vemos jamás las cosas tal cual son, las vemos tal cual somos.
+* [[https://es.wikipedia.org/wiki/Ana%C3%AFs_Nin][Anaïs Nin (1903-1977)]]
+  + No vemos las cosas como son, sino como somos nosotros.
 
 * [[https://en.wikipedia.org/wiki/Anatole_France][Anatole France (1844-1924)]]
   + La vida nos enseña que no podemos ser felices sino al precio de
@@ -1403,7 +1402,7 @@ encontrando.
     repetición frecuente, porque la familiaridad no se distingue
     fácilmente de la verdad.
 
-* [[https://es.wikipedia.org/wiki/Cicer%C3%B3n][Cicerón (-106, -43)]]
+* [[https://es.wikipedia.org/wiki/Cicer%C3%B3n][Cicerón (106-43 a.C.)]]
   + Ciertamente, la ignorancia de los males venideros nos es más útil
     que su conocimiento.
   + Cualquier hombre puede cometer errores, pero sólo un idiota persiste
@@ -1422,6 +1421,7 @@ encontrando.
   + No hay ventaja alguna en conocer el futuro; al contrario, es
     doloroso atormentarse sin provecho.
   + No me da vergüenza confesar que soy ignorante de lo que no sé.
+  + Nunca estoy menos solo que cuando estoy solo.
   + Pensar es como vivir dos veces.
   + ¿Qué cosa más grande que tener a alguien con quien te atrevas a
     hablar como contigo mismo?
@@ -2123,6 +2123,13 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Franz_Schubert][Franz Schubert]]
   + Cuando uno se inspira en algo bueno, la música nace con fluidez, las
     melodías brotan; realmente esto es una gran satisfacción.
+
+* [[https://es.wikipedia.org/wiki/Luis_de_Le%C3%B3n][Fray Luis de León (1527-1591)]]
+  + ¡Qué descansada vida                       \\
+    la del que huye del mundanal ruido,        \\
+    y sigue la escondida                       \\
+    senda, por donde han ido                   \\
+    los pocos sabios que en el mundo han sido!
 
 * [[https://es.wikipedia.org/wiki/Frederick_Brooks][Frederick Brooks]]
   + Las buenas decisiones se adquieren con la experiencia, y la
@@ -4906,6 +4913,8 @@ encontrando.
   + Pensad antes de obrar y no comencéis nada sin haber consultado las
     circunstancias bien a fondo.
   + Todo lo complejo puede dividirse en partes simples.
+  + Vivir sin filosofar es, propiamente, tener los ojos cerrados, sin
+    tratar de abrirlos jamás.
 
 * [[https://es.wikipedia.org/wiki/Richard_Bach][Richard Bach]]
   + Si tu felicidad depende de lo que hagan los demás, supongo que
@@ -5168,7 +5177,7 @@ encontrando.
     se apagan.
   + La atención es la más rara y pura forma de generosidad.
 
-* [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates (-479, -399)]]
+* [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates (479-399 a.C.)]]
   + Con cordura y buen humor, la vejez es soportable; pero con un
     carácter opuesto, lo mismo la vejez que la juventud son
     desgraciadas.
@@ -5194,6 +5203,7 @@ encontrando.
     la juventud y la edad son igualmente una carga.
   + Sólo hay un bien: el conocimiento. Sólo hay un mal: la ignorancia.
   + Ten cuidado con el vacío de una vida muy ocupada.
+  + Una vida sin examen no merece ser vivida.
 
 * [[https://en.wikipedia.org/wiki/Sod%C5%8D_Yokoyama][Sodo Yokoyama]]
   + Decide que estés donde estés, es el mejor lugar que existe. Una vez
