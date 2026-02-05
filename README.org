@@ -943,6 +943,9 @@ encontrando.
   + El hombre libre, el hombre de ánimo fuerte, no odia a nadie, no se
     irrita con nadie, a nadie envidia, contra nadie se indigna, no
     siente desprecio por nadie y no experimenta la menor soberbia.
+  + Los hombres se equivocan al creerse libres, opinión que obedece al
+    solo hecho de que son conscientes de sus acciones e ignorantes de
+    las causas que las determinan.
   + Me he esmerado en no ridiculizar ni lamentar ni detestar las
     acciones humanas, sino en entenderlas.
   + No me arrepiento de nada. El que se arrepiente de lo que ha hecho es
@@ -2151,10 +2154,10 @@ encontrando.
     plenitud del espíritu, se prueba por el escepticismo. Los hombres de
     convicción no cuentan para las cuestiones fundamentales de
     valor. Las convicciones son cárceles.
-  + El individuo ha luchado siempre para no ser absorbido por la
-    tribu. Si lo intentas, a menudo estarás solo, y a veces
+  + El individuo siempre ha tenido que luchar para no ser absorbido por
+    la tribu. Si lo intentas, a menudo estarás solo y, a veces,
     asustado. Pero ningún precio es demasiado alto por el privilegio de
-    ser uno mismo.
+    ser dueño de uno mismo.
   + Es más cómodo obedecer a la conciencia que a la razón; la conciencia
     halla en sí misma una excusa y un aliento. Por eso hay aún tantas
     personas concienzudas y tan pocas personas razonables.
@@ -2390,8 +2393,8 @@ encontrando.
   + El ayer no es más que el recuerdo de hoy, y el mañana es el sueño de
     hoy.
   + El olvido es una forma de libertad.
-  + El optimista ve la rosa y no sus espinas; el pesimista mira las
-    espinas, ajeno a la rosa.
+  + El optimista ve la rosa y no sus espinas; el pesimista clava la
+    mirada en las espinas, ajeno a la rosa.
   + En cada invierno del corazón hay una trémula primavera, y tras el
     velo de cada noche se esconde un sonriente amanecer.
   + En el corazón de todos los inviernos vive una primavera palpitante,
@@ -2617,6 +2620,7 @@ encontrando.
     adora en plenitud de dicha.
   + Saber envejecer es la mayor de las sabidurías y uno de los más
     difíciles capítulos del gran arte de vivir.
+  + Un paisaje es un estado del alma.
   + Vivimos mientras nos renovamos.
   + ¿Qué es un espíritu cultivado? Es el que puede mirar las cosas desde
     muchos puntos de vista.
@@ -2680,6 +2684,8 @@ encontrando.
     comprobar el sabor del arándano, pues no probaréis sólo la virtud de
     una baya insignificante sino el sabor de vuestra vida en ese punto,
     y será un jugo que no puede comprarse con todo el oro del mundo.
+  + Si alguien no marcha al mismo paso que sus compañeros, tal vez es
+    que escucha un tambor distinto.
   + Yo diría que todos los acontecimientos memorables ocurren por la
     mañana y en una atmósfera matinal.
 
@@ -2709,6 +2715,10 @@ encontrando.
 * [[https://bit.ly/3fSs4RM][Henry Moore]]
   + No hay jubilación para un artista; el arte es una forma de vida y
     como tal no tiene fin.
+
+* [[https://es.wikipedia.org/wiki/Herbert_Marcuse][Herbert Marcuse (1898-1979)]]
+  + La libre elección de amos no suprime ni a los amos ni a los
+    esclavos.
 
 * [[https://es.wikipedia.org/wiki/Herbert_Alexander_Simon][Herbert Simon (1916-2001)]]
   + El exceso de información genera escasez de atención.
@@ -2780,7 +2790,7 @@ encontrando.
   + Es más fácil embaucar a una multitud que a un solo hombre.
   + Tu estado de ánimo es tu destino.
 
-* [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso (-535, -480)]]
+* [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso (535-480 a.C.)]]
   + Día a día, lo que eliges, lo que piensas y lo que haces es en lo que
     te conviertes.
   + El buen carácter no se forma en una semana o un mes. Se crea poco a
@@ -2788,8 +2798,8 @@ encontrando.
     desarrollar un buen carácter.
   + La enfermedad hace agradable la salud; el hambre la saciedad; la
     fatiga el reposo.
-  + Ningún hombre pisa dos veces el mismo río, porque no es el mismo río
-    y él no es el mismo hombre.
+  + Nadie se baña dos veces en el mismo río, pues nunca es el mismo río
+    y nunca es el mismo hombre.
   + No hay nada permanente excepto el cambio.
   + Todo cambia, nada es.
 
@@ -4116,7 +4126,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Mark_Twain][Mark Twain (1835-1910)]]
   + Buenos amigos, buenos libros y tener una conciencia tranquila: esta
     es la vida ideal.
-  + Cada vez que se encuentre usted del lado de la mayoría, es tiempo de
+  + Cada vez que te encuentres del lado de la mayoría, es momento de
     hacer una pausa y reflexionar.
   + Dale a cada día la oportunidad de convertirse en el mejor día de tu
     vida.
@@ -4482,6 +4492,9 @@ encontrando.
   + Cuando estoy de acuerdo con todos sospecho que estoy equivocado.
   + Cuanto más conservadoras son las ideas, más revolucionarios los
     discursos.
+  + El egoísmo no es vivir como uno desea vivir, es pedir a los demás
+    que vivan como uno desea vivir. Y la generosidad consiste en dejar
+    tranquila la vida de los demás, sin interferir en ella.
   + El trabajo es el refugio de los que no tienen nada que hacer.
   + El único amor consecuente, fiel, comprensivo, que todo perdona, que
     nunca nos defrauda y que nos acompaña hasta la muerte es el amor
@@ -5231,12 +5244,13 @@ encontrando.
   + La fuente más común de la desesperación es no ser quien eres.
   + La gente exige la libertad de expresión como una compensación por la
     libertad de pensamiento, que rara vez utilizan.
+  + La ironía es la agudeza que libera al espíritu.
   + La minoría siempre es más fuerte que la mayoria, porque la minoría
     generalmente está formada por quienes realmente tienen una opinión.
   + La tarea se debe plantear difícil, pues sólo la dificultad inspira a
     los nobles de corazón.
-  + La vida sólo puede ser comprendida hacia atrás, pero únicamente
-    puede ser vivida hacia adelante, o sea hacia algo que no existe.
+  + La vida solo puede ser comprendida hacia atrás, pero debe ser vivida
+    hacia adelante.
   + Lo veo todo perfectamente; Hay dos situaciones posibles: se puede
     hacer esto o aquello. Mi opinión honesta y mi consejo amistoso es
     este: hazlo o no lo hagas, te arrepentirás de ambos.
@@ -5343,10 +5357,10 @@ encontrando.
   + No digas lo que quieres hacer para que no se burlen de ti, si no
     completas tu resolución.
 
-* [[https://es.wikipedia.org/wiki/Terencio][Terencio (-185, -159)]]
+* [[https://es.wikipedia.org/wiki/Terencio][Terencio (185-159 a.C.)]]
   + Cuando no se puede lograr lo que se quiere, mejor cambiar de
     actitud.
-  + Hombre soy y nada humano me es ajeno (/Homo sum; humani nihil a me
+  + Hombre soy; nada humano me es ajeno (/Homo sum; humani nihil a me
     alterum puto/).
   + Una buena regla para la vida es no ser demasiado adicto a una sola
     ocupación.
