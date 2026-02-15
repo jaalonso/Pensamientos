@@ -1387,6 +1387,8 @@ encontrando.
     Continúa con facilidad y estarás en lo correcto.                     \\
     El modo correcto de ir con facilidad es olvidarse del modo correcto. \\
     Y olvidarse de que el ir es fácil.                                   \\
+  + Los hombres conocen la utilidad de lo útil, pero no conocen la
+    utilidad de lo inútil.
   + Caminando se hace el camino, y a las cosas dándoles un nombre.
   + Saber que hay cosas que no se pueden saber es la cumbre del saber.
   + Todo el universo se rinde ante una mente en calma.
@@ -1868,6 +1870,8 @@ encontrando.
     sana.
   + La creatividad requiere tener el valor de desprenderse de las
     certezas.
+  + La historia humana comenzó con un acto de desobediencia y es muy
+    probable que termine con un acto de obediencia.
   + La tarea psíquica que una persona puede y debe establecer por sí
     misma no es sentirse segura, sino ser capaz de tolerar la
     inseguridad.
@@ -5497,6 +5501,9 @@ encontrando.
     como se vive.
 
 * [[https://es.wikipedia.org/wiki/Viktor_Frankl][Viktor Frankl (1905-1997)]]
+  + Al hombre se le puede arrebatar todo salvo una cosa: la última de
+    las libertades humanas —la elección de la actitud personal ante un
+    conjunto de circunstancias— para decidir su propio camino.
   + Cuando no podemos cambiar la situación a la que nos enfrentamos, el
     reto consiste en cambiarnos a nosotros.
   + Cuestionar el sentido de la vida es la expresión más auténtica del
