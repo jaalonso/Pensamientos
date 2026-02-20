@@ -952,6 +952,7 @@ encontrando.
     las causas que las determinan.
   + Me he esmerado en no ridiculizar ni lamentar ni detestar las
     acciones humanas, sino en entenderlas.
+  + No hay esperanza sin miedo, ni miedo sin esperanza.
   + No me arrepiento de nada. El que se arrepiente de lo que ha hecho es
     doblemente miserable.
   + Nosotros no nos esforzamos, queremos, apetecemos ni deseamos algo
@@ -2227,6 +2228,8 @@ encontrando.
     no se sabe.
 
 * [[https://es.wikipedia.org/wiki/G._K._Chesterton][G.K. Chesterton (1874-1936)]]
+  + El loco no es el hombre que ha perdido la razón. El loco es el
+    hombre que lo ha perdido todo, excepto la razón.
   + La única educación posible es esta: estar lo bastante seguro de una
     cosa para atreverse a decírsela a un niño.
   + Las cosas que vemos todos los días son las cosas que nunca vemos.
@@ -3042,6 +3045,7 @@ encontrando.
     la suma de sus elecciones previas.
   + Cuando los ricos se hacen la guerra, son los pobres los que mueren.
   + Deberíamos adquirir el coraje de no ser como todo el mundo.
+  + El hombre está condenado a ser libre.
   + Existe mucha gente en el mundo que está en un infierno porque
     depende excesivamente del juicio de los demás.
   + Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.
@@ -3475,6 +3479,9 @@ encontrando.
     cuestionarla, ya está filosofando.
 
 * [[https://es.wikipedia.org/wiki/Karl_Marx][Karl Marx (1818-1883)]]
+  + La religión es el suspiro de la criatura oprimida, el ánimo de un
+    mundo sin corazón, así como el espíritu de una situación carente de
+    espíritu. Es el opio del pueblo.
   + Las ideas dominantes de una época siempre fueron sólo las ideas de
     una clase dominante.
   + Los filósofos se han limitado a interpretar el mundo de distintos
@@ -5189,6 +5196,8 @@ encontrando.
     conquistarse indefinidamente.
 
 * [[https://es.wikipedia.org/wiki/Simone_Weil][Simone Weil (1909-1943)]]
+  + Echar raíces es quizá la necesidad más importante e ignorada del
+    alma humana.
   + El apego es el gran fabricante de ilusiones; la realidad solo puede
     ser alcanzada por alguien que está desapegado.
   + La alegría es una necesidad esencial del alma. La falta de alegría,
