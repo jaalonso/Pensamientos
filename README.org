@@ -824,6 +824,8 @@ encontrando.
     intelectuales una doble ventaja: primero, le proporciona la
     posibilidad de estar consigo mismo; y, segundo, la de no estar con
     los demás.
+  + La vida oscila como un péndulo entre el sufrimiento y el
+    aburrimiento.
   + Lo que más odia el rebaño es aquel que piensa de modo distinto; no
     es tanto la opinión en sí, sino la osadía de querer pensar por si
     mismo, algo que ellos no saben hacer.
@@ -3338,6 +3340,7 @@ encontrando.
     más fuerte casi, desgraciadamente que el altruismo, que el amor, que
     la bondad. El miedo nos lo están dando todos los días en los medios
     de comunicación.
+  + La felicidad es el derecho a la pereza y el deber de la alegría.
   + La mayoría de las personas no llegamos a ser lo que podríamos
     ser. Porque el desarrollo no es ser tanto o mejor que los otros,
     sino todo lo que uno pueda llegar a ser. Casi nadie, yo el primero,
@@ -3529,7 +3532,7 @@ encontrando.
   + La ventaja de ser inteligente es que así resulta más fácil pasar por
     tonto. Lo contrario es mucho más difícil.
 
-* [[https://es.wikipedia.org/wiki/Lao-Tse][Lao-Tse (siglo VI a.n.e.)]]
+* [[https://es.wikipedia.org/wiki/Lao-Tse][Lao-Tse (siglo VI a.C.)]]
   + Deja de pensar, y termina con tus problemas.
   + Conocer a los demás es inteligencia; conocerte a ti mismo es la
     verdadera sabiduría. Dominar a otros es fuerza; el dominio de sí
@@ -3553,6 +3556,8 @@ encontrando.
     mientras son pequeñas. El agua es suave y dócil. Pero mina y corroe lo
     duro. En el vencimiento de lo duro, ella no tiene iguales. Lo suave
     y lo tierno vencen a lo duro y lo grosero.
+  + La felicidad más grande no consiste en poseer lo que deseas, sino en
+    desear lo que ya posees.
   + La mente tiende a la quietud, pero la ansiedad se le opone.
   + La vida es una serie de cambios naturales y espontáneos. No te
     resistas a ellos, eso sólo crea tristeza. Deja que la realidad sea
@@ -3584,6 +3589,9 @@ encontrando.
   + Sólo quien sabe cuándo es suficiente tendrá siempre bastante.
   + ¿Tienes la paciencia de esperar hasta que el lodo se asiente y el
     agua esté clara?
+  + Todos los seres florecen, pero cada uno retorna a su raíz. Retornar
+    a la raíz es hallar el reposo. Hallar el reposo es cumplir el
+    destino
   + Un viaje de mil millas comienza con un solo paso.
   + Vigila tus pensamientos, se convierten en tus palabras; vigila tus
     palabras, se convierten en tus acciones; vigila tus acciones, se
@@ -3740,7 +3748,7 @@ encontrando.
 * [[https://twitter.com/ramalhoorg?lang=es][Luciano Ramalho]]
   + La abstracción prematura es tan mala como la optimización prematura.
 
-* [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca (-4, 65)]]
+* [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca (c. 4 a.C. – 65 d.C.)]]
   + Atribuimos al lugar y al tiempo algunos de nuestros defectos, mas
     éstos a cualquier sitio que nos traslademos nos han de acompañar.
   + Brevísima y agitadísima es la vida de aquellos que olvidan el
@@ -3809,6 +3817,9 @@ encontrando.
     la creencia de que lo mejor es lo aceptado por consentimiento de
     muchos, y el seguir los ejemplos más numerosos, rigiéndonos, no por
     la razón, sino por la imitación de los demás.
+  + Nadie es más esclavo que aquel que se cree libre sin serlo, o aquel
+    que busca en las riquezas el remedio para su pobreza de espíritu. El
+    oro y la plata no nos hacen mejores; solo nos hacen más visibles.
   + No es la dificultad lo que impide que nos arriesguemos, sino que
     toda la dificultad viene de no arriesgarnos.
   + No es pobre el que tiene poco, sino el que ambiciona más.
