@@ -126,14 +126,15 @@ encontrando.
     grande. Consiste en impedir que el mundo se deshaga.
   + El silencio es la conversación de las personas que se quieren. Lo
     que cuenta no es lo que se dice, sino lo que no es necesario decir.
-  + En la profundidad del invierno finalmente aprendí que había en mí un
-    verano invencible.
+  + En medio del invierno, aprendí por fin que había en mí un verano
+    invencible.
   + Envejecer es pasar de la pasión a la compasión.
   + Inocente es quien no necesita explicarse.
   + La gente nunca está convencida de tus razones, de tu sinceridad, de
     tu seriedad o tus sufrimientos, salvo si te mueres.
   + La vida es una suma de todas tus elecciones. Entonces, ¿qué estás
     haciendo hoy?
+  + Me rebelo, luego somos.
   + Nadie se da cuenta de que algunas personas gastan una enorme energía
     simplemente para ser normales.
   + No ser nada para ser algo.
@@ -501,6 +502,9 @@ encontrando.
     irrita al cerdo.
 
 * [[https://es.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry][Antoine de Saint-Exupéry (1900-1944)]]
+  + Amar no es mirarse el uno al otro; es mirar juntos en la misma
+    dirección.
+  + El lenguaje es fuente de malentendidos.
   + El sentido de las cosas no está en las cosas mismas, sino en nuestra
     actitud hacia ellas.
   + El fracaso fortifica a los fuertes.
@@ -630,6 +634,8 @@ encontrando.
     madres os pudieran aconsejar: “Toma el volante, niño, porque estoy
     viendo que tu papá nos va a estrellar a todos -de una vez- en la
     cuneta del camino.
+  + La República no es un fin, sino un medio para que España recobre su
+    pulso y su fe en sí misma.
   + La verdad del hombre empieza donde acaba su propia tontería, pero la
     tontería del hombre es inagotable.
   + Las razones no se transmiten, se engendran, por cooperación, en el
@@ -709,6 +715,9 @@ encontrando.
   + Es ignorancia no saber distinguir entre lo que necesita demostración
     y lo que no la necesita.
   + La esperanza es el sueño del hombre despierto.
+  + La excelencia moral es producto del hábito. Llegamos a ser justos
+    practicando la justicia, moderados practicando la moderación,
+    valientes practicando la valentía.
   + La felicidad es de quienes se bastan a sí mismos.
   + La habilidad de exponer una idea es tan importante como la idea en
     sí misma.
@@ -748,6 +757,8 @@ encontrando.
   + Cada nación se burla de las otras, y todas tienen razón.
   + Cada uno toma los límites de su propia visión como los límites del
     mundo.
+  + Cada uno ve en el otro solo aquello que él mismo es, pues solo puede
+    comprenderlo y entenderlo en la medida de su propia inteligencia.
   + Casi todas nuestras penas surgen de nuestras relaciones con los
     demás. No hay camino más equivocado hacia la felicidad que la
     mundanidad.
@@ -868,6 +879,7 @@ encontrando.
   + Sufrimos al no obtener lo que deseamos y, si lo obtenemos, nos
     aburre inmediatamente; nuestra vida oscila entre el deseo, el dolor
     y el tedio.
+  + Toda queja es, en el fondo, una acusación contra uno mismo.
   + Toda verdad pasa por tres etapas. Primero, es ridiculizada. En
     segundo lugar, se le opone violentamente. En tercer lugar, se acepta
     como evidente por sí misma.
@@ -947,6 +959,9 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Baruch_Spinoza][Baruch Spinoza (1632-1677)]]
   + La actividad más importante que un ser humano puede lograr es
     aprender para entender, porque entender es ser libre.
+  + La paz no es la ausencia de guerra, es una virtud, un estado de
+    ánimo, una disposición a la benevolencia, a la confianza y a la
+    justicia.
   + El hombre libre, el hombre de ánimo fuerte, no odia a nadie, no se
     irrita con nadie, a nadie envidia, contra nadie se indigna, no
     siente desprecio por nadie y no experimenta la menor soberbia.
@@ -1139,8 +1154,6 @@ encontrando.
     sostiene.
   + Es mucho mejor conocer algo acerca de todo, que acerca de una sola
     cosa. Lo universal es siempre mejor.
-  + He descubierto que toda la maldad humana proviene de la incapacidad
-    del ser humano de sentarse en calma en una habitación.
   + He redactado esta carta más extensa de lo usual porque carezco de
     tiempo para escribirla más breve.
   + La mayoría de los males les vienen a los hombres por no quedarse
@@ -1152,6 +1165,8 @@ encontrando.
   + No se muestra la grandeza por estar en un extremo, sino tocando los
     dos a la vez y llenando el espacio intermedio.
   + Si no actúas como piensas, vas a terminar pensando como actúas.
+  + Toda la desdicha de los hombres proviene de una sola cosa: no saber
+    permanecer en reposo en su cuarto.
   + Vale más saber alguna cosa de todo, que saberlo todo de una sola
     cosa.
   + Ya se han escrito todas las buenas máximas. Sólo falta ponerlas en
@@ -1243,6 +1258,8 @@ encontrando.
     ciertos puntos de vista.
   + Las personas podrían aprender de sus errores si no estuvieran tan
     ocupadas negándolos.
+  + Nadie aprende a vivir de verdad fantaseando con la perfección, sino
+    mirando de frente su propia realidad.
   + No soy lo que me pasó, soy lo que elijo ser.
   + Pensar es difícil. Por eso la mayoría de la gente prefiere juzgar.
   + Queremos tener certezas y no tener dudas - resultados y no
@@ -1308,6 +1325,7 @@ encontrando.
   + Hay personas que sólo se divierten en manada. El verdadero héroe se
     divierte solo.
   + La inspiración consiste en trabajar todos los días.
+  + Me parece que siempre estaría bien donde no estoy.
   + Una sucesión de pequeñas voluntades consigue un gran resultado.
   + Todo hombre sano puede pasarse dos días sin comer, pero nunca sin
     poesía.
@@ -1679,6 +1697,8 @@ encontrando.
   + Me gusta la gente sentipensante, que no separa la razón del
     corazón. Que siente y piensa a la vez. Sin divorciar la cabeza del
     cuerpo, ni la emoción de la razón.
+  + Mucha gente pequeña, en lugares pequeños, haciendo cosas pequeñas,
+    puede cambiar el mundo.
   + Quien no está preso de la necesidad, está preso del miedo: unos no
     duermen por la ansiedad de tener las cosas que no tienen, y otros no
     duermen por el pánico de perder las cosas que tienen.
@@ -1740,6 +1760,8 @@ encontrando.
     esconder su irrealidad, que todos los humanos llevan una
     máscara. Arrancársela es perderlos y perderse.
   + No juzgues a nadie sin antes haberte puesto en su lugar.
+  + Nosotros no padecemos por la falta de sentido, sino por la
+    repetición vacía de los instantes.
   + Solo he leído para buscar en las experiencias de los demás con qué
     explicar las mías. Hay que leer no para comprender al prójimo, sino
     para comprenderse uno a sí mismo.
@@ -2020,6 +2042,7 @@ encontrando.
   + No hay normas. Todos los hombres son excepciones a una regla que no
     existe.
   + Pon todo lo que eres en lo mínimo que hagas.
+  + Llevo conmigo las heridas de todas las batallas que evité.
 
 * [[https://es.wikipedia.org/wiki/Francis_Bacon][Francis Bacon (1561-1626)]]
   + La amistad duplica las alegrías y divide las angustias por la mitad.
@@ -2099,6 +2122,8 @@ encontrando.
     de su alcance.
   + No hay personas que se equivoquen con más frecuencia que las que no
     admiten que se equivocan.
+  + Nuestras virtudes no son, las más de las veces, sino vicios
+    disfrazados.
   + Ponemos más interés en hacer creer a los demás que somos felices que
     en tratar de serlo.
 
@@ -2166,10 +2191,8 @@ encontrando.
     plenitud del espíritu, se prueba por el escepticismo. Los hombres de
     convicción no cuentan para las cuestiones fundamentales de
     valor. Las convicciones son cárceles.
-  + El individuo siempre ha tenido que luchar para no ser absorbido por
-    la tribu. Si lo intentas, a menudo estarás solo y, a veces,
-    asustado. Pero ningún precio es demasiado alto por el privilegio de
-    ser dueño de uno mismo.
+  + El arte bello no es la representación de una cosa bella, sino la
+    bella representación de una cosa.
   + Es más cómodo obedecer a la conciencia que a la razón; la conciencia
     halla en sí misma una excusa y un aliento. Por eso hay aún tantas
     personas concienzudas y tan pocas personas razonables.
@@ -2179,8 +2202,6 @@ encontrando.
     saber y los que quieren creer.
   + Hay que apartar de nosotros el mal gusto de querer coincidir con
     muchos.
-  + La madurez del hombre es haber vuelto a encontrar la seriedad con la
-    que jugaba cuando era niño.
   + La persona que tiene mucha alegría es necesariamente buena: pero tal
     vez no sea la más lista, aunque consigue precisamente aquello que la
     más lista trata de conseguir con toda su listeza.
@@ -2188,28 +2209,47 @@ encontrando.
     cultura.
   + La ventaja de tener mala memoria es que se goza muchas veces con las
     mismas cosas.
+  + La vida es cien veces más corta de lo que sería necesario para que
+    nos aburramos en ella.
+  + Las convicciones son enemigas de la verdad más peligrosas que las
+    mentiras.
+  + Las verdades son ilusiones de las que se ha olvidado que lo son;
+    metáforas que se han vuelto gastadas y sin fuerza sensible, monedas
+    que han perdido su troquelado y que no son consideradas ahora como
+    monedas, sino como metal.
   + Lo que distingue a las cabezas verdaderamente originales no es que
     sean las primeras en ver algo nuevo, sino el ver como nuevo lo que
     es viejo, conocido desde hace mucho tiempo, visto y pasado por alto
     por todo el mundo.
+  + Lo que es grande en el hombre es que es un puente y no una meta: lo
+    que puede amarse en el hombre es que es un tránsito y un ocaso.
   + Lo que mucho ocupa termina por preocupar.
   + Lo que no nos mata nos hace más fuertes.
   + Los hombres activos ruedan, como rueda una piedra, conforme a la
     estupidez de la mecánica.
+  + Madurez del hombre: eso significa haber vuelto a encontrar la
+    seriedad que, de niño, se tenía al jugar.
   + Mi fórmula para expresar la grandeza del hombre es el /amor fati/: el
     no querer que nada sea distinto, ni hacia adelante ni hacia atrás,
     ni por toda la eternidad.
   + Mi soledad no depende de la presencia o ausencia de las personas; al
     contrario, odio a quien roba mi soledad sin, a cambio, ofrecerme
     compañía de verdad.
+  + No hay hechos, sino interpretaciones.
+  + ¡Qué poco se necesita para la felicidad! El sonido de una gaita. —
+    Sin música, la vida sería un error. El alemán se imagina a Dios
+    cantando canciones.
   + Quien con monstruos lucha cuide de no convertirse a su vez en
     monstruo. Cuando miras largo tiempo a un abismo, el abismo también
     mira dentro de ti.
   + Quien no dispone de dos tercios del día para sí mismo es un esclavo.
   + Quien se sabe profundo, se esfuerza por ser claro; quien desea
     parecer profundo a la gran masa, se esfuerza por ser oscuro.
+  + Quien tiene un porqué para vivir, puede soportar casi cualquier
+    cómo.
   + Se puede vivir y vivir felizmente sin recordar, pero es imposible
     vivir sin olvidar.
+  + Todo va, todo vuelve; eternamente rueda la rueda del ser.
   + Trata a un hombre tal como es, y seguirá siendo lo que es; trátalo
     como puede y debe ser, y se convertirá en lo que puede y debe ser.
 
@@ -2807,14 +2847,17 @@ encontrando.
   + Es más fácil embaucar a una multitud que a un solo hombre.
   + Tu estado de ánimo es tu destino.
 
-* [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso (535-480 a.C.)]]
+* [[https://es.wikipedia.org/wiki/Her%C3%A1clito][Heráclito de Éfeso (c. 535 – c. 475 a.C.)]]
   + Día a día, lo que eliges, lo que piensas y lo que haces es en lo que
     te conviertes.
   + El buen carácter no se forma en una semana o un mes. Se crea poco a
     poco, día a día. Se necesita un esfuerzo prolongado y paciente para
     desarrollar un buen carácter.
+  + En los mismos ríos entramos y no entramos, pues somos y no somos.
   + La enfermedad hace agradable la salud; el hambre la saciedad; la
     fatiga el reposo.
+  + Lo contrapuesto concuerda, y de los discordantes se forma la más
+    bella armonía.
   + Nadie se baña dos veces en el mismo río, pues nunca es el mismo río
     y nunca es el mismo hombre.
   + No hay nada permanente excepto el cambio.
@@ -3040,6 +3083,7 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Jean-Jacques_Rousseau][Jean-Jacques Rousseau (1712-1778)]]
   + Cada día veo más claro que todo lo que no aporta nada al alma no es
     digno de ocupar el tiempo.
+  + El hombre nace libre, pero en todas partes se encuentra encadenado.
   + Es una previsión muy necesaria comprender que no es posible preverlo
     todo.
   + Es verdaderamente libre aquel que desea solamente lo que es capaz de
@@ -3053,13 +3097,20 @@ encontrando.
   + Cuando los ricos se hacen la guerra, son los pobres los que mueren.
   + Deberíamos adquirir el coraje de no ser como todo el mundo.
   + El hombre está condenado a ser libre.
+  + El hombre no es más que lo que se hace.
   + Existe mucha gente en el mundo que está en un infierno porque
     depende excesivamente del juicio de los demás.
   + Felicidad no es hacer lo que uno quiere sino querer lo que uno hace.
+  + La nada es la presencia de una ausencia.
   + Lo que hace o deshace a un hombre no es lo que la gente piensa de
     él, sino lo que él piensa de sí mismo.
+  + No importa lo que hicieron de nosotros, sino lo que hacemos con lo
+    que hicieron de nosotros.
   + Si te sientes solo cuando estás solo, estás mal acompañado.
   + Somos nuestras elecciones.
+  + Un hombre es siempre un narrador de historias; vive rodeado de sus
+    historias y de las historias ajenas, ve todo lo que le sucede a
+    través de ellas; y trata de vivir su vida como si la contara.
 
 * [[https://es.wikipedia.org/wiki/Jeff_Lindsay][Jeff Lindsay]]
   + La clave de una vida feliz es alcanzar metas de las que te sientas
@@ -3485,10 +3536,16 @@ encontrando.
     dónde quiere ir. Todos nosotros necesitamos reconquistarnos
     constantemente de nuevo. En lugar de decidir, rodamos por la vida.
   + En filosofía son más esenciales las preguntas que las respuestas.
+  + Filosofía quiere decir: ir de camino. Sus preguntas son más
+    esenciales que sus respuestas y toda respuesta se convierte en una
+    nueva pregunta.
   + Incluso quien la rechaza no puede evitar hacer filosofía. Pues al
     cuestionarla, ya está filosofando.
 
 * [[https://es.wikipedia.org/wiki/Karl_Marx][Karl Marx (1818-1883)]]
+  + El trabajador se convierte en una mercancía tanto más barata cuantas
+    más mercancías crea. La desvalorización del mundo humano crece en
+    razón directa a la valorización del mundo de las cosas.
   + La religión es el suspiro de la criatura oprimida, el ánimo de un
     mundo sin corazón, así como el espíritu de una situación carente de
     espíritu. Es el opio del pueblo.
@@ -3534,9 +3591,7 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Lao-Tse][Lao-Tse (siglo VI a.C.)]]
   + Deja de pensar, y termina con tus problemas.
-  + Conocer a los demás es inteligencia; conocerte a ti mismo es la
-    verdadera sabiduría. Dominar a otros es fuerza; el dominio de sí
-    mismo es verdadero poder.
+  + Conocer a otros es inteligencia, conocerse a sí mismo es sabiduría.
   + Conténtate con lo que tienes; alégrate de cómo son las cosas. Cuando
     te das cuenta de que no te falta nada, el mundo entero te
     pertenecerá.
@@ -3748,7 +3803,7 @@ encontrando.
 * [[https://twitter.com/ramalhoorg?lang=es][Luciano Ramalho]]
   + La abstracción prematura es tan mala como la optimización prematura.
 
-* [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca (c. 4 a.C. – 65 d.C.)]]
+* [[https://es.wikipedia.org/wiki/S%C3%A9neca][Lucio Anneo Séneca (4 a.C. – 65 d.C.)]]
   + Atribuimos al lugar y al tiempo algunos de nuestros defectos, mas
     éstos a cualquier sitio que nos traslademos nos han de acompañar.
   + Brevísima y agitadísima es la vida de aquellos que olvidan el
@@ -3791,6 +3846,7 @@ encontrando.
     los necesitáramos sino porque los teníamos.
   + Importa mucho más lo que tú piensas de ti mismo que lo que los otros
     opinen de ti.
+  + La filosofía no consiste en palabras, sino en obras.
   + La mayor rémora de la vida es la espera del mañana y la pérdida del
     día de hoy.
   + La recompensa de una buena acción está en haberla hecho.
@@ -3826,7 +3882,7 @@ encontrando.
   + No es posible que viva feliz quien no dirige sus ojos más que a sí
     mismo y todo lo refiere a la propia utilidad.
   + No es que tengamos poco tiempo, sino que desperdiciamos mucho. La
-    vida, si sabes usarla, es larga.
+    vida es larga si sabes usarla.
   + No está en ningún lugar quien está en todas partes.
   + No hay dicha en poseer algo valioso, a menos que tengas con quien
     compartirlo.
@@ -3844,6 +3900,8 @@ encontrando.
   + Para Epicuro son dos los bienes de que está compuesta la suprema
     felicidad: la ausencia de dolor en el cuerpo y de perturbación en el
     espíritu.
+  + Para quien no sabe a qué puerto se dirige, ningún viento le es
+    favorable.
   + Para ser felices se necesita eliminar dos cosas: el temor a un mal
     futuro y el recuerdo de un mal pasado.
   + Pesa las opiniones, no las cuentes.
@@ -3995,6 +4053,9 @@ encontrando.
     primero hay que aprender muchas cosas antes de poder juzgar la
     acción de otro con conocimiento.
   + Acuérdate de esto siempre: para vivir felizmente basta con muy poco.
+  + Al amanecer, cuando te dé pereza despertar, di para tus adentros:
+    'Me levanto para hacer el trabajo de un hombre'. ¿Voy a seguir
+    quejándome por tener que hacer aquello para lo que he nacido?
   + Comenzar es la mitad del trabajo, comienza nuevamente con la mitad
     restante, y habrás terminado.
   + Cuando te levantes por la mañana, piensa en el privilegio de vivir:
@@ -4005,7 +4066,7 @@ encontrando.
     afanosamente las hubieras buscado si no las tuvieras.
   + Deberás de convertirte en un anciano con la suficiente antelación si
     deseas ser un viejo mucho tiempo.
-  + El alma se tiñe del color de los pensamientos.
+  + El alma se tiñe del color de sus pensamientos.
   + El que vive en armonía consigo mismo vive en armonía con el
     Universo.
   + El talento, si no nacemos con él, se vuelve algo imposible de
@@ -4200,10 +4261,10 @@ encontrando.
   + Aunque mañana fuera el día del fin del mundo, yo plantaría manzanos
     en el día de hoy.
 
-* [[https://es.wikipedia.org/wiki/Martin_Luther_King][Martin Luther King]]
+* [[https://es.wikipedia.org/wiki/Martin_Luther_King][Martin Luther King (1929-1968)]]
   + Nada en el mundo es más peligroso que la ignorancia sincera y la
     estupidez concienzuda.
-  + Nuestras vidas empiezan a terminar el día que guardamos silencio
+  + Nuestras vidas comienzan a terminar el día en que guardamos silencio
     sobre las cosas que importan.
 
 * [[https://es.wikipedia.org/wiki/Mary_Shelley][Mary Shelley]]
@@ -4227,6 +4288,10 @@ encontrando.
   + El silencio es el sol que madura los frutos del alma.
   + La desesperanza está fundada en lo que sabemos, que es nada. Y la
     esperanza sobre lo que ignoramos, que es todo.
+
+* [[https://es.wikipedia.org/wiki/Maurice_Merleau-Ponty][Maurice Merleau-Ponty (1908-1961)]]
+  + El lenguaje vive del silencio; el silencio es el fondo sobre el cual
+    se recorta la palabra.
 
 * [[https://es.wikipedia.org/wiki/Max_Aub][Max Aub (1903-1972)]]
   + Siempre se puede escoger. Uno escoge siempre. Aunque no
@@ -4283,6 +4348,7 @@ encontrando.
   + Nuestro deseo desprecia y abandona lo que tenemos para correr detrás
     de lo que no tenemos.
   + No hay cosa de la que tenga tanto miedo como del miedo.
+  + Saber es saber que no se sabe nada.
   + Yo no cito a otros más que para expresar mejor mi pensamiento.
   + Yo no me encuentro a mí mismo cuando más me busco. Me encuentro por
     sorpresa cuando menos lo espero.
@@ -4583,6 +4649,7 @@ encontrando.
     hacerla enseguida.
   + El propósito del arte es limpiar el polvo de la vida diaria de
     nuestras almas.
+  + Hace falta mucho tiempo para llegar a ser joven.
   + La juventud no tiene edad.
   + Pero recuerda, la única persona que te acompaña toda la vida eres tú
     mismo. ¡Mantente vivo, hagas lo que hagas!.
@@ -4599,9 +4666,11 @@ encontrando.
   + Cuando esperamos, los segundos son años y cuando recordamos, los
     años son segundos.
 
-* [[https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry][Paul Valéry]]
+* [[https://es.wikipedia.org/wiki/Paul_Val%C3%A9ry][Paul Valéry (1871-1945)]]
   + El problema de nuestros tiempos es que el futuro ya no es lo que
     era.
+  + La guerra es una masacre de gentes que no se conocen, en provecho de
+    gentes que sí se conocen pero no se masacran.
   + La política es el arte de impedir que la gente se entrometa en lo
     que le atañe.
 
@@ -4844,6 +4913,8 @@ encontrando.
     perder o ganar.
 
 * [[https://es.wikipedia.org/wiki/Rainer_Maria_Rilke][Rainer María Rilke (1875-1926)]]
+  + El amor consiste en esto: que dos soledades se protejan, se
+    delimiten y se saluden.
   + La belleza está en los detalles, en las pequeñas cosas que pasamos
     por alto.
   + La verdadera felicidad no se encuentra en la meta, sino en el camino
@@ -5050,6 +5121,9 @@ encontrando.
   + Deberíamos dedicarnos a desaprender gran parte de lo aprendido y
     aprender lo que no se nos ha enseñado.
 
+* [[https://es.wikipedia.org/wiki/Rosa_Luxemburgo][Rosa Luxemburgo (1871-1919)]]
+  + Quien no se mueve, no siente las cadenas.
+
 * [[https://es.wikipedia.org/wiki/Rosa_Montero][Rosa Montero]]
   + La insatisfacción de los humanos, ese querer siempre algo más, algo
     mejor, algo distinto, es el origen de innumerables desdichas.
@@ -5059,6 +5133,12 @@ encontrando.
   + Juventud, divino tesoro, ¡ya te vas para no volver!
   + No dejes apagar el entusiasmo, virtud tan valiosa como necesaria;
     trabaja, aspira, tiende siempre hacia la altura.
+
+* [[https://es.wikipedia.org/wiki/Rudyard_Kipling][Rudyard Kipling (1865-1936)]]
+  + El individuo siempre ha tenido que luchar para no ser absorbido por
+    la tribu. Si lo intentas, a menudo estarás solo y, a veces,
+    asustado. Pero ningún precio es demasiado alto por el privilegio de
+    ser dueño de uno mismo.
 
 * [[https://es.wikipedia.org/wiki/Yalal_ad-Din_Muhammad_Rumi][Rumí (1207-1273)]]
   + Ayer era inteligente, así que quería cambiar el mundo. Hoy soy
@@ -5179,13 +5259,15 @@ encontrando.
   + Algunos hasta tal punto se refugian en la oscuridad que consideran
     confuso cuanto es luminoso
 
-* [[https://es.wikipedia.org/wiki/Shunryu_Suzuki][Shunryu Suzuki]]
+* [[https://es.wikipedia.org/wiki/Shunryu_Suzuki][Shunryu Suzuki (1904-1971)]]
   + Cuando empezamos a sentirnos ansiosos o deprimidos, en vez de
     preguntarnos "¿Qué necesito para llegar a ser feliz?" La pregunta se
     convierte en: "¿Qué estoy haciendo para perturbar la paz interior
     que ya tengo?
   + En la mente del principiante hay muchas posibilidades, pero en la
     mente del experto hay pocas.
+  + En la mente del principiante hay muchas posibilidades; en la del
+    experto, pocas.
   + Trata cada momento como si fuera el último. No es preparación para
     otra cosa.
 
@@ -5222,7 +5304,7 @@ encontrando.
     ya se trate de desgracia o simplemente de aburrimiento, es un estado
     de enfermedad en la que la inteligencia, la valentía, la generosidad
     se apagan.
-  + La atención es la más rara y pura forma de generosidad.
+  + La atención es la forma más rara y pura de generosidad.
 
 * [[https://es.wikipedia.org/wiki/S%C3%B3crates][Sócrates (479-399 a.C.)]]
   + Con cordura y buen humor, la vejez es soportable; pero con un
@@ -5270,6 +5352,13 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard][Søren Kierkegaard (1813-1855)]]
   + Afronta el hecho de ser lo que eres, porque eso es lo que cambia lo
     que eres.
+  + Es del todo cierto lo que dice la filosofía: que la vida debe
+    comprenderse hacia atrás. Pero con ello se olvida la otra
+    proposición: que debe vivirse hacia adelante; y cuanto más se medita
+    en ello, más evidente se hace que la vida en la temporalidad nunca
+    llega a ser plenamente comprensible, precisamente porque en ningún
+    momento encuentro un reposo completo desde el cual volverme hacia
+    atrás.
   + Es muy aventurado ser uno mismo. Es más fácil y seguro ser como los
     demás, convertirse en una imitación, en un número, en una cifra de
     la multitud.
@@ -5281,6 +5370,8 @@ encontrando.
   + La ironía es la agudeza que libera al espíritu.
   + La minoría siempre es más fuerte que la mayoria, porque la minoría
     generalmente está formada por quienes realmente tienen una opinión.
+  + La paciencia es necesaria; uno no puede cosechar inmediatamente allí
+    donde ha sembrado.
   + La tarea se debe plantear difícil, pues sólo la dificultad inspira a
     los nobles de corazón.
   + La vida solo puede ser comprendida hacia atrás, pero debe ser vivida
@@ -5315,6 +5406,15 @@ encontrando.
     problema. El estereotipo de un 'método científico' totalmente
     racional y objetivo, con científicos individuales como robots
     lógicos (e intercambiables), es una mitología egoísta.
+
+* [[https://es.wikipedia.org/wiki/Steve_Jobs][Steve Jobs (1955-2011)]]
+  + Tu tiempo es limitado, así que no lo malgastes viviendo la vida de
+    otro. No te dejes atrapar por el dogma, que no es más que vivir con
+    los resultados del pensamiento ajeno. No dejes que el ruido de las
+    opiniones de los demás ahogue tu propia voz interior. Y lo más
+    importante: ten el valor de seguir tu corazón y tu intuición. De
+    algún modo, ellos ya saben en qué quieres convertirte
+    verdaderamente.
 
 * [[https://es.wikipedia.org/wiki/Sun_Tzu][Sun Tzu]]
   + Cuando las órdenes son razonables, justas, sencillas, claras y
@@ -5531,17 +5631,20 @@ encontrando.
   + Al hombre se le puede arrebatar todo salvo una cosa: la última de
     las libertades humanas —la elección de la actitud personal ante un
     conjunto de circunstancias— para decidir su propio camino.
-  + Cuando no podemos cambiar la situación a la que nos enfrentamos, el
-    reto consiste en cambiarnos a nosotros.
+  + Cuando ya no somos capaces de cambiar una situación, nos encontramos
+    ante el desafío de cambiarnos a nosotros mismos.
   + Cuestionar el sentido de la vida es la expresión más auténtica del
     estado del ser humano.
   + El destino no puede ser cambiado; de lo contrario, no sería
     destino. El hombre, no obstante, puede cambiarse a sí mismo, de lo
     contrario no sería un hombre.
+  + El hombre en busca de sentido.
   + El hombre sólo puede sobrevivir cuando da una orientación a su vida,
     y en mi opinión esto es válido, no sólo respecto a la supervivencia
     del individuo sino respecto a la supervivencia de la humanidad
     entera.
+  + El humor es otra de las armas con las que el alma lucha por su
+    supervivencia.
   + La felicidad es como una mariposa. Cuanto más la persigues, más
     huye. Pero si vuelves la atención hacia otras cosas, ella viene y
     suavemente se posa en tu hombro. La felicidad no es una posada en el
@@ -5664,7 +5767,8 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/William_Butler_Yeats][William Butter Yeats (1865-1939)]]
   + La vida es una larga preparación para algo que nunca ocurre.
 
-* [[https://es.wikipedia.org/wiki/William_Faulkner][William Faulkner]]
+* [[https://es.wikipedia.org/wiki/William_Faulkner][William Faulkner (1897-1962)]]
+  + El pasado nunca está muerto. Ni siquiera ha pasado.
   + La sabiduría suprema es tener sueños bastante grandes para no
     perderlos de vista mientras se persiguen.
   + Lo más triste es que la única cosa que se puede hacer durante ocho
@@ -5805,9 +5909,13 @@ encontrando.
   + Los sabios ganan antes de luchar, mientras que los ignorantes luchan
     para ganar.
 
-* [[https://es.wikipedia.org/wiki/Zygmunt_Bauman][Zygmunt Bauman]]
+* [[https://es.wikipedia.org/wiki/Zygmunt_Bauman][Zygmunt Bauman (1925-2017)]]
   + Con nuestro culto a la satisfacción inmediata, muchos de nosotros
     hemos perdido la capacidad de esperar.
+  + En nuestro mundo, todas las ideas de felicidad tienden a acabar en
+    una tienda.
+  + La injusticia moderna consiste en disfrutar de los frutos del
+    trabajo ajeno sin tener que mirar a los ojos a quien los produjo.
   + La tolerancia absoluta de todo y para todo, es el valor
     dominante. Lo único que no se tolera en tiempos posmodernos son las
     convicciones firmes, las que no se sujetan a consenso, pues la época
