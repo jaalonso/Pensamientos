@@ -4680,6 +4680,10 @@ encontrando.
     hacerlo.
   + Yo no busco, encuentro.
 
+* [[https://es.wikipedia.org/wiki/Parm%C3%A9nides_de_Elea][Parménides de Elea (Siglo V a.C.)]]
+  + Lo que es, es; y lo que no es, no es. Este es el único camino de la
+    verdad.
+
 * [[https://es.wikipedia.org/wiki/Paul_Auster][Paul Auster]]
   + La literatura es esencialmente soledad. Se escribe en soledad, se
     lee en soledad y, pese a todo, el acto de la lectura permite una
