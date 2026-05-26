@@ -2653,6 +2653,8 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson (1859-1941)]]
   + El ojo ve sólo lo que la mente está preparada para comprender.
+  + En la práctica, no percibimos sino el pasado; el presente puro es el
+    inaprensible avance del pasado devorando el porvenir.
   + Es preciso que cambie a cada momento, porque dejar de transformarse
     es dejar de vivir.
   + Existir consiste en cambiar, cambiar en madurar, madurar en crearse
