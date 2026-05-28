@@ -4942,8 +4942,8 @@ encontrando.
     perder o ganar.
 
 * [[https://es.wikipedia.org/wiki/Rainer_Maria_Rilke][Rainer María Rilke (1875-1926)]]
-  + El amor consiste en esto: que dos soledades se protejan, se
-    delimiten y se saluden.
+  + El amor consiste en esto: en que dos soledades se protejan,
+    deslinden y se saluden.
   + La belleza está en los detalles, en las pequeñas cosas que pasamos
     por alto.
   + La verdadera felicidad no se encuentra en la meta, sino en el camino
