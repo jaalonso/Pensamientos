@@ -1135,11 +1135,6 @@ encontrando.
         felicidad.
 
 * [[https://es.wikipedia.org/wiki/Blaise_Pascal][Blaise Pascal (1623-1662)]]
-  + La costumbre es una segunda naturaleza que destruye la
-    primera. Pero ¿qué es naturaleza? ¿Por qué la costumbre no es
-    natural? Tengo mucho miedo de que esta naturaleza no sea a su vez
-    sino una primera costumbre, al igual que la costumbre es una segunda
-    naturaleza.
   + El corazón tiene razones que la razón ignora.
   + El hombre está dispuesto siempre a negar todo aquello que no
     comprende.
@@ -1150,10 +1145,17 @@ encontrando.
     cosa. Lo universal es siempre mejor.
   + He redactado esta carta más extensa de lo usual porque carezco de
     tiempo para escribirla más breve.
+  + La costumbre es una segunda naturaleza que destruye la
+    primera. Pero ¿qué es naturaleza? ¿Por qué la costumbre no es
+    natural? Tengo mucho miedo de que esta naturaleza no sea a su vez
+    sino una primera costumbre, al igual que la costumbre es una segunda
+    naturaleza.
   + La mayoría de los males les vienen a los hombres por no quedarse
     tranquilos en casa.
   + La verdadera función de la razón es mostrar al hombre que algunas
-    cosas están más allá de la razón
+    cosas están más allá de la razón.
+  + La vida humana no es más que una ilusión perpetua; no hacemos sino
+    engañarnos y adularnos mutuamente.
   + Ni la contradicción es indicio de falsedad, ni la falta de
     contradicción es indicio de verdad.
   + No se muestra la grandeza por estar en un extremo, sino tocando los
@@ -2188,6 +2190,9 @@ encontrando.
     valor. Las convicciones son cárceles.
   + El arte bello no es la representación de una cosa bella, sino la
     bella representación de una cosa.
+  + El olvido no es un simple peso muerto, como creen los superficiales:
+    es un poder activo y genuinamente positivo. Sin olvido no podría
+    haber felicidad, jovialidad, esperanza, orgullo, ni presente.
   + Es más cómodo obedecer a la conciencia que a la razón; la conciencia
     halla en sí misma una excusa y un aliento. Por eso hay aún tantas
     personas concienzudas y tan pocas personas razonables.
