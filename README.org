@@ -2350,8 +2350,9 @@ encontrando.
     formal para lograr algo grande.
   + Tened el valor de equivocaros.
 
-* [[https://es.wikipedia.org/wiki/George_Berkeley][George Berkeley]]
+* [[https://es.wikipedia.org/wiki/George_Berkeley][George Berkeley (1684-1753)]]
   + Pocos hombres piensan, pero todos tienen opiniones.
+  + Ser es ser percibido o percibir.
 
 * [[https://bit.ly/3oRRBiL][George Bernard Shaw (1856-1950)]]
   + Aprendemos de la experiencia que los hombres nunca aprenden nada de
