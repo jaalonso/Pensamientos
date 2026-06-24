@@ -4007,6 +4007,9 @@ encontrando.
     no se puede hablar, es mejor callar.
   + Los límites de mi lenguaje son los límites de mi mundo.
   + No busquéis el significado, buscad el uso.
+  + Si por eternidad se entiende no una duración temporal infinita, sino
+    la intemporalidad, entonces vive eternamente quien vive en el
+    presente.
 
 * [[https://es.wikipedia.org/wiki/Madame_Roland][Madame Roland]]
   + El mundo llama locos a quienes no afecta la locura colectiva.
