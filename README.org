@@ -3671,6 +3671,8 @@ encontrando.
   + Preocúpate por lo que otros piensen de ti y siempre serás su
     prisionero.
   + Proyecta lo difícil partiendo de donde aún es fácil.
+  + Quien conoce a los demás, posee inteligencia. Quien se conoce a sí
+    mismo, posee clarividencia.
   + Quien cree en sí mismo no tiene necesidad de convencer a los demás.
   + Quien no es feliz con poco no lo será con mucho.
   + Saber que no se sabe, eso es humildad. Pensar que uno sabe lo que no
@@ -5357,6 +5359,8 @@ encontrando.
     conquistarse indefinidamente.
 
 * [[https://es.wikipedia.org/wiki/Simone_Weil][Simone Weil (1909-1943)]]
+  + Dar lo que se sabe es la única manera de estar seguro de que se
+    sabe. El saber retenido es un saber muerto.
   + Echar raíces es quizá la necesidad más importante e ignorada del
     alma humana.
   + El apego es el gran fabricante de ilusiones; la realidad solo puede
