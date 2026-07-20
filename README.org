@@ -828,11 +828,14 @@ encontrando.
     intelectuales una doble ventaja: primero, le proporciona la
     posibilidad de estar consigo mismo; y, segundo, la de no estar con
     los demás.
+  + La soledad es el destino de todos los espíritus superiores.
   + La vida oscila, como un péndulo, de derecha a izquierda, del
     sufrimiento al aburrimiento.
   + Lo que más odia el rebaño es aquel que piensa de modo distinto; no
     es tanto la opinión en sí, sino la osadía de querer pensar por si
     mismo, algo que ellos no saben hacer.
+  + Lo que otorga al paisaje esa paz serena es el ser un mero reflejo de
+    la paz del sujeto.
   + Lo que se opone más al hallazgo de la verdad no es la falsa
     apariencia que surge de las cosas, llevando al error, ni tampoco
     inmediatamente la debilidad de la inteligencia, sino la opinión
@@ -1265,8 +1268,9 @@ encontrando.
   + Queremos tener certezas y no tener dudas - resultados y no
     experimentos - sin ver que las certezas sólo pueden surgir a través
     de la duda y los resultados sólo a través del experimento.
-  + Todo lo que nos irrita de los demás, nos puede ayudar a entendernos
-    mejor a nosotros mismos.
+  + Quien mira hacia afuera, sueña; quien mira hacia adentro, despierta.
+  + Todo aquello que nos desagrada de los demás puede conducirnos a un
+    mejor autoconocimiento.
   + Uno recuerda con aprecio a sus maestros brillantes, pero con
     gratitud a aquellos que tocaron nuestros sentimientos.
 
@@ -1468,13 +1472,13 @@ encontrando.
 * [[https://es.wikipedia.org/wiki/Clemente_de_Alejandr%C3%ADa][Clemente de Alejandría (150-215)]]
   + El mismo sol funde la cera y seca la arcilla.
 
-* [[https://bit.ly/2CRi1xN][Clorindo Testa]],
+* [[https://bit.ly/2CRi1xN][Clorindo Testa]]
   + Creo que para un pintor, para un arquitecto, la jubilación no
     existe. Uno sigue haciendo cosas mientras le salen. No las va a
     cortar así por una decisión de su voluntad; no va a quedarse con la
     mente en blanco.
 
-* [[https://es.wikipedia.org/wiki/Confucio][Confucio (-551, -479)]]
+* [[https://es.wikipedia.org/wiki/Confucio][Confucio (551-479 a.C.)]]
   + Algún dinero evita preocupaciones; mucho, las atrae.
   + Aprender sin pensar es inútil. Pensar sin aprender, peligroso.
   + Aquel que sabe cuánto basta, siempre tiene bastante.
@@ -1525,8 +1529,9 @@ encontrando.
     riña.
   + No importa lo lento que vayas, siempre y cuando no te detengas.
   + No maldigas la oscuridad, enciende una vela.
-  + Saber que se sabe lo que se sabe y que no se sabe lo que no se sabe;
-    he aquí el verdadero saber.
+  + ¿Quieres que te enseñe lo que es el conocimiento? Considerar que
+    sabes lo que sabes y que no sabes lo que no sabes: en eso consiste
+    el conocimiento.
   + Ser ofendido no es nada a menos que continúes recordándolo.
   + Si persigues dos conejos, no atrapas ninguno.
   + Solo puede ser feliz siempre el que sabe ser feliz con todo.
@@ -1538,7 +1543,9 @@ encontrando.
     tranquila, porque solamente lo que en sí es tranquilo puede dar
     tranquilidad a otros.
 
-* [[https://es.wikipedia.org/wiki/Constantino_Cavafis][Constantino Cavafis]]
+* [[https://es.wikipedia.org/wiki/Konstant%C3%ADnos_Kav%C3%A1fis][Konstantínos Kaváfis (1863-1933)]]
+  + Cuando emprendas el camino hacia Ítaca, desea que el camino sea
+    largo, lleno de aventuras, lleno de conocimientos.
   + Tu llegada allí es tu destino. Mas no apresures nunca el
     viaje. Mejor que dure muchos años y atracar, viejo ya, en la isla,
     enriquecido de cuanto ganaste en el camino.
@@ -2228,7 +2235,7 @@ encontrando.
     metáforas que se han vuelto gastadas y sin fuerza sensible, monedas
     que han perdido su troquelado y que no son consideradas ahora como
     monedas, sino como metal.
-  + Llega a ser el que eres.
+  + Llega a ser quien eres.
   + Lo que distingue a las cabezas verdaderamente originales no es que
     sean las primeras en ver algo nuevo, sino el ver como nuevo lo que
     es viejo, conocido desde hace mucho tiempo, visto y pasado por alto
@@ -2257,9 +2264,9 @@ encontrando.
   + ¡Qué poco se necesita para la felicidad! El sonido de una gaita. —
     Sin música, la vida sería un error. El alemán se imagina a Dios
     cantando canciones.
-  + Quien con monstruos lucha cuide de no convertirse a su vez en
-    monstruo. Cuando miras largo tiempo a un abismo, el abismo también
-    mira dentro de ti.
+  + Quien lucha con monstruos debe procurar que, al hacerlo, no se
+    convierta él mismo en un monstruo. Y si miras largo tiempo a un
+    abismo, el abismo mira también dentro de ti.
   + Quien no dispone de dos tercios del día para sí mismo es un esclavo.
   + Quien se sabe profundo, se esfuerza por ser claro; quien desea
     parecer profundo a la gran masa, se esfuerza por ser oscuro.
@@ -2752,6 +2759,7 @@ encontrando.
     eludirá, pero si prestas atención a otras cosas, vendrá y se sentará
     suavemente en tu hombro.
   + Las cosas no cambian; nosotros cambiamos.
+  + Lo que importa no es lo que miras, sino lo que alcanzas a ver.
   + Lo que un hombre piensa de sí mismo, esto es lo que determina, o más
     bien indica, su destino.
   + Nada beneficiará más al hombre que la firme determinación de no
@@ -3678,6 +3686,7 @@ encontrando.
     mismo, posee clarividencia.
   + Quien cree en sí mismo no tiene necesidad de convencer a los demás.
   + Quien no es feliz con poco no lo será con mucho.
+  + Quien sabe contentarse, siempre tiene bastante.
   + Saber que no se sabe, eso es humildad. Pensar que uno sabe lo que no
     sabe, eso es enfermedad.
   + Si das pescado a un hombre hambriento, le nutres una jornada. Si le
@@ -3935,8 +3944,8 @@ encontrando.
   + No está en ningún lugar quien está en todas partes.
   + No hay dicha en poseer algo valioso, a menos que tengas con quien
     compartirlo.
-  + No nos atrevemos a muchas cosas porque son difíciles, pero son
-    difíciles porque no nos atrevemos a hacerlas.
+  + No es porque las cosas sean difíciles por lo que no nos atrevemos;
+    es porque no nos atrevemos por lo que las cosas son difíciles.
   + No puede vivir felizmente aquel que sólo se contempla a sí mismo,
     que lo refiere todo a su propio provecho: has de vivir para el
     prójimo, si quieres vivir para ti.
@@ -4399,6 +4408,7 @@ encontrando.
     escucha.
   + La peor desgracia para nosotros es desdeñar aquello que somos.
   + La verdadera libertad consiste en el dominio absoluto de sí mismo.
+  + Mi oficio y mi arte es vivir.
   + Mi vida ha estado llena de terribles desgracias, la mayoría de las
     cuales nunca sucedieron.
   + Nada es inútil en la naturaleza, ni siquiera la inutilidad.
@@ -5958,9 +5968,9 @@ encontrando.
   + La gente lleva vidas cada vez más solitarias en un planeta cada vez
     más conectado.
 
-* [[https://es.wikipedia.org/wiki/Zen%C3%B3n_de_Citio][Zenón de Citio (-334, -262)]]
-  + Recordad que la naturaleza nos ha dado dos oídos y una sola boca,
-    para enseñarnos que más vale escuchar que hablar.
+* [[https://es.wikipedia.org/wiki/Zen%C3%B3n_de_Citio][Zenón de Citio (334-262 a.C.)]]
+  + La naturaleza nos dio dos oídos y una sola boca para que escuchemos
+    más de lo que hablamos.
   + Una cosa bien hecha, aunque sea poco a poco, no es poca cosa.
 
 * [[https://es.wikipedia.org/wiki/Zhuangzi][Zhuangzi]]
