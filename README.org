@@ -17,6 +17,9 @@ encontrando.
   + Sé curioso. Lee de todo. Prueba cosas nuevas. Creo que mucho de lo
     que la gente llama inteligencia se reduce a la curiosidad.
 
+* [[https://es.wikipedia.org/wiki/Abate_Pierre][Abate Pierre (1912-2007)]]
+  + Solo se posee lo que se es capaz de dar; si no, se es poseído.
+
 * [[https://es.wikipedia.org/wiki/Abraham_Lincoln][Abraham Lincoln (1809-1865)]]
   + Es más fácil reprimir el primer capricho que satisfacer a todos los
     que le siguen.
@@ -3958,7 +3961,7 @@ encontrando.
   + Para Epicuro son dos los bienes de que está compuesta la suprema
     felicidad: la ausencia de dolor en el cuerpo y de perturbación en el
     espíritu.
-  + Para quien no sabe a qué puerto se dirige, ningún viento le es
+  + Para quien ignora a qué puerto se dirige, ningún viento le es
     favorable.
   + Para ser felices se necesita eliminar dos cosas: el temor a un mal
     futuro y el recuerdo de un mal pasado.
@@ -4177,6 +4180,8 @@ encontrando.
   + No pienses más en lo que te falta, sino en lo que tienes, y escoge
     de entre las cosas que tienes las más valiosas, y reflexiona cuánto
     las habrías deseado si no las tuvieras.
+  + No te dejes arrastrar por las circunstancias externas; dedica tiempo
+    a aprender lo que es bueno y deja de dispersarte.
   + No tiene sentido enfadarse por cosas que no puedes controlar.
   + Nunca deja de sorprenderme: todos nos queremos más a nosotros mismos
     que a los demás, pero nos importan más sus opiniones que las
@@ -4320,7 +4325,7 @@ encontrando.
   + Un pesimista es un optimista bien informado.
 
 * [[https://es.wikipedia.org/wiki/Martin_Heidegger][Martin Heidegger (1889-1976)]]
-  + El lenguaje es la casa del ser.
+  + El lenguaje es la casa del ser. En su morada habita el hombre.
   + La gente me agota. Paso días y días por mi cuenta sin ningún
     contacto humano. Por eso abrazo el silencio y la soledad.
   + La gran tragedia del mundo es que no cultiva la memoria.
@@ -4400,6 +4405,7 @@ encontrando.
     en todas partes es estar en ninguna parte.
   + El que teme padecer, padece ya lo que teme.
   + El signo más cierto de la sabiduría es la serenidad constante.
+  + La mejor cosa del mundo es saber estar consigo mismo.
   + La señal más clara de la sabiduría es el gozo constante. Ama la
     vida, ama la belleza y la salud. Su tarea propia es saber usar esos
     bienes de manera mesurada, y saberlos perder con entereza. El alma,
