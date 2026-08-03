@@ -137,8 +137,8 @@ encontrando.
     tu seriedad o tus sufrimientos, salvo si te mueres.
   + La vida es una suma de todas tus elecciones. Entonces, ¿qué estás
     haciendo hoy?
-  + Lo absurdo nace de esta confrontación entre el clamor humano y el
-    silencio irrazonable del mundo.
+  + Lo absurdo nace del conflicto entre la búsqueda humana de sentido y
+    el silencio irracional del mundo.
   + Me rebelo, luego somos.
   + Nadie se da cuenta de que algunas personas gastan una enorme energía
     simplemente para ser normales.
@@ -1169,7 +1169,7 @@ encontrando.
     dos a la vez y llenando el espacio intermedio.
   + Si no actúas como piensas, vas a terminar pensando como actúas.
   + Toda la desdicha de los hombres proviene de una sola cosa: no saber
-    permanecer en reposo en su cuarto.
+    permanecer tranquilos en su habitación.
   + Vale más saber alguna cosa de todo, que saberlo todo de una sola
     cosa.
   + Ya se han escrito todas las buenas máximas. Sólo falta ponerlas en
@@ -2196,6 +2196,9 @@ encontrando.
     cómos.
   + Asegurémonos de no perdernos por el miedo a ser diferentes:
     Conviértete en quien eres.
+  + Contra el positivismo, que se detiene ante el fenómeno diciendo
+    «solo hay hechos», yo diría: no, precisamente hechos no hay, solo
+    interpretaciones.
   + Desde que me cansé de buscar he aprendido a hallar.
   + Digan lo que digan, los espíritus grandes son escépticos. Zaratustra
     es un escéptico. La fuerza, la libertad nacida en la fuerza y
@@ -3583,6 +3586,7 @@ encontrando.
     conviene cometer, porque conducen poco a poco a la verdad.
 
 * [[https://es.wikipedia.org/wiki/Karl_Jaspers][Karl Jaspers (1883-1969)]]
+  + El hombre es el animal que hace preguntas.
   + El hombre llega a ser él mismo cuando en su acción ha decidido a
     dónde quiere ir. Todos nosotros necesitamos reconquistarnos
     constantemente de nuevo. En lugar de decidir, rodamos por la vida.
@@ -4404,8 +4408,8 @@ encontrando.
   + El alma que no tiene propósito fijo en la vida se pierde; el estar
     en todas partes es estar en ninguna parte.
   + El que teme padecer, padece ya lo que teme.
-  + El signo más cierto de la sabiduría es la serenidad constante.
   + La mejor cosa del mundo es saber estar consigo mismo.
+  + La prueba más clara de la sabiduría es una alegría continua.
   + La señal más clara de la sabiduría es el gozo constante. Ama la
     vida, ama la belleza y la salud. Su tarea propia es saber usar esos
     bienes de manera mesurada, y saberlos perder con entereza. El alma,
@@ -5029,8 +5033,8 @@ encontrando.
   + Nunca se ha logrado nada sin entusiasmo.
   + Por cada minuto que estás enojado, pierdes sesenta segundos de
     felicidad.
-  + Ser uno mismo en un mundo que constantemente trata de convertirte en
-    algo diferente es el mayor de los logros.
+  + Ser uno mismo en un mundo que intenta incesantemente convertirte en
+    otra cosa es la mayor de las proezas.
   + Un amigo es una persona con la que puedo ser sincero. Delante de él
     puedo pensar en voz alta.
 
