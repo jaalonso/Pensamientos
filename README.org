@@ -2687,6 +2687,8 @@ encontrando.
 
 * [[https://es.wikipedia.org/wiki/Henri_Bergson][Henri Bergson (1859-1941)]]
   + El ojo ve sólo lo que la mente está preparada para comprender.
+  + El olvido es una función tan esencial como la memoria, pues consiste
+    en descartar todo lo que no tiene interés actual para la acción.
   + En la práctica, no percibimos sino el pasado; el presente puro es el
     inaprensible avance del pasado devorando el porvenir.
   + Es preciso que cambie a cada momento, porque dejar de transformarse
