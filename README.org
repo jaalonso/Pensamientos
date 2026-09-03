@@ -408,7 +408,7 @@ encontrando.
     acaba siendo verdad.
 
 * [[https://es.wikipedia.org/wiki/Ana%C3%AFs_Nin][Anaïs Nin (1903-1977)]]
-  + No vemos las cosas como son, sino como somos nosotros.
+  + No vemos las cosas como son, las vemos como somos.
 
 * [[https://en.wikipedia.org/wiki/Anatole_France][Anatole France (1844-1924)]]
   + La vida nos enseña que no podemos ser felices sino al precio de
