@@ -2476,8 +2476,7 @@ encontrando.
     último límite de la experiencia y el último esfuerzo del genio.
 
 * [[https://es.wikipedia.org/wiki/George_Santayana][George Santayana (1863-1952)]]
-  + Aquellos que no pueden recordar el pasado están condenados a
-    repetirlo.
+  + Quienes no pueden recordar el pasado están condenados a repetirlo.
 
 * [[https://es.wikipedia.org/wiki/George_Steiner][George Steiner (1929-2020)]]
   + Una relación humana se puede destrozar con una palabra
