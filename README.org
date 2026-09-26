@@ -1419,10 +1419,12 @@ encontrando.
     apertura de miras.
 
 * [[https://es.wikipedia.org/wiki/Zhuangzi][Chuang Tse (o Zhuangzi) (siglo IV a. C.)]]
-  + Anoche soñé que era una mariposa. Iba de acá para allá, revoloteando
-    feliz y a mis anchas, sin saber que era yo. De repente, me desperté,
-    me toqué: era yo. Pero ¿fui yo quien soñó una mariposa o es ahora
-    una mariposa quien me está soñando a mí?
+  + En otro tiempo, Zhuang Zhou soñó que era una mariposa que
+    revoloteaba feliz, ignorante de ser Zhou. De pronto despertó,
+    aturdido, y era de nuevo Zhou. Pero ya no supo si era Zhou quien
+    había soñado que era una mariposa, o una mariposa que ahora soñaba
+    que era Zhou. Entre Zhou y la mariposa ha de haber por fuerza una
+    distinción: a esto llamamos la transformación de las cosas.
   + El gran saber todo lo abarca. El pequeño todo lo divide.
   + El sabio es alguien cuyo corazón anda siempre de excursión.
   + La perfección está en adaptarse a todo con ligero corazón y en
