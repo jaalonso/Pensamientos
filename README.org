@@ -956,6 +956,8 @@ encontrando.
     mitad del remedio y la paciencia es el comienzo de la cura.
 
 * [[https://es.wikipedia.org/wiki/Azor%C3%ADn][Azorín (1873-1967)]]
+  + La vida, ¿es una repetición monótona, inexorable, de las mismas
+    cosas con distintas apariencias?
   + Si lo pensamos, veremos que muchos de los disgustos que nos
     sobrevienen lo son por palabras innecesarias.
 
