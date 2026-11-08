@@ -4163,6 +4163,7 @@ encontrando.
   + Nunca rompas el silencio si no es para mejorarlo.
 
 * [[https://es.wikipedia.org/wiki/Ludwig_Wittgenstein][Ludwig Wittgenstein (1889-1951)]]
+  + De lo que no se puede hablar, hay que callar.
   + El que hoy en día enseña filosofía da al otro alimentos no para
     complacerle, sino para modificar su gusto.
   + La solución a los problemas que ves en tu vida es vivir en tal forma
@@ -4174,7 +4175,6 @@ encontrando.
   + Si por eternidad se entiende no una duración temporal infinita, sino
     la intemporalidad, entonces vive eternamente quien vive en el
     presente.
-  + Sobre lo que no se puede hablar, se debe guardar silencio.
 
 * [[https://es.wikipedia.org/wiki/Madame_Roland][Madame Roland]]
   + El mundo llama locos a quienes no afecta la locura colectiva.
