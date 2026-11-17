@@ -4812,6 +4812,11 @@ encontrando.
     almas.
   + Todos ven lo que aparentas, pocos perciben lo que eres.
 
+* [[https://es.wikipedia.org/wiki/Niels_Bohr][Niels Bohr (1885-1962)]]
+  + Lo opuesto de una afirmación correcta es una afirmación falsa. Pero
+    lo opuesto de una verdad profunda bien puede ser otra verdad
+    profunda.
+
 * [[https://es.wikipedia.org/wiki/Nikol%C3%A1i_G%C3%B3gol][Nikolái Gógol (1809-1852)]]
   + Se deben leer muchos libros para darse cuenta de lo poco que uno
     sabe.
