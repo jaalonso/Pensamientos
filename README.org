@@ -510,6 +510,9 @@ encontrando.
     intentes enseñarle a cantar a un cerdo; te hace perder el tiempo e
     irrita al cerdo.
 
+* [[https://es.wikipedia.org/wiki/Ant%C3%ADstenes][Antístenes (445-365 a. C.)]]
+  + Lo más necesario de aprender es desaprender lo malo.
+
 * [[https://es.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry][Antoine de Saint-Exupéry (1900-1944)]]
   + Amar no es mirarse el uno al otro; es mirar juntos en la misma
     dirección.
